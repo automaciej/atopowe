@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Provegol/"
 title = "Provegol"
+kategorie = [ "środki higieny",]
 
 +++
 
@@ -44,5 +45,3 @@ Mleczko oczyszczające z wyciągiem z nagietka do skóry bardzo wrażliwej. Resp
 **Zastosowanie:**
 
 Delikatna kostka do mycia bez mydła (sydet). Nie zawiera drażniących substancji myjących. Respektuje naturalne pH skóry, nie narusza płaszcza wodno-lipidowego, pH 5,5. Waga: 100 g
-
-[kategoria:środki higieny](/atopedia/kategoria:środki_higieny "wikilink")

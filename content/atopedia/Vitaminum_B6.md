@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Vitaminum_B6/"
 title = "Vitaminum B6"
+kategorie = [ "leki", "leki doustne", "ulotki leków",]
 
 +++
 
@@ -85,5 +86,3 @@ Tabletki 50 mg po 50 sztuk w opakowaniu. Ampułki 50 mg/2 ml po 5 sztuk w opakow
 PLIVA KRAKÓW,
 Zakłady Farmaceutyczne Spółka Akcyjna
 31-546 Kraków, ul. Mogilska 80
-
-[kategoria:leki](/atopedia/kategoria:leki "wikilink") [kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

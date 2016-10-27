@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Zbiórka_pieniędzy_na_domenę_(2014)/"
 title = "Zbiórka pieniędzy na domenę (2014)"
+kategorie = [ "Zbiórki",]
 
 +++
 
@@ -44,5 +45,3 @@ Musimy zebrać 730zł 62gr na przedłużenie domen "atopowe.pl" i "atopowe-zapal
 | Anna A.           | 80                                             | 2014-12-18 |
 | kajaru            | 20                                             | 2014-12-18 |
 | 28 osób           | style="text-align:left" colspan = "2" | 755,00 |
-
-[kategoria:Zbiórki](/atopedia/kategoria:Zbiórki "wikilink")

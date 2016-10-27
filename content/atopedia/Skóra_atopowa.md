@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Skóra_atopowa/"
 title = "Skóra atopowa"
+kategorie = [ " podstawowe wiadomości",]
 
 +++
 
@@ -11,5 +12,3 @@ Zobacz również:
 
 -   [Atopia](/atopedia/Atopia "wikilink")
 -   [Artykuły w Gazecie Wyborczej](http://info.zdrowie.gazeta.pl/temat/zdrowie/sk%C3%B3ra+atopowa)
-
-[kategoria: podstawowe wiadomości](/atopedia/kategoria:_podstawowe_wiadomości "wikilink")

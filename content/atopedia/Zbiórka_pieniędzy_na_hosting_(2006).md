@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Zbiórka_pieniędzy_na_hosting_(2006)/"
 title = "Zbiórka pieniędzy na hosting (2006)"
+kategorie = [ "Zbiórki",]
 
 +++
 
@@ -41,5 +42,3 @@ Cel: 576.69zł
 | 23 osoby     | 640  |
 
 *Ostatnia aktualizacja: 2006-12-28*
-
-[Kategoria:Zbiórki](/atopedia/Kategoria:Zbiórki "wikilink")

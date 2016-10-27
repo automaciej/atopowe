@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Solcoseryl/"
 title = "Solcoseryl"
+kategorie = [ "maści", "ulotki leków",]
 
 +++
 
@@ -56,5 +57,3 @@ W temperaturze pokojowej tj. od 15st.C do 25 st.C .
 **Opakowanie**
 
 Tuby zawierające 20g maści.
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

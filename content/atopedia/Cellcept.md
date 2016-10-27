@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Cellcept/"
 title = "Cellcept"
+kategorie = [ "ulotki leków", "leki immunosupresyjne",]
 
 +++
 
@@ -247,5 +248,3 @@ Roche Polska Sp.z o.o.
 Tel: +48 - 22 345 18 88
 
 **Data zatwierdzenia ulotki: 20 października 2010**
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink")

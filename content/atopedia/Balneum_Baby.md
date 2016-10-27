@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Balneum_Baby/"
 title = "Balneum Baby"
+kategorie = [ "kosmetyki",]
 
 +++
 
@@ -12,5 +13,3 @@ Balnuem Hermal Plus jest leczniczym olejkiem natłuszczający o działaniu przec
 ### Co zawiera Balneum Hermal Plus?
 
 Substancją czynna jest: olej sojowy i makrogolu eter laurowy. Substancje pomocnicze: askorbylu palmitynian, glikol propylenowy, substancja zapachowa, gluucerolu dwuwodorocytrynianostearynian
-
-[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

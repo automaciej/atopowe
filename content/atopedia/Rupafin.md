@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Rupafin/"
 title = "Rupafin"
+kategorie = [ "Ulotki leków", "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 
 +++
 
@@ -140,5 +141,3 @@ Wystamm 10 mg Tablets Francja
 Tamalis 10 mg Tablets Węgry, Republika Czeska
 
 **Data zatwierdzenia ulotki:** 09.09.2010
-
-[kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink")

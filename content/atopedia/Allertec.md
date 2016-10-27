@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Allertec/"
 title = "Allertec"
+kategorie = [ "ulotki leków", "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 
 +++
 
@@ -112,5 +113,3 @@ Allertec - tabletki powlekane, 0,01 g, 20 tabl. blistry
 Allertec - tabletki powlekane, 0,01 g, 20 tabl. fiolka
 
 Allertec - tabletki powlekane, 0,01 g, 7 tabl. - bez recepty
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink")

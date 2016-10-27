@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Bedicort/"
 title = "Bedicort"
+kategorie = [ "ulotki leków", "leki sterydowe", "antybiotyki", "kremy",]
 
 +++
 
@@ -120,5 +121,3 @@ Przed zastosowaniem leku należy poinformować pacjenta że:
 -   Pacjent powinien zgłosić lekarzowi wszystkie działania niepożądane, które wystąpiły podczas stosowania leku. Lek nie może być stosowany u innych osób.
 
 krem: Świad.Rej. MZ Nr 8798
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

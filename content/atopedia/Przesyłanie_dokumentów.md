@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Przesyłanie_dokumentów/"
 title = "Przesyłanie dokumentów"
+kategorie = [ "Serwis",]
 
 +++
 
@@ -32,5 +33,3 @@ Mamy świadomość, że większość tekstów będziecie pisać na swoich domowy
 Jeżeli już chcecie pisać teksty w pakiecie biurowym (czyli programie podobnym do MS Worda), użyjcie darmowego pakietu biurowego **[OpenOffice](http://pl.openoffice.org)** lub **[LibreOffice](http://pl.libreoffice.org)**. Pakiety te mogą być używany za darmo do wszelkich celów, w tym komercyjnych. **Oba pakiety czytają i zapisują pliki ".doc"**.
 
 Jeżeli posiadacie program Microsoft Word, napisane przez siebie teksty przysyłajcie w formacie RTF. Aby to zrobić należy wybrać z menu Plik opcję "Zapisz jako..." i po otwarciu okienka wybrać format "Rich Text Format (RTF)".
-
-[kategoria:Serwis](/atopedia/kategoria:Serwis "wikilink")

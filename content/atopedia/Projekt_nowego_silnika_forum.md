@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Projekt_nowego_silnika_forum/"
 title = "Projekt nowego silnika forum"
+kategorie = [ "serwis",]
 
 +++
 
@@ -72,5 +73,3 @@ Przeglądając dostępne szablony...
 -   ignore the trends [andreas08](http://www.oswd.org/design/preview/id/2427)
 -   [Terje Winter](http://www.oswd.org/design/preview/id/2855)
 -   simple, beautiful: [Leaves 1.0](http://www.oswd.org/design/preview/id/2429)
-
-[kategoria:serwis](/atopedia/kategoria:serwis "wikilink")

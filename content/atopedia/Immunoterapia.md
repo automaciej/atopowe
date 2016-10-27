@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Immunoterapia/"
 title = "Immunoterapia"
+kategorie = [ "terapia",]
 
 +++
 
@@ -14,5 +15,3 @@ Efekty odczulania nie są trwałe, ponieważ wytworzone w [reakcji alergicznej](
 ### Zobacz też
 
 -   [Konwencjonalna immunoterapia](http://www.alergia.org.pl/lek/archiwum/02_04/klas.html)
-
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

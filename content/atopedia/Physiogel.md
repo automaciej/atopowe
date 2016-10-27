@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Physiogel/"
 title = "Physiogel"
+kategorie = [ "kremy", "ulotki leków", "szampony",]
 
 +++
 
@@ -124,5 +125,3 @@ Tubka 10 mli 75 ml
 STIEFEL Laboratories (UK)Ltd., Holspur Lane, Wooburn Green, Bucks HP10 OAU
 MIEJSCE WYTWARZANIA: STIEFEL Laboratories (lreland) Ltd.,
 Finisklin Industrial Estate, Sligo, Irlandia
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:szampony](/atopedia/kategoria:szampony "wikilink")

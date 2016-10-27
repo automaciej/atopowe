@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Cetyryzyna/"
 title = "Cetyryzyna"
+kategorie = [ "leki antyhistaminowe", "leki antyhistaminowe II generacji", "ulotki leków",]
 
 +++
 
@@ -57,5 +58,3 @@ Ze względu na możliwość wystąpienia działań niepożądanych prowadzących
 '**'Uwaga**: ''
 
 *Niektóre źródła traktują cetyryzynę jako lek jeszcze II generacji, inne podają, że jest to już substancja, którą zaliczyć można do III generacji leków przeciwhistaminowych.*
-
-[kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

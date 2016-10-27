@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Techniki_relaksacyjne/"
 title = "Techniki relaksacyjne"
+kategorie = [ "Psychika",]
 
 +++
 
@@ -26,5 +27,3 @@ Usiądź wygodnie, zamknij oczy, a przynajmniej oderwij wzrok od monitora (jak m
 
 -   [Poprawa samopoczucia](/atopedia/Poprawa_samopoczucia "wikilink")
 -   [Bezsenność](/atopedia/Bezsenność "wikilink")
-
-[kategoria:Psychika](/atopedia/kategoria:Psychika "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Hormony/"
 title = "Hormony"
+kategorie = [ "ciało człowieka",]
 
 +++
 
@@ -14,5 +15,3 @@ title = "Hormony"
     -   w [gruczołach](/atopedia/Gruczoł_dokrewny "wikilink") - gruczołowe
     -   w tkankach -tkankowe (np. gastryna w żołądku)
     -   produkowane przez neurony - neurohormony
-
-[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dexeryl/"
 title = "Dexeryl"
+kategorie = [ "ulotki leków", "kremy",]
 
 +++
 
@@ -58,5 +59,3 @@ Specjalne środki ostrożności dotyczące przechowywania
 Nie przechowywać w temperaturze powyżej 30°C.
 
 Nie stosować po upływie terminu ważności podanego na tubce.
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

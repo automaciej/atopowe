@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Wysięk/"
 title = "Wysięk"
+kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -10,5 +11,3 @@ title = "Wysięk"
 Wysiękowi może towarzyszyć równieć [puchnięcie](/atopedia/puchnięcie "wikilink").
 
 Obecność wysięku wskazuje najczęściej na [infekcję skóry](/atopedia/infekcja_skóry "wikilink"), którą należy leczyć [antybiotykami](/atopedia/Antybiotyk "wikilink").
-
-[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

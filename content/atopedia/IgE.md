@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/IgE/"
 title = "IgE"
+kategorie = [ "alergia",]
 
 +++
 
@@ -56,7 +57,7 @@ Należy pamiętać, że prawidłowy poziom IgE, zarówno całkowitych jak i swoi
 
 [Odkrycie IgE – 40 lat później](http://alergia.org.pl/lek/index.php?option=com_content&task=view&id=159&Itemid=65), Kruszewski R, Kruszewski J
 
-[kategoria:alergia](/atopedia/kategoria:alergia "wikilink")
+
 
 [1]
 

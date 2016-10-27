@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Vitaminum_E_100/"
 title = "Vitaminum E 100"
+kategorie = [ "leki", "ulotki leków",]
 
 +++
 
@@ -80,5 +81,3 @@ OPAKOWANIE : Opakowanie jednostkowe zawiera: 30 kapsułek, 2 blistry po 15 kapsu
 PODMIOT ODPOWIEDZIALNY:GlaxoSmithKline Pharmaceuticals Spółka Akcyjna
 
 ul. Grunwaldzka 189, 60-322 Poznań tel.: (0-61) 8601 200 fax: (0-61) 8675 717
-
-[kategoria:leki](/atopedia/kategoria:leki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

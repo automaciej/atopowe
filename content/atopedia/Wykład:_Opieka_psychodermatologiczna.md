@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Wykład:_Opieka_psychodermatologiczna/"
 title = "Wykład: Opieka psychodermatologiczna"
+kategorie = [ "Fundacja Alabaster", "Wykłady", "Multimedia",]
 
 +++
 
@@ -223,5 +224,3 @@ Dyskusja
 **Marek Romanowski:** Dziękuję ślicznie pani profesor.
 
 **Profesor Anna Zalewska-Janowska:** Dziękuję również.
-
-[kategoria:Fundacja Alabaster](/atopedia/kategoria:Fundacja_Alabaster "wikilink") [kategoria:Wykłady](/atopedia/kategoria:Wykłady "wikilink") [kategoria:Multimedia](/atopedia/kategoria:Multimedia "wikilink")

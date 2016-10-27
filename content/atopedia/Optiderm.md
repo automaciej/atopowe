@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Optiderm/"
 title = "Optiderm"
+kategorie = [ "emolienty", "preparaty zawierające mocznik", "ulotki leków",]
 
 +++
 
@@ -134,5 +135,3 @@ HERMAL KURT HERRMANN
 Scholtzstrasse 3, 0-21465 Reinbek
 
 Niemcy
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

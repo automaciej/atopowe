@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Maść_mocznikowa/"
 title = "Maść mocznikowa"
+kategorie = [ "Maści", "preparaty zawierające mocznik", "Przepisy na maści robione",]
 
 +++
 
@@ -19,5 +20,3 @@ Skład maści mocznikowej:
 *Aquae purificatae quantum sufficit* (czyli w ilości wystarczającej /do rozpuszczenia mocznika od 10,0 - 30,0 - tyle wody ile mocznika/
 *Lanolini anhydrici*
 *Vaselini albi aa ad 100,0* (czyli w równych częściach mieszanina obu podłoży do 100,0)
-
-[kategoria:Maści](/atopedia/kategoria:Maści "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

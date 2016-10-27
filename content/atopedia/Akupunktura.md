@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Akupunktura/"
 title = "Akupunktura"
+kategorie = [ "niekonwencjonalne metody leczenia",]
 
 +++
 
@@ -21,5 +22,3 @@ Leczenie bólu jest głównym wskazaniem w stosowaniu akupunktury, choć lista s
 Podczas zabiegów akupunktury używa się igieł jednorazowych. Są to igły metalowe, pełne.
 
 W Polsce zabiegi akupunktury może wykonywać lekarz posiadający specjalizację z dziedzin klinicznych.
-
-[kategoria:niekonwencjonalne metody leczenia](/atopedia/kategoria:niekonwencjonalne_metody_leczenia "wikilink")

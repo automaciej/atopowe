@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Odkurzacz_wodny/"
 title = "Odkurzacz wodny"
+kategorie = [ "wpadki",]
 
 +++
 
@@ -19,5 +20,3 @@ Należy też dodać, że najlepszy dla alergików jest odkurzacz centralny, któ
 -   [Filtr HEPA](/atopedia/Filtr_HEPA "wikilink")
 -   [Super Vacuum](http://www.supervacuum.eu) Strona o odkurzaczach Rainbow
 -   [Podręczny odkurzacz](http://blog.atopowe.pl/2006/07/28/podreczny-odkurzacz/) - wpis na blogu
-
-[kategoria:wpadki](/atopedia/kategoria:wpadki "wikilink")

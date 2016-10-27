@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Awatary/"
 title = "Awatary"
+kategorie = [ "życie towarzyskie atopików",]
 
 +++
 
@@ -21,5 +22,3 @@ Awatary to małe obrazki, wyświetlane na [forum](/atopedia/forum_dyskusyjne "wi
 | Pliszkowa        | [Grafika:avatar1.gif](/Grafika:avatar1.gif "wikilink")                     | [Grafika:ava3.gif](/Grafika:ava3.gif "wikilink")                               |
 | angela           | [Grafika:348706.jpg.gif](/Grafika:348706.jpg.gif "wikilink")               |                                                                                |
 | Magata           | [Grafika:Obraz_041net1.jpg](/Grafika:Obraz_041net1.jpg "wikilink")        | [Grafika:Obraz_058net.jpg](/Grafika:Obraz_058net.jpg "wikilink")              | [Grafika:Obraz_257a.jpg](/Grafika:Obraz_257a.jpg "wikilink")                 | [Grafika:Obraz_297a.jpg](/Grafika:Obraz_297a.jpg "wikilink")            |
-
-[kategoria:życie towarzyskie atopików](/atopedia/kategoria:życie_towarzyskie_atopików "wikilink")

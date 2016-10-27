@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Rotadin/"
 title = "Rotadin"
+kategorie = [ "leki zawierające loratadynę", "leki antyhistaminowe", "leki antyhistaminowe II generacji", "ulotki leków",]
 
 +++
 
@@ -161,5 +162,3 @@ ul. Annopol 6B, 03-236 Warszawa
 Nr telefonu:
 
 (22) 51-91-500
-
-[kategoria:leki zawierające loratadynę](/atopedia/kategoria:leki_zawierające_loratadynę "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

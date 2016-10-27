@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Foliculitis/"
 title = "Foliculitis"
+kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -20,5 +21,3 @@ W celu przeciwdziałania powstawaniu **foliculitis**, należy:
 **Zobacz również:**
 
 [Wątek na Forum](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=3&t=4682)
-
-[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Oksykort_A/"
 title = "Oksykort A"
+kategorie = [ "ulotki leków", "maści", "leki sterydowe", "antybiotyki",]
 
 +++
 
@@ -65,5 +66,3 @@ Przy długotrwałym stosowaniu dużych dawek może wystąpić wtórne zakażenie
 Przy wystąpieniu któregokolwiek z wymienionych działań niepożądanych lub innych niepokojących objawów należy natychmiast zgłosić sie do lekarza.
 
 Wytwórca Jelfa s.a. Jelenia Góra
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink")

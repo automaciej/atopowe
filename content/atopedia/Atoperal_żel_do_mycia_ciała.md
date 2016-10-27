@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atoperal_żel_do_mycia_ciała/"
 title = "Atoperal żel do mycia ciała"
+kategorie = [ "kosmetyki", "preparaty zawierające mocznik",]
 
 +++
 
@@ -60,5 +61,3 @@ Atoperal żel do mycia ciała z linii specjalistycznych produktów dermatologicz
 Produkt nie zawiera sztucznych substancji barwiących.
 
 Produkt nietestowany na zwierzętach.
-
-[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

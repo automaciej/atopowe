@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atoperal_Baby_krem/"
 title = "Atoperal Baby krem"
+kategorie = [ "kremy",]
 
 +++
 
@@ -40,5 +41,3 @@ Tuba zawierająca 50 ml kremu, pakowana w kartonik z ulotką.
 Opracowany we współpracy z dermatologami. Przebadany dermatologicznie.
 
 **Produkt dostępny tylko w aptece.**
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

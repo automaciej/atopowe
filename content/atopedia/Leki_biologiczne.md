@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Leki_biologiczne/"
 title = "Leki biologiczne"
+kategorie = [ "Leki",]
 
 +++
 
@@ -34,7 +35,7 @@ Dotychczasowe badania kliniczne wskazują ponadto na wysoką skuteczność lecze
 -   [Czym są leki biologiczne?](http://blog.atopowe.pl/2008/07/30/czym-sa-leki-biologiczne/) - blog atopowy
 -   [Leki biologiczne](/atopedia/wikipedia:Leki_biologiczne "wikilink") w polskiej Wikipedii
 
-[Kategoria:Leki](/atopedia/Kategoria:Leki "wikilink")
+
 
 [1] Park S-Y *et al.* - Recalcitrant Atopic Dermatitis Treated with Omalizumab. *Ann Dermatol Vol. 22, No. 3, 2010*
 

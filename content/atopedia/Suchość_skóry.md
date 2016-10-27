@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Suchość_skóry/"
 title = "Suchość skóry"
+kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -13,5 +14,3 @@ title = "Suchość skóry"
 -   [Nawilżanie](/atopedia/Nawilżanie "wikilink")
 -   [Natłuszczanie](/atopedia/Natłuszczanie "wikilink")
 -   [Emolienty](/atopedia/Emolienty "wikilink")
-
-[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

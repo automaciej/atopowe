@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Trixera/"
 title = "Trixera"
+kategorie = [ "ulotki leków", "kosmetyki",]
 
 +++
 
@@ -37,5 +38,3 @@ Sposób użycia
 Balsam zmiękczający stosuje się kilka razy dziennie zwracając uwagę na bardzo suche obszary skóry twarzy i ciała. Balsam należy stosować po dokładnym oczyszczeniu skóry żelem lub płynem i zmiękczającym.
 
 **Producent**: Pierre Fabre
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Często_zadawane_pytania/"
 title = "Często zadawane pytania"
+kategorie = [ "Podstawowe wiadomości",]
 
 +++
 
@@ -20,5 +21,3 @@ Nie, nie można. [AZS](/atopedia/AZS "wikilink") jest chorobą alergiczną, patr
 ### Czy osoby z AZS mogą oddawać krew?
 
 Nie, nie mogą. Patrz: [Oddawanie krwi](/atopedia/Oddawanie_krwi "wikilink").
-
-[kategoria:Podstawowe wiadomości](/atopedia/kategoria:Podstawowe_wiadomości "wikilink")

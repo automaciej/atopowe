@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Algorytm_leczenia_AZS/"
 title = "Algorytm leczenia AZS"
+kategorie = [ "terapia", "Podstawowe wiadomości",]
 
 +++
 
@@ -55,7 +56,7 @@ w zależności od stopnia choroby
 <references />
 **Żródło:** Wanat-Krzak M, Kurzawa R. Diagnostyka i leczenie wyprysku atopowego. *Alergia Astma Immunologia 2006, 11(1):11-21*
 
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink") [kategoria:Podstawowe wiadomości](/atopedia/kategoria:Podstawowe_wiadomości "wikilink")
+ 
 
 [1] miejscowe [glikokortykosterydy](/atopedia/glikokortykosterydy "wikilink")
 

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Balneum_Hermal/"
 title = "Balneum Hermal"
+kategorie = [ "emolienty", "ulotki leków",]
 
 +++
 
@@ -43,5 +44,3 @@ W następujących przypadkach stosować tylko po konsultacji w z lekarzem:
 <hr>
 Cena ok. 22zł (200ml).
 Dostępne opakowania 200ml i 500ml (według ulotki). W Polsce na pewno 200ml.
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

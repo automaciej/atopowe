@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lipolan/"
 title = "Lipolan"
+kategorie = [ "emolienty",]
 
 +++
 
@@ -41,5 +42,3 @@ osób chorych na [atopowe zapalenie skóry](/atopedia/atopowe_zapalenie_skóry "
 -   www.emolienty.pl
 
 Żródło: <http://www.emolienty.pl/produkty/lipolan/>
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

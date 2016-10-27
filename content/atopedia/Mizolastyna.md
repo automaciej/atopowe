@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Mizolastyna/"
 title = "Mizolastyna"
+kategorie = [ "leki antyhistaminowe", "leki antyhistaminowe II generacji", "ulotki leków",]
 
 +++
 
@@ -60,5 +61,3 @@ Mizolastyna może nieznacznie wydłużać odcinek QT, jednak zwykle nie powoduje
 **Producent:** Synthélabo
 
 Za MediWeb <http://mediweb.pl/>
-
-[kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

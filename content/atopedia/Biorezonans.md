@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Biorezonans/"
 title = "Biorezonans"
+kategorie = [ "niekonwencjonalne metody leczenia",]
 
 +++
 
@@ -24,7 +25,7 @@ Nikt nie potwierdził diagnostycznego znaczenia i leczniczej skuteczności dzia�
 
 <div style="width:60%">
 </div>
-[kategoria:niekonwencjonalne metody leczenia](/atopedia/kategoria:niekonwencjonalne_metody_leczenia "wikilink")
+
 
 [1] <http://www.psychomanipulacja.pl/tem/biorezonans.htm>
 

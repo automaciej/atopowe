@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Ambilan/"
 title = "Ambilan"
+kategorie = [ "emolienty",]
 
 +++
 
@@ -36,5 +37,3 @@ Dostępna jest tylko jedna wielkość opakowania - 75g kosztuje około 16 zł. (
 -   www.emolienty.pl
 
 Żródło: <http://www.emolienty.pl/produkty/ambilan/>
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

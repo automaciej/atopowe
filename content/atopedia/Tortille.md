@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Tortille/"
 title = "Tortille"
+kategorie = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "dieta hipoalergiczna plus pszenica",]
 
 +++
 
@@ -33,5 +34,3 @@ title = "Tortille"
 3.  osoby uczulone na pszenicę lub nie tolerujące glutenu mogą robić tortille z mąki kukurydzianej pół na pół z amarantusową (2 szklanki mąki zalać niepełną szklanką gorącej wody, wyrobić dodając olej); takie tortille są bardzo kruche - trudno je wałkować i nie dają się zwinąć, ale można nałożyć nadzienie i złożyć tortillę na pół; będzie to i tak ciekawe urozmaicenie trudnej diety bezglutenowej :)
 
 -   Można przed dodaniem warzyw podgrzać tortillę złożoną na pół z żółtym serem i ew. szynką w środku na patelni. Jeśli jest sucha, zwilżyć wcześniej wodą.
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

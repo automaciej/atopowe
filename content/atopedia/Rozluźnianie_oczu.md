@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Rozluźnianie_oczu/"
 title = "Rozluźnianie oczu"
+kategorie = [ "Psychika",]
 
 +++
 
@@ -14,5 +15,3 @@ Zamknij oczy, zdejmij dłonie. Powoli otwórz oczy.
 **Zobacz też**
 
 -   [Techniki relaksacyjne](/atopedia/Techniki_relaksacyjne "wikilink")
-
-[kategoria:Psychika](/atopedia/kategoria:Psychika "wikilink")

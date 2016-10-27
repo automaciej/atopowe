@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Kortykosterydy/"
 title = "Kortykosterydy"
+kategorie = [ "terapia", "Sterydy",]
 
 +++
 
@@ -53,5 +54,3 @@ Zobacz również
 -   [Posterydowe zapalenie skóry](/atopedia/Posterydowe_zapalenie_skóry "wikilink")
 -   [Silny kortykosteryd 3 razy w tygodniu, a słabszy stosowany przez cały tydzień](http://www.mp.pl/artykuly/?aid=13078)
 -   [Stosowanie propionianu flutikazonu 2 razy w tygodniu jako uzupełnienie leczenia podtrzymującego środkami nawilżającymi w celu zmniejszenia ryzyka nawrotów AZS](http://www.mp.pl/artykuly/index.php?aid=16394)
-
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink") [Kategoria:Sterydy](/atopedia/Kategoria:Sterydy "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Hascosan/"
 title = "Hascosan"
+kategorie = [ "emolienty",]
 
 +++
 
@@ -50,5 +51,3 @@ Przewodnik Lekarza 4/2001
 Postępowanie terapeutyczne w atopowym zapaleniu skóry u [dzieci](/atopedia/dzieci "wikilink") (H.Szarmach, Z.Korolkiewicz)
 
 „... W całokształcie postępowania terapeutycznego i profilaktycznego w AZS u dzieci istotne znaczenie mają kąpiele olejowe częściowe lub pełne (w zależności od stanu klinicznego). [Kąpiele](/atopedia/Kąpiele "wikilink") olejowe - oprócz ich właściwości pielęgnacyjnych i [natłuszczających](/atopedia/natłuszczanie "wikilink") skórę oraz łagodzących dolegliwości [świądowe](/atopedia/świąd "wikilink") (dzięki zawartym w nich odpowiednim środkom - np. *polidokanol*) oczyszczają skórę ze strupów zawierających liczne kolonie bakterii, łusek, resztek stosowanych miejscowo leków. ... Szczególnie w nasilonych i uogólnionych objawach stanu zapalnego, kąpiele olejowe należy przeprowadzać częściej, nawet 3 razy w ciągu dnia. U dzieci w stadium [AZS](/atopedia/AZS "wikilink") o charakterze przewlekłym kąpiel olejową można stosować znacznie rzadziej, co drugi lub nawet trzeci dzień....”
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

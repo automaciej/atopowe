@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Testy_alergiczne/"
 title = "Testy alergiczne"
+kategorie = [ "terapia",]
 
 +++
 
@@ -23,5 +24,3 @@ U dorosłych chorujących na AZS powtarzanie testów pokarmowych jest mało uzas
 
 -   [Alergia](/atopedia/Alergia "wikilink")
 -   [Alergologiczne badania dodatkowe](/atopedia/Alergologiczne_badania_dodatkowe "wikilink")
-
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

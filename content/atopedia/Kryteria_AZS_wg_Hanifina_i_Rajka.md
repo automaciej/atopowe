@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Kryteria_AZS_wg_Hanifina_i_Rajka/"
 title = "Kryteria AZS wg Hanifina i Rajka"
+kategorie = [ "podstawowe wiadomości", "objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -45,5 +46,3 @@ Zobacz również
 --------------
 
 Opis kryteriów w [wykładzie dr Grzesiak](/Wykład_dr_Ireny_Grzesiak#Dodatkowe_kryteria "wikilink")
-
-[kategoria:podstawowe wiadomości](/atopedia/kategoria:podstawowe_wiadomości "wikilink") [kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

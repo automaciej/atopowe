@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dziecko/"
 title = "Dziecko"
+kategorie = [ "atopowe zapalenie skóry u dzieci",]
 
 +++
 
@@ -27,5 +28,3 @@ Wypoczynek z pożytkiem dla skóry - leczenie klimatyczne w miejscowościach nad
 
 -   [Pielęgnacja skóry dziecka](http://media.netpr.pl/notatka_26286.html)
 -   [Wprowadzanie nowych pokarmów](/atopedia/Wprowadzanie_nowych_pokarmów "wikilink")
-
-[kategoria:atopowe zapalenie skóry u dzieci](/atopedia/kategoria:atopowe_zapalenie_skóry_u_dzieci "wikilink")

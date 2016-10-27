@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Vitaminum_B2/"
 title = "Vitaminum B2"
+kategorie = [ "leki", "leki doustne", "ulotki leków",]
 
 +++
 
@@ -130,5 +131,3 @@ Zakłady Farmaceutyczne SA.
 ### Data ostatniej korekty ulotki
 
 Luty 2001 r.
-
-[kategoria:leki](/atopedia/kategoria:leki "wikilink") [kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

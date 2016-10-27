@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Trójmiejski_zlot/"
 title = "Trójmiejski zlot"
+kategorie = [ "Spotkania",]
 
 +++
 
@@ -24,5 +25,3 @@ oba foto by Aga Piet, w związku z czym nima jej na zdjęciach, och, jaka szkoda
 OTO I AGA PIET :)(tak dla odmiany w kolorze :) )
 
 [thumb|center|510px|od lewej: Brummig, Fiołek, Hofek, Aga Piet, Dexter, Wiosna](/Grafika:art_deco.jpg "wikilink")
-
-[kategoria:Spotkania](/atopedia/kategoria:Spotkania "wikilink")

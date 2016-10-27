@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Wstrząs_anafilaktyczny/"
 title = "Wstrząs anafilaktyczny"
+kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -34,5 +35,3 @@ Komentarz: ''Adrenalina i hydrokortyzon nie są stosowane zamiennie. Adrenalina 
 -   [Osy i inne niebezpieczeństwa - zastrzyk z adrenaliny](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=10&t=2574) - wątek na Forum
 -   [Wstrząs anafilaktyczny](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=12&t=3562) - wątek na Forum
 -   [Alergologia – wstrząs anafilaktyczny](http://roux79.wordpress.com/2010/05/26/alergologia-uczulenie-na-pylki/) - wpis blogowy o anafilaksji
-
-[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

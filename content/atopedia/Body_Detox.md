@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Body_Detox/"
 title = "Body Detox"
+kategorie = [ "niekonwencjonalne metody leczenia",]
 
 +++
 
@@ -15,5 +16,3 @@ Jednym ze sposobów sprawdzenia, czy urządzenie działa, jest - nie wkładać n
 **Zobacz również:**
 
 -   [Wątek na Forum](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?t=817)
-
-[kategoria:niekonwencjonalne metody leczenia](/atopedia/kategoria:niekonwencjonalne_metody_leczenia "wikilink")

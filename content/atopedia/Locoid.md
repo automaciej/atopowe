@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Locoid/"
 title = "Locoid"
+kategorie = [ "maści", "leki sterydowe", "kremy", "ulotki leków",]
 
 +++
 
@@ -153,5 +154,3 @@ Locoid®, krem R/2591 Locoid Lipocream®, krem R/1915 Locoid®, roztwór do stos
 ### Data weryfikacji ulotki
 
 12 . 2000
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

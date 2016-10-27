@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pimekrolimus/"
 title = "Pimekrolimus"
+kategorie = [ "substancje aktywne", "Leki immunosupresyjne",]
 
 +++
 
@@ -25,7 +26,7 @@ Z uwagi na swą większą lipofilność pimekrolimus wykazuje większe powinowac
 -   [Protopic](/atopedia/Protopic "wikilink")
 -   [Pimekrolimus w Wikipedii](/atopedia/wikipedia:Pimekrolimus "wikilink")
 
-[kategoria:substancje aktywne](/atopedia/kategoria:substancje_aktywne "wikilink") [kategoria:Leki immunosupresyjne](/atopedia/kategoria:Leki_immunosupresyjne "wikilink")
+ 
 
 [1] Kaufman R, Fölster-Holst R, Hoeger P, et al.: *Pimecrolimus 1% cream shows within 3 days of treatment a significant improvement in atopic dermatitis in infants aged 3-23 months.* 2003 Po. no. 49. EAACI Paryż 2003
 

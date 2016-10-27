@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Skóra_właściwa/"
 title = "Skóra właściwa"
+kategorie = [ " Ciało człowieka",]
 
 +++
 
@@ -12,5 +13,3 @@ Jeżeli skóra właściwa ulegnie uszkodzeniu, po zagojeniu się pozostają bliz
 **Zobacz też**
 
 -   [Naskórek](/atopedia/Naskórek "wikilink")
-
-[kategoria: Ciało człowieka](/atopedia/kategoria:_Ciało_człowieka "wikilink")

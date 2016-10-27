@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Podrażnienie/"
 title = "Podrażnienie"
+kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -19,5 +20,3 @@ title = "Podrażnienie"
 **Zobacz też**
 
 -   [Pranie](/atopedia/Pranie "wikilink")
-
-[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

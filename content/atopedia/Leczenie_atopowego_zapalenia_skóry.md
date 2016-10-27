@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Leczenie_atopowego_zapalenia_skóry/"
 title = "Leczenie atopowego zapalenia skóry"
+kategorie = [ "terapia",]
 
 +++
 
@@ -26,5 +27,3 @@ Głównymi narzędziami w badaniach klinicznych są [podwójnie ślepa próba](/
 Terapie poboczne:
 
 -   leczenie [immunoglobuliną](/atopedia/Immunoglobulina "wikilink") (szczepionka [Omalizumab](/atopedia/Omalizumab "wikilink"))
-
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

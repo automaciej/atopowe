@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Roztocze_kurzu_domowego/"
 title = "Roztocze kurzu domowego"
+kategorie = [ "Alergia", "Alergeny",]
 
 +++
 
@@ -22,5 +23,3 @@ Szczególnie często i w dużych ilościach obecny w pościeli, tapicerowanych m
 
 -   [Kurz](/atopedia/Kurz "wikilink")
 -   [Odkurzacz wodny](/atopedia/Odkurzacz_wodny "wikilink")
-
-[kategoria:Alergia](/atopedia/kategoria:Alergia "wikilink") [kategoria:Alergeny](/atopedia/kategoria:Alergeny "wikilink")

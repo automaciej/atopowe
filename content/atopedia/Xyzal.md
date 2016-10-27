@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Xyzal/"
 title = "Xyzal"
+kategorie = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe III generacji", "ulotki leków",]
 
 +++
 
@@ -120,5 +121,3 @@ Lek należy przechowywać w miejscu niedostępnym dla dzieci.
 Nie stosować leku po upływie daty ważności podanej na opakowaniu.
 
 **Data zatwierdzenia ulotki: 12 stycznia 2002**
-
-[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/atopedia/kategoria:leki_antyhistaminowe_III_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atoperal_emulsja_do_ciała/"
 title = "Atoperal emulsja do ciała"
+kategorie = [ "emolienty",]
 
 +++
 
@@ -63,5 +64,3 @@ Atoperal emulsja do ciała z linii specjalistycznych produktów dermatologicznyc
 Produkt nie zawiera barwników ani sztucznych substancji zapachowych.
 
 Produkt nietestowany na zwierzętach.
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

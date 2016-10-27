@@ -10,3 +10,5 @@ params:
 twitter: "https://twitter.com/atopowe"
 permalinks:
   post: /:year/:month/:day/:slug/
+taxonomies:
+  kategoria: "kategorie"

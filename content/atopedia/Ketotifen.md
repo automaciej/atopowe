@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Ketotifen/"
 title = "Ketotifen"
+kategorie = [ "leki antyhistaminowe", "leki antyhistaminowe I generacji", "ulotki leków",]
 
 +++
 
@@ -70,5 +71,3 @@ Głównymi objawami przedawkowania Ketotifenu są zawroty głowy i znaczne uspok
 Leczenie objawowe: jeśli jest to konieczne zaleca się monitorowanie czynności układu sercowo-naczyniowego. Pobudzenie i drgawki eliminuje się podając krótko działające barbiturany i pochodne benzodiazepiny. Płukanie żołądka zaleca się tylko w krótkim czasie po przyjęciu preparatu.
 
 Warszawskie Zakłady Farmaceutyczne Polfa
-
-[kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe I generacji](/atopedia/kategoria:leki_antyhistaminowe_I_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

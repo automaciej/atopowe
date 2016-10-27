@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Masło_migdałowe/"
 title = "Masło migdałowe"
+kategorie = [ "przepisy", "dieta bezmleczna",]
 
 +++
 
@@ -18,5 +19,3 @@ title = "Masło migdałowe"
 **Uwagi:**
 
 -   Przechowywać w lodówce do 10 dni.
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink")

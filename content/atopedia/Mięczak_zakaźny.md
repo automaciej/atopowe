@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Mięczak_zakaźny/"
 title = "Mięczak zakaźny"
+kategorie = [ "inne choroby skóry",]
 
 +++
 
@@ -17,5 +18,3 @@ Po jakimś czasie organizm chorego wytwarza przeciwciała i sam zwalcza wirusa.
 
 -   [Mięczak zakaźny](http://www.maluchy.pl/artykul/85) na maluchy.pl
 -   [Mięczak zakaźny](/atopedia/wikipedia:Mięczak_zakaźny "wikilink") w Wikipedii (zdjęcia)
-
-[kategoria:inne choroby skóry](/atopedia/kategoria:inne_choroby_skóry "wikilink")

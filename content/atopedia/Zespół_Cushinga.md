@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Zespół_Cushinga/"
 title = "Zespół Cushinga"
+kategorie = [ "Sterydy",]
 
 +++
 
@@ -37,5 +38,3 @@ Częstość występowania najbardziej charakterystycznych zmian:
 10. Wielomocz, częstomocz: 23%
 
 Piśmiennictwo: INTERNA pod redakcją prof. dr. hab. med Włodzimierza Januszewicza i prof. dr. hab. med. Franciszka Kokota
-
-[kategoria:Sterydy](/atopedia/kategoria:Sterydy "wikilink")

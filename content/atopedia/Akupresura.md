@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Akupresura/"
 title = "Akupresura"
+kategorie = [ "Niekonwencjonalne metody leczenia",]
 
 +++
 
@@ -21,5 +22,3 @@ Zabiegi akupresury można wykonywać samodzielnie - potrzebna jest do tego minim
 **Zobacz także:**
 
 -   [O ucisku łagodzącym ból](http://www.resmedica.pl/zdart20113.html)
-
-[kategoria:Niekonwencjonalne metody leczenia](/atopedia/kategoria:Niekonwencjonalne_metody_leczenia "wikilink")

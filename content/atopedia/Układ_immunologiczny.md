@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Układ_immunologiczny/"
 title = "Układ immunologiczny"
+kategorie = [ "ciało człowieka",]
 
 +++
 
@@ -47,5 +48,3 @@ Zobacz też
 
 -   [Odporność](/atopedia/Odporność "wikilink")
 -   [Układ Hormonalny](/atopedia/Układ_Hormonalny "wikilink")
-
-[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

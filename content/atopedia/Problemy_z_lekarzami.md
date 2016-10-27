@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Problemy_z_lekarzami/"
 title = "Problemy z lekarzami"
+kategorie = [ "wpadki",]
 
 +++
 
@@ -13,5 +14,3 @@ Bardzo dużym błędem lekarza jest niedoinformowanie pacjenta. Zdarza się nawe
 
 -   [Polecani lekarze](http://www.atopowe.pl/lekarze/)
 -   [Kodeks etycznego zachowania pacjenta](/atopedia/Kodeks_etycznego_zachowania_pacjenta "wikilink")
-
-[kategoria:wpadki](/atopedia/kategoria:wpadki "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Prosty_relaks/"
 title = "Prosty relaks"
+kategorie = [ "Psychika",]
 
 +++
 
@@ -28,5 +29,3 @@ U różnych osób napięcie kumuluje się w różnych miejscach. Spróbuj odkry�
 **Zobacz też**
 
 -   [Techniki relaksacyjne](/atopedia/Techniki_relaksacyjne "wikilink")
-
-[kategoria:Psychika](/atopedia/kategoria:Psychika "wikilink")

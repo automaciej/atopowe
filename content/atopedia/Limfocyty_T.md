@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Limfocyty_T/"
 title = "Limfocyty T"
+kategorie = [ "ciało człowieka",]
 
 +++
 
@@ -17,5 +18,3 @@ U chorych na AZS stwierdza się podwyższony poziom oraz wzmożoną aktywację k
 
 -   [Limfocyty B](/atopedia/Limfocyty_B "wikilink")
 -   [Limfocyty T w wikipedii](/atopedia/wikipedia:Limfocyty_T "wikilink")
-
-[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

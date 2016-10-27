@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Skutki_uboczne_kortykosterydów/"
 title = "Skutki uboczne kortykosterydów"
+kategorie = [ "terapia", "Sterydy",]
 
 +++
 
@@ -66,7 +67,7 @@ Zobacz również
 -   [Silny kortykosteryd 3 razy w tygodniu, a słabszy stosowany przez cały tydzień](http://www.mp.pl/artykuly/?aid=13078)
 
 <references />
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink") [Kategoria:Sterydy](/atopedia/Kategoria:Sterydy "wikilink")
+ 
 
 [1] Kaszuba A, Pastuszka M, Kaszuba A - Miejscowe glikokortykosteroidy w leczeniu chorób skóry — zalecane standardy postępowania - *Forum Medycyny Rodzinnej 2009, tom 3, nr 5, 347–358*
 

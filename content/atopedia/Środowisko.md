@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Środowisko/"
 title = "Środowisko"
+kategorie = [ "przyczyny atopowego zapalenia skóry",]
 
 +++
 
@@ -16,5 +17,3 @@ Istnieje pogląd, że dla poprawy stanu zdrowia wystarczy sama zmiana środowisk
 **Zobacz również:**
 
 [Środowisko na blogu atopowym](http://blog.atopowe.pl/category/srodowisko/)
-
-[kategoria:przyczyny atopowego zapalenia skóry](/atopedia/kategoria:przyczyny_atopowego_zapalenia_skóry "wikilink")

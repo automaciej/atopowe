@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atopowe_zapalenie_skóry_i_WKU/"
 title = "Atopowe zapalenie skóry i WKU"
+kategorie = [ "wpadki",]
 
 +++
 
@@ -61,5 +62,3 @@ Po wezwaniu odbieracie orzeczenie o przyznaniu kategorii zdrowia i idziecie do d
 Jeżeli nie zgadzacie się z orzeczoną kategorią możecie odwoływać się od decyzji za pośrednictwem danej komisji do wojewódzkiej komisji lekarskiej. Pilnujcie terminu jaki jest podany na orzeczeniu, podanie piszcie w dwóch egzemplarzach.
 
 Na komisję są wzywani studenci socjologii, psychologii, medycyny, farmakologii, rehabilitacji, stomatologii, pielęgniarstwa i pokrewnych. Kiedyś każda pielęgniarka miała książeczkę wojskową teraz już tylko nieliczne są wzywane. Wojsko samo wysyła zapotrzebowanie jakich specjalistów potrzebuje.
-
-[kategoria:wpadki](/atopedia/kategoria:wpadki "wikilink")

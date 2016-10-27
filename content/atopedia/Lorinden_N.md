@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lorinden_N/"
 title = "Lorinden N"
+kategorie = [ "kremy", "leki sterydowe", "ulotki leków", "antybiotyki",]
 
 +++
 
@@ -225,5 +226,3 @@ tel.: (075) 64-33-102
 fax: (075) 752-44-55
 
 e-mail: jelfa@jelfa.com.pl
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink")

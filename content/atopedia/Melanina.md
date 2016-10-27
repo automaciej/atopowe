@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Melanina/"
 title = "Melanina"
+kategorie = [ "ciało człowieka",]
 
 +++
 
@@ -10,5 +11,3 @@ title = "Melanina"
 **Sprawdź hasło w wikipedii:**
 
 -   [Melanina](/atopedia/wikipedia:Melanina "wikilink")
-
-[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

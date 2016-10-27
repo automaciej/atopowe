@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Szpital/"
 title = "Szpital"
+kategorie = [ "Szpitale i lekarze",]
 
 +++
 
@@ -12,5 +13,3 @@ Nie wszystkie oddziały szpitalne są dobrze zorganizowane. W dobrze zorganizowa
 **Zobacz też**
 
 -   [Kliniki dermatologii i alergologii](/atopedia/Kliniki_dermatologii_i_alergologii "wikilink")
-
-[kategoria:Szpitale i lekarze](/atopedia/kategoria:Szpitale_i_lekarze "wikilink")

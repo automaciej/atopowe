@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Łuszczyca/"
 title = "Łuszczyca"
+kategorie = [ "inne choroby skóry",]
 
 +++
 
@@ -16,5 +17,3 @@ Istnieje również [przyłuszczyca](/atopedia/wikipedia:PLEVA "wikilink").
 -   [<http://luszczyca.info>](http://luszczyca.info) - forum dyskusyjne
 -   [<http://www.luszczyca.pl>](http://www.luszczyca.pl) - forum dyskusyjne
 -   [<http://luszczyce.pl>](http://luszczyce.pl) - portal poświęcony łuszczycy
-
-[kategoria:inne choroby skóry](/atopedia/kategoria:inne_choroby_skóry "wikilink")

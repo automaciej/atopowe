@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Ceralan/"
 title = "Ceralan"
+kategorie = [ "Emolienty",]
 
 +++
 
@@ -56,5 +57,3 @@ tel./fax:
 -   www.emolienty.pl
 
 Źródło: <http://www.emolienty.pl/produkty/ceralan/>
-
-[Kategoria:Emolienty](/atopedia/Kategoria:Emolienty "wikilink")

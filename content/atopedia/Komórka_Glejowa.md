@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Komórka_Glejowa/"
 title = "Komórka Glejowa"
+kategorie = [ "ciało człowieka",]
 
 +++
 
@@ -39,5 +40,3 @@ Ze względu na funkcję wyróżniamy nerwy:
 -   ruchowe (motoryczne, mające połączenie z mięśniami szkieletowymi, płytka nerwowo -motoryczna),
 -   eferentne, odprowadzające,
 -   autonomiczne (sympatyczne i parasympatyczne).
-
-[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

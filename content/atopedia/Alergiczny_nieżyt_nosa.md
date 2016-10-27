@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alergiczny_nieżyt_nosa/"
 title = "Alergiczny nieżyt nosa"
+kategorie = [ "Alergia",]
 
 +++
 
@@ -31,5 +32,3 @@ Alergiczny nieżyt nosa dzieli sie na:
 Alergiczny nieżyt nosa koniecznie musi byc leczony, gdyż najczęściej poprzedza on [astmę](/atopedia/Astma_oskrzelowa "wikilink"). Podstawą rozpoznania schorzenia jest dokładnie przeprowadzony wywiad oparty na [testach alergicznych](/atopedia/Testy_alergiczne "wikilink").
 
 Alergiczny nieżyt nosa leczy się przez unikanie [alergenów](/atopedia/Alergen "wikilink"), leczenie zachowawcze, [immunoterapię](/atopedia/Immunoterapia "wikilink").
-
-[Kategoria:Alergia](/atopedia/Kategoria:Alergia "wikilink")

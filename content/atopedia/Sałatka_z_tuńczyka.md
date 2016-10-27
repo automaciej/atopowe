@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Sałatka_z_tuńczyka/"
 title = "Sałatka z tuńczyka"
+kategorie = [ "przepisy", "dieta bezmleczna",]
 
 +++
 
@@ -29,5 +30,3 @@ title = "Sałatka z tuńczyka"
 -   Majonez zawiera jajka i gorczycę - osoby uczulone mogą zastąpić go oliwą, ew. mocniej doprawiając sałatkę.
 
 **Autor:** Megi
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink")

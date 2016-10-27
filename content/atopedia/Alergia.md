@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alergia/"
 title = "Alergia"
+kategorie = [ "przyczyny atopowego zapalenia skóry",]
 
 +++
 
@@ -25,5 +26,3 @@ Warto dodać, że przypadki [reakcji alergicznych](/atopedia/reakcja_alergiczna 
 -   [Alergia](/atopedia/wikipedia:Alergia "wikilink") - w polskiej Wikipedii
 
 [\*](/atopedia/Kategoria:Alergia "wikilink")
-
-[kategoria:przyczyny atopowego zapalenia skóry](/atopedia/kategoria:przyczyny_atopowego_zapalenia_skóry "wikilink")

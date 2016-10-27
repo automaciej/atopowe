@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Homeopatia/"
 title = "Homeopatia"
+kategorie = [ "niekonwencjonalne metody leczenia",]
 
 +++
 
@@ -26,7 +27,7 @@ Polskie Towarzystwo Alergologiczne powołało ekspercką Komisję d/s Weryfikacj
 -   [Centrum Przeciwdziałania Psychomanipulacji](http://www.psychomanipulacja.pl/tem/homeopatia.htm)
 -   [Homeopatia w Polskiej Wikipedii](/atopedia/wikipedia:Homeopatia "wikilink")
 
-[kategoria:niekonwencjonalne metody leczenia](/atopedia/kategoria:niekonwencjonalne_metody_leczenia "wikilink")
+
 
 [1] Alergia Astma Immunologia, 1996, 1(3), 168-171.
 

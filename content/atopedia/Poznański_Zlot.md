@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Poznański_Zlot/"
 title = "Poznański Zlot"
+kategorie = [ "Spotkania",]
 
 +++
 
@@ -48,4 +49,3 @@ Spotkanie w Poznaniu praktycznie bez poznaniaków (z Zubą jako jednym wyjątkie
 
 <div style="clear: both">
 </div>
-[kategoria:Spotkania](/atopedia/kategoria:Spotkania "wikilink")

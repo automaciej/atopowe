@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Aloes/"
 title = "Aloes"
+kategorie = [ "Zioła",]
 
 +++
 
@@ -47,5 +48,3 @@ cena: 75ml - 18.95 zł (16.08.2006)
 
 -   [O aloesie na forum atopowym](https://www.atopowe.pl/forum/viewtopic.php?f=10&t=5586)
 -   [Aloes zwyczajny](/atopedia/wikipedia:Aloes_zwyczajny "wikilink") w Polskiej Wikipedii
-
-[Kategoria:Zioła](/atopedia/Kategoria:Zioła "wikilink")

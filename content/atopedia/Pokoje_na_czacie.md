@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pokoje_na_czacie/"
 title = "Pokoje na czacie"
+kategorie = [ "Życie towarzyskie atopików",]
 
 +++
 
@@ -30,5 +31,3 @@ Wymagana jest [Java](http://java.sun.com).
 **Zobacz też:**
 
 -   '''[Kanał IRC](/atopedia/Kanał_IRC "wikilink")
-
-[kategoria:Życie towarzyskie atopików](/atopedia/kategoria:Życie_towarzyskie_atopików "wikilink")

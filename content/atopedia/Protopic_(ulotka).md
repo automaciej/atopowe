@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Protopic_(ulotka)/"
 title = "Protopic (ulotka)"
+kategorie = [ "ulotki leków", "maści", "leki immunosupresyjne",]
 
 +++
 
@@ -131,5 +132,3 @@ Przechowywanie leku Protopic
 Lek przechowywać w miejscu niedostępnym i niewidocznym dla dzieci. Nie przechowywać w temperaturze powyżej 25°C. Nie stosować po upływie terminu ważności zamieszczonego na opakowaniu.
 
 Data zatwierdzenia ulotki: 05/2004
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink")

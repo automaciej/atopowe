@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Flucinar/"
 title = "Flucinar"
+kategorie = [ "ulotki leków", "maści", "leki sterydowe",]
 
 +++
 
@@ -197,5 +198,3 @@ tel.: (075) 643 31 00
 fax: (075) 752 44 55
 
 e-mail: jelfa@jelfa.com.pl
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

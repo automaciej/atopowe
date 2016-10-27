@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Histamina/"
 title = "Histamina"
+kategorie = [ "substancje chemiczne",]
 
 +++
 
@@ -22,6 +23,6 @@ Jak zatem widzimy, choć histamina ma działanie ochronne dla naszego organizmu,
 -   [Dieta antyhistaminowa](/atopedia/Dieta_antyhistaminowa "wikilink")
 -   [Histamina i alergia](http://www.przychodnia.pl/alergia/index6.php3?s=3&d=5&t=6&p1=0)
 
-[kategoria:substancje chemiczne](/atopedia/kategoria:substancje_chemiczne "wikilink")
+
 
 [1] Lewandowska-Polak A, Kowalski ML - **Leki antyhistaminowe w chorobach alergicznych** - *Przegl Alergol 2004*, 2: 42-47

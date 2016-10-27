@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Gronkowiec_złocisty/"
 title = "Gronkowiec złocisty"
+kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -46,5 +47,3 @@ W leczeniu rozwiniętych [infekcji bakteryjnych skóry](/atopedia/infekcja_skór
 **Linki zewnętrzne**
 
 -   [Gronkowiec złocisty](http://www.gronkowiec.pl/gronkowiec_zlocisty.html)
-
-[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

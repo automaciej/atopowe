@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Kodeks_etycznego_zachowania_pacjenta/"
 title = "Kodeks etycznego zachowania pacjenta"
+kategorie = [ "humor",]
 
 +++
 
@@ -19,5 +20,3 @@ Na wszelki wypadek zaznaczamy, że niniejsza strona jest nie do końca na poważ
     Lekarze naprawdę się męczą przez długie lata przygotowując do zawodu, a tu im przychodzi jakiś laik i mówi jak go leczyć. Jeżeli lekarz się myli, spróbuj delikatnie powiedzieć, że lekarz pierwszego kontaktu zasugerował AZS i prosił Cię o sprawdzenie diagnozy u dermatologa.
 
 ------------------------------------------------------------------------
-
-[kategoria:humor](/atopedia/kategoria:humor "wikilink")

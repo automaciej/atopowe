@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Maści_na_trudnogojące_się,_zakażone_i_ropiejące_rany/"
 title = "Maści na trudnogojące się, zakażone i ropiejące rany"
+kategorie = [ "maści", "Przepisy na maści robione",]
 
 +++
 
@@ -32,5 +33,3 @@ title = "Maści na trudnogojące się, zakażone i ropiejące rany"
 *Bismuthi subcarbonici 40,0*
 *Ungt. Olei Jecoris Aselli ad 200,0*
 *ut fiant ung.*
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

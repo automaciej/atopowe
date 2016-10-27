@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Obciążenie_genetyczne/"
 title = "Obciążenie genetyczne"
+kategorie = [ "przyczyny atopowego zapalenia skóry",]
 
 +++
 
@@ -32,6 +33,6 @@ Poznane dotychczas występujące w Europie mutacje genu dla filagryny występuj�
 ### Bibliografia
 
 <references/>
-[kategoria:przyczyny atopowego zapalenia skóry](/atopedia/kategoria:przyczyny_atopowego_zapalenia_skóry "wikilink")
+
 
 [1]

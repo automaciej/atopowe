@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Nawilżanie/"
 title = "Nawilżanie"
+kategorie = [ "pielęgnacja",]
 
 +++
 
@@ -32,5 +33,3 @@ Do zachowania odpowiedniego poziomu nawilżania potrzebne jest więc nie tylko d
 
 -   [Natłuszczanie](/atopedia/Natłuszczanie "wikilink")
 -   [Emolienty](/atopedia/Emolienty "wikilink")
-
-[kategoria:pielęgnacja](/atopedia/kategoria:pielęgnacja "wikilink")

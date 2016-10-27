@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Leki_immunosupresyjne/"
 title = "Leki immunosupresyjne"
+kategorie = [ "terapia",]
 
 +++
 
@@ -41,5 +42,3 @@ Immunosupresja systemowa polega na obniżeniu aktywności układu immunologiczne
 -   [Tacrolimus](/atopedia/Tacrolimus "wikilink") (substancja czynna)
 -   [Pimekrolimus](/atopedia/Pimekrolimus "wikilink") (substancja czynna)
 -   [Inhibitory kalcyneuryny](/atopedia/Inhibitory_kalcyneuryny "wikilink")
-
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

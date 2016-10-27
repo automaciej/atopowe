@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pasta_przeciwtrądzikowa/"
 title = "Pasta przeciwtrądzikowa"
+kategorie = [ "maści", "Przepisy na maści robione",]
 
 +++
 
@@ -88,5 +89,3 @@ Maść przeciwtrądzikowa
 *M.f. Ung. Da sub signa venenum!*
 
 D.s. : Zewn. 1 do 2 x. dz. smarować cienką warstwą.
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

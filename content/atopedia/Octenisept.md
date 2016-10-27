@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Octenisept/"
 title = "Octenisept"
+kategorie = [ "leki",]
 
 +++
 
@@ -81,5 +82,3 @@ Jamę ustną należy płukać intensywnie ilością 20ml płynu OcteniSept przez
 przechowywać w temperaturze poniżej 25 st. C. Przechowywać w miejscu niedostępnym i niewidocznym dla dzieci. Preparat dostępny bez recepty.
 
 **Nie stosować leku po upływie terminu ważności.** Pojemność butelki 1 l, 250 ml lub 50 ml.
-
-[kategoria:leki](/atopedia/kategoria:leki "wikilink")

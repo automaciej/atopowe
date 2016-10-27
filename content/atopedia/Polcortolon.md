@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Polcortolon/"
 title = "Polcortolon"
+kategorie = [ "ulotki leków", "leki sterydowe", "maści", "kremy",]
 
 +++
 
@@ -35,5 +36,3 @@ Dawkowanie
 ----------
 
 Krem stosuje się w pierwszej fazie leczenia (przed maścią), początkowo 2-3 x dziennie, później 1-2 x/dobę. Nie zachodzi potrzeba stosowania preparatu pod opatrunkiem okluzyjnym. Maść wciera się cienką warstwą w zmienioną chorobowo skórę, początkowo 2-3 x dziennie, później 1-2 x dziennie. Przy nadmiernej [lichenizacji](/atopedia/lichenizacja "wikilink") lub nadmiernym rogowaceniu zmian - stosuje się pod opatrunkiem okluzyjnym raz na 24-48 h. Maść stosuje się raczej w drugiej fazie leczenia; po okresie stosowania kremu. Leczenia nie należy prowadzić bez przerwy dłużej niż 2 tyg.
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

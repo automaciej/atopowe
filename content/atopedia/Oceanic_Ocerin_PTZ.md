@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Oceanic_Ocerin_PTZ/"
 title = "Oceanic Ocerin PTZ"
+kategorie = [ "szampony", "preparaty zawierające mocznik", "leki przeciwgrzybicze",]
 
 +++
 
@@ -30,5 +31,3 @@ Stosowanie
 ----------
 
 Niewielką ilość szamponu ok. 5 ml nanieść na mokre włosy i delikatnie wmasować. Pozostawić na 3-5 min. Starannie spłukać. Czynność można powtórzyć. Zaleca się stosowanie szamponu przez 4-tygodnie myjąc włosy 2 razy w tygodniu.
-
-[kategoria:szampony](/atopedia/kategoria:szampony "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:leki przeciwgrzybicze](/atopedia/kategoria:leki_przeciwgrzybicze "wikilink")

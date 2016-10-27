@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Fenistil/"
 title = "Fenistil"
+kategorie = [ "ulotki leków", "leki antyhistaminowe", "Leki antyhistaminowe I generacji",]
 
 +++
 
@@ -137,5 +138,3 @@ Novartis Consumer Health SA, Nyon, Szwajcaria
 **DATA OSTATNIEJ WERYFIKACJI ULOTKI**
 
 Październik 1999 r.
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe I generacji](/atopedia/kategoria:Leki_antyhistaminowe_I_generacji "wikilink")

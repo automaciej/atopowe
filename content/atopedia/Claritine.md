@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Claritine/"
 title = "Claritine"
+kategorie = [ "Leki antyhistaminowe", "leki antyhistaminowe III generacji", "Ulotki leków", "leki zawierające loratadynę",]
 
 +++
 
@@ -175,5 +176,3 @@ ul. Chłodna 51
 00-867 Warszawa
 Tel.: (+48 22) 549 51 00
 Fax: (+48 22) 549 51 02
-
-[kategoria:Leki antyhistaminowe](/atopedia/kategoria:Leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/atopedia/kategoria:leki_antyhistaminowe_III_generacji "wikilink") [kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink") [kategoria:leki zawierające loratadynę](/atopedia/kategoria:leki_zawierające_loratadynę "wikilink")

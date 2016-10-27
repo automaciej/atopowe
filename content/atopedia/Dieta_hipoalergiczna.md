@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dieta_hipoalergiczna/"
 title = "Dieta hipoalergiczna"
+kategorie = [ "Diety",]
 
 +++
 
@@ -23,5 +24,3 @@ Opiera się na eliminacji "złotej ósemki" alergenów pokarmowych:
 Jeśli uda się uzyskać ustąpienie objawów, rozpoczyna się stopniowe wprowadzanie wyeliminowanych wcześniej pokarmów, rozpoczynając od pszenicy:
 
 **[Spis przepisów - dieta hipoalergiczna plus pszenica](/atopedia/:Kategoria:Dieta_hipoalergiczna_plus_pszenica "wikilink")**
-
-[kategoria:Diety](/atopedia/kategoria:Diety "wikilink")

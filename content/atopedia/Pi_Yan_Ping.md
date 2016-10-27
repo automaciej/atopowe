@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pi_Yan_Ping/"
 title = "Pi Yan Ping"
+kategorie = [ "Leki sterydowe",]
 
 +++
 
@@ -29,7 +30,7 @@ W dyskusji na forum atopowym[1] jest odnośnik do forum Alergie Dziecięce[2] w 
 
 -   [Traditional Medicines Adulterated with Steroids](http://www.hsa.gov.sg/publish/hsaportal/en/health_products_regulation/safety_information/product_safety_alerts/safety_alerts_2009/traditional_medicines.html) - Leki z "dodatkami"
 
-[kategoria:Leki sterydowe](/atopedia/kategoria:Leki_sterydowe "wikilink")
+
 
 [1] {{ cytuj stronę | url = <http://www.atopowe-zapalenie.pl/forum/viewtopic.php?p=5483#5483> | tytuł = Piyan Ping | autor = Forum Atopowe }}
 

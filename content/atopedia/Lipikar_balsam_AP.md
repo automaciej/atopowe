@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lipikar_balsam_AP/"
 title = "Lipikar balsam AP"
+kategorie = [ "emolienty", "ulotki leków",]
 
 +++
 
@@ -37,5 +38,3 @@ Skład:
 ------
 
 Aqua/Water, Butyrospermum Parkii Butter/Shea Butter, Glycerin, Niacinamide, Cyclohexasiloxane, Paraffinum Liquidum/ Mineral Oil, Cetearyl Alcohol, Brassica Campestris Oleifera Oil/Rapeseed Seed Oil, Ammonium Polyacryldimethyltauramide/Ammonium Polyacryldimethyltaurate, PEG-100 Stearate, Cera Microcristallina/Microcrystalline Wax, Glyceryl Stearate, PEG-20 Methyl Glucose Sesquistearate, Paraffin, Sorbitan Tristearate, Dimethicone, Dimethiconol, Disodium EDTA, Capryloyl Glycine, Xanthan Gum, Paentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Benzoate, Phenoxyethanol
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

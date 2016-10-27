@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Terapia_genowa/"
 title = "Terapia genowa"
+kategorie = [ "terapia",]
 
 +++
 
@@ -23,5 +24,3 @@ Wiele publikacji wskazuje, że ryzyko rozwinięcia AZS zwiększają mutacje w ge
 -   [Gen C-3223T i atopowe zapalenie skóry](http://blog.atopowe.pl/2008/01/30/gen-c-3223t-i-atopowe-zapalenie-skory/)
 -   <http://www.geneticsandhealth.com/2006/03/20/filaggrin-gene-and-eczema/>
 -   <http://www.dailymail.co.uk/pages/live/articles/health/healthmain.html?in_article_id=380420&in_page_id=1774>
-
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

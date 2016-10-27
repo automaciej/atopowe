@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Refundacja_maści_Protopic/"
 title = "Refundacja maści Protopic"
+kategorie = [ "Refundacja i pisma",]
 
 +++
 
@@ -101,5 +102,3 @@ Pozwolić sobie na niego mogą Ci, którzy teoretycznie są w stanie się bez ni
 -   [Protopic (ulotka)](/Protopic_(ulotka) "wikilink")
 -   <http://www.protopic.com> (w Polsce nie można rejestrować domeny będącej nazwą leku)
 -   [Wpis na blogu o refundacji protopiku w Senacie](http://blog.atopowe.pl/2010/04/08/o-refundacji-protopiku-i-dlaczego-jej-nie-bedzie/)
-
-[Kategoria:Refundacja i pisma](/atopedia/Kategoria:Refundacja_i_pisma "wikilink")

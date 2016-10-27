@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Flumetazon/"
 title = "Flumetazon"
+kategorie = [ "maści", "leki sterydowe", "ulotki leków",]
 
 +++
 
@@ -22,5 +23,3 @@ D07AB, D07BB, D07CB
 **Dawkowanie:** Miejscowo w zmienioną chorobowo skórę wciera się emulsję, krem lub maść, początkowo 2-3 razy na dobę, a później 1-2 razy na dobę przez 1-2 tyg.
 
 **Uwagi:** Należy chronić spojówki przed kontaktem z preparatami flumetazonu. Początkowo w ostrych i podostrych dermatozach stosuje się emulsję, a następnie po zmyciu jej wodą nakłada się krem lub maść. Na skórę normalną lub tłustą stosuje się krem, do skóry suchej maść.
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

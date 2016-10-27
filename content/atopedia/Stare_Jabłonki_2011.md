@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Stare_Jabłonki_2011/"
 title = "Stare Jabłonki 2011"
+kategorie = [ "Spotkania",]
 
 +++
 
@@ -29,5 +30,3 @@ Relacje
 
 1.  [mres](http://blog.atopowe.pl/2011/06/29/wrazenia-ze-zlotu/)
 2.  [Mirki](http://blog.atopowe.pl/2011/06/30/stare-jablonki/)
-
-[kategoria:Spotkania](/atopedia/kategoria:Spotkania "wikilink")

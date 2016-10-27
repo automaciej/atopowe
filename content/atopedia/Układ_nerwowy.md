@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Układ_nerwowy/"
 title = "Układ nerwowy"
+kategorie = [ "ciało człowieka",]
 
 +++
 
@@ -11,5 +12,3 @@ title = "Układ nerwowy"
 -   Obwodowej - do niej zaliczamy dwanaście nerwów wychodzących z mózgu oraz 31 par wychodzących z rdzenia kręgowego.
 
 Układ nerwowy funkcjonuje przede wszystkim dzięki tkance nerwowej, na którą składają się komórki glejowe oraz komórki nerwowe czyli neurony.
-
-[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

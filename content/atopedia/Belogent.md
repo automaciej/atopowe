@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Belogent/"
 title = "Belogent"
+kategorie = [ "ulotki leków", "maści", "leki sterydowe", "antybiotyki",]
 
 +++
 
@@ -194,5 +195,3 @@ Tel. + 421 2 5932 4330
 Fax. + 421 2 5932 4331
 
 Data zatwierdzenia ulotki: 29.09.2008 r.
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink")

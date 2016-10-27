@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Azomyr/"
 title = "Azomyr"
+kategorie = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe III generacji", "ulotki leków",]
 
 +++
 
@@ -153,5 +154,3 @@ Tel. 022 364 61 01
 **Data zatwierdzenia ulotki: marzec 2010**
 
 Szczegółowa informacja o tym produkcie jest dostępna na stronie internetowej [Europejskiej Agencji ds. Produktów Leczniczych (EMEA)](http://www.ema.europa.eu/docs/pl_PL/document_library/EPAR_-_Product_Information/human/000310/WC500030164.pdf)
-
-[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/atopedia/kategoria:leki_antyhistaminowe_III_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

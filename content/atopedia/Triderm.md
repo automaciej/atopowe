@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Triderm/"
 title = "Triderm"
+kategorie = [ "ulotki leków", "leki sterydowe", "antybiotyki", "leki przeciwgrzybicze", "kremy",]
 
 +++
 
@@ -201,5 +202,3 @@ Oddział w Polsce
 Al. Jerozolimskie 195A
 02-222 Warszawa
 Tel. 22 47 84 150
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:leki przeciwgrzybicze](/atopedia/kategoria:leki_przeciwgrzybicze "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

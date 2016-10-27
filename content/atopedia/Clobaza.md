@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Clobaza/"
 title = "Clobaza"
+kategorie = [ "emolienty", "kremy",]
 
 +++
 
@@ -41,5 +42,3 @@ Preparat tylko do użytku zewnętrznego. Krem nakładać cienka warstwą na umyt
 -   Nie zamrażać.
 -   Przechowywać w miejscu niedostępnym dla dzieci.
 -   Przed zastosowaniem należy sprawdzić termin ważności podany na opakowaniu i nie stosować preparatu po jego upływie.
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Wojewódzki_Specjalistyczny_Szpital_im._dr_Wł._Biegańskiego_w_Łodzi/"
 title = "Wojewódzki Specjalistyczny Szpital im. dr Wł. Biegańskiego w Łodzi"
+kategorie = [ "Szpitale i lekarze",]
 
 +++
 
@@ -14,5 +15,3 @@ ul. Kniaziewicza 1/5
 Łódź 91-347
 
 tel. +48-42-2516092, +48-42-2516192
-
-[kategoria:Szpitale i lekarze](/atopedia/kategoria:Szpitale_i_lekarze "wikilink")

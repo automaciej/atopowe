@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Neostrata_Bionic_Lotion/"
 title = "Neostrata Bionic Lotion"
+kategorie = [ "emolienty", "ulotki leków",]
 
 +++
 
@@ -52,5 +53,3 @@ WŁAŚCIWOŚCI AKTYWNYCH SUBSTANCJI
 **Aktywny składnik:** PHA 15%: (Glukonolakton 12%; Kwas laktobionowy 3%)
 
 **Opakowanie:** 100 ml
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Mały_Alergik/"
 title = "Mały Alergik"
+kategorie = [ "strony o atopowym zapaleniu skóry",]
 
 +++
 
@@ -10,5 +11,3 @@ title = "Mały Alergik"
 Link do strony:
 
 -   <http://malyalergik.pl/>
-
-[kategoria:strony o atopowym zapaleniu skóry](/atopedia/kategoria:strony_o_atopowym_zapaleniu_skóry "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Solarium/"
 title = "Solarium"
+kategorie = [ "terapia",]
 
 +++
 
@@ -20,5 +21,3 @@ Krótkie wizyty w solarium bywają polecane przez dermatologów osobom chorym na
 
 -   [Światłoterapia](/atopedia/Światłoterapia "wikilink")
 -   [PUVA](/atopedia/PUVA "wikilink")
-
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atoperal_Baby_pianka_do_mycia/"
 title = "Atoperal Baby pianka do mycia"
+kategorie = [ "kosmetyki",]
 
 +++
 
@@ -35,5 +36,3 @@ Opracowany we współpracy z dermatologami.
 Przebadany dermatologicznie.
 
 **Produkt dostępny tylko w aptece.**
-
-[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

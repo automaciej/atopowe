@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Maść_witaminowa_na_eucerynie/"
 title = "Maść witaminowa na eucerynie"
+kategorie = [ "Maści", "Przepisy na maści robione",]
 
 +++
 
@@ -15,4 +16,3 @@ Rp.
 *Vaselini albi*
 *Eucerini aa ad 200,0*
 *M.f. Ung.*
- [kategoria:Maści](/atopedia/kategoria:Maści "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Ryż_z_mięsem_i_warzywami/"
 title = "Ryż z mięsem i warzywami"
+kategorie = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "dieta hipoalergiczna plus pszenica",]
 
 +++
 
@@ -26,5 +27,3 @@ title = "Ryż z mięsem i warzywami"
 -   Podawać z ryżem, najlepiej brązowym.
 
 **Źródło:** [Forum atopedii](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=12&t=83)
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

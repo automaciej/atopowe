@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Aqualan_L/"
 title = "Aqualan L"
+kategorie = [ "emolienty",]
 
 +++
 
@@ -32,7 +33,7 @@ title = "Aqualan L"
 
 **PRODUCENT: Orion Pharma** 01-699 Warszawa ul. Parandowskiego 19 tel./fax: (+48 22) 833 31 77 (+48 22) 832 10 36 (+48 22) 832 10 37
 
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")
+
 
 -   e-mail: kontakt@orionpharma.info.pl
 -   http: www.orionpharma.info.pl

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Mucosolvan/"
 title = "Mucosolvan"
+kategorie = [ "leki", "ulotki leków",]
 
 +++
 
@@ -90,5 +91,3 @@ Nie stosować po upływie terminu ważności.
 **Dostępne opakowania**
 
 Butelki 100ml
-
-[kategoria:leki](/atopedia/kategoria:leki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Crunchy_hypoalergiczne/"
 title = "Crunchy hypoalergiczne"
+kategorie = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "dieta hipoalergiczna plus pszenica",]
 
 +++
 
@@ -26,5 +27,3 @@ Uwaga! **Trzeba cały czas mieszać!** (łatwo przypalić)
 -   Cukier można zastapić miodem lub trochę miodu/trochę cukru.
 -   Oczywiście można dodać inne składniki wedle fantazji i możliwości (rodzynki, orzechy, czekoladę, pestki słonecznika itp.) - ale wtedy nie będzie hypoalergicznie.
 -   Jeśli dodaliśmy więcej cukru i crunchy zamieniło się w lepka masę, możemy lepić "jeżyki" itp.
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

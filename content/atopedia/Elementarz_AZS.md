@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Elementarz_AZS/"
 title = "Elementarz AZS"
+kategorie = [ "Podstawowe wiadomości",]
 
 +++
 
@@ -90,5 +91,3 @@ Przepisy karne:
 6.  Nie wolno smarować Protopikiem i Elidelem infekcji, ran i strupów.
 7.  Nie wolno smarować sterydami twarzy, ponieważ można to przypłacić telangiektazją, ścieńczeniem skóry i trądzikiem różowatym.
 8.  Nie wolno ignorować opryszczki.
-
-[kategoria:Podstawowe wiadomości](/atopedia/kategoria:Podstawowe_wiadomości "wikilink")

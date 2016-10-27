@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Poprawa_samopoczucia/"
 title = "Poprawa samopoczucia"
+kategorie = [ "Podstawowe wiadomości",]
 
 +++
 
@@ -79,5 +80,3 @@ Aktor – blizny po trądziku
 Piosenkarz - [bielactwo nabyte](http://pl.wikipedia.org/wiki/Bielactwo_nabyte)
 
 Kolor skóry piosenkarza budził wiele kontrowersji. W programie "Oprah Winfrey Show" w 1993 Jackson stwierdził, że kolor jego skóry zmienił się za przyczyną [vitiligo](http://pl.wikipedia.org/wiki/Bielactwo_nabyte). Ze wzglądu na kontrowersyjną postać piosenkarza trudno brać jego słowa za prawdę. Mimo wszystko można znaleźć materiały fotograficzne potwierdzające ten fakt.
-
-[kategoria:Podstawowe wiadomości](/atopedia/kategoria:Podstawowe_wiadomości "wikilink")

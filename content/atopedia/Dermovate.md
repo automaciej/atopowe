@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dermovate/"
 title = "Dermovate"
+kategorie = [ "leki sterydowe", "maści", "ulotki leków",]
 
 +++
 
@@ -208,5 +209,3 @@ ul. Rzymowskiego 53
 02-697 Warszawa
 
 tel. (22) 576-90-00
-
-[kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

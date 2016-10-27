@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Krem_do_rąk/"
 title = "Krem do rąk"
+kategorie = [ "kremy",]
 
 +++
 
@@ -19,5 +20,3 @@ Uwaga: niestety są apteki które wciskają kit, że składnik Cera flava jest n
          Lanolini anhydrici     10,2
          Aquae destillatae      15,0
       M.f. Ung.
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Peritol/"
 title = "Peritol"
+kategorie = [ "leki antyhistaminowe", "leki antyhistaminowe I generacji", "ulotki leków",]
 
 +++
 
@@ -249,5 +250,3 @@ Adres: ul. Powązkowska 44C
 Kod pocztowy: 01-797 Warszawa
 
 Telefon: +48 22 326 04 00
-
-[kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe I generacji](/atopedia/kategoria:leki_antyhistaminowe_I_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

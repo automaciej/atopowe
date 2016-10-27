@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pimafucin/"
 title = "Pimafucin"
+kategorie = [ "antybiotyki", "leki przeciwgrzybicze", "kremy", "ulotki leków",]
 
 +++
 
@@ -39,5 +40,3 @@ Astellas Pharma Sp. zo.o.
 ul. Poleczki 21.
 
 02-822 Warszawa
-
-[kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:leki przeciwgrzybicze](/atopedia/kategoria:leki_przeciwgrzybicze "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

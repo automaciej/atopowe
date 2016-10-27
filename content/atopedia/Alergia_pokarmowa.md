@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alergia_pokarmowa/"
 title = "Alergia pokarmowa"
+kategorie = [ "alergia",]
 
 +++
 
@@ -26,7 +27,7 @@ Ciekawe jest, że subiektywna częstość występowania objawów AP wśród chor
 -   [Alergia](/atopedia/Alergia "wikilink")
 -   [<http://www.epacjent.pl/artykul.php?idartykul=99&poddzial=Zdradliwa>% Kody składników produktów żywnościowych E-100 - E-400] na www.epacjent.pl
 
-[kategoria:alergia](/atopedia/kategoria:alergia "wikilink")
+
 
 [1] magda2em, [Instrukcja obsługi atopika](http://blog.atopowe.pl/2011/04/26/instrukcja-obslugi-atopika-ii/) na blogu atopowym
 

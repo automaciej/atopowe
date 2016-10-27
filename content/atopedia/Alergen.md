@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alergen/"
 title = "Alergen"
+kategorie = [ "Alergia", "Alergeny",]
 
 +++
 
@@ -26,5 +27,3 @@ Potencjalnie alergenem pokarmowym może być wszystko co jemy, szczególnie jeż
 ### Zobacz też
 
 -   [Alergeny krzyżowe](/atopedia/Alergeny_krzyżowe "wikilink")
-
-[Kategoria:Alergia](/atopedia/Kategoria:Alergia "wikilink") [kategoria:Alergeny](/atopedia/kategoria:Alergeny "wikilink")

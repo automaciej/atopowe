@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Polytar_AF/"
 title = "Polytar AF"
+kategorie = [ "ulotki leków", "szampony", "leki przeciwgrzybicze",]
 
 +++
 
@@ -64,5 +65,3 @@ Butelka 150, 250, 500 ml.
 **Wytwórca:**
 
 Stiefel Laboratories (UK) LTD.
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:szampony](/atopedia/kategoria:szampony "wikilink") [kategoria:leki przeciwgrzybicze](/atopedia/kategoria:leki_przeciwgrzybicze "wikilink")

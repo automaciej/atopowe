@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Renta/"
 title = "Renta"
+kategorie = [ "Refundacja i pisma",]
 
 +++
 
@@ -28,4 +29,4 @@ Zasiłek pielęgnacyjny bez orzeczenia o niepełnosprawności
 
 Możliwe jest również otrzymanie zasiłku pielęgnacyjnego bez orzeczenia o niepełnosprawności. W tym celu należy udać się do Ośrodka Miejskiej Pomocy Społecznej lub Urzędu ds. Orzekania o Niepełnosprawności i tam pobrać druk o przyznanie zasiłku. Po miesiącu od złożenia wypełnionego druku wraz z kserokopią kart chorobowych dostajemy wezwanie na komisję. Najczęściej badanie wykonuje pracownik socjalny i lekarz orzecznik. Do miesiąca uzyskujemy orzeczenie.
 
-Informacje na temat zasiłku pielęgnacyjnego oraz wzór wniosku o zasiłek pielęgnacyjny znajdują się na stronie ZUS: <http://www.zus.pl/swiadcze/zas006.htm> [Kategoria:Refundacja i pisma](/atopedia/Kategoria:Refundacja_i_pisma "wikilink")
+Informacje na temat zasiłku pielęgnacyjnego oraz wzór wniosku o zasiłek pielęgnacyjny znajdują się na stronie ZUS: <http://www.zus.pl/swiadcze/zas006.htm>

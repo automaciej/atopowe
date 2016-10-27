@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Układ_hormonalny/"
 title = "Układ hormonalny"
+kategorie = [ "ciało człowieka",]
 
 +++
 
@@ -23,5 +24,3 @@ Mechanizm działania hormonów
 ----------------------------
 
 Wytworzone przez narząd (tkankę lub komórkę), zostają wydzielone bezpośrednio do krwiobiegu, gdzie razem z krwią "wędrują" do komórek wskazanych za pomocą receptorów hormonu. Receptory, które reagują na hormony peptydowe znajdują się na zewnątrz, a reagujące na hormon steroidowy wewnątrz.
-
-[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

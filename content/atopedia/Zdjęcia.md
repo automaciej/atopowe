@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Zdjęcia/"
 title = "Zdjęcia"
+kategorie = [ "multimedia",]
 
 +++
 
@@ -88,5 +89,3 @@ Linki zewnętrzne
 
 -   [Zdjęcia AZS z portalu dermatologów](http://www.dermnet.com/moduleIndex.cfm?moduleID=2) www.dermnet.com
 -   [DermAtlas](http://dermatlas.med.jhmi.edu/?search=diagnosis:%27eczema%20%28dermatitis,%20atopic%29%27)
-
-[kategoria:multimedia](/atopedia/kategoria:multimedia "wikilink")

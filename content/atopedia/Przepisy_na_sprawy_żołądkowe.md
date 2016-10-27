@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Przepisy_na_sprawy_żołądkowe/"
 title = "Przepisy na sprawy żołądkowe"
+kategorie = [ "przepisy",]
 
 +++
 
@@ -64,5 +65,3 @@ Cynamon
 Wzmaga pracę żołądka i ułatwia trawienie. Ma także lekkie działanie wiatropędne i zapobiega wzdęciom. Jest świetny do zup owocowych, budyniów, pieczonych jabłek oraz farszów do drobiu i do mięsa z rusztu. Można dodawać szczyptę do gotowanej kawy, razem z imbirem, goździkami, kardamonem, poprawia jej smak.
 
 Cynamon wzmaga działanie insuliny, co sprzyja spalaniu glukozy. Pomagając w leczeniu cukrzycy, może również zapobiegać chorobie wieńcowej serca i nadciśnieniu krwi.
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

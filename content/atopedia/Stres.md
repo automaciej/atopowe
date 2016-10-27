@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Stres/"
 title = "Stres"
+kategorie = [ "Psychika", "Przyczyny atopowego zapalenia skóry",]
 
 +++
 
@@ -18,5 +19,3 @@ Stres jest czynnikiem, którego zadaniem jest mobilizacja organizmu do działani
 **Linki zewnętrzne**
 
 -   [Stres w polskiej Wikipedii](/atopedia/wikipedia:Stres "wikilink")
-
-[kategoria:Psychika](/atopedia/kategoria:Psychika "wikilink") [kategoria:Przyczyny atopowego zapalenia skóry](/atopedia/kategoria:Przyczyny_atopowego_zapalenia_skóry "wikilink")

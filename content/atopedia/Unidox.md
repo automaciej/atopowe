@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Unidox/"
 title = "Unidox"
+kategorie = [ "antybiotyki", "ulotki leków",]
 
 +++
 
@@ -171,5 +172,3 @@ Elisabethhof 19
 2353 EW Leiderdorp
 
 Holandia
-
-[kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

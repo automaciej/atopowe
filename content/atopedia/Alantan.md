@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alantan/"
 title = "Alantan"
+kategorie = [ "kremy", "maści", "emolienty", "ulotki leków",]
 
 +++
 
@@ -82,5 +83,3 @@ D-pantenol reguluje gospodarkę wodną skóry nadając jej jędrność i elastyc
 "Wspomagająco w atopowym zapaleniu skóry, wyprysku alergicznym," zapaleniu błony śluzowej nosa i owrzodzeniach podudzi,
 
 "Preparat jest skuteczny w terapii skojarzonej z kortykosterydami w wielu dermatozach zapalnych."
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

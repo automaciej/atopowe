@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Ektoina/"
 title = "Ektoina"
+kategorie = [ "substancje chemiczne",]
 
 +++
 
@@ -25,5 +26,3 @@ Linki zewnętrzne
 ----------------
 
 [Strona poświęcona właściwościom Ektoiny](http://ektoina.pl/)
-
-[kategoria:substancje chemiczne](/atopedia/kategoria:substancje_chemiczne "wikilink")

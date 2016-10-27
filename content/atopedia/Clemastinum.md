@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Clemastinum/"
 title = "Clemastinum"
+kategorie = [ "ulotki leków", "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
 
 +++
 
@@ -188,4 +189,3 @@ Warszawskie Zakłady Farmaceutyczne Polfa S.A.
 ul. Karolkowa 22/24; 01-207 Warszawa
 tel. (22) 691 39 00
 Data opracowania ulotki: 21.05.2008 r.
- [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe I generacji](/atopedia/kategoria:leki_antyhistaminowe_I_generacji "wikilink")

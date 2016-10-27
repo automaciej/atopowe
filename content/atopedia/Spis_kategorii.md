@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Spis_kategorii/"
 title = "Spis kategorii"
+kategorie = [ "Serwis",]
 
 +++
 
@@ -114,5 +115,3 @@ CZĘŚĆ VI
 ### **2. [Serwis](/atopedia/:Kategoria:Serwis "wikilink")**
 
 <DynamicPageList> category = Serwis mode = unordered ordermethod = sortkey order = ascending </DynamicPageList>
-
-[kategoria:Serwis](/atopedia/kategoria:Serwis "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Placebo/"
 title = "Placebo"
+kategorie = [ "Terapia", "Wiedza z nauk przyrodniczych",]
 
 +++
 
@@ -25,5 +26,3 @@ Pomiędzy fizjologicznym, obiektywnym stanem pacjenta a liczbami w protokole bad
 -   [Placebo](/atopedia/wikipedia:Placebo "wikilink") w polskiej Wikipedii
 -   [Koniec homeopatii?](http://blog.atopowe.pl/2007/11/23/koniec-homeopatii/) - wpis na blogu atopowym
 -   [Homeopatia i efekt nocebo](http://blog.atopowe.pl/2009/12/02/homeopatia-i-efekt-nocebo/) - wpis na blogu atopowym
-
-[Kategoria:Terapia](/atopedia/Kategoria:Terapia "wikilink") [Kategoria:Wiedza z nauk przyrodniczych](/atopedia/Kategoria:Wiedza_z_nauk_przyrodniczych "wikilink")

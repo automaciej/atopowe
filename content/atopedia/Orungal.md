@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Orungal/"
 title = "Orungal"
+kategorie = [ "Leki przeciwgrzybicze", "ulotki leków",]
 
 +++
 
@@ -123,5 +124,3 @@ Wytwórca Janssen Pharmaceutica N.V. b-2340 Beerse, Belgia
 
 data ostatniej weryfikacji ulotki
 2000 wrzesień
-
-[kategoria:Leki przeciwgrzybicze](/atopedia/kategoria:Leki_przeciwgrzybicze "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

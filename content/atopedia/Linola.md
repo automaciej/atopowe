@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Linola/"
 title = "Linola"
+kategorie = [ "maści", "emolienty", "ulotki leków",]
 
 +++
 
@@ -112,5 +113,3 @@ Nie istnieją żadne doniesienia na temat możliwości przedawkowania preparatu.
 **INFORMACJE DODATKOWE**
 
 Przed zastosowaniem leku należy sprawdzić datę ważności podaną na opakowaniu, nie stosować leku po upływie terminu ważności. Przechowywać w temperaturze do 25° C w miejscu niedostępnym dla dzieci.
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

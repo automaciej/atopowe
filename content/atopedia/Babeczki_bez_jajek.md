@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Babeczki_bez_jajek/"
 title = "Babeczki bez jajek"
+kategorie = [ "przepisy",]
 
 +++
 
@@ -22,5 +23,3 @@ Przygotowanie:
 -   Starannie wymieszaj
 -   Ciasto nakładaj do wysmarowanych tłuszczem foremek
 -   Piecz w dolnej części piekarnika około 40 min w temp. 200 stopni
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

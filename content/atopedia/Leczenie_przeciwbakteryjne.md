@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Leczenie_przeciwbakteryjne/"
 title = "Leczenie przeciwbakteryjne"
+kategorie = [ "Terapia",]
 
 +++
 
@@ -10,6 +11,6 @@ Skóra pacjentów z atopowym zapaleniem skóry często jest skolonizowana przez 
 ### Bibliografia
 
 <references/>
-[Kategoria:Terapia](/atopedia/Kategoria:Terapia "wikilink")
+
 
 [1]

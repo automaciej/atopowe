@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Sandimmun_Neoral/"
 title = "Sandimmun Neoral"
+kategorie = [ "leki doustne", "leki immunosupresyjne", "ulotki leków",]
 
 +++
 
@@ -230,5 +231,3 @@ tel : +48 22 55 08 888
 
 -   [Cyklosporyna](/atopedia/Cyklosporyna "wikilink")
 -   [Leki immunosupresyjne](/atopedia/Leki_immunosupresyjne "wikilink")
-
-[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

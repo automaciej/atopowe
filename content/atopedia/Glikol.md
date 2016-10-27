@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Glikol/"
 title = "Glikol"
+kategorie = [ "substancje chemiczne",]
 
 +++
 
@@ -12,5 +13,3 @@ Stosowany jako rozpuszczalnik i stabilizator wielu substancji. Dodany do kremów
 Stosowany na skórę powoduje rozszerzenie i zatkanie porów; utrudnia oddychanie, wydzielanie łoju oraz potu. Stwarza korzystne warunki do rozwoju dla bakterii beztlenowych. Podrażnia mieszki włosowe pobudzając w ich obrębie procesy zapalne i ropne.
 
 **Glikole wywołują kontaktowe zapalenie skóry**. Produkty z glikolami nie powinny być stosowane u kobiet w ciąży oraz w czasie laktacji.
-
-[kategoria:substancje chemiczne](/atopedia/kategoria:substancje_chemiczne "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Efekt_błędnego_koła/"
 title = "Efekt błędnego koła"
+kategorie = [ "terapia", "objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -28,5 +29,3 @@ krótkotrwałe zastosowanie [sterydów](/atopedia/Kortykosterydy "wikilink") i
 [natłuszczanie](/atopedia/Natłuszczanie "wikilink") oraz
 [pielęgnację](/atopedia/Pielęgnacja "wikilink") skóry w celu zniwelowania
 [podrażnienia](/atopedia/podrażnienie "wikilink").
-
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink") [kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

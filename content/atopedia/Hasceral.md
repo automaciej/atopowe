@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Hasceral/"
 title = "Hasceral"
+kategorie = [ "maści", "ulotki leków", "preparaty zawierające mocznik",]
 
 +++
 
@@ -33,5 +34,3 @@ Acidum salicylicum 5,0 g
 Urea 10,0 g
 
 Vehiculum ad 100,00 g
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

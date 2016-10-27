@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Piernik_bezglutenowy/"
 title = "Piernik bezglutenowy"
+kategorie = [ "przepisy",]
 
 +++
 
@@ -24,5 +25,3 @@ title = "Piernik bezglutenowy"
 3.  Dodać suche składniki do mokrych: mleko, melasa, masło (3 łyżki wody) i wymieszać żeby się połączyły, ale nie za długo
 4.  Przelać ciasto do formy; piec 50-60 min. Piernik powinien być sprężysty, gdy się nań naciśnie. Lekko przestudzić, po czym wyłożyć na kratkę do przestygnięcia
 5.  Piernik można polukrować lukrem i przystroić kandyzowanym imbirem lub innymi owocami.
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

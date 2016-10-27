@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Płaszcz_lipidowy/"
 title = "Płaszcz lipidowy"
+kategorie = [ "ciało człowieka",]
 
 +++
 
@@ -20,5 +21,3 @@ Szybkość odnowy lipidów zależy od liczby i wielkości gruczołów łojowych,
 **Linki zewnętrzne**
 
 -
-
-[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alergiczne_zapalenie_spojówek/"
 title = "Alergiczne zapalenie spojówek"
+kategorie = [ "Alergia",]
 
 +++
 
@@ -38,5 +39,3 @@ Leczenie
 --------
 
 Leczenie polega na odczulaniu. Bezpośrednio do oka podaje sie [leki antyhistaminowe](/atopedia/Leki_antyhistaminowe "wikilink") zawarte w kroplach, a doustnie tabletki antyhistaminowe. Pomagają również preparaty "sztuczne łzy" i chłodne okłady (Uwaga na krople ze świetlikiem, mogą alergizować).
-
-[Kategoria:Alergia](/atopedia/Kategoria:Alergia "wikilink")

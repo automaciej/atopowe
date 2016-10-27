@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Natłuszczanie/"
 title = "Natłuszczanie"
+kategorie = [ "pielęgnacja",]
 
 +++
 
@@ -27,5 +28,3 @@ Nie zaleca się stosowania oliwki, która tak skutecznie zatrzymuje wilgoć, że
 
 -   [Nawilżanie](/atopedia/Nawilżanie "wikilink")
 -   [Emolienty](/atopedia/Emolienty "wikilink")
-
-[kategoria:pielęgnacja](/atopedia/kategoria:pielęgnacja "wikilink")

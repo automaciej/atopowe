@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Garnier_mleczko_do_ciała/"
 title = "Garnier mleczko do ciała"
+kategorie = [ "kosmetyki",]
 
 +++
 
@@ -41,7 +42,7 @@ Nie stosować na twarz.
 
 Aqua, paraffinum liquidum, glycerin, cyclopentasiloxane, elaesis guineensis, petrolatum, butyrospermum parkii (shea butter), cetearyl alcohol, aluminium starch octenylsuccinate, acer saccharinum, allanton, coco-glucoside, ammonium polyacrylodimethyl taurate, xanthan gum, disodium edta, imidazolidinyl urea, methylparaben, butylparaben, bht, parfum.
 
-[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")
+
 
 [1] Samoocena przeprowadzona przez 41 kobiet.
 

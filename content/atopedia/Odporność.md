@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Odporność/"
 title = "Odporność"
+kategorie = [ "ciało człowieka",]
 
 +++
 
@@ -17,5 +18,3 @@ Odporność dzielimy na :
 -   bierną (otrzymaną przez organizm)
 -   naturalną (uzyskiwaną od matki wraz z [przeciwciałami](/atopedia/Przeciwciało "wikilink") przenikającymi przez łożysko, lub znajdującymi się w mleku matki)
 -   sztuczną (po otrzymaniu surowicy)
-
-[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

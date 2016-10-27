@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Kora_dębu/"
 title = "Kora dębu"
+kategorie = [ "wpadki",]
 
 +++
 
@@ -10,5 +11,3 @@ Kora dębu ma pomagać na pęknięcia, odmrożenia, oparzenia [skóry](/atopedia
 **Zobacz także**
 
 -   [Oryginalny post z forum](http://www.atopowe.pl/forum/viewtopic.php?p=2666#2666)
-
-[kategoria:wpadki](/atopedia/kategoria:wpadki "wikilink")

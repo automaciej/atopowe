@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Puchnięcie/"
 title = "Puchnięcie"
+kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -22,5 +23,3 @@ Puchnięcie zdaje się być związane z [infekcjami](/atopedia/Infekcja_skóry "
 -   [Wysięk](/atopedia/Wysięk "wikilink")
 -   [Infekcja skóry](/atopedia/Infekcja_skóry "wikilink")
 -   [Reakcja alergiczna](/atopedia/Reakcja_alergiczna "wikilink")
-
-[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

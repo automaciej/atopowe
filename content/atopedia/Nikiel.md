@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Nikiel/"
 title = "Nikiel"
+kategorie = [ "Alergeny", "substancje chemiczne",]
 
 +++
 
@@ -53,5 +54,3 @@ Osoby uczulone na nikiel powinny stosować dietę polegającą na eliminacji pok
 -   [Nikiel - alergen wyjątkowy](http://www.radoslawspiewak.net/2006-3p.htm) Śpiewak R, Piętowska J.
 -   [Alergia na nikiel, chrom i kobalt](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=12&t=855) - wątek na Forum
 -   [Alergia kontaktowa](/atopedia/Alergia_kontaktowa "wikilink")
-
-[Kategoria:Alergeny](/atopedia/Kategoria:Alergeny "wikilink") [kategoria:substancje chemiczne](/atopedia/kategoria:substancje_chemiczne "wikilink")

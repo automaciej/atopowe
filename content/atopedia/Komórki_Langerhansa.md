@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Komórki_Langerhansa/"
 title = "Komórki Langerhansa"
+kategorie = [ "ciało człowieka",]
 
 +++
 
@@ -18,5 +19,3 @@ U osób z [AZS](/atopedia/Atopowe_zapalenie_skóry "wikilink") stwierdza się zw
 **Zobacz też**
 
 -   [Komórki tuczne](/atopedia/Komórki_tuczne "wikilink")
-
-[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

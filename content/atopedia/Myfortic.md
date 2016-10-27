@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Myfortic/"
 title = "Myfortic"
+kategorie = [ "Ulotki leków", "Leki immunosupresyjne",]
 
 +++
 
@@ -249,5 +250,3 @@ Novartis Poland Sp. z o.o.
 ul. Marynarska 15
 02-674 Warszawa
 tel.: + 48 22 375 48 88
-
-[kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink") [kategoria:Leki immunosupresyjne](/atopedia/kategoria:Leki_immunosupresyjne "wikilink")

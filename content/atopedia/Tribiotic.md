@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Tribiotic/"
 title = "Tribiotic"
+kategorie = [ "antybiotyki", "maści", "ulotki leków",]
 
 +++
 
@@ -72,5 +73,3 @@ Ciąża i karmienie piersią:
 --------------------------
 
 Ze względu na brak odpowiednich badań nie należy stosować leku w okresie ciąży i u kobiet karmiących piersią. Przed zastosowaniem leku należy poradzić się lekarza.
-
-[kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

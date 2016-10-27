@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pimafucort/"
 title = "Pimafucort"
+kategorie = [ "kremy", "maści", "leki sterydowe", "antybiotyki", "ulotki leków",]
 
 +++
 
@@ -40,5 +41,3 @@ Yamanouchi Europe BV Holandia
 lub występuje pod
 
 Wytwórca Temmier Italia S.R.L. Via Delle industrie 2 20061 (Mi) Carugate,Włochy
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

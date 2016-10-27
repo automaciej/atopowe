@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Maści_przeciwgrzybicze/"
 title = "Maści przeciwgrzybicze"
+kategorie = [ "maści", "Przepisy na maści robione",]
 
 +++
 
@@ -24,5 +25,3 @@ title = "Maści przeciwgrzybicze"
 *Vaselini flavi*
 *Eucerini aa ad 100,0*
 *M.f.ung.*
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

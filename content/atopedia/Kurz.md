@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Kurz/"
 title = "Kurz"
+kategorie = [ "Alergeny",]
 
 +++
 
@@ -13,5 +14,3 @@ Osoba z [atopowym zapaleniem skóry](/atopedia/azs "wikilink") "produkuje" bardz
 
 -   [Mieszkanie alergika](/atopedia/Mieszkanie_alergika "wikilink")
 -   [Odkurzacz wodny](/atopedia/Odkurzacz_wodny "wikilink")
-
-[Kategoria:Alergeny](/atopedia/Kategoria:Alergeny "wikilink")

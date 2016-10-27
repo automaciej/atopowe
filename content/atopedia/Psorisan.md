@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Psorisan/"
 title = "Psorisan"
+kategorie = [ "ulotki leków", "maści", "maści z dziegciem",]
 
 +++
 
@@ -44,5 +45,3 @@ Brak
 ### Dawkowanie
 
 Chorobowo zmienione miejsca smarować maścią 1-2 razy dziennie.
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:maści z dziegciem](/atopedia/kategoria:maści_z_dziegciem "wikilink")

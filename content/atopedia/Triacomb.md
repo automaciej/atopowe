@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Triacomb/"
 title = "Triacomb"
+kategorie = [ "kremy", "leki sterydowe", "antybiotyki", "ulotki leków",]
 
 +++
 
@@ -31,5 +32,3 @@ Preparat do stosowania zewnętrznego o działaniu przeciwzapalnym, przeciwświą
 ### Dawkowanie
 
 Krem nakłada się 2-3 razy dziennie na chorobowo zmienioną powierzchnię skóry.
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

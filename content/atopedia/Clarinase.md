@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Clarinase/"
 title = "Clarinase"
+kategorie = [ "leki antyhistaminowe", "leki antyhistaminowe II generacji", "ulotki leków",]
 
 +++
 
@@ -54,5 +55,3 @@ Przyjecie wielu tabletek jednocześnie może powodować wskutek działania pseud
 -wywołać wymioty, o ile pacjent jest przytomny, -podać węgiel aktywny dla absorbcji leku pozostającego jeszcze w żołądku , -jeżeli wymiotów nie udało się wywołać( lub były niedostateczne) należy przeprowadzić płukanie żołądka -jeżeli u dziecka po przypadkowym przyjęciu leku wystąpi gorączka należy je schłodzić w letniej wodzie
 
 **Opakowanie:** Opakowanie po 10 tabletek. Lek przechowywać w temperaturze od 2 do 30 st C.Chronić przed wilgotnym powietrzem.
-
-[kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

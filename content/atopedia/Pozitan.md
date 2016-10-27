@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pozitan/"
 title = "Pozitan"
+kategorie = [ "ulotki leków", "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
 
 +++
 
@@ -47,5 +48,3 @@ Zawsze przechowuj lek w zamkniętym i oryginalnym opakowaniu. Przygotowany syrop
 
 `   Pozitan (Glaxo Wellcome S.A.) tabletki 1mg, 50 tabl. w blistrach`
 `   Pozitan (Glaxo Wellcome S.A.) tabletki 1mg, 50 tabl. w pojemniku`
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe I generacji](/atopedia/kategoria:leki_antyhistaminowe_I_generacji "wikilink")

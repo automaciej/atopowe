@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Skóra/"
 title = "Skóra"
+kategorie = [ "Ciało człowieka",]
 
 +++
 
@@ -33,5 +34,3 @@ Warstwa podstawna zawiera również melanocyty, które produkują [melaninę](/a
 #### Warstwa rogowa
 
 Jest to najgrubsza warstwa naskórka – składa się z kilku (do 12) rzędów komórek wielobocznych. W **warstwie rogowej** naskórek ulega [rogowaceniu](/atopedia/Rogowacenie "wikilink"), tzn. obumiera i złuszcza się. Proces ten polega na wytwarzaniu i wydzielaniu przez komórki rogowe substancji zwanej keratyną.
-
-[kategoria:Ciało człowieka](/atopedia/kategoria:Ciało_człowieka "wikilink")

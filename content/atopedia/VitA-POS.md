@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/VitA-POS/"
 title = "VitA-POS"
+kategorie = [ "maści", "ulotki leków",]
 
 +++
 
@@ -78,5 +79,3 @@ Industriestrasse
 66129 Saarbrucken
 
 Niemcy
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

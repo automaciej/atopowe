@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atopic_Dermo_Balm/"
 title = "Atopic Dermo Balm"
+kategorie = [ "kosmetyki", "ulotki leków",]
 
 +++
 
@@ -46,5 +47,3 @@ Składniki INCI:
 Aqua, Canola (Canola) Oil, Glycerin, Parafinum Liquidum, Sucrose Distearate, Dimethicone, Pentylene Glycol, Cetyl Alcohol, Panthenol, Sucrose Stearate, Pinus Sibirica Seed Oil, Carbomer, Triethanolamine, Allantoin, Xanthan Gum, BHA, CI 77820
 
 Pojemność: 280 ml
-
-[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

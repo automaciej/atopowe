@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Choroba_psychosomatyczna/"
 title = "Choroba psychosomatyczna"
+kategorie = [ "Psychika",]
 
 +++
 
@@ -21,5 +22,3 @@ Wszystko to sprzyja powstaniu [błędnego koła w AZS](/atopedia/efekt_błędneg
 **Linki zewnętrzne**
 
 -
-
-[kategoria:Psychika](/atopedia/kategoria:Psychika "wikilink")

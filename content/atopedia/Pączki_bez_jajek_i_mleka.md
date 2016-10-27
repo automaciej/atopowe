@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pączki_bez_jajek_i_mleka/"
 title = "Pączki bez jajek i mleka"
+kategorie = [ "przepisy",]
 
 +++
 
@@ -28,5 +29,3 @@ Opis:
 3.  Do wrobionego ciasta dodać rozpuszczone masło, spirytus i parę kropli zapachu. Dobrze wyrobić ciasto dopóki nie będzie jednolite i gładko odchodzić od miski i rąk. Następnie wyrobione ciasto odstawić przekryte dobrze ściereczką w ciepie miejsce.
 4.  Gdy ciasto podwoi swoją objętość po kawałku rozwałkowywać i wykrajać szklanką (brzegi szklanki obtoczone w mące) po 2 krążki. Na jeden nakładać łyżeczkę marmolady i oba dobrze zaklejać, uformować i odłożyć po ściereczkę na ok. 15 min. do wyrośnięcia.
 5.  Smażyć w głębokim oleju z obu stron. Upieczone wyjąc na serwetki lub ręczniczki papierowe (aby wsiąkły tłuszcz) i posypać cukrem pudrem.
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

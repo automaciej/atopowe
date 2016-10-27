@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Squamax/"
 title = "Squamax"
+kategorie = [ "ulotki leków", "preparaty zawierające mocznik", "kosmetyki",]
 
 +++
 
@@ -35,5 +36,3 @@ Dostępne opakowanie:
 SQUAMAX emulsja -tuba o zawartości 200 ml oraz opakowanie jednokrotnego użytku o zawartości 15 ml.
 
 Przed zastosowaniem preparatu należy zapoznać się z treścią ulotki dołączonej do opakowania bądź skonsultować się z lekarzem lub farmaceutą.
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

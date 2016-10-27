@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Maści_tłuste/"
 title = "Maści tłuste"
+kategorie = [ "maści", "Przepisy na maści robione",]
 
 +++
 
@@ -44,5 +45,3 @@ Jest to maść z lekkim sterydem (hydrokortyzon), działa przeciwświądowo i pr
 *Ung. Cholesteroli ad 200,0*
 
 *M.f.Ung.*
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

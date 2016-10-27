@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Remicade/"
 title = "Remicade"
+kategorie = [ "Ulotki leków",]
 
 +++
 
@@ -488,5 +489,3 @@ ul. Chłodna 51
 00-867 Warszawa
 Polska
 Tel: +48 22 549 51 00
-
-[kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink")

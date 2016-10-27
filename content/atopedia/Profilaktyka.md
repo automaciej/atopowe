@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Profilaktyka/"
 title = "Profilaktyka"
+kategorie = [ "pielęgnacja",]
 
 +++
 
@@ -29,5 +30,3 @@ Najbardziej znienawidzonym odczuciem i największym wrogiem osoby chorej na AZS 
 -   unikanie [stresu](/atopedia/stres "wikilink")
 -   unikaniu i wczesnym leczeniu wszelkich zakażeń bakteryjnych w organizmie (np.: stan zapalny zęba, przeziębienie, stan zapalny zatok)
 -   unikanie pocenia - chorej skórze sprzyja wietrzenie, noszenie luźnych ubrań
-
-[kategoria:pielęgnacja](/atopedia/kategoria:pielęgnacja "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Neutrogena_krem_do_rąk/"
 title = "Neutrogena krem do rąk"
+kategorie = [ "kremy",]
 
 +++
 
@@ -16,5 +17,3 @@ Silnie skoncentrowany, bardzo wydajny - wystarcza na ponad dwieście zastosowań
 **Skład**
 
 Aqua, Glycerin, Cetearyl Alkohol, Stearic Acid, Palmitic Acid, Sodium Cetearyl Sulfate, Dilauryl Thiodipropiononate, Sodium Sulfate, Methylparaben, Propylparaben, Parfum.
-
-[Kategoria:kremy](/atopedia/Kategoria:kremy "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Elocom/"
 title = "Elocom"
+kategorie = [ "ulotki leków", "maści", "leki sterydowe",]
 
 +++
 
@@ -55,5 +56,3 @@ Bardzo rzadko - reakcje uczuleniowe, świąd skóry, objawy zaniku skóry, łojo
 #### Miejsce wytwarzania
 
 Schering-Plough Labo N.V., Heist-op-den-Berg, Belgia
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

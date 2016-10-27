@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lorinden_A/"
 title = "Lorinden A"
+kategorie = [ "leki sterydowe", "maści", "ulotki leków",]
 
 +++
 
@@ -210,5 +211,3 @@ tel. (075) 643 31 02
 fax. (075) 752 44 55
 
 e-mail: jelfa@jelfa.com.pl
-
-[kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

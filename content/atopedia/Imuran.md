@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Imuran/"
 title = "Imuran"
+kategorie = [ "ulotki leków", "leki immunosupresyjne",]
 
 +++
 
@@ -242,7 +243,3 @@ GSK Commercial Sp. z o.o.
 ul. Rzymowskiego 53
 02-697 Warszawa
 Tel: +48 22 576 9000
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")
-
-[kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink")

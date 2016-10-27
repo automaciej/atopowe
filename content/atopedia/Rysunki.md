@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Rysunki/"
 title = "Rysunki"
+kategorie = [ "Serwis",]
 
 +++
 
@@ -18,5 +19,3 @@ komentarze na forum: <http://www.atopowe-zapalenie.pl/forum/viewtopic.php?p=1353
 [Grafika:sen.png](/Grafika:sen.png "wikilink") [Grafika:impreza.png](/Grafika:impreza.png "wikilink")
 
 [Grafika:witamy.png](/Grafika:witamy.png "wikilink") [Grafika:płaszcz.png](/Grafika:płaszcz.png "wikilink")
-
-[kategoria:Serwis](/atopedia/kategoria:Serwis "wikilink")

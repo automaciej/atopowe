@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Błona_śluzowa/"
 title = "Błona śluzowa"
+kategorie = [ "ciało człowieka",]
 
 +++
 
@@ -11,5 +12,3 @@ title = "Błona śluzowa"
 
 -   [Skóra](/atopedia/Skóra "wikilink")
 -   [Błona śluzowa](/atopedia/wikipedia:Błona_śluzowa "wikilink") w Wikipedii
-
-[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

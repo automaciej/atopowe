@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atopia/"
 title = "Atopia"
+kategorie = [ "przyczyny atopowego zapalenia skóry",]
 
 +++
 
@@ -24,5 +25,3 @@ Atopia obejmuje następujące choroby alergiczne:
 
 -   [Alergia atopowa - epidemia XX wieku?](http://www.sluzbazdrowia.com.pl/html/more2958d.php) - Profesor dr hab. med. Marek L. Kowalski, Kierownik Katedry i Zakładu Immunologii Klinicznej Akademii Medycznej w Łodzi
 -   [Atopia i alergie, Medycyna Praktyczna: Lekarze pacjentom](http://alergie.mp.pl/chorobyalergiczne/wartowiedziec/show.html?id=60213)
-
-[kategoria:przyczyny atopowego zapalenia skóry](/atopedia/kategoria:przyczyny_atopowego_zapalenia_skóry "wikilink")

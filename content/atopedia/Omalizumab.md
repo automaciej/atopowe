@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Omalizumab/"
 title = "Omalizumab"
+kategorie = [ "leki",]
 
 +++
 
@@ -100,5 +101,3 @@ Dnia 25 października 2005 r. Komisja Europejska przyznała firmie Novartis Euro
 Pełne sprawozdanie EPAR dla preparatu Xolair jest dostępne [tutaj](http://www.emea.europa.eu/humandocs/Humans/EPAR/xolair/xolair.htm).
 
 Data ostatniej aktualizacji: 05-2007.
-
-[kategoria:leki](/atopedia/kategoria:leki "wikilink")

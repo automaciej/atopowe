@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Batrafen/"
 title = "Batrafen"
+kategorie = [ "Leki przeciwgrzybicze", "kremy", "ulotki leków",]
 
 +++
 
@@ -36,5 +37,3 @@ Krem nanosi się 2 razy dziennie na chorobowo zmienioną skórę, delikatnie wci
 Wytwórca: Hoechst marion Roussel
 
 Niemcy, Frankfurt n/Menem
-
-[kategoria:Leki przeciwgrzybicze](/atopedia/kategoria:Leki_przeciwgrzybicze "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

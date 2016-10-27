@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Posterydowe_zapalenie_skóry/"
 title = "Posterydowe zapalenie skóry"
+kategorie = [ "objawy atopowego zapalenia skóry", "Sterydy",]
 
 +++
 
@@ -53,5 +54,3 @@ Zarówno posterydowe zapalenie skóry, jak i trądzik posterydowy ustępują bez
 -   [Skutki uboczne kortykosterydów](/atopedia/Skutki_uboczne_kortykosterydów "wikilink")
 -   [Europejska klasyfikacja kortykosterydów](/atopedia/Europejska_klasyfikacja_kortykosterydów "wikilink")
 -   [Problemy z lekarzami](/atopedia/Problemy_z_lekarzami "wikilink")
-
-[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink") [Kategoria:Sterydy](/atopedia/Kategoria:Sterydy "wikilink")

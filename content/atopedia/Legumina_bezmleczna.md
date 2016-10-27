@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Legumina_bezmleczna/"
 title = "Legumina bezmleczna"
+kategorie = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "dieta hipoalergiczna plus pszenica",]
 
 +++
 
@@ -21,5 +22,3 @@ title = "Legumina bezmleczna"
 **Uwagi:**
 
 -   Można podawać polaną sokiem.
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

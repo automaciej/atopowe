@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alergologia/"
 title = "Alergologia"
+kategorie = [ "Alergia",]
 
 +++
 
@@ -10,5 +11,3 @@ title = "Alergologia"
 **Zobacz też**
 
 -   [Alergia](/atopedia/Alergia "wikilink")
-
-[Kategoria:Alergia](/atopedia/Kategoria:Alergia "wikilink")

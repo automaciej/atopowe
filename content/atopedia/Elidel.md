@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Elidel/"
 title = "Elidel"
+kategorie = [ "kremy", "leki immunosupresyjne",]
 
 +++
 
@@ -25,5 +26,3 @@ Zobacz też
 -   [Gdzie kupić Elidel](/atopedia/Gdzie_kupić_Elidel "wikilink")
 -   [Elidel (ulotka)](/Elidel_(ulotka) "wikilink")
 -   [Protopic](/atopedia/Protopic "wikilink")
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink")

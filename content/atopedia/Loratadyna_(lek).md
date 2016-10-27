@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Loratadyna_(lek)/"
 title = "Loratadyna (lek)"
+kategorie = [ "leki antyhistaminowe", "leki antyhistaminowe II generacji", "leki doustne", "leki zawierające loratadynę", "ulotki leków",]
 
 +++
 
@@ -26,5 +27,3 @@ R06AX
 **Uwagi:** Loratadyna nie upośledza sprawności psychofizycznej, jednak w przypadku wystąpienia nasilonych działań niepożądanych należy zachować ostrożność podczas kierowania pojazdami i obsługi maszyn.
 
 Lek zawiera tą samą substancję czynną co [Claritine](/atopedia/Claritine "wikilink").
-
-[kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:leki zawierające loratadynę](/atopedia/kategoria:leki_zawierające_loratadynę "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

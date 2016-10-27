@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Spojówka/"
 title = "Spojówka"
+kategorie = [ " Ciało człowieka",]
 
 +++
 
@@ -10,5 +11,3 @@ title = "Spojówka"
 **Zobacz też**
 
 -   [Alergiczne zapalenie spojówek](/atopedia/Alergiczne_zapalenie_spojówek "wikilink")
-
-[kategoria: Ciało człowieka](/atopedia/kategoria:_Ciało_człowieka "wikilink")

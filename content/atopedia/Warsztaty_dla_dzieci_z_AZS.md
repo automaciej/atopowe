@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Warsztaty_dla_dzieci_z_AZS/"
 title = "Warsztaty dla dzieci z AZS"
+kategorie = [ "Fundacja Alabaster", "Życie towarzyskie atopików", "Atopowe zapalenie skóry u dzieci",]
 
 +++
 
@@ -44,5 +45,3 @@ Zgłoszenia, pytania, wyjaśnienia:
 Tel: 602 613 003 Monika Wyrzykowska
 
 Mail: fundacja@fundacja-alabaster.org
-
-[kategoria:Fundacja Alabaster](/atopedia/kategoria:Fundacja_Alabaster "wikilink") [kategoria:Życie towarzyskie atopików](/atopedia/kategoria:Życie_towarzyskie_atopików "wikilink") [kategoria:Atopowe zapalenie skóry u dzieci](/atopedia/kategoria:Atopowe_zapalenie_skóry_u_dzieci "wikilink")

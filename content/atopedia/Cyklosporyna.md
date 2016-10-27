@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Cyklosporyna/"
 title = "Cyklosporyna"
+kategorie = [ "substancje aktywne", "leki immunosupresyjne",]
 
 +++
 
@@ -46,7 +47,7 @@ Alternatywą dla immunosupresji systemowej (ogólnej) jest [immunosupresja miejs
 -   [Sandimmun Neoral](/atopedia/Sandimmun_Neoral "wikilink")
 
 <references />
-[kategoria:substancje aktywne](/atopedia/kategoria:substancje_aktywne "wikilink") [kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink")
+ 
 
 [1] Sternau D, Nowicki R - Zespół atopowego zapalenia skóry – nowa klasyfikacja, diagnostyka i leczenie - *Przew Lek 2004; 3: 40-49*
 

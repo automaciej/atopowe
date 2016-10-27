@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Nystatyna/"
 title = "Nystatyna"
+kategorie = [ "Leki przeciwgrzybicze",]
 
 +++
 
@@ -24,5 +25,3 @@ NYSTATYNA (POLFA-KRAKÓW) w postaci tabletek powlekanych (1 powlekana tabletka z
 NYSTATYNA (POLFA-KRAKÓW) w postaci zasypki (1 g proszku zawiera 100 000 j.m. nystatyny), którą stosujemy przy wyprzeniach drożdżakowatych, oraz zapobiegawczo przy nawracaniu drożdżyc skóry.
 
 NYSTATYNA (POLFA-KRAKÓW) w postaci substancji sypkiej (1 g proszku do receptury zawiera 2 000 000 j.m. nystatyny), którą stosujemy w grzybicach jamy ustnej, przewodu pokarmowego, pochwy i sromu, zapaleniu żołędzi, wyprzeń drożdżakowatych.
-
-[kategoria:Leki przeciwgrzybicze](/atopedia/kategoria:Leki_przeciwgrzybicze "wikilink")

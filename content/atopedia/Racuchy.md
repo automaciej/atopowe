@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Racuchy/"
 title = "Racuchy"
+kategorie = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna",]
 
 +++
 
@@ -22,5 +23,3 @@ title = "Racuchy"
 **Uwagi:**
 
 -   Do masy można dodać gotowanej kapusty lub innych warzyw w zależności, co dziecko je.
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Propaganda/"
 title = "Propaganda"
+kategorie = [ "Serwis",]
 
 +++
 
@@ -15,5 +16,3 @@ Button
 i kawałek kodu HTML do umieszczenia na stronie:
 
 \<a href="http://www.atopowe-zapalenie.pl"\>\<img src="http://www.atopowe-zapalenie.pl/mediawiki/images/e/ed/Atopowe-btn.png" alt="Atopowe zapalenie skóry" border="0"/\>\</a\>
-
-[kategoria:Serwis](/atopedia/kategoria:Serwis "wikilink")

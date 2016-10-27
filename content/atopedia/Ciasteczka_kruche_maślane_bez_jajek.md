@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Ciasteczka_kruche_maślane_bez_jajek/"
 title = "Ciasteczka kruche maślane bez jajek"
+kategorie = [ "przepisy",]
 
 +++
 
@@ -19,5 +20,3 @@ Pierwszych 5 składników delikatnie połączyć. Dodać przesianą mąkę, zagn
 Piekarnik 180 stopni, piec na papierze na blasze ok 15 min.
 
 Można ozdobić jak kto może ;)
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pokrzywka/"
 title = "Pokrzywka"
+kategorie = [ "Objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -10,5 +11,3 @@ Objawy przewlekłej pokrzywki to blade lub różowe, dobrze „obrysowane” wyk
 Pokrzywkę określamy jako przewlekłą, jeśli zmiany pojawiają się stale lub nawracają w okresie dłuższym niż 6 tygodni. Nawroty mogą występować codziennie lub okresowo, np. raz lub kilka razy w miesiącu. Toteż w przeciwieństwie do ostrej pokrzywki, która trwa od kilku godzin do 6 tygodni i nie pojawia się już więcej, pokrzywka przewlekła lub skłonność do jej wystąpienia może trwać przez wiele lat.
 
 Czasem dolegliwości nie są uciążliwe i sprowadzają się do lokalnego wysiewu wykwitów, czy bąbli, czasem jednak objawy są tak nasilone i dokuczliwe, że uniemożliwiają pracę zawodową i prowadzenie normalnego życia. Czasami przewlekłej pokrzywce towarzyszy skłonność do [wstrząsu anafilaktycznego](/atopedia/wstrząs_anafilaktyczny "wikilink"). Niekiedy objawy przewlekłej pokrzywki i obrzęku są zwiastunem ciężkich chorób układowych.
-
-[kategoria:Objawy atopowego zapalenia skóry](/atopedia/kategoria:Objawy_atopowego_zapalenia_skóry "wikilink")

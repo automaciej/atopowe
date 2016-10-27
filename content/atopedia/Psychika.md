@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Psychika/"
 title = "Psychika"
+kategorie = [ "Psychika",]
 
 +++
 
@@ -23,5 +24,3 @@ w łączeniu cech psychiki z objawami choroby.
 -   [Choroba psychosomatyczna](/atopedia/Choroba_psychosomatyczna "wikilink")
 -   [Atopia jako metafora](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?t=1407)
 -   [Czy skóra ma duszę?](http://www.uroda.com.pl/index.php?option=com_content&task=view&id=140&Itemid=46)
-
-[kategoria:Psychika](/atopedia/kategoria:Psychika "wikilink")

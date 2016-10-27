@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alergologiczne_badania_dodatkowe/"
 title = "Alergologiczne badania dodatkowe"
+kategorie = [ "alergia", "podstawowe wiadomości", "terapia",]
 
 +++
 
@@ -27,5 +28,3 @@ Stanowisko grupy specjalistów Polskiego Towarzystwa Dermatologicznego.
 W. Silny, M. Czarnecka-Operacz, W. Gliński, Z. Samochocki, D. Jenerowicz
 
 *Post Dermatol Alergol 2010; XXVII, 5: 365–383*
-
-[kategoria:alergia](/atopedia/kategoria:alergia "wikilink") [kategoria:podstawowe wiadomości](/atopedia/kategoria:podstawowe_wiadomości "wikilink") [kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

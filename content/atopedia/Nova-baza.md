@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Nova-baza/"
 title = "Nova-baza"
+kategorie = [ "ulotki leków", "maści",]
 
 +++
 
@@ -28,5 +29,3 @@ title = "Nova-baza"
 RK/123822/2004.
 
 **<http://www.blaufarma.pl>**
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink")

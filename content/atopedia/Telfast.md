@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Telfast/"
 title = "Telfast"
+kategorie = [ "leki antyhistaminowe", "leki antyhistaminowe III generacji", "leki doustne", "ulotki leków",]
 
 +++
 
@@ -160,5 +161,3 @@ W celu uzyskania bardziej szczegółowych informacji należy zwrócić się do p
 Sanofi-Aventis Sp. z o.o.
 ul. Bonifraterska 17
 00-203 Warszawa
-
-[kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/atopedia/kategoria:leki_antyhistaminowe_III_generacji "wikilink") [kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

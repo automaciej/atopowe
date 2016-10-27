@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Zapiekanka_warzywna/"
 title = "Zapiekanka warzywna"
+kategorie = [ "przepisy",]
 
 +++
 
@@ -23,5 +24,3 @@ title = "Zapiekanka warzywna"
 Na podobnej zasadzie można robić inne zapiekanki używając dowolnych, tolerowanych przez dziecko jarzyn. Zamiast ziemniaków można używać ryżu lub bezglutenowego makaronu.
 
 Nie podawać dzieciom uczulonym na którykolwiek ze składników.
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

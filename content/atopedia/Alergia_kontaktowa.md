@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alergia_kontaktowa/"
 title = "Alergia kontaktowa"
+kategorie = [ "Alergia",]
 
 +++
 
@@ -37,5 +38,3 @@ Alergeny kontaktowe
 
 -   [Alergia](/atopedia/Alergia "wikilink")
 -   [Alergia pokarmowa](/atopedia/Alergia_pokarmowa "wikilink")
-
-[Kategoria:Alergia](/atopedia/Kategoria:Alergia "wikilink")

@@ -1,7 +1,17 @@
 {{ partial "header.html" . }}
 
 	<main role="main">
-		<h2 class="list-title">{{ .Title }}</h2>
+		<h1>{{ .Title }}</h1>
+	  <h2 class="list-title">Kategorie</h2>
+    <ul class="list-unstyled list-inline inline">
+    {{ range $name, $taxonomy := .Site.Taxonomies.kategorie }}
+    <li>
+      <a href="{{ "/kategorie/" | relURL }}{{ $name | urlize }}/">{{ $name }}</a>
+      <span class="text-muted">({{ $taxonomy.Count }})</span>
+    </li>
+    {{ end }}
+    </ul>
+		<h2 class="list-title">Wszystkie artykuły</h2>
     <p>
       Użyj CTRL+F żeby wyszukać interesujący cię artykuł.
     </p>

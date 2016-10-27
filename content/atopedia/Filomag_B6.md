@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Filomag_B6/"
 title = "Filomag B6"
+kategorie = [ "leki", "leki doustne", "ulotki leków",]
 
 +++
 
@@ -165,5 +166,3 @@ Farmaceutyczna Spółdzielnia-Pracy FILOFARM ul.Pułaskiego 39, 85-619 Bydgoszcz
 ### Data opracowania ulotki:
 
 1999.04.22
-
-[kategoria:leki](/atopedia/kategoria:leki "wikilink") [kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

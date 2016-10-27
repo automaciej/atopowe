@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Protopic/"
 title = "Protopic"
+kategorie = [ "leki immunosupresyjne", "maści",]
 
 +++
 
@@ -41,5 +42,3 @@ Linki zewnętrzne
 -   [Streszczenie europejskiego sprawozdania oceniającego](http://www.ema.europa.eu/docs/pl_PL/document_library/EPAR_-_Summary_for_the_public/human/000374/WC500046825.pdf)
 -   [Ważne zalecenia dotyczące właściwego stosowania produktu leczniczego Protopic](http://www.urpl.gov.pl/system/article_attachments/attachments/3202/original/120423_DHCP_ver_PL_04May12_Final_approved.pdf?1336739340)
 -   [Strona producenta](http://www.astellas.eu/)
-
-[kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink")

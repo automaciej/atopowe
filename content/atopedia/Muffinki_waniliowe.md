@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Muffinki_waniliowe/"
 title = "Muffinki waniliowe"
+kategorie = [ "przepisy",]
 
 +++
 
@@ -24,5 +25,3 @@ Muffinki waniliowe (bez mleka, jajek, skrobi pszennej i glutenu,orzechów, soi)
 Nagrzać piekarnik do temperatury 180 stopni Celsjusza. Na małym ogniu podgrzewać przez 15 minut mleko z pesteczkami, wyskrobanymi z wanilii i strączkiem wanilii, aby mleko przeszło waniliowym smakiem i aromatem. Wyjąć strączek wanilii i odstawić mleko do wystygnięcia w temperaturze pokojowej. Kiedy mleko wystygnie, dodać do niego resztę składników płynnych , dobrze wymieszać. W osobnej misce wymieszać składniki sypkie. Wymieszać zawartość obu misek,wcale nie musi być dokładnie, napełniać foremki do 2/3 wysokości. Wrzucać do pieca i po ok 30 minutach kiedy patyczek jest suchy muffinki są gotowe.
 
 Mnie się zawsze udają. Są trochę za suche jak na mój gust,można je podawać np z dżemem, jeśli nie, można pomoczyć w masełku.
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

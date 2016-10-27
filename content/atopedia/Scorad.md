@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Scorad/"
 title = "Scorad"
+kategorie = [ "Podstawowe wiadomości",]
 
 +++
 
@@ -13,5 +14,3 @@ title = "Scorad"
 
 -   [Kalkulator SCORAD](http://adserver.sante.univ-nantes.fr/Compute.html)
 -   [Kurs SCORAD](http://adserver.sante.univ-nantes.fr/Scorad_Course/Course.html)
-
-[kategoria:Podstawowe wiadomości](/atopedia/kategoria:Podstawowe_wiadomości "wikilink")

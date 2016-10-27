@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Clatra/"
 title = "Clatra"
+kategorie = [ "Ulotki leków", "Leki antyhistaminowe", "Leki antyhistaminowe III generacji",]
 
 +++
 
@@ -239,5 +240,3 @@ Szwecja: Bilaxten 20 mg Tablett
 Wielka Brytania: Ilaxten 20 mg tablets
 
 '''Data zatwierdzenia ulotki: 02.02.2011 r. '''
-
-[kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink") [kategoria:Leki antyhistaminowe](/atopedia/kategoria:Leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe III generacji](/atopedia/kategoria:Leki_antyhistaminowe_III_generacji "wikilink")

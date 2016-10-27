@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Xerial/"
 title = "Xerial"
+kategorie = [ "preparaty zawierające mocznik", "emolienty",]
 
 +++
 
@@ -93,5 +94,3 @@ Krem KERMUREN 10
 -   Skład: Aqua, Urea, Petrolate, Cetearyl Alcohol, Polysorbate 40, Octyl Stereate, Propylene Glycol, Mineral Oil, Glyceryl Stereate, Parabens.
 -   Krem nie zawiera substancji zapachowych oraz barwników.
 -   Do nabycia w aptekach. Cena ok. 15 zł za tubkę 75 ml
-
-[kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

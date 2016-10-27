@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Korespondencja_z_NFZ/"
 title = "Korespondencja z NFZ"
+kategorie = [ "Refundacja i pisma",]
 
 +++
 
@@ -85,5 +86,3 @@ Ponadto do odwołania od ecyzji, Wnioskodawczyni dołączyła zaświadczenie lek
 W związku z tym po ponownym przeanalizowaniu sprawy i załączonej do odwołania dokumentacji, POW NFZ nie znalazł podstaw do zmiany stanowiska w poprzednio wydanej decyzji i w dniu 30.09.2004 podtrzymał decyzje odmowną.
 
 Wobec powyższego NFZ nie znajduje podstaw do zmiany swej decyzji i wnosi jak w petitum.
-
-[Kategoria:Refundacja i pisma](/atopedia/Kategoria:Refundacja_i_pisma "wikilink")

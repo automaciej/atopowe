@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Babeczki_cynamonowo_-_jabłkowe_bez_jajek/"
 title = "Babeczki cynamonowo - jabłkowe bez jajek"
+kategorie = [ "przepisy",]
 
 +++
 
@@ -26,5 +27,3 @@ Piekarnik nagrzać do 200 stopni, piec ok 20 min.
 Posypać cukrem trzcinowym lub cukrem pudrem
 
 Smacznego!
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Nizoral/"
 title = "Nizoral"
+kategorie = [ "Leki przeciwgrzybicze", "ulotki leków", "kremy", "szampony",]
 
 +++
 
@@ -36,5 +37,3 @@ gdy przyjmujesz jednocześnie: Chlorpropamid, Diabetol, Glibenklamid i inne dous
 Grzybica jest chorobą zakaźną przenoszoną przez kontakt osobisty, bieliznę i ręczniki. Używaj oddzielnych ręczników, pierz w gorącej wodzie bieliznę i pościel. Myj i dezynfekuj wannę oraz inne naczynia, w których się kąpiesz lub myjesz. Dbaj o higienę osobistą.
 
 Producent:Nizoral (Janssen Pharmaceutica N.V.)Belgia
-
-[kategoria:Leki przeciwgrzybicze](/atopedia/kategoria:Leki_przeciwgrzybicze "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:szampony](/atopedia/kategoria:szampony "wikilink")

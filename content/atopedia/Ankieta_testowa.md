@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Ankieta_testowa/"
 title = "Ankieta testowa"
+kategorie = [ "Ankieta",]
 
 +++
 
@@ -62,5 +63,3 @@ Dla ciekawskich, podsumowanie ankiety testowej, w formie podawanej przez pakiet 
      No :18                         none              :32
      Yes:26                         yes_limited_effect: 3
                                     yes_no_effect     : 9
-
-[kategoria:Ankieta](/atopedia/kategoria:Ankieta "wikilink")

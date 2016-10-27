@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Filtr_HEPA/"
 title = "Filtr HEPA"
+kategorie = [ "Alergeny",]
 
 +++
 
@@ -40,5 +41,3 @@ Przykłady wielkości kilku popularnych zanieczyszczeń powietrza:
 ### Zobacz też
 
 -   [Odkurzacz wodny](/atopedia/Odkurzacz_wodny "wikilink")
-
-[kategoria:Alergeny](/atopedia/kategoria:Alergeny "wikilink")

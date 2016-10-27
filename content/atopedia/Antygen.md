@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Antygen/"
 title = "Antygen"
+kategorie = [ "ciało człowieka",]
 
 +++
 
@@ -18,5 +19,3 @@ Istotną rolę w przebiegu opisanej reakcji stanowią [limfocyty T](/atopedia/li
 Warto wspomnieć o zjawisku konkurencji antygenowej. Jest to sytuacja, w której odpowiedź odpornościowa na dany antygen może ulegać przemianom za sprawą obecności innego antygenu.
 
 Głównym zadaniem przeciwciał jest wiązanie antygenu.
-
-[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

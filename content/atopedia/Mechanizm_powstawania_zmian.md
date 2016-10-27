@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Mechanizm_powstawania_zmian/"
 title = "Mechanizm powstawania zmian"
+kategorie = [ "Objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -24,5 +25,3 @@ Główna hipoteza zakłada, że przewlekły [stan zapalny skóry](/atopedia/stan
 -   nadmiernej produkcji i upośledzenia działania [limfocytów T](/atopedia/Limfocyty_T "wikilink") (upośledzenie mechanizmów komórkowych związanych z [reakcją immunologiczną](/atopedia/Reakcja_alergiczna "wikilink")) biorących udział w przebiegu procesu zapalnego
 
 Duże znaczenie w powstawaniu i utrzymywaniu się zmian skórnych w AZS ma tzw.: [defekt ektodermalny](/atopedia/defekt_ektodermalny "wikilink"); spowodowany jest prawdopodobnie zaburzeniami produkcji ceramidów i lipidów w skórze, co objawia się nadmierną suchością i łatwemu powstawaniu podrażnień skóry.
-
-[kategoria:Objawy atopowego zapalenia skóry](/atopedia/kategoria:Objawy_atopowego_zapalenia_skóry "wikilink")

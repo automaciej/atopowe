@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Cortineff/"
 title = "Cortineff"
+kategorie = [ "maści", "leki sterydowe", "ulotki leków",]
 
 +++
 
@@ -149,5 +150,3 @@ tel. (075) 64 33 102
 faks: (075) 752 44 55
 
 e-mail: jelfa@jelfa.com.pl
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

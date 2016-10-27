@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Astma_oskrzelowa/"
 title = "Astma oskrzelowa"
+kategorie = [ "astma",]
 
 +++
 
@@ -58,5 +59,3 @@ Pomocne mogą być również wykłady, podczas których omawiane są najnowsze m
 -   [Jak żyć z astmą oskrzelową](http://www.resmedica.pl/zdart12993.html)
 -   [Astma oskrzelowa, dokładne omówienie](http://www.astma.dzg.pl/)
 -   [Zespół astma -prurigo: obraz kliniczny i etiopatogeneza](http://www.alergia.org.pl/lek/archiwum/01_03/zespol.html) - prof. dr hab. n. med. Edward Rudzki
-
-[kategoria:astma](/atopedia/kategoria:astma "wikilink")

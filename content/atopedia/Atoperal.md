@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atoperal/"
 title = "Atoperal"
+kategorie = [ "ulotki leków", "strony ujednoznaczniające", "kosmetyki",]
 
 +++
 
@@ -19,5 +20,3 @@ Linia produktów dla dzieci:
 -   [Atoperal Baby krem](/atopedia/Atoperal_Baby_krem "wikilink")
 -   [Atoperal Baby pianka do mycia](/atopedia/Atoperal_Baby_pianka_do_mycia "wikilink")
 -   [Atoperal Baby szampon](/atopedia/Atoperal_Baby_szampon "wikilink")
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:strony ujednoznaczniające](/atopedia/kategoria:strony_ujednoznaczniające "wikilink") [kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Tormentiol/"
 title = "Tormentiol"
+kategorie = [ "maści", "ulotki leków",]
 
 +++
 
@@ -166,5 +167,3 @@ ul. Grunwaldzka 189
 60-322 Poznań
 
 tel. (61) 8601-200
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

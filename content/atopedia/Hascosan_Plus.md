@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Hascosan_Plus/"
 title = "Hascosan Plus"
+kategorie = [ "emolienty", "preparaty zawierające mocznik",]
 
 +++
 
@@ -28,5 +29,3 @@ Termin ważności 1 rok
 Kontakt informacyjny: tel. 71 352 95 22
 
 e-mail: marketing@hasco-lek.pl
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

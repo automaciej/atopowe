@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dexametazon/"
 title = "Dexametazon"
+kategorie = [ "substancje aktywne", "leki sterydowe", "ulotki leków",]
 
 +++
 
@@ -47,5 +48,3 @@ P.o. Dawkowanie indywidualne, w zależności od przebiegu choroby i stanu choreg
 ### Uwagi
 
 W czasie leczenia okulistycznego kontrolować ciśnienie wewnątrzgałkowe oraz rogówkę. Dawkę deksametazonu należy stopniowo zmniejszać w miarę ustępowania objawów do najmniejszej dawki skutecznej. Osoby noszące soczewki kontaktowe powinny zdejmować je w trakcie zakraplania leku i zakładać ponownie co najmniej 15 min później.
-
-[kategoria:substancje aktywne](/atopedia/kategoria:substancje_aktywne "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

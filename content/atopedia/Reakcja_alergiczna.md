@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Reakcja_alergiczna/"
 title = "Reakcja alergiczna"
+kategorie = [ "Alergia", "przyczyny atopowego zapalenia skóry",]
 
 +++
 
@@ -16,7 +17,3 @@ Osoby silnie uczulone (np.: na jad pszczół) powinny zawsze być w posiadaniu m
 **Zobacz też**
 
 -   [Alergia](/atopedia/Alergia "wikilink")
-
-[Kategoria:Alergia](/atopedia/Kategoria:Alergia "wikilink")
-
-[kategoria:przyczyny atopowego zapalenia skóry](/atopedia/kategoria:przyczyny_atopowego_zapalenia_skóry "wikilink")

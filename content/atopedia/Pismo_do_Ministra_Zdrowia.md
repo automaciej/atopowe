@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pismo_do_Ministra_Zdrowia/"
 title = "Pismo do Ministra Zdrowia"
+kategorie = [ "Refundacja i pisma",]
 
 +++
 
@@ -41,5 +42,3 @@ Panie Ministrze, zwracamy się z gorącą prośbą o refundację maści Protopic
 -   Kopie artykułów nt. badań klinicznych skuteczności stosowania maści Protopic 0,1% i 0,03% u chorych na AZS
 -   List otwarty z podpisami chorych osób oraz rodziców dzieci chorych na Atopowe Zapalenie Skóry (AZS), zgromadzonych na internetowych forach wymiany doświadczeń (należy wymienić te fora)
 -   List otwarty z podpisami chorych osób oraz rodziców dzieci chorych na Atopowe Zapalenie Skóry (AZS), zebranych na oddziałach dermatologii i w poradniach dermatologicznych
-
-[Kategoria:Refundacja i pisma](/atopedia/Kategoria:Refundacja_i_pisma "wikilink")

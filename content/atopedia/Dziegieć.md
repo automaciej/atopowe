@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dziegieć/"
 title = "Dziegieć"
+kategorie = [ "substancje aktywne",]
 
 +++
 
@@ -24,5 +25,3 @@ Przykłady maści z dziegciem sosnowym, stosowanej w leczeniu łuszczycy:
 
 -   [Maści z dziegciem](/atopedia/Maści_z_dziegciem "wikilink")
 -   [Jak to z dziegciem było](http://www.wigry.win.pl/kwartalnik/nr7_dziegiec.htm)
-
-[kategoria:substancje aktywne](/atopedia/kategoria:substancje_aktywne "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Diprogenta/"
 title = "Diprogenta"
+kategorie = [ "maści", "kremy", "leki sterydowe", "antybiotyki", "ulotki leków",]
 
 +++
 
@@ -62,5 +63,3 @@ Postać farmaceutyczna preparatu: Diprogenta (Schering-Plough Labo N.V.)
 -   maść -, 1 op. 30 g
 
 Producent Schering-Plough Labo N.V Belgia
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

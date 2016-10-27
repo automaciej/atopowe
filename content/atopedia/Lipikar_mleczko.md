@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lipikar_mleczko/"
 title = "Lipikar mleczko"
+kategorie = [ "emolienty",]
 
 +++
 
@@ -46,5 +47,3 @@ Kliniczna ocena skuteczności pod kontrolą dermatologa.
 -   **Bardzo dobra skuteczność:** oceniona na 8,3 punktów w 10-stopniowej skali
 -   **Łatwo przenika, łatwo się nakłada:** zdanie 90% badanych
 -   **Nawilżenie i komfort:** oceniona na 8,3 punktów w 10-stopniowej skali
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

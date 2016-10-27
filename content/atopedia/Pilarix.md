@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pilarix/"
 title = "Pilarix"
+kategorie = [ "emolienty", "kremy", "preparaty zawierające mocznik", "ulotki leków",]
 
 +++
 
@@ -40,5 +41,3 @@ Przeciwwskazania:
 -----------------
 
 nadwrażliwość na kwas salicylowy lub pozostałe składniki kremu, ciąża, okres karmienia piersią, wiek poniżej 12 roku życia, niewydolność nerek lub wątroby. Nie stosować w przypadku bakteryjnych, wirusowych lub grzybiczych zakażeń skóry. Nie stosować kremu na błony śluzowe, wargi, okolice moczowo-płciowe, do oczu i na skórę w okolicy oczu.
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

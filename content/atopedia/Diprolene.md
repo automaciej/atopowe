@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Diprolene/"
 title = "Diprolene"
+kategorie = [ "ulotki leków", "kremy", "maści", "leki sterydowe",]
 
 +++
 
@@ -109,5 +110,3 @@ Producent
 ---------
 
 Schering-Plough
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

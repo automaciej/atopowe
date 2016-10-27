@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Jak_stosować_Protopic_i_Elidel/"
 title = "Jak stosować Protopic i Elidel"
+kategorie = [ "leki immunosupresyjne", "terapia",]
 
 +++
 
@@ -50,7 +51,7 @@ Zasadniczo, przy leczeniu maścią Protopic powinno się smarować dwa razy dzie
 ### Bibliografia
 
 <references/>
-[kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink") [kategoria:terapia](/atopedia/kategoria:terapia "wikilink")
+ 
 
 [1]
 

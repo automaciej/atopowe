@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Ankieta/"
 title = "Ankieta"
+kategorie = [ "Ankieta",]
 
 +++
 
@@ -21,5 +22,3 @@ Ankieta testowa
 ===============
 
 Przez pewien czas była dostępna ankieta testowa. Sporo osób wypełniło tą ankietę i jest trochę danych. Przeczytaj więcej: [Ankieta testowa](/atopedia/Ankieta_testowa "wikilink")
-
-[kategoria:Ankieta](/atopedia/kategoria:Ankieta "wikilink")

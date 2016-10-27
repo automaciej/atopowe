@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atopiclair/"
 title = "Atopiclair"
+kategorie = [ "emolienty", "kremy", "ulotki leków",]
 
 +++
 
@@ -46,5 +47,3 @@ Nazwa Atopiclair® jest zastrzeżonym znakiem handlowym Sinclair Pharmaceuticals
 **Wytwórca:** Sinclair Pharma Srl, Viale Restelli 29, 20124 Mediolan, Włochy
 
 **Wyłączny dystrybutor na terenie Polski:** P.F. Jelfa S.A, ul. Wincentego Pola 21, 58-500 Jelenia Góra
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

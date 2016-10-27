@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Przebieg_atopowego_zapalenia_skóry/"
 title = "Przebieg atopowego zapalenia skóry"
+kategorie = [ "podstawowe wiadomości",]
 
 +++
 
@@ -62,5 +63,3 @@ U chorych na atopowe zapalenie skóry na skutek częstego drapania się płytki 
 
 1.  [Atopowe zapalenie skóry - pierwsza manifestacja kliniczna choroby alergicznej](http://www.jakowicki.pl/doc/Atopowe_zapalenie_skory_4.pdf), M. Wanat-Krzak, R. Kurzawa
 2.  [Diagnostyka i leczenie wyprysku atopowego](http://www.mediton.pl/library/aai_volume-11_issue-1_article-581.pdf), M. Wanat-Krzak, R. Kurzawa
-
-[kategoria:podstawowe wiadomości](/atopedia/kategoria:podstawowe_wiadomości "wikilink")

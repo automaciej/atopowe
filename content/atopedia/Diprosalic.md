@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Diprosalic/"
 title = "Diprosalic"
+kategorie = [ "leki sterydowe", "ulotki leków",]
 
 +++
 
@@ -195,5 +196,3 @@ Nr pozwolenia na import równoległy: 57/06
 Uwaga! Zachowaj ulotkę. Informacja na opakowaniu bezpośrednim w obcym języku.
 
 Data zatwierdzenia ulotki: 12.07.2005 10PO06
-
-[kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

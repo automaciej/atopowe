@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Cutibaza/"
 title = "Cutibaza"
+kategorie = [ "ulotki leków", "kremy",]
 
 +++
 
@@ -43,5 +44,3 @@ GlaxoSmithKline Pharmaceuticals S.A.
 ul. Grunwaldzka 189
 
 60-322 Poznań
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

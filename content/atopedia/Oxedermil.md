@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Oxedermil/"
 title = "Oxedermil"
+kategorie = [ "emolienty", "preparaty zawierające mocznik", "kremy",]
 
 +++
 
@@ -22,5 +23,3 @@ Rano i wieczorem, intensywnie wmasowując w wybrane miejsca skóry.
 ------------------------------------------------------------------------
 
 Produkty mogą być też stosowane w przypadku AZS czy łuszczycy, dostępne są tylko i wyłącznie w aptekach.
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

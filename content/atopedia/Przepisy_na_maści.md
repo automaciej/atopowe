@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Przepisy_na_maści/"
 title = "Przepisy na maści"
+kategorie = [ "maści",]
 
 +++
 
@@ -18,5 +19,3 @@ title = "Przepisy na maści"
 -   [Maści na trudnogojące się, zakażone i ropiejące rany](/Maści_na_trudnogojące_się,_zakażone_i_ropiejące_rany "wikilink")
 -   [Maści przeciwświerzbowe](/atopedia/Maści_przeciwświerzbowe "wikilink")
 -   [Maści przeciwgrzybicze](/atopedia/Maści_przeciwgrzybicze "wikilink")
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink")

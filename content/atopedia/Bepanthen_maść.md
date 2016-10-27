@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Bepanthen_maść/"
 title = "Bepanthen maść"
+kategorie = [ "maści", "ulotki leków",]
 
 +++
 
@@ -54,5 +55,3 @@ Preparat na ogół dobrze tolerowany. W razie pojawienia się reakcji skórnych 
 ### Przechowywanie
 
 Należy przechowywać tubkę szczelnie zamkniętą, w temperaturze do 25o C, w miejscu niedostępnym dla dzieci. Nie należy używać po upływie daty ważności umieszczonej na opakowaniu.
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

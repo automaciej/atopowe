@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Vanilla/"
 title = "Vanilla"
+kategorie = [ "serwis",]
 
 +++
 
@@ -25,5 +26,3 @@ Konkluzja
 ---------
 
 Sprzeciwów było na tyle dużo że zdecydowałem nie migrować forum.--[Wahwah](/atopedia/Wikipedysta:Wahwah "wikilink") 22 lis 2006 03:27 (PST)
-
-[kategoria:serwis](/atopedia/kategoria:serwis "wikilink")

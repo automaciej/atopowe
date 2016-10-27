@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Calcium/"
 title = "Calcium"
+kategorie = [ "leki doustne", "ulotki leków",]
 
 +++
 
@@ -156,5 +157,3 @@ ul. DREWNOWSKA 43/55 91-002 ŁÓDŹ
 ### Data sporządzenia ulotki:
 
 30.05.2000r.
-
-[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

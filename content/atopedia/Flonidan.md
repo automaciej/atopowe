@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Flonidan/"
 title = "Flonidan"
+kategorie = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe II generacji", "leki zawierające loratadynę", "ulotki leków",]
 
 +++
 
@@ -44,5 +45,3 @@ Dzieci od 2 do 12 lat (masa ciała poniżej 30 kg): 1 łyżeczka (5 ml) zawiesin
 Loratadyna może powodować objawy niepożądane o łagodnym przebiegu, takie jak: zmęczenie, ból głowy, suchość w ustach, senność. U poniżej 1% pacjentów obserwowano zwiększenie łaknienia, kaszel, zawroty głowy, nudności i kołatanie serca.
 
 Opakowanie: 10 tabletek
-
-[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [kategoria:leki zawierające loratadynę](/atopedia/kategoria:leki_zawierające_loratadynę "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

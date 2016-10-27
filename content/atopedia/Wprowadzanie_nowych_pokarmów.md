@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Wprowadzanie_nowych_pokarmów/"
 title = "Wprowadzanie nowych pokarmów"
+kategorie = [ "atopowe zapalenie skóry u dzieci", "diety",]
 
 +++
 
@@ -19,5 +20,3 @@ Zobacz także
 -   [Rozszerzenie diety. Jak to zrobić?](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=1&t=2231)
 -   [kompendium wiedzy na temat diety eliminacyjnej](http://forum.gazeta.pl/forum/72,2.html?f=578&w=8115172&s=0)
 -   [Spojrzenie na dietę eliminacyjną od trochę innej strony](http://forum.gazeta.pl/forum/72,2.html?f=578&w=16779661&v=2&s=0)
-
-[kategoria:atopowe zapalenie skóry u dzieci](/atopedia/kategoria:atopowe_zapalenie_skóry_u_dzieci "wikilink") [kategoria:diety](/atopedia/kategoria:diety "wikilink")

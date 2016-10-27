@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Treść_ulotki/"
 title = "Treść ulotki"
+kategorie = [ "Serwis",]
 
 +++
 
@@ -40,5 +41,3 @@ Na odwrocie
 -   istnieje specjalistyczny lek, który nie jest refundowany i przez to niedostępny dla najbardziej potrzebujących
 -   nie istnieje jedna przyczyna AZS - chorobę powoduje wiele czynników oraz interakcji pomiędzy czynnikami
 -   terapia AZS musi być wielopoziomowa i obejmować pielęgnację, leczenie, odczulanie i inne
-
-[kategoria:Serwis](/atopedia/kategoria:Serwis "wikilink")

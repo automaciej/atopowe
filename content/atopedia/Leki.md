@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Leki/"
 title = "Leki"
+kategorie = [ "terapia", "leki",]
 
 +++
 
@@ -26,5 +27,3 @@ oraz preparaty wspomagające leczenie:
 **Zobacz też**
 
 [Klasyfikacja leków](/atopedia/Klasyfikacja_leków "wikilink")
-
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink") [kategoria:leki](/atopedia/kategoria:leki "wikilink")

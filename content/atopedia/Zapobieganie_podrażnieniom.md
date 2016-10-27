@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Zapobieganie_podrażnieniom/"
 title = "Zapobieganie podrażnieniom"
+kategorie = [ "podstawowe wiadomości",]
 
 +++
 
@@ -27,5 +28,3 @@ Dodatkowym problemem jest temperatura: skóra rozgrzana ma większą tendencję 
 -   Plastyk (smoczek, pieluchy), guma (gumowe buty), impregnowane ubrania mogą wywołać [egzemę](/atopedia/Egzema "wikilink"), należy ich unikać.
 
 Jeśli skóra reaguje podczas infekcji (przeziębienia), należy przeczekać cierpliwie, aż infekcja minie. Stan skóry może pogorszyć się również w okresie ząbkowania.
-
-[kategoria:podstawowe wiadomości](/atopedia/kategoria:podstawowe_wiadomości "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Delatar/"
 title = "Delatar"
+kategorie = [ "maści z dziegciem", "maści", "ulotki leków",]
 
 +++
 
@@ -41,5 +42,3 @@ Delatar nakłada się na miejsca chorobowo zmienione dwa lub trzy razy dziennie.
 Tuby po 50 g.
 
 **Patrz:** [Maści z dziegciem](/atopedia/Maści_z_dziegciem "wikilink")
-
-[kategoria:maści z dziegciem](/atopedia/kategoria:maści_z_dziegciem "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

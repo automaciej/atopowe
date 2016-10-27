@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Stieprox/"
 title = "Stieprox"
+kategorie = [ "szampony", "ulotki leków", "leki przeciwgrzybicze",]
 
 +++
 
@@ -179,5 +180,3 @@ Data zatwierdzenia ulotki
 -------------------------
 
 Listopad 2010
-
-[kategoria:szampony](/atopedia/kategoria:szampony "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki przeciwgrzybicze](/atopedia/kategoria:leki_przeciwgrzybicze "wikilink")

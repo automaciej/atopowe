@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atoperal_Baby_emulsja_do_kąpieli/"
 title = "Atoperal Baby emulsja do kąpieli"
+kategorie = [ "emolienty",]
 
 +++
 
@@ -31,5 +32,3 @@ Butelka zawierająca 200 ml lub 500 ml emulsji do kąpieli, pakowane w kartonik 
 Produkt opracowany we współpracy z dermatologami. Przebadany dermatologicznie.
 
 **Produkt dostępny tylko w aptece.**
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

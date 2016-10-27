@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Unibasis/"
 title = "Unibasis"
+kategorie = [ "ulotki leków", "emolienty",]
 
 +++
 
@@ -35,5 +36,3 @@ Labolatorium Farmaceutyczno-Kosmetyczne
 Pampa Piaseczno ul. Kościuszki 24
 
 cena ok 8-10 zł
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

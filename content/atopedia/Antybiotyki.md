@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Antybiotyki/"
 title = "Antybiotyki"
+kategorie = [ "terapia",]
 
 +++
 
@@ -28,5 +29,3 @@ Antybiotyki w maściach:
 
 -   [Lista antybiotyków](/atopedia/:kategoria:Antybiotyki "wikilink") w Atopedii
 -   Artykuł w Wikipedii: [Antybiotyk](/atopedia/wikipedia:Antybiotyk "wikilink")
-
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

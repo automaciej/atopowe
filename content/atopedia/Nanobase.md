@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Nanobase/"
 title = "Nanobase"
+kategorie = [ "emolienty", "ulotki leków",]
 
 +++
 
@@ -94,5 +95,3 @@ Nr. telefonu: 22 5451111
 Astellas Pharma S.pA
 Via delle Industrie 1
 Carugate 20061 MI, Włochy
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

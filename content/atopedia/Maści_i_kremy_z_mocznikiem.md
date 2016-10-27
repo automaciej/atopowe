@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Maści_i_kremy_z_mocznikiem/"
 title = "Maści i kremy z mocznikiem"
+kategorie = [ "maści", "kremy", "preparaty zawierające mocznik", "Przepisy na maści robione",]
 
 +++
 
@@ -39,5 +40,3 @@ title = "Maści i kremy z mocznikiem"
 *Lanolini anhydrici 8,5*
 *Eucerini ad 100,0*
 *M.f.Ung.*
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

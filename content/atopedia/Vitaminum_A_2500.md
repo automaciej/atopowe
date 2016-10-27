@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Vitaminum_A_2500/"
 title = "Vitaminum A 2500"
+kategorie = [ "leki", "leki doustne", "ulotki leków",]
 
 +++
 
@@ -97,5 +98,3 @@ Przechowywać w oryginalnym opakowaniu, w temp. pokojowej (15-25°C), w miejscu 
 Przedsiębiorstwo Produkcji Farmaceutycznej HASCO-LEK S.A. 51-131 Wrocław,ul.Żmigrodzka 242 E
 **Pozwolenie nr 8549**
 **Data sporządzenia ulotki: 31.01.2001 r.**
-
-[kategoria:leki](/atopedia/kategoria:leki "wikilink") [kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

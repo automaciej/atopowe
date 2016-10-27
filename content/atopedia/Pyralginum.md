@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pyralginum/"
 title = "Pyralginum"
+kategorie = [ "ulotki leków",]
 
 +++
 
@@ -46,5 +47,3 @@ Doustnie. Dorośli: doraźnie 1-2 tabl., w bólach przewlekłych najczęściej 1
 W razie wystąpienia gorączki, bólu gardła, owrzodzeń błon śluzowych (np. w jamie ustnej) - natychmiast przerwać stosowanie leku. W razie zatrucia można stosować leczenie diurezą forsowaną lub dializą otrzewnową.
 
 producent-Polpharma sa Gdańsk
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

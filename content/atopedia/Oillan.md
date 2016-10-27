@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Oillan/"
 title = "Oillan"
+kategorie = [ "emolienty", "kremy",]
 
 +++
 
@@ -19,5 +20,3 @@ W skład marki Oillan wchodzi klika różnych grup produktów od emulsji natłus
 ------------------------------------------------------------------------
 
 Produkty dostępne są wyłącznie w aptekach.
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

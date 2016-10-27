@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Xerialine_Fluid/"
 title = "Xerialine Fluid"
+kategorie = [ "Emolienty", "Preparaty zawierające mocznik",]
 
 +++
 
@@ -18,5 +19,3 @@ title = "Xerialine Fluid"
 **Skład:** 1,5% mocznik, gliceryna, kwas mlekowy, masło Karite, alantoina.
 
 **Wiek:** Dzieci, dorośli. Opakowanie: Butelka z pompką 500 ml, Cena orientacyjna: 67 PLN (stan na 12.04.2006r.)
-
-[Kategoria:Emolienty](/atopedia/Kategoria:Emolienty "wikilink") [Kategoria:Preparaty zawierające mocznik](/atopedia/Kategoria:Preparaty_zawierające_mocznik "wikilink")

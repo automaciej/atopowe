@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atarax/"
 title = "Atarax"
+kategorie = [ "Leki antyhistaminowe", "Leki antyhistaminowe I generacji", "Ulotki leków",]
 
 +++
 
@@ -227,5 +228,3 @@ UCB Pharma Sp. z o.o.
 ul. Kruczkowskiego 8 00-380
 Warszawa
 Tel. +48 22 696 99 20
-
-[kategoria:Leki antyhistaminowe](/atopedia/kategoria:Leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe I generacji](/atopedia/kategoria:Leki_antyhistaminowe_I_generacji "wikilink") [kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink")

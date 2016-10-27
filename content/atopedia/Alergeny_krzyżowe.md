@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alergeny_krzyżowe/"
 title = "Alergeny krzyżowe"
+kategorie = [ "Alergeny",]
 
 +++
 
@@ -16,5 +17,3 @@ Zjawisko reaktywności krzyżowej alergenów pojawia się, gdy przeciwciała [Ig
 **Linki zewnętrzne**
 
 -   [Alergiczne reakcje krzyżowe - aspekty kliniczne i diagnostyczne](http://www.alergia.org.pl/lek.arch1/archiwum/03_02/reakrz.html)
-
-[Kategoria:Alergeny](/atopedia/Kategoria:Alergeny "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Mavena_B12/"
 title = "Mavena B12"
+kategorie = [ "ulotki leków", "maści",]
 
 +++
 
@@ -136,5 +137,3 @@ Wskazówki i dane dotyczące terminu ważności wyrobu medycznego Nie stosować 
 Preparat należy zużyć w ciągu 4 tygodni od otwarcia opakowania. Nr partii oraz termin ważności produktu: data umieszczona na zgrzewce tubki. Nie przechowywać w temperaturach poniżej 5°C oraz powyżej 25°C.
 
 **Przechowywać w miejscu niedostępnym dla dzieci**
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink")

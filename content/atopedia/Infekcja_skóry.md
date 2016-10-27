@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Infekcja_skóry/"
 title = "Infekcja skóry"
+kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -14,5 +15,3 @@ W przypadku ciężkich stanów, jeżeli nastąpi infekcja, działania takie jak 
 Infekcje skóry leczy się przy pomocy [antybiotyków](/atopedia/antybiotyki "wikilink"), stosowanych miejscowo w [maściach](/atopedia/Maść "wikilink") lub ogólnie, w postaci doustnej. Leczenie antybiotykowe jest istotnym elementem ogólnego, intensywnego leczenia ciężkich zaostrzeń atopowego zapalenia skóry.
 
 Alternatywą dla antybiotyków mogą być innego rodzaju terapie bakteriobójcze. Jednak antybiotyki są w medycynie konwencjonalnej stosowane najpowszechniej.
-
-[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

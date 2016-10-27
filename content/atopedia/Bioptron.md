@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Bioptron/"
 title = "Bioptron"
+kategorie = [ "Niekonwencjonalne metody leczenia",]
 
 +++
 
@@ -16,5 +17,3 @@ Jej skuteczność jest wątpliwa.
 <!-- -->
 
 -   [Does Bioptron VIP (Visible Incoherent Polarized) Light Therapy heal wounds and help with skin problems?](http://skeptics.stackexchange.com/questions/5017/does-bioptron-vip-visible-incoherent-polarized-light-therapy-heal-wounds-and-h)
-
-[kategoria:Niekonwencjonalne metody leczenia](/atopedia/kategoria:Niekonwencjonalne_metody_leczenia "wikilink")

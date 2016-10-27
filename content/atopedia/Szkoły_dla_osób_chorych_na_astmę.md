@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Szkoły_dla_osób_chorych_na_astmę/"
 title = "Szkoły dla osób chorych na astmę"
+kategorie = [ "astma",]
 
 +++
 
@@ -62,5 +63,3 @@ Gdańsk
 (58)349 16 25, sobota,dla każdego,bezpłatne,szkolenia dla astmatyków
 
 *(2005-04-29)*
-
-[kategoria:astma](/atopedia/kategoria:astma "wikilink")

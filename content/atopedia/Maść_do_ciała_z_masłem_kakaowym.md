@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Maść_do_ciała_z_masłem_kakaowym/"
 title = "Maść do ciała z masłem kakaowym"
+kategorie = [ "maści", "Przepisy na maści robione",]
 
 +++
 
@@ -21,5 +22,3 @@ Rp.
 *Aquae destillatae 10,0*
 *Lekobaza ad 100,0*
 *M.f.Cremor''
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

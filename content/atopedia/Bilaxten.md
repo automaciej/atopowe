@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Bilaxten/"
 title = "Bilaxten"
+kategorie = [ "Ulotki leków", "Leki antyhistaminowe", "Leki antyhistaminowe III generacji",]
 
 +++
 
@@ -201,5 +202,3 @@ Portugalia: Bilaxten 20 mg Comprimido
 Hiszpania:Bilaxten 20 mg Comprimido
 
 '''Data zatwierdzenia ulotki: '''2011-02-02
-
-[kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink") [kategoria:Leki antyhistaminowe](/atopedia/kategoria:Leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe III generacji](/atopedia/kategoria:Leki_antyhistaminowe_III_generacji "wikilink")

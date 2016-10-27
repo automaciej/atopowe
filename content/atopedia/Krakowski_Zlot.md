@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Krakowski_Zlot/"
 title = "Krakowski Zlot"
+kategorie = [ "Spotkania",]
 
 +++
 
@@ -24,4 +25,3 @@ W sobotę 13.10.2007 odbyło się małe, krakowskie spotkanie.
 
 <div style="clear: both">
 </div>
-[kategoria:Spotkania](/atopedia/kategoria:Spotkania "wikilink")

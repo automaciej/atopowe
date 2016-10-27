@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/PUVA/"
 title = "PUVA"
+kategorie = [ "terapia",]
 
 +++
 
@@ -39,5 +40,3 @@ Dla dzieci i dorosłych:
 
 -   [Światłoterapia](/atopedia/Światłoterapia "wikilink")
 -   [Gronkowiec złocisty](/atopedia/Gronkowiec_złocisty "wikilink")
-
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

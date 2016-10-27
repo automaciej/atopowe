@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Kąpiele/"
 title = "Kąpiele"
+kategorie = [ "pielęgnacja",]
 
 +++
 
@@ -73,5 +74,3 @@ Po kąpieli nie należy skóry energicznie wycierać, a jedynie lekko osuszyć.
 Chory na AZS może wpaść w błędne koło kąpieli: [skóra](/atopedia/Skóra "wikilink") mu dokucza, więc idzie się kąpać, po kąpieli przez chwilę jest lepiej, po czym pomimo natłuszczania skóra staje się bardziej sucha niż była przed kąpielą. Jest to sprawa indywidualna, ale może być tak, że codzienne kąpiele mogą doprowadzić do objawów takich jak np. ból dużych powierzchni skóry.
 
 Należy pamiętać też, że po kąpielach bardzo ważne jest [natłuszczanie](/atopedia/natłuszczanie "wikilink") skóry, najlepiej jeszcze lekko wilgotnej.
-
-[kategoria:pielęgnacja](/atopedia/kategoria:pielęgnacja "wikilink")

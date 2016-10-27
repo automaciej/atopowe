@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Prometazyna/"
 title = "Prometazyna"
+kategorie = [ "leki antyhistaminowe", "Leki antyhistaminowe I generacji", "ulotki leków",]
 
 +++
 
@@ -46,5 +47,3 @@ I.m. głęboko i powoli 1 mg/kg mc./d.
  Lek może powodować upośledzenie sprawności psychofizycznej, zdolności prowadzenia pojazdów mechanicznych i obsługiwania urządzeń mechanicznych w ruchu. Podczas leczenia nie należy spożywać alkoholu. Prometazyna może powodować fałszywie-dodatnie lub fałszywie-ujemne wyniki immunologicznych testów ciążowych. Zaleca się przerwanie podawania leków przeciwhistaminowych 72 h przed wykonaniem testów skórnych.
 
 Nazwa handlowa w Polsce: **[Diphergan](/atopedia/Diphergan "wikilink")**
-
-[kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe I generacji](/atopedia/kategoria:Leki_antyhistaminowe_I_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

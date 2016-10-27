@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Głodówka_lecznicza/"
 title = "Głodówka lecznicza"
+kategorie = [ "niekonwencjonalne metody leczenia", "diety",]
 
 +++
 
@@ -31,5 +32,3 @@ Głodówka nie pozwoliła mi trwale wyjść z ciężkiego stanu, jednak zmniejsz
 **Linki zewnętrzne:**
 
 <http://www.glodowka.pl/>
-
-[kategoria:niekonwencjonalne metody leczenia](/atopedia/kategoria:niekonwencjonalne_metody_leczenia "wikilink") [kategoria:diety](/atopedia/kategoria:diety "wikilink")

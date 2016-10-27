@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Ulotka_portalu/"
 title = "Ulotka portalu"
+kategorie = [ "Serwis",]
 
 +++
 
@@ -35,5 +36,3 @@ Treść ulotki
 ------------
 
 Zobacz też: [treść ulotki](/atopedia/treść_ulotki "wikilink").
-
-[kategoria:Serwis](/atopedia/kategoria:Serwis "wikilink")

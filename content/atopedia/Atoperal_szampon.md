@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atoperal_szampon/"
 title = "Atoperal szampon"
+kategorie = [ "szampony", "preparaty zawierające mocznik",]
 
 +++
 
@@ -53,5 +54,3 @@ Atoperal szampon z linii specjalistycznych produktów dermatologicznych BLAU FAR
 Produkt nie zawiera sztucznych substancji barwiących.
 
 Produkt nietestowany na zwierzętach.
-
-[kategoria:szampony](/atopedia/kategoria:szampony "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

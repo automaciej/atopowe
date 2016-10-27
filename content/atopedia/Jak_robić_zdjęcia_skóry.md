@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Jak_robić_zdjęcia_skóry/"
 title = "Jak robić zdjęcia skóry"
+kategorie = [ "pomoc",]
 
 +++
 
@@ -55,5 +56,3 @@ Za długi czas naświetlania, zdjęcie jest rozmazane (pomimo ostrości ustawion
 **Zobacz też**
 
 -   [Zdjęcia](/atopedia/Zdjęcia "wikilink")
-
-[kategoria:pomoc](/atopedia/kategoria:pomoc "wikilink")

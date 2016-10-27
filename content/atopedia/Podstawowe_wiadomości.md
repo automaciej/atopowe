@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Podstawowe_wiadomości/"
 title = "Podstawowe wiadomości"
+kategorie = [ "Podstawowe wiadomości",]
 
 +++
 
@@ -62,6 +63,6 @@ U [dzieci](/atopedia/dziecko "wikilink") zmiany skórne często związane są z 
 -   [Często zadawane pytania](/atopedia/Często_zadawane_pytania "wikilink")
 -   [Poprawa samopoczucia](/atopedia/Poprawa_samopoczucia "wikilink")
 
-[kategoria:Podstawowe wiadomości](/atopedia/kategoria:Podstawowe_wiadomości "wikilink")
+
 
 [1] *Choroby skóry i choroby przenoszone drogą płciową* prof. Dr hab. Stefania Jabłońska, prof. dr hab. Sławomir Majewski

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Duszność/"
 title = "Duszność"
+kategorie = [ "Astma",]
 
 +++
 
@@ -17,5 +18,3 @@ Może być objawem różnych chorób, w tym [astmy oskrzelowej](/atopedia/astma_
 -   przy wilgotnej, mglistej, chłodnej pogodzie
 
 Uczucie duszności w przebiegu astmy można różnicować z infekcją dróg oddechowych mierząc temperaturę ciała, która w przypadku duszności na tle alergicznym nie jest podwyższona. W większości przypadków duszność występuje rzadko, wymagając jedynie doraźnego stosowania leków. Ataki pojawiają się zwykle w nocy.
-
-[kategoria:Astma](/atopedia/kategoria:Astma "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alermed/"
 title = "Alermed"
+kategorie = [ "Leki antyhistaminowe", "leki antyhistaminowe II generacji", "Ulotki leków",]
 
 +++
 
@@ -187,5 +188,3 @@ Nie wszystkie rodzaje opakowań muszą znajdować się w obrocie.
 Przedsiębiorstwo Farmaceutyczne LEK-AM Sp. z o.o.
 ul. Ostrzykowizna 14A
 05-170 Zakroczym
-
-[Kategoria:Leki antyhistaminowe](/atopedia/Kategoria:Leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink") [Kategoria:Ulotki leków](/atopedia/Kategoria:Ulotki_leków "wikilink")

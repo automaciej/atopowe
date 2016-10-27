@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lipobase/"
 title = "Lipobase"
+kategorie = [ "Kremy", "ulotki leków", "emolienty",]
 
 +++
 
@@ -57,5 +58,3 @@ Via delle Industrie, 2
 Astellas Pharma Sp. z o.o.
 ul. Poleczki 21
 02-822 Warszawa, Polska
-
-[kategoria:Kremy](/atopedia/kategoria:Kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

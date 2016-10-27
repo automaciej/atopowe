@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Linia_przeciwsłoneczna_SVR/"
 title = "Linia przeciwsłoneczna SVR"
+kategorie = [ "kosmetyki",]
 
 +++
 
@@ -51,5 +52,3 @@ Wysoka ochrona przeciwsłoneczna skóry wrażliwej dla dzieci i dorosłych. Poł
 **Zastosowanie:**
 
 Podstawowa ochrona przeciwsłoneczna skóry wrażliwej dzieci i dorosłych. Połączenei ekranów mineralnych i chemicznych. Pojemność 100 ml.
-
-[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

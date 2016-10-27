@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Biszkopt_bez_jajek/"
 title = "Biszkopt bez jajek"
+kategorie = [ "przepisy", "dieta hipoalergiczna plus pszenica",]
 
 +++
 
@@ -21,5 +22,3 @@ Oddzielnie wymieszaj składniki suche i oddzielnie mokre. Następnie połącz i 
 Przepis już sprawdzony,ciasto na 100 % wychodzi a łatwiej przygotować niż tradycyjny biszkopt.
 
 *Źródło:* Alice Sherwood "Książka kucharska dla alergika"
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

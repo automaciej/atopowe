@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Epikrem/"
 title = "Epikrem"
+kategorie = [ "kremy",]
 
 +++
 
@@ -31,5 +32,3 @@ Skład
 -----
 
 Skład (INCI): Petrolatum, Lanolin, Allantoin, Aloe vera extract, Wheat germ oil, Evening primose oil, Witamin A palmitate, Glycerin, Lavendula officinalis oil, DMDM Hydantoin, Methylparaben, Ethylparaben, Phenoxyethanol.
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

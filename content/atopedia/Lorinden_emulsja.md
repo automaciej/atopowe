@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lorinden_emulsja/"
 title = "Lorinden emulsja"
+kategorie = [ "leki sterydowe", "ulotki leków",]
 
 +++
 
@@ -47,5 +48,3 @@ Ciąża i laktacja
 ----------------
 
 Wyjątkowo, ostrożnie i krótko można stosować u kobiet w ciąży i dzieci.
-
-[kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

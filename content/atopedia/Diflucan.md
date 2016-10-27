@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Diflucan/"
 title = "Diflucan"
+kategorie = [ "Leki przeciwgrzybicze", "ulotki leków",]
 
 +++
 
@@ -38,5 +39,3 @@ Zapytaj lekarza, jak stosować lek, gdy przyjmujesz jednocześnie: Chlorpropamid
 **Zapamiętaj!** Unikaj prowadzenia samochodu i obsługiwania skomplikowanych maszyn. Jeżeli objawy nie ustępują po kilku dniach stosowania leku, lub wręcz nasilają się, poinformuj o tym lekarza. Jeżeli chorujesz na cukrzycę, w czasie stosowania leku systematycznie kontroluj poziom cukru we krwi. Grzybica jest chorobą zakaźną, przenoszoną przez kontakt osobisty, bieliznę i ręczniki. Używaj oddzielnych ręczników, pierz w gorącej wodzie bieliznę i pościel. Myj i dezynfekuj wannę oraz inne naczynia, w których się kąpiesz lub myjesz. Dbaj o higienę osobistą.
 
 Zarejestrowane w Polsce postacie leku: 7 kapsułek x 50mg,28 kaps x 100mg,1 kapsułka x 150 mg,14 kaps x 200mg,Syrop 5 mg ml x 100ml Płyn do injekcji 2 mg /ml x 50ml Płyn do injekcji 2 mg /ml x 100ml Producent: Pfizer Francja Nazwa handlowa zastrzeżona dla Pfizer Inc. Nowy Jork, USa
-
-[kategoria:Leki przeciwgrzybicze](/atopedia/kategoria:Leki_przeciwgrzybicze "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

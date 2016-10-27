@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Wzór_historii_choroby/"
 title = "Wzór historii choroby"
+kategorie = [ "Refundacja i pisma",]
 
 +++
 
@@ -35,5 +36,3 @@ Ostre zapalenie spojówek i katar sienny
 ### Rokowania
 
 *(Rokowania co do dalszego przebiegu choroby. U większości będzie to informacja o tym że pacjent wymaga stałej opieki i stosowane terapie nie miały długotrwałego efektu (następowały nawroty choroby, etc.))*
-
-[Kategoria:Refundacja i pisma](/atopedia/Kategoria:Refundacja_i_pisma "wikilink")

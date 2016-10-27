@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pytania_do_pierwszej_edycji_ankiety/"
 title = "Pytania do pierwszej edycji ankiety"
+kategorie = [ "Ankieta",]
 
 +++
 
@@ -136,5 +137,3 @@ Profil psychiczny - jak siebie oceniasz?
 -   Ekstrawertyk/introwertyk
 
 *Tutaj przydałoby się coś więcej. Mamy na forum taki długi wątek o temperamencie u ludzi z AZS!* -- wahwah 2004-12-29, 21:17:33
-
-[kategoria:Ankieta](/atopedia/kategoria:Ankieta "wikilink")

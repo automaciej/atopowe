@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Wykład_dr_Ireny_Grzesiak/"
 title = "Wykład dr Ireny Grzesiak"
+kategorie = [ "multimedia", "Wykłady",]
 
 +++
 
@@ -346,5 +347,3 @@ Prosili mnie, żebym ja to wysłała. I pewnie wyślę.
 Nie chciałabym za bardzo o tym mówić, w tej chwili mogę powiedzieć, że jestem lekarzem tutaj, w Dolnośląskim Centrum Chorób Płuc i pracuję w Poradni Astmy i Alergii, tu na parterze. Jeżeli są kłopoty, to zapraszam. [...]
 
 Także, jak będą kłopoty, problemy, to serdecznie zapraszam. Faktycznie ja jestem pasjonatem tego tematu i bardzo mnie skóra interesuje. A myślę, że jak wrócę ze zjazdu, to będę jeszcze więcej o tym wiedziała.
-
-[kategoria:multimedia](/atopedia/kategoria:multimedia "wikilink") [kategoria:Wykłady](/atopedia/kategoria:Wykłady "wikilink")

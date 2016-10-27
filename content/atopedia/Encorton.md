@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Encorton/"
 title = "Encorton"
+kategorie = [ "leki sterydowe", "ulotki leków",]
 
 +++
 
@@ -66,5 +67,3 @@ Ciąża i karmienie
 Istnieje prawdopodobieństwo, że preparat oddziałuje na płód. Nie wolno zażywać leku w okresie ciąży. Preparat przenika do mleka matki, lecz jego oddziaływanie na karmione dziecko jest mało prawdopodobne. Zamiar stosowania leku podczas karmienia piersią należy jednak omówić z lekarzem.
 
 Stosowanie leku w okresie ciąży i karmienia piersią jest przeciwwskazane.
-
-[kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

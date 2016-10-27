@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Forum_dyskusyjne/"
 title = "Forum dyskusyjne"
+kategorie = [ "Serwis",]
 
 +++
 
@@ -19,5 +20,3 @@ Zapraszamy na forum dyskusyjne dotyczące atopowego zapalenia skóry.
 -   [ciąża a AZS](https://www.atopowe.pl/forum/viewtopic.php?f=3&t=4571)
 -   [Alkohol i AZS](https://www.atopowe.pl/forum/viewtopic.php?f=3&t=1580)
 -   [Też was tak drażni jak wam mówią żeby się nie drapać?](https://www.atopowe.pl/forum/viewtopic.php?f=14&t=166)
-
-[kategoria:Serwis](/atopedia/kategoria:Serwis "wikilink")

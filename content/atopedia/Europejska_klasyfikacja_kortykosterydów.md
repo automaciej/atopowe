@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Europejska_klasyfikacja_kortykosterydów/"
 title = "Europejska klasyfikacja kortykosterydów"
+kategorie = [ "terapia", "Sterydy",]
 
 +++
 
@@ -65,7 +66,7 @@ Stopień absorpcji preparatów kortykosterydowych
 9.  Powierzchnia grzbietowa rąk i stóp
 10. Dłonie, podeszwy stóp.
 
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink")
+
 
 Siła działania sterydów
 -----------------------
@@ -79,5 +80,3 @@ Grupa IV : [Polcortolon](/atopedia/Polcortolon "wikilink") maść, [Elocom](/ato
 Grupa V : Cutivate krem, [Laticort](/atopedia/Laticort "wikilink") maść, [Locoid](/atopedia/Locoid "wikilink"), [Flucinar](/atopedia/Flucinar "wikilink") krem, [Lorinden](/atopedia/Lorinden "wikilink") maść
 Grupa VI : [Polcortolon](/atopedia/Polcortolon "wikilink") krem, [Laticort](/atopedia/Laticort "wikilink") krem, [Lorinden](/atopedia/Lorinden "wikilink") krem
 Grupa VII : [Hydrokortyzon](/atopedia/Hydrokortyzon "wikilink") krem, [Dexapolcort](/atopedia/Dexapolcort "wikilink"), [Mecortolon](/atopedia/Mecortolon "wikilink") krem
-
-[Kategoria:Sterydy](/atopedia/Kategoria:Sterydy "wikilink")

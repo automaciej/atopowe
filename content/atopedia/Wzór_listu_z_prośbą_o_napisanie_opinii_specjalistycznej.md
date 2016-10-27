@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Wzór_listu_z_prośbą_o_napisanie_opinii_specjalistycznej/"
 title = "Wzór listu z prośbą o napisanie opinii specjalistycznej"
+kategorie = [ "Refundacja i pisma",]
 
 +++
 
@@ -76,5 +77,3 @@ Bardzo liczymy (atopicy z <http://www.atopowe.pl> i ja) na pomoc Pani Doktor / P
 Pozdrawiam,
 
 Imię i nazwisko
-
-[Kategoria:Refundacja i pisma](/atopedia/Kategoria:Refundacja_i_pisma "wikilink")

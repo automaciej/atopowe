@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pigmentum_Castellani/"
 title = "Pigmentum Castellani"
+kategorie = [ "ulotki leków", "leki przeciwgrzybicze",]
 
 +++
 
@@ -36,5 +37,3 @@ title = "Pigmentum Castellani"
 **Dostępne opakowanie:** Butelki ze szkła oranżowego o zawartości płynu 50 g i 125 g.
 
 **Pozwolenie na dopuszczenie do obrotu:** MZiOS Nr-R/2678
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki przeciwgrzybicze](/atopedia/kategoria:leki_przeciwgrzybicze "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pielęgnacja_dłoni/"
 title = "Pielęgnacja dłoni"
+kategorie = [ "Pielęgnacja",]
 
 +++
 
@@ -48,5 +49,3 @@ Ja zawsze przed biorę coś w rodzaju [Zyrteku](/atopedia/Zyrtec "wikilink"). Do
 ### Miejsce pracy
 
 Cokolwiek się nie robi miejsce pracy musi być utrzymane w czystości. Przedmioty, które wykorzystujemy w pracy najlepiej żeby wykorzystywane były wyłącznie przez nas (higiena).
-
-[kategoria:Pielęgnacja](/atopedia/kategoria:Pielęgnacja "wikilink")

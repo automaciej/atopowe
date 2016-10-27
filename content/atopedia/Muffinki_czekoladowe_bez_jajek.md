@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Muffinki_czekoladowe_bez_jajek/"
 title = "Muffinki czekoladowe bez jajek"
+kategorie = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna plus pszenica",]
 
 +++
 
@@ -34,5 +35,3 @@ title = "Muffinki czekoladowe bez jajek"
 -   Muffinki są tak pyszne (szczególnie w wersji z czekoladą), że zajadają się nimi nie-alergicy również :)
 
 **Źródło:** [Trochę inna cukiernia](http://pinkcake.blox.pl/2009/03/Muffinki-czekoladowe-DOSKONALE.html)
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

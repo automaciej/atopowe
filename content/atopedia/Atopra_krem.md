@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atopra_krem/"
 title = "Atopra krem"
+kategorie = [ "emolienty", "kremy", "ulotki leków",]
 
 +++
 
@@ -52,5 +53,3 @@ Nazwa i adres producenta: Przedsiębiorstwo Farmaceutyczne Jelfa SA 58-500 Jelen
 Nazwa i adres miejsca wytwarzania: Laboratorium Farmaceutyczne Homeofarm Sp. z o.o. ul. Jagiellońska 44, 80-366 Gdańsk
 
 <http://www.jelfa.pl>
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

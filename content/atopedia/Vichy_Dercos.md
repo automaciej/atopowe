@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Vichy_Dercos/"
 title = "Vichy Dercos"
+kategorie = [ "szampony",]
 
 +++
 
@@ -28,5 +29,3 @@ Stosować do każdego mycia włosów przez okres 3 tygodni, a następnie raz w t
 Preparat o lekkiej konsystencji i pomarańczowej barwie.
 
 Zapach mięty.
-
-[kategoria:szampony](/atopedia/kategoria:szampony "wikilink")

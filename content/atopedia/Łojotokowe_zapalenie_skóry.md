@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Łojotokowe_zapalenie_skóry/"
 title = "Łojotokowe zapalenie skóry"
+kategorie = [ "inne choroby skóry",]
 
 +++
 
@@ -15,5 +16,3 @@ Zmiany skórne mają postać [łuszczących się](/atopedia/Łuszczenie "wikilin
 -   klatka piersiowa
 
 Łojotokowe zapalenie skóry jest chorobą przewlekłą o charakterze nawrotowym. Dotyka osoby z tendencjami do łojotoku, który powoduje powstanie lekkiego stanu zapalnego skóry. Dochodzi wówczas do [infekcji](/atopedia/Infekcja_skóry "wikilink") i w konsekwencji wystąpienia zmian chorobowych.
-
-[kategoria:inne choroby skóry](/atopedia/kategoria:inne_choroby_skóry "wikilink")

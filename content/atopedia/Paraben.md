@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Paraben/"
 title = "Paraben"
+kategorie = [ "substancje chemiczne",]
 
 +++
 
@@ -15,7 +16,7 @@ Przypisy
 --------
 
 <references/>
-[kategoria:substancje chemiczne](/atopedia/kategoria:substancje_chemiczne "wikilink")
+
 
 [1] {{ cytuj stronę | url = <http://www.atopowe-zapalenie.pl/forum/viewtopic.php?p=79890#p79890> | tytuł = Szkodliwe składniki kosmetyków | autor = ilonka | lang = pl }}
 

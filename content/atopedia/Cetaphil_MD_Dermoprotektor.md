@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Cetaphil_MD_Dermoprotektor/"
 title = "Cetaphil MD Dermoprotektor"
+kategorie = [ "emolienty", "kosmetyki",]
 
 +++
 
@@ -26,5 +27,3 @@ Skład
 -----
 
 Aqua, Glycerin, Hydrogenated Polyisobutene Cetearyl Alcohol, Macademia Ternifolia, Tocopheryl Acetate, Dimethicone, Acrylates/C10-30, Alkyl Acrylate Crosspolymer, Benzyl Alcohol, Ceteareth-20, Farnesol, Panthenol, Sodium Hydroxide, Sorbic Acid, Stearoxytrimethylsilane, Stearyl Alcohol.
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

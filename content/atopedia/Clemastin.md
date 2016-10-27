@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Clemastin/"
 title = "Clemastin"
+kategorie = [ "leki doustne", "zastrzyki", "leki antyhistaminowe", "Leki antyhistaminowe I generacji", "ulotki leków",]
 
 +++
 
@@ -49,5 +50,3 @@ P.o. W postaci tabl. Dorośli: leczniczo 1 mg 2 razy na dobę, w razie potrzeby 
 **Preparaty:**
 
 clemastine
-
-[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:zastrzyki](/atopedia/kategoria:zastrzyki "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:Leki antyhistaminowe I generacji](/atopedia/kategoria:Leki_antyhistaminowe_I_generacji "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

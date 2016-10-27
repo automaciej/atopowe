@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Kliniki_dermatologii_i_alergologii/"
 title = "Kliniki dermatologii i alergologii"
+kategorie = [ "szpitale i lekarze",]
 
 +++
 
@@ -169,5 +170,3 @@ Szpital na Lesznie przeniesiony jest do Międzylesia
 **Zobacz też**
 
 -   [Polecani lekarze](/atopedia/Polecani_lekarze "wikilink")
-
-[kategoria:szpitale i lekarze](/atopedia/kategoria:szpitale_i_lekarze "wikilink")

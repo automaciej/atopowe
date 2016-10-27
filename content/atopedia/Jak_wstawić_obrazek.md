@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Jak_wstawić_obrazek/"
 title = "Jak wstawić obrazek"
+kategorie = [ "pomoc",]
 
 +++
 
@@ -20,5 +21,3 @@ Obrazek zawsze wstawia się na konkretną stronę. To znaczy, że najpierw nale�
 Obrazka można używać na wielu stronach, wstawiając [[/Grafika:PrzykładowaNazwaObrazka.jpg|Grafika:PrzykładowaNazwaObrazka.jpg]]. Oczywiście zamiast PrzykładowaNazwaObrazka.jpg trzeba podać odpowiednią nazwę obrazka.
 
 Nazwy plików z obrazkami powinny zawierać tylko litery i cyfry, ew. podkreślnik "_" i minus "-". Nie należy wysyłać plików z polskimi literami lub spacjami w nazwach.
-
-[kategoria:pomoc](/atopedia/kategoria:pomoc "wikilink")

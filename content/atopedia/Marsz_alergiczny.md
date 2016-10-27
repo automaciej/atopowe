@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Marsz_alergiczny/"
 title = "Marsz alergiczny"
+kategorie = [ "podstawowe wiadomości", "alergia", "astma",]
 
 +++
 
@@ -14,7 +15,7 @@ Przebieg chorób alergicznych charakteryzuje się typową kolejnością - częst
 Niektóre z leków mogą być stosowane jako próba farmakologicznej interwencji w naturalny przebieg marszu alergicznego. Wiadomo, że [cetyryzyna](/atopedia/cetyryzyna "wikilink") zmniejsza ryzyko rozwoju astmy u dzieci chorych na AZS uczulonych na alergeny powietrznopochodne[3].
 
 <references />
-[kategoria:podstawowe wiadomości](/atopedia/kategoria:podstawowe_wiadomości "wikilink") [kategoria:alergia](/atopedia/kategoria:alergia "wikilink") [kategoria:astma](/atopedia/kategoria:astma "wikilink")
+  
 
 [1] Zatrzymać marsz alergiczny. dr med. Beata Cudowska, prof. dr hab. med. Maciej Kaczmarski. *[Puls Medycyny 7 (150) 2007](http://www.pulsmedycyny.com.pl/index/archiwum/8004,zatrzyma%C4%87,marsz,alergiczny.html)*
 

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lorinden_T/"
 title = "Lorinden T"
+kategorie = [ "maści", "maści z dziegciem", "ulotki leków", "leki sterydowe",]
 
 +++
 
@@ -39,5 +40,3 @@ Dawkowanie
 ----------
 
 W łuszczycy maść stosuje się w opatrunku zamkniętym zmienianym co 24-48 h; w innych chorobach skóry niewielką ilość maści wciera się 2 razy dziennie w miejsca chorobowo zmienione.
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:maści z dziegciem](/atopedia/kategoria:maści_z_dziegciem "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

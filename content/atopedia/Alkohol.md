@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alkohol/"
 title = "Alkohol"
+kategorie = [ "wpadki",]
 
 +++
 
@@ -12,5 +13,3 @@ Według doświadczeń większości *(wszystkich?)* osób z forum, **alkohol** wy
 **Zobacz również:**
 
 -   [Alkohol i AZS](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=3&t=1580) - wątek na Forum
-
-[kategoria:wpadki](/atopedia/kategoria:wpadki "wikilink")

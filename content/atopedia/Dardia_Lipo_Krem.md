@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dardia_Lipo_Krem/"
 title = "Dardia Lipo Krem"
+kategorie = [ "Kremy", "ulotki leków",]
 
 +++
 
@@ -31,5 +32,3 @@ Zobacz również:
 
 -   [Dardia Lipo Maść](/atopedia/Dardia_Lipo_Maść "wikilink")
 -   [Dardia Lipo Mleczko](/atopedia/Dardia_Lipo_Mleczko "wikilink")
-
-[Kategoria:Kremy](/atopedia/Kategoria:Kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

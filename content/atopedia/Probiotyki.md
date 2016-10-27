@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Probiotyki/"
 title = "Probiotyki"
+kategorie = [ "atopowe zapalenie skóry u dzieci",]
 
 +++
 
@@ -12,5 +13,3 @@ Z racji, że powyższy typ bakterii wchodzi w skład naturalnej flory bakteryjne
 **Zobacz również:**
 
 [Hasło 'probiotyki' na Blogu atopowym](http://blog.atopowe.pl/tag/probiotyki/)
-
-[kategoria:atopowe zapalenie skóry u dzieci](/atopedia/kategoria:atopowe_zapalenie_skóry_u_dzieci "wikilink")

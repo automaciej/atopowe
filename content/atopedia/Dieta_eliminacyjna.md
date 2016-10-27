@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dieta_eliminacyjna/"
 title = "Dieta eliminacyjna"
+kategorie = [ "diety",]
 
 +++
 
@@ -25,5 +26,3 @@ Prof. Andrzej Kaszuba twierdzi, że alergie pokarmowe u osób dorosłych mają m
 
 -   [Alergia](/atopedia/Alergia "wikilink")
 -   [Przepisy kulinarne](/atopedia/Przepisy_kulinarne "wikilink")
-
-[kategoria:diety](/atopedia/kategoria:diety "wikilink")

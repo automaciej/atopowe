@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Altargo/"
 title = "Altargo"
+kategorie = [ "ulotki leków", "maści",]
 
 +++
 
@@ -443,5 +444,3 @@ W badaniach u szczurów zaobserwowano embriotoksyczność, toksyczność rozwojo
 Retapamulina była podawana ciężarnym królikom w ciągłym wlewie dożylnym od dnia 7 do dnia 19 ciąży. Toksyczność matczyna została wykazana w dawkach ? 7,2 mg/kg mc./dobę, co odpowiada ? 8 razy większej wartości niż największa szacowana ekspozycja u ludzi (patrz powyżej). Nie wystąpił związany z leczeniem wpływ na rozwój zarodkowo-płodowy.
 
 Nie przeprowadzono badań oceniających wpływ retapamuliny na rozwój prenatalny / postnatalny. Jednakże, nie zaobserwowano występowania uogólnionego wpływu na młodociane szczury, u których stosowano zewnętrznie maść z reptamuliną.
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink")

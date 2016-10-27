@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Zielona_Zupa/"
 title = "Zielona Zupa"
+kategorie = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "dieta hipoalergiczna plus pszenica",]
 
 +++
 
@@ -30,5 +31,3 @@ Szybka i łatwa w przygotowaniu zupa z zielonych warzyw
 
 -   Zielona fasolka i cukinia w zupie z natką odkwaszają układ pokarmowy
 -   Duża ilość błonnika przyspiesza trawienie i oczyszcza przewód pokarmowy
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

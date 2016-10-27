@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Geralen/"
 title = "Geralen"
+kategorie = [ "ulotki leków",]
 
 +++
 
@@ -60,5 +61,3 @@ Ciąża i karmienie
 Ograniczone doświadczenia ze stosowaniem leku w okresie ciąży, należy zatem zasięgnąć opinii lekarza w razie zamiaru stosowania Geralenu podczas ciąży.
 
 Nie wiadomo czy lek przenika do mleka matki, należy zatem zasięgnąć opinii lekarza w razie zamiaru stosowania leku w okresie karmienia dziecka piersią.
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

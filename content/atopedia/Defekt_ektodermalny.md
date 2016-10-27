@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Defekt_ektodermalny/"
 title = "Defekt ektodermalny"
+kategorie = [ "Objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -10,5 +11,3 @@ title = "Defekt ektodermalny"
 ### Przeczytaj również
 
 -   *[Atopowe zapalenie skóry: "astma skórna" czy tylko świąd?](http://www.alergia.org.pl/lek.arch1/archiwum/00_03/atopowe.html)*, Prof. dr hab. n. med. Sławomir Majewski
-
-[kategoria:Objawy atopowego zapalenia skóry](/atopedia/kategoria:Objawy_atopowego_zapalenia_skóry "wikilink")

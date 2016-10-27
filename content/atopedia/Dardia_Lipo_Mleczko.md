@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dardia_Lipo_Mleczko/"
 title = "Dardia Lipo Mleczko"
+kategorie = [ "emolienty", "preparaty zawierające mocznik",]
 
 +++
 
@@ -28,5 +29,3 @@ Skład preparatu:
 
 -   [Dardia Lipo Maść](/atopedia/Dardia_Lipo_Maść "wikilink")
 -   [Dardia Lipo Krem](/atopedia/Dardia_Lipo_Krem "wikilink")
-
-[Kategoria:emolienty](/atopedia/Kategoria:emolienty "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

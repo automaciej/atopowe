@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Zyrtec/"
 title = "Zyrtec"
+kategorie = [ "leki doustne", "ulotki leków", "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 
 +++
 
@@ -186,5 +187,3 @@ ul. Przyokopowa 43
 tel.: + 48 22 862 67 20
 
 Data opracowania ulotki: 04.01.2005.
-
-[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink")

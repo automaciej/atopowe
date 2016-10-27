@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Wykład:_Podstawy_patogenezy_i_terapii_atopowego_zapalenia_skóry/"
 title = "Wykład: Podstawy patogenezy i terapii atopowego zapalenia skóry"
+kategorie = [ "Fundacja Alabaster", "Wykłady", "Multimedia",]
 
 +++
 
@@ -294,5 +295,3 @@ Glukokortykosterydy, co często stosuje się w terapii chorób atopowych, jak i 
 Tu jest podsumowanie całego tego mojego wykładu, że atopowe reaktywności są związane z aktywacją komórek tucznych. Że komórki tuczne ulegają degranulacji, uwalniają czynniki prozapalne. Aktywacja tych komórek zależy od dawki antygenu i drogi jego podania. Zakres objawów chorób atopowych jest bardzo różny: od kataru siennego do wstrząsu anafilaktycznego w zależności od tego, gdzie zachodzi reakcja i jaki typ antygenu stymuluje komórki układu odpornościowego.
 
 I bardzo dziękuję. Przepraszam za skróty, ale nie dało się tego powiedzieć inaczej.
-
-[kategoria:Fundacja Alabaster](/atopedia/kategoria:Fundacja_Alabaster "wikilink") [kategoria:Wykłady](/atopedia/kategoria:Wykłady "wikilink") [kategoria:Multimedia](/atopedia/kategoria:Multimedia "wikilink")

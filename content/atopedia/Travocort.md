@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Travocort/"
 title = "Travocort"
+kategorie = [ "leki przeciwgrzybicze", "leki sterydowe", "ulotki leków",]
 
 +++
 
@@ -40,5 +41,3 @@ Krem nanosi się 2 razy dziennie na chorobowo zmienione powierzchnie skóry. W z
 Należy chronić oczy przed kontaktem z preparatem.
 
 Wytwórca Schering AG Berlin Niemcy
-
-[kategoria:leki przeciwgrzybicze](/atopedia/kategoria:leki_przeciwgrzybicze "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

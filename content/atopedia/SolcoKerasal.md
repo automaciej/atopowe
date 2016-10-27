@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/SolcoKerasal/"
 title = "SolcoKerasal"
+kategorie = [ "ulotki leków", "maści", "preparaty zawierające mocznik",]
 
 +++
 
@@ -164,5 +165,3 @@ ul. Przemysłowa 2
 35-959 Rzeszów, Polska
 
 tel. (48 17) 865 51 00
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

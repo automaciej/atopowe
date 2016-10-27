@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Linia_ochronno-pielęgnacyjna_SVR/"
 title = "Linia ochronno-pielęgnacyjna SVR"
+kategorie = [ "kosmetyki",]
 
 +++
 
@@ -28,5 +29,3 @@ Ochrona i pielęgnacja skóry suchej i wrażliwej (trudne warunki atmosferyczne)
 **Zastosowanie:**
 
 Skóra normalna z tendencją do przesuszania. Chroni naturalną równowagę wodno-lipidową. Pojemność 50 ml.
-
-[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dermobaza/"
 title = "Dermobaza"
+kategorie = [ "kremy", "emolienty",]
 
 +++
 
@@ -30,5 +31,3 @@ Nie należy stosować kremu, jeśli występuje nadwrażliwość na którykolwiek
 **PRODUCENT**
 
 GlaxoSmithKline Pharmaceuticals S.A. ul. Grunwaldzka 189 60-322 Poznań
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

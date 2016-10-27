@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Vitaminum_PP/"
 title = "Vitaminum PP"
+kategorie = [ "leki", "leki doustne", "ulotki leków",]
 
 +++
 
@@ -141,4 +142,3 @@ ul. Grunwaldzka 189
 60-322 Poznań
 tel: 061 8601 200 fax: 061 8675 717
 Data opracowania ulotki: 30.12.2003 r.
- [kategoria:leki](/atopedia/kategoria:leki "wikilink") [kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

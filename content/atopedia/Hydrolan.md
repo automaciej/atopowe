@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Hydrolan/"
 title = "Hydrolan"
+kategorie = [ "emolienty",]
 
 +++
 
@@ -47,5 +48,3 @@ title = "Hydrolan"
 -   www.emolienty.pl
 
 Źródło: <http://www.emolienty.pl/produkty/hydrolan/>
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

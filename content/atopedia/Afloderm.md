@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Afloderm/"
 title = "Afloderm"
+kategorie = [ "kremy", "leki sterydowe", "ulotki leków",]
 
 +++
 
@@ -212,5 +213,3 @@ Cukrová 14, 81108
 Bratysława, Słowacja
 Tel. + 421 2 5932 4330
 Fax. + 421 2 5932 4331
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

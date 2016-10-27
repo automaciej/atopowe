@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Xerialine/"
 title = "Xerialine"
+kategorie = [ "emolienty", "preparaty zawierające mocznik",]
 
 +++
 
@@ -19,5 +20,3 @@ Xerialine 500
 **Zastosowanie:**
 
 Skóra sucha i wrażliwa. Balsam intensywnie nawilżający do ciała dla całej rodziny. Ekonomiczna butla z dozownikiem. Pojemność 500 ml.
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

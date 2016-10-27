@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atopic_Dermo_Cream/"
 title = "Atopic Dermo Cream"
+kategorie = [ "kosmetyki", "kremy", "ulotki leków",]
 
 +++
 
@@ -41,5 +42,3 @@ Składniki INCI:
 Aqua, Isocetyl Palmitate, Paraffinum Liquidum, Ethylhexyl Methoxycinnamate, Glycerin, Polyglyceryl- 4 Isostearate, Octocrylene, Cera Alba (Beeswax), Butyl Methoxydibenzoylmethane, Cetyl PEG/PPG-10/1 Dimethicone, Magnesium Sulfate, Hydrogenated Castor Oil, Allantoin, Tocopheryl Acetate, Passiflora Incarnata (Passionflower) Seed Oil, Pinus Sibirica Seed Oil, BHA, Propylene Glycol, Echinacea Angustifolia (Coneflower) Extract, Phenoxyethanol, Methylparaben, Benzoic Acid, Dehydroacetic Acid, Parfum
 
 Pojemność: 50 ml
-
-[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

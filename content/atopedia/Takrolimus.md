@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Takrolimus/"
 title = "Takrolimus"
+kategorie = [ "substancje aktywne", "Leki immunosupresyjne",]
 
 +++
 
@@ -44,7 +45,7 @@ Na slajdzie nr. 13 prezentacji[3] są pokazane wyniki badań. Ocenia się, że t
 -   [Elidel](/atopedia/Elidel "wikilink") ([pimekrolimus](/atopedia/pimekrolimus "wikilink"))
 -   [Takrolimus](/atopedia/Wikipedia:Takrolimus "wikilink") w polskiej Wikipedii
 
-[kategoria:substancje aktywne](/atopedia/kategoria:substancje_aktywne "wikilink") [kategoria:Leki immunosupresyjne](/atopedia/kategoria:Leki_immunosupresyjne "wikilink")
+ 
 
 [1] Kyllönen H, Remitz A, Mandelin JM, et al. Effects of 1-year intermittent treatment with topical tacrolimus monotherapy on skin collagen synthesis in patients with atopic dermatitis. *Br J Dermatol 2004; 150: 1174-81.*
 

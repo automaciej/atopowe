@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Exomega/"
 title = "Exomega"
+kategorie = [ "kosmetyki",]
 
 +++
 
@@ -124,5 +125,3 @@ dla dzieci i niemowląt podczas kąpieli w morzu, basenie etc.'''
 Pojemność: 100ml
 
 Może być stosowany bez ograniczeń wieku.
-
-[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

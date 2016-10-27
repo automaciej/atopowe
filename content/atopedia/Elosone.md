@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Elosone/"
 title = "Elosone"
+kategorie = [ "kremy", "ulotki leków", "leki sterydowe",]
 
 +++
 
@@ -70,5 +71,3 @@ ul. Jagiellońska 44, 80-366 Gdańsk
 ### Data opracowania
 
 24 listopada 2001 roku
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

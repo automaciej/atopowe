@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Laticort/"
 title = "Laticort"
+kategorie = [ "kremy", "maści", "leki sterydowe", "ulotki leków",]
 
 +++
 
@@ -78,5 +79,3 @@ Producent :
 Przedsiębiorstwo Farmaceutyczne "JELFA"S.A.
 58-500 Jelenia Góra
 ul. Wincentego Pola 21
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

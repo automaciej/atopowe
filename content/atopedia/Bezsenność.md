@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Bezsenność/"
 title = "Bezsenność"
+kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -14,5 +15,3 @@ Nasilony [świąd](/atopedia/świąd "wikilink") powoduje, że osoba chora nie t
 Bezsenność ta jest łatwo odwracalna. Po zaleczeniu [stanu zapalnego skóry](/atopedia/stan_zapalny_skóry "wikilink"), chory bardzo szybko wraca do normalnego trybu snu.
 
 **Wątek na forum:** <http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=3&t=1134>
-
-[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

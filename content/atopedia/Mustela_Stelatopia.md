@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Mustela_Stelatopia/"
 title = "Mustela Stelatopia"
+kategorie = [ "kremy",]
 
 +++
 
@@ -18,5 +19,3 @@ Pielęgnuje i odbudowuje warstwę lipidową skóry oraz łagodzi i przywraca jej
 Warto stosować dwa razy dziennie – nanosić na umytą i osuszoną skórę. Szczególnie należy pokryć miejsca bardzo przesuszone. Kremu nie należy stosować na zmiany sączące.
 
 koszt ok.65-70 zł
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

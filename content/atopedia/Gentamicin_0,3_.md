@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Gentamicin_0,3%/"
 title = "Gentamicin 0,3%"
+kategorie = [ "ulotki leków", "antybiotyki",]
 
 +++
 
@@ -101,5 +102,3 @@ Brak danych dotyczących przedawkowania stosowanej miejscowo gentamicyny.
 Maść, krople do oczu oraz krem zachowują ważność przez 1 miesiąc od daty otwarcia opakowania.
 
 Przed zastosowaniem leku sprawdzić datę ważności podaną na etykiecie. Nie stosować leku po terminie ważności.
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink")

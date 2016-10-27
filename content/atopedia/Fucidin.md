@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Fucidin/"
 title = "Fucidin"
+kategorie = [ "ulotki leków", "kremy", "antybiotyki",]
 
 +++
 
@@ -35,5 +36,3 @@ Poinformuj lekarza
 ------------------
 
 -   Jeśli jesteś lub przypuszczasz, że jesteś w ciąży, a także gdy karmisz piersią.
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:antybiotyki](/atopedia/kategoria:antybiotyki "wikilink")

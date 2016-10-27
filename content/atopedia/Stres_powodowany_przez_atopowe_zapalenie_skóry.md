@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Stres_powodowany_przez_atopowe_zapalenie_skóry/"
 title = "Stres powodowany przez atopowe zapalenie skóry"
+kategorie = [ "Psychika",]
 
 +++
 
@@ -20,5 +21,3 @@ Należy pamiętać, że [atopowe zapalenie skóry](/atopedia/atopowe_zapalenie_s
 **Zobacz także:**
 
 -   [Poprawa samopoczucia](/atopedia/Poprawa_samopoczucia "wikilink")
-
-[kategoria:Psychika](/atopedia/kategoria:Psychika "wikilink")

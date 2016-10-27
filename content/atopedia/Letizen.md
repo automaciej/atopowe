@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Letizen/"
 title = "Letizen"
+kategorie = [ "ulotki leków", "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 
 +++
 
@@ -243,5 +244,3 @@ Opakowanie zawierające 20 tabletek powlekanych (lek wydawany na receptę)
 
 WYTWÓRCA POSIADAJĄCY ŚWIADECTWO REJESTRACJI
 KRKA, d.d., Novo mesto, Šmarješka cesta 6, Słowenia
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink")

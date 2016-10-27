@@ -3,6 +3,7 @@ aliases = ["/atopedia/AZS"]
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atopowe_zapalenie_skóry/"
 title = "Atopowe zapalenie skóry"
+kategorie = [ "strona główna", " podstawowe wiadomości",]
 
 +++
 
@@ -74,5 +75,3 @@ Istnieje również pogląd, że w patogenezie AZS rola atopii jest znikoma, a w 
 
 -   [Atopowe zapalenie skóry: "astma skórna" czy tylko świąd?](http://www.alergia.org.pl/lek.arch1/archiwum/00_03/atopowe.html) - Prof. dr hab. n. med. Sławomir Majewski
 -   [Atopowe zapalenie skóry u dzieci-etiopatogenetyczna rola nadwrażliwości pokarmowej](http://www.alergia.org.pl/lek.arch1/archiwum/01_01/atopowe.html) - III Klinika Chorób Dziecięcych AM w Białymstoku
-
-[kategoria:strona główna](/atopedia/kategoria:strona_główna "wikilink") [kategoria: podstawowe wiadomości](/atopedia/kategoria:_podstawowe_wiadomości "wikilink")

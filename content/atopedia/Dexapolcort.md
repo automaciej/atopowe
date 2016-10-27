@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dexapolcort/"
 title = "Dexapolcort"
+kategorie = [ "ulotki leków", "leki sterydowe",]
 
 +++
 
@@ -167,5 +168,3 @@ Polfa Tarchomin S.A.
 Warszawa
 
 Numer telefonu: 22 811-18-14
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

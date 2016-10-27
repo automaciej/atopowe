@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Kuterid/"
 title = "Kuterid"
+kategorie = [ "ulotki leków", "leki sterydowe", "maści", "kremy",]
 
 +++
 
@@ -53,5 +54,3 @@ Ciąża i karmienie
 Istnieje prawdopodobieństwo, że preparat oddziałuje na płód. Nie wolno stosować leku w ciąży.
 
 Preparat przenika do mleka matki. Zamiar stosowania leku podczas karmienia piersią należy omówić z lekarzem.
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

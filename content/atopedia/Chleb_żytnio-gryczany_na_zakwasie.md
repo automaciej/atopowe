@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Chleb_żytnio-gryczany_na_zakwasie/"
 title = "Chleb żytnio-gryczany na zakwasie"
+kategorie = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna",]
 
 +++
 
@@ -29,5 +30,3 @@ Proporcje na 2 duże keksówki
 -   Można zamiast mąki gryczanej użyć kukurydzianej albo owsianej.
 
 **Źródło:** [Wegedzieciak](http://wegedzieciak.pl/viewtopic.php?t=646)
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink")

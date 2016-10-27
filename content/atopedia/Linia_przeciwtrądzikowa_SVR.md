@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Linia_przeciwtrądzikowa_SVR/"
 title = "Linia przeciwtrądzikowa SVR"
+kategorie = [ "kosmetyki",]
 
 +++
 
@@ -71,5 +72,3 @@ Niewidoczne, przezroczyste plasterki do pielęgnacji miejscowej skóry trądziko
 **Zastosowanie:**
 
 Aktywny tonik pielęgnujący i oczyszczający dla skóry tłustej, trądzikowej, ogranicza wydzielanie sebum, zapobiega powstawaniu wykwitów trądzikowych (twarz, dekolt, plecy), pH 4,25. Pojemność 100 ml.
-
-[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

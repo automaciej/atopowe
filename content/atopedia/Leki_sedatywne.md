@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Leki_sedatywne/"
 title = "Leki sedatywne"
+kategorie = [ "terapia",]
 
 +++
 
@@ -10,5 +11,3 @@ title = "Leki sedatywne"
 **Zobacz też**
 
 -   [Klasyfikacja leków](/atopedia/Klasyfikacja_leków "wikilink")
-
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

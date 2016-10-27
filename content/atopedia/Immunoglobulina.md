@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Immunoglobulina/"
 title = "Immunoglobulina"
+kategorie = [ "ciało człowieka",]
 
 +++
 
@@ -13,5 +14,3 @@ Immunoglobuliny w leczeniu alergii i chorób atopowych
 [Omalizumab](/atopedia/Omalizumab "wikilink") nie jest jeszcze zarejestrowany w Polsce; terapia jest bardzo kosztowna.
 
 Nieznana jest skuteczność Omalizumabu w leczeniu [AZS](/atopedia/Atopowe_zapalenie_skóry "wikilink") (nieliczne badania) - działanie tego preparatu skierowane jest głównie na regulację zaburzeń oddechowych o pochodzeniu alergicznym. Prawdopodobnie może być skuteczny w leczeniu AZS u osób, z dodatnim wynikiem testów w kierunku alergenów wziewnych.
-
-[kategoria:ciało człowieka](/atopedia/kategoria:ciało_człowieka "wikilink")

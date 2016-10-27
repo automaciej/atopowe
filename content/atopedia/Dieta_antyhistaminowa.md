@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dieta_antyhistaminowa/"
 title = "Dieta antyhistaminowa"
+kategorie = [ "diety",]
 
 +++
 
@@ -151,5 +152,3 @@ Ta dieta eliminuje:
 <http://users.bigpond.net.au/allergydietitian/fi/amines.html>
 
 <http://www.urticaria.thunderworksinc.com/pages/lowhistamine.htm>
-
-[kategoria:diety](/atopedia/kategoria:diety "wikilink")

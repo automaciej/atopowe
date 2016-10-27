@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Egzema/"
 title = "Egzema"
+kategorie = [ "inne choroby skóry",]
 
 +++
 
@@ -21,5 +22,3 @@ Istnieje 8 typów egzemy:
 **Linki zewnętrzne**
 
 [<http://www.egzema.info/rodzaje.html>](http://www.egzema.info/rodzaje.html) - rodzaje egzemy
-
-[kategoria:inne choroby skóry](/atopedia/kategoria:inne_choroby_skóry "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Papierosy/"
 title = "Papierosy"
+kategorie = [ "wpadki",]
 
 +++
 
@@ -16,7 +17,7 @@ Także ryzyko rozwoju AZS w wieku dorosłym jest znacząco większe u osób pal�
 
 -   [Mama-palacz](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=1&t=1293) - Wątek na Forum
 
-[kategoria:wpadki](/atopedia/kategoria:wpadki "wikilink")
+
 
 [1] [Effect of gestational smoke exposure on AD in the offspring](http://ntur.lib.ntu.edu.tw/bitstream/246246/160925/1/27.pdf), Wang et al. Pediatr Allergy Immunol 2008: 19: 580–586
 

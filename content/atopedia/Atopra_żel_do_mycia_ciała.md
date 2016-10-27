@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atopra_żel_do_mycia_ciała/"
 title = "Atopra żel do mycia ciała"
+kategorie = [ "ulotki leków", "kosmetyki", "preparaty zawierające mocznik",]
 
 +++
 
@@ -42,5 +43,3 @@ Przedsiębiorstwo Farmaceutyczne Jelfa SA 58-500 Jelenia Góra ul. Wincentego Po
 Laboratorium Farmaceutyczne Homeofarm Sp. z o.o. ul. Jagiellońska 44, 80-366 Gdańsk RK/176872/2007
 
 **<http://www.jelfa.pl>**
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Clotrimazolum/"
 title = "Clotrimazolum"
+kategorie = [ "Leki przeciwgrzybicze", "kremy", "ulotki leków",]
 
 +++
 
@@ -83,5 +84,3 @@ Przechowywać w temp. do 25 st. C, nie zamrażać .Preparat przechowywać w miej
 **Opakowanie**
 
 20g kremu Data ostatniej weryfikacji ulotki 21.08.2001r
-
-[kategoria:Leki przeciwgrzybicze](/atopedia/kategoria:Leki_przeciwgrzybicze "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Zasady_bezpiecznej_terapii_miejscowymi_glikokortykosterydami/"
 title = "Zasady bezpiecznej terapii miejscowymi glikokortykosterydami"
+kategorie = [ "Terapia", "Sterydy",]
 
 +++
 
@@ -25,5 +26,3 @@ title = "Zasady bezpiecznej terapii miejscowymi glikokortykosterydami"
 
 -   [Skutki uboczne kortykosterydów](/atopedia/Skutki_uboczne_kortykosterydów "wikilink")
 -   [Posterydowe zapalenie skóry](/atopedia/Posterydowe_zapalenie_skóry "wikilink")
-
-[Kategoria:Terapia](/atopedia/Kategoria:Terapia "wikilink") [Kategoria:Sterydy](/atopedia/Kategoria:Sterydy "wikilink")

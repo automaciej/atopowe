@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/EDTA/"
 title = "EDTA"
+kategorie = [ "substancje chemiczne",]
 
 +++
 
@@ -10,5 +11,3 @@ title = "EDTA"
 EDTA i jego związki w dużych stężeniach są substancjami drażniącymi [skórę](/atopedia/Skóra "wikilink") i błony śluzowe. Niebezpieczne są w postaci rozproszonej w powietrzu (np. aerozole), bowiem powodują nieżyt spojówek, jamy nosowo-gardłowej, kaszel, kichanie, a nawet atak duszności. U chorych na dychawicę oskrzelową i ciężkie [alergie](/atopedia/Alergia "wikilink") mogą spowodować wystąpienie ataku [astmy](/atopedia/Astma_oskrzelowa "wikilink") oraz zaostrzenie objawów.
 
 Nigdy nie należy stosować kosmetyków zawierających EDTA równocześnie z lekami posiadającymi w składzie metale, np. cynk, miedź, żelazo, ołów, glin, bizmut, a także [antybiotykami](/atopedia/antybiotyki "wikilink").
-
-[kategoria:substancje chemiczne](/atopedia/kategoria:substancje_chemiczne "wikilink")

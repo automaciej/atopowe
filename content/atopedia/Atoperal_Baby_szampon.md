@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atoperal_Baby_szampon/"
 title = "Atoperal Baby szampon"
+kategorie = [ "szampony",]
 
 +++
 
@@ -37,5 +38,3 @@ Opracowany we współpracy z dermatologami
 Przebadany dermatologicznie
 
 **Produkt dostępny tylko w aptece.**
-
-[kategoria:szampony](/atopedia/kategoria:szampony "wikilink")

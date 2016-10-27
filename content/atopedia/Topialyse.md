@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Topialyse/"
 title = "Topialyse"
+kategorie = [ "kosmetyki",]
 
 +++
 
@@ -57,5 +58,3 @@ Skóra wysuszona, podrażniona i atopowa u niemowląt, dzieci i dorosłych. Nie 
 **Zastosowanie:**
 
 Skóra sucha, wrażliwa i atopowa. Do pielęgnacji całego ciała niemowląt, dzieci i dorosłych w trakcie lub po kąpieli. Pojemność 125 ml.
-
-[kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

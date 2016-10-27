@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Daktarin/"
 title = "Daktarin"
+kategorie = [ "kremy", "leki przeciwgrzybicze", "ulotki leków",]
 
 +++
 
@@ -45,5 +46,3 @@ Przechowywanie : Przechowywać w temperaturze od 15 do 25 °C. Przechowywać w m
 Dostępne opakowania : Tuby zawierające 15 lub 30 g kremu.
 Wytwórca : Janssen Pharmaceutica N.V.B-2340 Beerse, Belgia
 Data ostatniej weryfikacji ulotki : 19.11.2001
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:leki przeciwgrzybicze](/atopedia/kategoria:leki_przeciwgrzybicze "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

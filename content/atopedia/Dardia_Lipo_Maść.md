@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dardia_Lipo_Maść/"
 title = "Dardia Lipo Maść"
+kategorie = [ "maści", "ulotki leków", "preparaty zawierające mocznik",]
 
 +++
 
@@ -22,5 +23,3 @@ Zobacz również:
 
 -   [Dardia Lipo Krem](/atopedia/Dardia_Lipo_Krem "wikilink")
 -   [Dardia Lipo Mleczko](/atopedia/Dardia_Lipo_Mleczko "wikilink")
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

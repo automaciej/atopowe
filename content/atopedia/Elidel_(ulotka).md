@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Elidel_(ulotka)/"
 title = "Elidel (ulotka)"
+kategorie = [ "ulotki leków", "kremy", "leki immunosupresyjne",]
 
 +++
 
@@ -163,5 +164,3 @@ Novartis Poland Sp. z o.o.
 Al. W. Witosa 31
 00-710 Warszawa
 tel: +48 22 55 08 888
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:leki immunosupresyjne](/atopedia/kategoria:leki_immunosupresyjne "wikilink")

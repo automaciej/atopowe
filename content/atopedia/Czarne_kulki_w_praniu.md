@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Czarne_kulki_w_praniu/"
 title = "Czarne kulki w praniu"
+kategorie = [ "wpadki",]
 
 +++
 
@@ -12,5 +13,3 @@ Kulki najprawdopodobniej tworzą się z cięższych frakcji [emolientów](/atope
 Sposobem na kulki może być gotowanie w proszku i płukanie w goracej wodzie (czyli pranie bez proszku).
 
 Innym sposobem na kulki jest moczenie ubrań przed praniem, w płynie Ludwik.
-
-[kategoria:wpadki](/atopedia/kategoria:wpadki "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Działy_naszego_serwisu/"
 title = "Działy naszego serwisu"
+kategorie = [ "Serwis",]
 
 +++
 
@@ -16,7 +17,7 @@ Oto, z jakich działów składa się nasz serwis, jak się który dział nazywa,
 | **[Ceny leków](http://www.atopowe.pl/ceny/)**             | Django (Python)                         | Zaprogramowany przez wahwah-a.                                                                  | Tworzona przez użytkowników lista aptek, w których mozna tanio kupić protopic, elidel i inne. Dział wyłączony w listopadzie 2008. | wahwah                              | Dział nieczynny                            | Dział nieczynny               |
 
 <references/>
-[Kategoria:Serwis](/atopedia/Kategoria:Serwis "wikilink")
+
 
 [1]
 

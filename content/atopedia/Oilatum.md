@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Oilatum/"
 title = "Oilatum"
+kategorie = [ "emolienty", "ulotki leków", "kremy",]
 
 +++
 
@@ -57,5 +58,3 @@ Ciekawostka
 [right|Pćyn do kąpieli...](/Grafika:Pćyn.jpg "wikilink")
 
 Był okres w którym można było często spotkać opakowanie Oilatum ze śmiesznym błędem językowym.
-
-[kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

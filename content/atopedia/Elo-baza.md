@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Elo-baza/"
 title = "Elo-baza"
+kategorie = [ "kremy", "emolienty",]
 
 +++
 
@@ -26,5 +27,3 @@ title = "Elo-baza"
 RK/123820/2004.
 
 <http://www.blaufarma.pl>
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:emolienty](/atopedia/kategoria:emolienty "wikilink")

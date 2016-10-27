@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Kwas_salicylowy/"
 title = "Kwas salicylowy"
+kategorie = [ "substancje aktywne",]
 
 +++
 
@@ -40,5 +41,3 @@ Ze względu na poważne działania niepożądane nie zaleca się stosowania p.o.
 ### Uwagi
 
 Unikać kontaktu z błonami śluzowymi.
-
-[kategoria:substancje aktywne](/atopedia/kategoria:substancje_aktywne "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Cukinia_duszona/"
 title = "Cukinia duszona"
+kategorie = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "dieta hipoalergiczna plus pszenica",]
 
 +++
 
@@ -30,5 +31,3 @@ title = "Cukinia duszona"
 -   Można dodać inne warzywa wg uznania, np. paprykę, pieczarki.
 
 **Źródło:** [Kuchnia O2](http://kuchnia.o2.pl/przepisy/obiekt_int.php?id_p=13611)
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:dieta bezmleczna](/atopedia/kategoria:dieta_bezmleczna "wikilink") [kategoria:dieta hipoalergiczna](/atopedia/kategoria:dieta_hipoalergiczna "wikilink") [kategoria:dieta hipoalergiczna plus pszenica](/atopedia/kategoria:dieta_hipoalergiczna_plus_pszenica "wikilink")

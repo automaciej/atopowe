@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Hydroksyzyna/"
 title = "Hydroksyzyna"
+kategorie = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
 
 +++
 
@@ -32,5 +33,3 @@ ok 12 zł
 ## Zobacz też
 
 -   [Hydroxizinum](/atopedia/Hydroxizinum "wikilink")
-
-[kategoria:leki doustne](/atopedia/kategoria:leki_doustne "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe I generacji](/atopedia/kategoria:leki_antyhistaminowe_I_generacji "wikilink")

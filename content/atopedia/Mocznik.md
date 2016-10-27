@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Mocznik/"
 title = "Mocznik"
+kategorie = [ "preparaty zawierające mocznik",]
 
 +++
 
@@ -21,5 +22,3 @@ W przemyśle kosmetycznym mocznik jest stosowany ze względu na właściwości:
 -   wspomagające [gojenie](/atopedia/gojenie "wikilink") ran naskórka (wspomaga ziarninowanie)
 
 Z powodu możliwości wystąpienia podrażnień niewskazane jest stosowanie preparatów zawierających mocznik u dzieci poniżej 5. roku życia.
-
-[kategoria:preparaty zawierające mocznik](/atopedia/kategoria:preparaty_zawierające_mocznik "wikilink")

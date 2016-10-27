@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Prodermina/"
 title = "Prodermina"
+kategorie = [ "maści z dziegciem", "ulotki leków", "maści",]
 
 +++
 
@@ -28,5 +29,3 @@ D05AA
 
 -   [Delatar](/atopedia/Delatar "wikilink")
 -   ***\* Proderminum (Pix Lithanthracis)*** - surowiec do receptury aptecznej / **50 g** - wytwórca: **Zakład farmaceutyczny "Amara" Kraków**
-
-[kategoria:maści z dziegciem](/atopedia/kategoria:maści_z_dziegciem "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:maści](/atopedia/kategoria:maści "wikilink")

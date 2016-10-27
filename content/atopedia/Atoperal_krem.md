@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atoperal_krem/"
 title = "Atoperal krem"
+kategorie = [ "kremy",]
 
 +++
 
@@ -60,5 +61,3 @@ Atoperal krem z linii specjalistycznych produktów dermatologicznych Blau Farma 
 Produkt nie zawiera sztucznych substancji barwiących.
 
 Produkt nietestowany na zwierzętach.
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink")

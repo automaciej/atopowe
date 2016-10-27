@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dieta_wysokotłuszczowa/"
 title = "Dieta wysokotłuszczowa"
+kategorie = [ "Wpadki",]
 
 +++
 
@@ -20,5 +21,3 @@ Polecanie diety "optymalnej" jako sposobu prawidłowego żywienia na całe życi
 
 -   [Koniec królowania Diety Atkinsa](http://www.izz.waw.pl/wwzz/eufic_art_50.html)
 -   [Opinia Instytutu Żywności i Żywienia w sprawie diety „optymalnej”](http://www.izz.waw.pl/wwzz/opinie-13.html)
-
-[Kategoria:Wpadki](/atopedia/Kategoria:Wpadki "wikilink")

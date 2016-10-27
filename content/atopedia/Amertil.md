@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Amertil/"
 title = "Amertil"
+kategorie = [ "Ulotki leków", "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 
 +++
 
@@ -65,6 +66,6 @@ Wytwórca: BIOFARM® Sp.z.o.o., ul. Wałbrzyska 13, 60-198 POZNAŃ
 
 Data ostatniej aktualizacji: 31.01.2003
 
-[kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink") [kategoria:leki antyhistaminowe](/atopedia/kategoria:leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe II generacji](/atopedia/kategoria:leki_antyhistaminowe_II_generacji "wikilink")
+  
 
 Lek występuje pod nazwą : [Allertec](/atopedia/Allertec "wikilink"), [Amertil](/atopedia/Amertil "wikilink"), [Virlix](/atopedia/Virlix "wikilink"), [Zyrtec](/atopedia/Zyrtec "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Balneum/"
 title = "Balneum"
+kategorie = [ "ulotki leków", "kosmetyki",]
 
 +++
 
@@ -112,5 +113,3 @@ Podmiot odpowiedzialny
 HERMAL Kurt Herrmann GmbH & Co OHG
 
 Scholtzstr. 3, 0-21465 Reinbek, Niemcy
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:kosmetyki](/atopedia/kategoria:kosmetyki "wikilink")

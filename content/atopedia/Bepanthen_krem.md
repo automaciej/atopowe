@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Bepanthen_krem/"
 title = "Bepanthen krem"
+kategorie = [ "kremy", "ulotki leków",]
 
 +++
 
@@ -59,5 +60,3 @@ Preparat na ogół dobrze tolerowany. W razie pojawienia się reakcji skórnych 
 Należy przechowywać tubkę szczelnie zamkniętą, w chłodnym miejscu, w miejscu niedostępnym dla dzieci.
 
 Nie należy używać leku po upływie daty ważności podanej na opakowaniu
-
-[kategoria:kremy](/atopedia/kategoria:kremy "wikilink") [kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink")

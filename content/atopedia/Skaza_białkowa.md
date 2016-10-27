@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Skaza_białkowa/"
 title = "Skaza białkowa"
+kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
@@ -13,5 +14,3 @@ Termin ten można uważać za synonim [atopowego zapalenia skóry](/atopedia/ato
 
 -   [Wykład dr Ireny Grzesiak](/atopedia/Wykład_dr_Ireny_Grzesiak "wikilink")
 -   [Temat na Forum](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=1&t=115)
-
-[kategoria:objawy atopowego zapalenia skóry](/atopedia/kategoria:objawy_atopowego_zapalenia_skóry "wikilink")

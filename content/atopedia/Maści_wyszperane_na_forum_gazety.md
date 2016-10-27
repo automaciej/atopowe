@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Maści_wyszperane_na_forum_gazety/"
 title = "Maści wyszperane na forum gazety"
+kategorie = [ "maści", "Przepisy na maści robione",]
 
 +++
 
@@ -67,5 +68,3 @@ M.f. Ung.
 ------------------------------------------------------------------------
 
 źródło: <http://forum.gazeta.pl/forum/72,2.html?f=578&w=18608933&a=18635982>
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [Kategoria:Przepisy na maści robione](/atopedia/Kategoria:Przepisy_na_maści_robione "wikilink")

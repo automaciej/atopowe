@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Ciasteczka_kruche_na_piwie/"
 title = "Ciasteczka kruche na piwie"
+kategorie = [ "przepisy", "Dieta hipoalergiczna plus pszenica",]
 
 +++
 
@@ -19,5 +20,3 @@ Mąkę przesiekać z margaryną, szybko zarobić piwem i wrzucić do lodówki na
 Ciastka schodzą bardzo szybko, dlatego ja zawsze robię podwójna ilość ciasta, pół piekę tego samego dnia, a pół nazajutrz. Chociaż po ostatnim pieczeniu doszłam do wniosku, że trzeba robić jeszcze więcej porcji ciasta :D
 
 Można zrobić wersję niesłodką - raz zrobiłam z farszem pieczarkowo-kapuścianym. Inne warianty są szczegółowo opisane na pl.rec.kuchnia, szukać pod hasłem "ciasteczka Kruszyny".
-
-[kategoria:przepisy](/atopedia/kategoria:przepisy "wikilink") [kategoria:Dieta hipoalergiczna plus pszenica](/atopedia/kategoria:Dieta_hipoalergiczna_plus_pszenica "wikilink")

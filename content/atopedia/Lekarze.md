@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lekarze/"
 title = "Lekarze"
+kategorie = [ "Szpitale i lekarze",]
 
 +++
 
@@ -19,5 +20,3 @@ Informowanie pacjenta : Lekarz zmieniając terapię lub wprowadzając nową, zmi
 -   [Kliniki dermatologii i alergologii](/atopedia/Kliniki_dermatologii_i_alergologii "wikilink")
 -   [Problemy z lekarzami](/atopedia/Problemy_z_lekarzami "wikilink")
 -   [Kodeks etycznego zachowania pacjenta](/atopedia/Kodeks_etycznego_zachowania_pacjenta "wikilink")
-
-[kategoria:Szpitale i lekarze](/atopedia/kategoria:Szpitale_i_lekarze "wikilink")

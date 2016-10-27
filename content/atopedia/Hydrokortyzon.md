@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Hydrokortyzon/"
 title = "Hydrokortyzon"
+kategorie = [ "ulotki leków", "leki sterydowe",]
 
 +++
 
@@ -77,5 +78,3 @@ Zapamiętaj! : W trakcie leczenia tym lekiem ogranicz do minimum spożycie słon
 Przynieś wyniki badań laboratoryjnych, których wykonanie zlecił Ci lekarz w czasie leczenia.
 
 Postać farmaceutyczna preparatu: Hydrocortisonum (Jelfa S.A. Przedsiębiorstwo Farmaceutyczne) zawiesina do wstrzykiwań 25mg/ml, 10 fiol. 5 ml Hydrocortisonum (Jelfa S.A. Przedsiębiorstwo Farmaceutyczne) tabletki 20mg, 20 tabl. krem
-
-[kategoria:ulotki leków](/atopedia/kategoria:ulotki_leków "wikilink") [kategoria:leki sterydowe](/atopedia/kategoria:leki_sterydowe "wikilink")

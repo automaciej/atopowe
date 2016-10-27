@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Inhibitory_kalcyneuryny/"
 title = "Inhibitory kalcyneuryny"
+kategorie = [ "terapia",]
 
 +++
 
@@ -20,5 +21,3 @@ Kompleks lek-immunofilina blokuje kalcyneurynę i zapobiega defosforylacji NFATc
 #### Zobacz również:
 
 -   [Leki immunosupresyjne](/atopedia/Leki_immunosupresyjne "wikilink")
-
-[kategoria:terapia](/atopedia/kategoria:terapia "wikilink")

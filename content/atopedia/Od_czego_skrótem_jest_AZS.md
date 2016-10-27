@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Od_czego_skrótem_jest_AZS/"
 title = "Od czego skrótem jest AZS"
+kategorie = [ "humor",]
 
 +++
 
@@ -35,5 +36,3 @@ Nagrodą będzie tytuł honorowego Atopowego Zastępcy Stańczyka lub coś w tym
 -   Atopia Znaczy Suka *(kynol.)*
 -   Atopio Zostaniesz Sama
 -   Atos Zatkał Sracz *(hydraul.)*
-
-[kategoria:humor](/atopedia/kategoria:humor "wikilink")

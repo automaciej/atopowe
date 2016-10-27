@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Klinika_w_Gelsenkirchen/"
 title = "Klinika w Gelsenkirchen"
+kategorie = [ "Psychika", "Niekonwencjonalne metody leczenia",]
 
 +++
 
@@ -16,5 +17,3 @@ Niemiecka Kasa Chorych oskarżyła Klinikę o wyłudzenie 50 mln euro. Prokurato
 **Linki zewnętrzne**
 
 -   -
-
-[Kategoria:Psychika](/atopedia/Kategoria:Psychika "wikilink") [Kategoria:Niekonwencjonalne metody leczenia](/atopedia/Kategoria:Niekonwencjonalne_metody_leczenia "wikilink")

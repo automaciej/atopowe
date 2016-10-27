@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lirra/"
 title = "Lirra"
+kategorie = [ "Leki antyhistaminowe", "leki antyhistaminowe III generacji", "Ulotki leków",]
 
 +++
 
@@ -203,5 +204,3 @@ W celu uzyskania bardziej szczególowych informacji należy zwrócić się do pr
 Glenmark Pharmaceuticals Sp. z o. o.
 ul. Postępu 6
 02-676 Warszawa
-
-[kategoria:Leki antyhistaminowe](/atopedia/kategoria:Leki_antyhistaminowe "wikilink") [kategoria:leki antyhistaminowe III generacji](/atopedia/kategoria:leki_antyhistaminowe_III_generacji "wikilink") [kategoria:Ulotki leków](/atopedia/kategoria:Ulotki_leków "wikilink")

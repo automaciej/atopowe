@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Maści_przeciwświerzbowe/"
 title = "Maści przeciwświerzbowe"
+kategorie = [ "maści", "Przepisy na maści robione",]
 
 +++
 
@@ -26,5 +27,3 @@ Rp.
 *Lanolini anhydrici 4,0*
 *Vaselini flavi ad 100,0*
 *M.D.S. Zewn.*
-
-[kategoria:maści](/atopedia/kategoria:maści "wikilink") [kategoria:Przepisy na maści robione](/atopedia/kategoria:Przepisy_na_maści_robione "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Kobalt/"
 title = "Kobalt"
+kategorie = [ "substancje chemiczne", "alergeny",]
 
 +++
 
@@ -45,5 +46,3 @@ Zwykle uczulenie na kobalt współistnieje z uczuleniem na chrom lub [nikiel](/a
 **Zobacz też:**
 
 -   [Alergia kontaktowa](/atopedia/Alergia_kontaktowa "wikilink")
-
-[kategoria:substancje chemiczne](/atopedia/kategoria:substancje_chemiczne "wikilink") [kategoria:alergeny](/atopedia/kategoria:alergeny "wikilink")

@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Ziołolecznictwo/"
 title = "Ziołolecznictwo"
+kategorie = [ "niekonwencjonalne metody leczenia", "wpadki",]
 
 +++
 
@@ -10,5 +11,3 @@ Zdrowy rozsądek nakazuje wielką ostrożność w leczeniu [alergii](/atopedia/a
 ### Aloes
 
 *Zobacz artykuł [Aloes](/atopedia/Aloes "wikilink").*
-
-[kategoria:niekonwencjonalne metody leczenia](/atopedia/kategoria:niekonwencjonalne_metody_leczenia "wikilink") [kategoria:wpadki](/atopedia/kategoria:wpadki "wikilink")
