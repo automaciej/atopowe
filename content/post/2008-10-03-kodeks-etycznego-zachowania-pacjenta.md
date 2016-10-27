@@ -1,16 +1,15 @@
----
-title: Kodeks etycznego zachowania pacjenta
-author: dexter
-layout: post
-date: 2008-10-03
-url: /2008/10/03/kodeks-etycznego-zachowania-pacjenta/
-categories:
-  - Leczenie
-tags:
-  - humor
++++
+author = "dexter"
+categories = ["Leczenie"]
+date = "2008-10-03"
+layout = "post"
+tags = ["humor"]
+title = "Kodeks etycznego zachowania pacjenta"
+url = "/2008/10/03/kodeks-etycznego-zachowania-pacjenta/"
 
----
-  1. **Nie oczekuj, że twój lekarz [będzie ci współczuć][1]**
++++
+
+1. **Nie oczekuj, że twój lekarz [będzie ci współczuć][1]**
         
     Zaangażowanie w cierpienie pacjenta może spowodować utratę cennego naukowego obiektywizmu.
   2. **Zawsze [tryskaj radością][2]**

@@ -1,8 +1,9 @@
----
-title: Elidel (ulotka)
-permalink: /Elidel_(ulotka)/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Elidel_(ulotka)/"
+title = "Elidel (ulotka)"
+
++++
 
 |----------------------------------------------------------------------------------------------|
 | '''Należy przeczytać całą ulotkę przed rozpoczęciem stosowania preparatu Elidel®.

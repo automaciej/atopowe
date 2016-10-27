@@ -1,25 +1,15 @@
----
-title: Richard Dawkins – Wrogowie rozsądku (Enemies of reason)
-author: dexter
-layout: post
-date: 2008-10-08
-url: /2008/10/08/richard-dawkins-wrogowie-rozsadku-enemies-of-reason/
-enclosure:
-  - |
-    |
-        http://www.atopowe-zapalenie.pl/media/Wrogowie%20rozsadku%5bnapisy%20PL%5d-big.avi
-        177742174
-        video/x-msvideo
-        
-categories:
-  - Film
-  - Pseudomedycyna
-  - Wydarzenia
-tags:
-  - Homeopatia
-  - Richard Dawkins
++++
+author = "dexter"
+categories = ["Film", "Pseudomedycyna", "Wydarzenia"]
+date = "2008-10-08"
+enclosure = ["|\n    http://www.atopowe-zapalenie.pl/media/Wrogowie%20rozsadku%5bnapisy%20PL%5d-big.avi\n    177742174\n    video/x-msvideo\n    \n"]
+layout = "post"
+tags = ["Homeopatia", "Richard Dawkins"]
+title = "Richard Dawkins – Wrogowie rozsądku (Enemies of reason)"
+url = "/2008/10/08/richard-dawkins-wrogowie-rozsadku-enemies-of-reason/"
 
----
++++
+
 W dzisiejszym wieczorze filmowym przedstawiamy film pt. &#8222;[Enemies of Reason][1]: The Irrational Health Service&#8221;, przetłumaczony specjalnie dla Was! <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 <!--more-->

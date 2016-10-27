@@ -1,8 +1,9 @@
----
-title: Zespół Cushinga
-permalink: /Zespół_Cushinga/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Zespół_Cushinga/"
+title = "Zespół Cushinga"
+
++++
 
 **Zespół Cushinga - Nadczynność glikokortykosteroidowa (hiperkortyzolemia)**
 

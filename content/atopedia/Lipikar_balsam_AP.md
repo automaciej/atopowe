@@ -1,8 +1,9 @@
----
-title: Lipikar balsam AP
-permalink: /Lipikar_balsam_AP/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Lipikar_balsam_AP/"
+title = "Lipikar balsam AP"
+
++++
 
 Natłuszczający balsam do ciała
 

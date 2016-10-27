@@ -1,17 +1,14 @@
----
-title: 'Moja kampania: Homeopatia nie działa'
-author: Wahwah
-layout: post
-date: 2007-09-01
-url: /2007/09/01/moja-kampania-homeopatia-nie-dziala/
-categories:
-  - Kontrowersje
-  - Nauka
-  - Pseudomedycyna
-tags:
-  - Homeopatia
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Nauka", "Pseudomedycyna"]
+date = "2007-09-01"
+layout = "post"
+tags = ["Homeopatia"]
+title = "Moja kampania: Homeopatia nie działa"
+url = "/2007/09/01/moja-kampania-homeopatia-nie-dziala/"
 
----
++++
+
 Niedawno zacząłem kampanię „reklamową” przeciwko homeopatii. Kieruję ją do użytkowników polskojęzycznych w Polsce, Zjednoczonym Królestwie i Irlandii. Wygląda to tak, że szukając informacji o homeopatii widzimy link do [artykułu][1] w Gazecie Wyborczej.
 
 [<img title="Homeopatia nie działa" src="http://media.blizinski.pl/images/blog/homeopatia-nie-dziala-440px.png" alt="Homeopatia nie działa" align="middle" />][2]

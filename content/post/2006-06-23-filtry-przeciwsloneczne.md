@@ -1,15 +1,14 @@
----
-title: Filtry przeciwsłoneczne
-author: Orshi
-layout: post
-date: 2006-06-23
-url: /2006/06/23/filtry-przeciwsloneczne/
-categories:
-  - Pielęgnacja
-tags:
-  - wakacje
++++
+author = "Orshi"
+categories = ["Pielęgnacja"]
+date = "2006-06-23"
+layout = "post"
+tags = ["wakacje"]
+title = "Filtry przeciwsłoneczne"
+url = "/2006/06/23/filtry-przeciwsloneczne/"
 
----
++++
+
 W upalne dni jesteśmy narażeni na działanie promieni słonecznych. Niekoniecznie musi to oznaczać pogorszenie się stanu skóry, gdyż jak wiadomo, znane są metody leczenia światłem. Również przy [atopowym zapaleniu skóry][1] wykorzystuje się wiązki promieniowania w zakresie od 320-400 nm — UVA.
 
   * UVA — docierają do warstwy podskórnej i mogą uszkodzić jej komórki. Promieniowanie to, w ograniczonych dawkach, nie wywołuje zaczerwienienia skóry. Natomiast przenika przez szyby okienne, samochodowe.

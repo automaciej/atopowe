@@ -1,16 +1,14 @@
----
-title: Terapia biologiczna w AZS
-author: dexter
-layout: post
-date: 2008-03-20
-url: /2008/03/20/terapia-biologiczna-w-azs/
-categories:
-  - Leczenie
-  - Nauka
-tags:
-  - Leki biologiczne
++++
+author = "dexter"
+categories = ["Leczenie", "Nauka"]
+date = "2008-03-20"
+layout = "post"
+tags = ["Leki biologiczne"]
+title = "Terapia biologiczna w AZS"
+url = "/2008/03/20/terapia-biologiczna-w-azs/"
 
----
++++
+
 **Abstrakt**
   
 Terapia biologiczna od wielu dziesięcioleci zajmuje istotne miejsce w leczeniu różnorodnych schorzeń z zakresu onkologii, endokrynologii, gastroenterologii i reumatologii. Działanie leków biologicznych jest związane z naśladowaniem funkcji prawidłowych białek ludzkich. Wiele leków biologicznych funkcjonuje jednocześnie jako tzw. modulatory odpowiedzi immunologicznej, angażując w walkę z chorobą siły odpornościowe chorego. W ostatnim czasie rozpoczęła się także nowa era leków biologicznych w dermatologii. W leczeniu chorób skóry znalazły zastosowanie przeciwciała monoklonalne, białka fuzyjne oraz rekombinowane białka ludzkie. Terapia biologiczna okazała się skuteczna przede wszystkim w leczeniu łuszczycy i łuszczycowego zapalenia stawów, duże oczekiwania wiąże się również z zastosowaniem leków biologicznych w atopowym zapaleniu skóry.

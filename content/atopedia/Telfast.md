@@ -1,8 +1,9 @@
----
-title: Telfast
-permalink: /Telfast/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Telfast/"
+title = "Telfast"
+
++++
 
 **Telfast® 180**
 Fexofenadini hydrochloridum

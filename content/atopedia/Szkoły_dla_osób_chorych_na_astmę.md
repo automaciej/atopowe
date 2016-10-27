@@ -1,8 +1,9 @@
----
-title: Szkoły dla osób chorych na astmę
-permalink: /Szkoły_dla_osób_chorych_na_astmę/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Szkoły_dla_osób_chorych_na_astmę/"
+title = "Szkoły dla osób chorych na astmę"
+
++++
 
 *Jeżeli znacie namiary na szkołę dla astmatyków/alergików w Waszym mieście, wpiszcie je tutaj.*
 

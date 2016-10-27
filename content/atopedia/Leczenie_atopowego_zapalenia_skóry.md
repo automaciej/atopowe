@@ -1,8 +1,9 @@
----
-title: Leczenie atopowego zapalenia skóry
-permalink: /Leczenie_atopowego_zapalenia_skóry/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Leczenie_atopowego_zapalenia_skóry/"
+title = "Leczenie atopowego zapalenia skóry"
+
++++
 
 Konwencjonalne metody leczenia to metody uznane przez medycynę naukową. Medyczne potwierdzenie działania uzyskuje się poprzez badania kliniczne, czyli praktyczne sprawdzanie metod leczenia. W takich badaniach zwraca się dużo uwagi na czynniki które mogą zakłócać obserwacje, takie jak sugestia czy czynniki które są skorelowane, ale niezwiązane przyczynowo ze stanem zdrowia pacjentów.
 

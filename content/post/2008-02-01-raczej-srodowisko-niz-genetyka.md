@@ -1,18 +1,14 @@
----
-title: Raczej środowisko niż genetyka
-author: Wahwah
-layout: post
-date: 2008-02-01
-url: /2008/02/01/raczej-srodowisko-niz-genetyka/
-categories:
-  - Kontrowersje
-  - Nauka
-  - Środowisko
-tags:
-  - Genetyka
-  - przyczyny
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Nauka", "Środowisko"]
+date = "2008-02-01"
+layout = "post"
+tags = ["Genetyka", "przyczyny"]
+title = "Raczej środowisko niż genetyka"
+url = "/2008/02/01/raczej-srodowisko-niz-genetyka/"
 
----
++++
+
 Ostatnio na forum tajfunek23 napisała o tym, co [powiedział jej ktoś w szpitalu][1]. Otóż było to:
 
 > (&#8230;) że nie powinnam wychodzić za mąż i mieć dzieci bo skoro to jest choroba genetyczna i moje dziecko miałoby też mieć takie problemy jak ja (&#8230;)

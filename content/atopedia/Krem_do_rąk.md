@@ -1,8 +1,9 @@
----
-title: Krem do rąk
-permalink: /Krem_do_rąk/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Krem_do_rąk/"
+title = "Krem do rąk"
+
++++
 
 Krem do rąk. Nie jest bardzo tłusty. Szybko się wchłania, bardzo dobrze wygładza skórę. Doskonały do codziennego stosowania, zwłaszcza dla skóry rąk podrażnionej, wysuszonej.
 

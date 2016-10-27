@@ -1,15 +1,14 @@
----
-title: Czytam Goldacre’a
-author: dexter
-layout: post
-date: 2011-01-31
-url: /2011/01/31/czytam-goldacrea/
-categories:
-  - Książka
-tags:
-  - Ben Goldacre
++++
+author = "dexter"
+categories = ["Książka"]
+date = "2011-01-31"
+layout = "post"
+tags = ["Ben Goldacre"]
+title = "Czytam Goldacre’a"
+url = "/2011/01/31/czytam-goldacrea/"
 
----
++++
+
 &#8230;a jeżeli chcecie sprawdzić, co jest w tej książce, to dwa rozdziały są dostępne online:
   
 5. <a target="_blank" href="http://pdf.helion.pl/leknau/leknau-5.pdf">Efekt placebo</a>

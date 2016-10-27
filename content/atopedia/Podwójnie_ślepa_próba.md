@@ -1,8 +1,9 @@
----
-title: Podwójnie ślepa próba
-permalink: /Podwójnie_ślepa_próba/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Podwójnie_ślepa_próba/"
+title = "Podwójnie ślepa próba"
+
++++
 
 Jest to element metodyki badań, którego zadaniem jest wyeliminowanie sugestii.
 

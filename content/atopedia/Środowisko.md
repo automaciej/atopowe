@@ -1,8 +1,9 @@
----
-title: Środowisko
-permalink: /Środowisko/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Środowisko/"
+title = "Środowisko"
+
++++
 
 Osoby z [atopowym zapaleniem skóry](/atopedia/atopowe_zapalenie_skóry "wikilink") są wrażliwe na **środowisko**, w którym żyją.
 

@@ -1,8 +1,9 @@
----
-title: Przyczyny atopowego zapalenia skóry
-permalink: /Przyczyny_atopowego_zapalenia_skóry/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Przyczyny_atopowego_zapalenia_skóry/"
+title = "Przyczyny atopowego zapalenia skóry"
+
++++
 
 W powstawaniu atopowego zapalenia skóry rolę odgrywają czynniki [genetyczne](/atopedia/obciążenie_genetyczne "wikilink"), [odpornościowe](/atopedia/układ_immunologiczny "wikilink") oraz [środowiskowe](/atopedia/środowisko "wikilink").
 

@@ -1,8 +1,9 @@
----
-title: Profilaktyka
-permalink: /Profilaktyka/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Profilaktyka/"
+title = "Profilaktyka"
+
++++
 
 W leczeniu AZS największym problemem jest utrzymanie skóry w dobrym stanie po zaleczeniu jej z ostrego stanu. Stosunkowo łatwo jest doprowadzić chorą skórę (z nawet bardzo nasilonymi zmianami) za pomocą odpowiednio dobranych i wspomaganych innymi lekami [kortykosterydów](/atopedia/Kortykosterydy "wikilink") (najczęściej stosowane) do doskonałego wyglądu, ale bardzo trudno jest utrzymać ten stan.
 

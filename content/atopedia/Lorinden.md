@@ -1,8 +1,9 @@
----
-title: Lorinden
-permalink: /Lorinden/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Lorinden/"
+title = "Lorinden"
+
++++
 
 -   [Lorinden emulsja](/atopedia/Lorinden_emulsja "wikilink")
 -   [Lorinden A](/atopedia/Lorinden_A "wikilink")

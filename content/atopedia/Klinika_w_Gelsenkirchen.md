@@ -1,8 +1,9 @@
----
-title: Klinika w Gelsenkirchen
-permalink: /Klinika_w_Gelsenkirchen/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Klinika_w_Gelsenkirchen/"
+title = "Klinika w Gelsenkirchen"
+
++++
 
 Klinika medycyny holistycznej w niemieckiej miejscowości Gelsenkirchen. Jej terapeuci wychodzą z założenia, że wszystkie choroby alergiczne są spowodowane przez zaburzenia osobowości, dlatego też należy je leczyć wyłącznie poprzez psychoterapię. Postępowanie w klinice w Gelsenkirchen zakłada, że sytuacje stresowe mogą być odpowiedzialne za powstanie neurodermitis (jak inaczej określa się AZS). Każda choroba chroniczna powstaje poprzez uczucie, które niespodziewanie obejmuje daną osobę, i które jest porównywalne z szokiem. W przypadku neurodermitis jest to uczucie rozstania. Osoba chora boi się rozstań.
 

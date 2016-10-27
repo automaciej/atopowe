@@ -1,8 +1,9 @@
----
-title: Filomag B6
-permalink: /Filomag_B6/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Filomag_B6/"
+title = "Filomag B6"
+
++++
 
 [right](/Grafika:filomag_b6.jpg "wikilink")
 

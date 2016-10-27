@@ -1,8 +1,9 @@
----
-title: Krakowski Zlot
-permalink: /Krakowski_Zlot/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Krakowski_Zlot/"
+title = "Krakowski Zlot"
+
++++
 
 13 października 2007
 --------------------

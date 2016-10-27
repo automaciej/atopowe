@@ -1,15 +1,14 @@
----
-title: Tajny język naukowców
-author: Wahwah
-layout: post
-date: 2008-11-12
-url: /2008/11/12/tajny-jezyk-naukowcow/
-categories:
-  - Nauka
-tags:
-  - humor
++++
+author = "Wahwah"
+categories = ["Nauka"]
+date = "2008-11-12"
+layout = "post"
+tags = ["humor"]
+title = "Tajny język naukowców"
+url = "/2008/11/12/tajny-jezyk-naukowcow/"
 
----
++++
+
 Instrukcja dla czytelników.
 
 Na prośbę naszych czytelników, narzekających na trudności w zrozumieniu języka jakim są pisane artykuły naukowe, rozszyfrowujemy najczęściej używane wyrażenia.

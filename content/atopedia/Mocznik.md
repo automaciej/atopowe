@@ -1,8 +1,9 @@
----
-title: Mocznik
-permalink: /Mocznik/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Mocznik/"
+title = "Mocznik"
+
++++
 
 **Mocznik**/ UREA jest końcowym produktem metabolizmu białek w organizmie człowieka. Jest substancją niezbędną dla prawidłowego nawilżenia skóry. Występuje on naturalnie w skórze, a jego deficyt powoduje odwodnienie z objawami silnego przesuszenia i rogowacenia. Dodatkową zaletą mocznika jest brak właściwości drażniących i alergizujących, co zapewnia pełne bezpieczeństwo jego stosowania.
 

@@ -1,8 +1,9 @@
----
-title: Kodeks etycznego zachowania pacjenta
-permalink: /Kodeks_etycznego_zachowania_pacjenta/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Kodeks_etycznego_zachowania_pacjenta/"
+title = "Kodeks etycznego zachowania pacjenta"
+
++++
 
 Na wszelki wypadek zaznaczamy, że niniejsza strona jest nie do końca na poważnie... ;-)
 

@@ -1,8 +1,9 @@
----
-title: Diprogenta
-permalink: /Diprogenta/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Diprogenta/"
+title = "Diprogenta"
+
++++
 
 **Diprogenta** krem, maść Dwupropionian betametazonu z siarczanem gentamycyny
 

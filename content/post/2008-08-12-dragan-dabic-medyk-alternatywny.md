@@ -1,13 +1,13 @@
----
-title: Dragan Dabić, medyk alternatywny
-author: Wahwah
-layout: post
-date: 2008-08-11
-url: /2008/08/12/dragan-dabic-medyk-alternatywny/
-categories:
-  - Wydarzenia
++++
+author = "Wahwah"
+categories = ["Wydarzenia"]
+date = "2008-08-11"
+layout = "post"
+title = "Dragan Dabić, medyk alternatywny"
+url = "/2008/08/12/dragan-dabic-medyk-alternatywny/"
 
----
++++
+
 <img alt="" src="http://upload.wikimedia.org/wikipedia/en/a/a4/Radovan_Karadzic_2008.jpg" title="Radovan Karadzić" class="alignright" width="226" height="282" />
 
 18 lipca 2008 [Radovan Karadžić][1] został aresztowany w Belgradzie. Stanie przed sądem za zbrodnie wojenne.

@@ -1,8 +1,9 @@
----
-title: Loratadyna (lek)
-permalink: /Loratadyna_(lek)/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Loratadyna_(lek)/"
+title = "Loratadyna (lek)"
+
++++
 
 *loratadine*
 *antihistaminicum*

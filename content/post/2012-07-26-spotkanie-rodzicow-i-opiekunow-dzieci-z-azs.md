@@ -1,15 +1,14 @@
----
-title: Spotkanie rodziców i opiekunów dzieci z AZS
-author: ewaela
-layout: post
-date: 2012-07-26
-url: /2012/07/26/spotkanie-rodzicow-i-opiekunow-dzieci-z-azs/
-categories:
-  - Wydarzenia
-tags:
-  - fundacja alabaster
++++
+author = "ewaela"
+categories = ["Wydarzenia"]
+date = "2012-07-26"
+layout = "post"
+tags = ["fundacja alabaster"]
+title = "Spotkanie rodziców i opiekunów dzieci z AZS"
+url = "/2012/07/26/spotkanie-rodzicow-i-opiekunow-dzieci-z-azs/"
 
----
++++
+
 <img alt="" src="http://haloatopia.pl/src/logo.png" title="Halo atopia" class="alignleft" height="100" />28 lipca 2012
   
 w godzinach 10-14

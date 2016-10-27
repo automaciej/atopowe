@@ -1,17 +1,14 @@
----
-title: Milion dolarów dla uzdrowiciela
-author: Wahwah
-layout: post
-date: 2007-04-27
-url: /2007/04/28/milion-dolarow-dla-uzdrowiciela/
-categories:
-  - Kontrowersje
-  - Nauka
-  - Pseudomedycyna
-tags:
-  - James Randi
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Nauka", "Pseudomedycyna"]
+date = "2007-04-27"
+layout = "post"
+tags = ["James Randi"]
+title = "Milion dolarów dla uzdrowiciela"
+url = "/2007/04/28/milion-dolarow-dla-uzdrowiciela/"
 
----
++++
+
 Niedawno pisałem, że [chciałbym się mylić][1], że chciałbym żeby istniała jakaś, alternatywna bądź nie, skuteczna metoda leczenia AZS.
 
 Załóżmy, że wśród oszustów, naciągaczy oraz „uzdrowicieli” autentycznie przekonanych co do swoich umiejętności leczenia, kryje się ktoś kto potrafi leczyć naprawdę. Jak oddzielić ziarno od plew?

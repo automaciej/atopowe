@@ -1,8 +1,9 @@
----
-title: Zaditen
-permalink: /Zaditen/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Zaditen/"
+title = "Zaditen"
+
++++
 
 Nazwa handlowa leku: **Zaditen** Syrop, 100 ml, cena 27 zł. (grudzień 2005) Według opinii lekarzy - Zaditen to oryginalny ketotifen a nie jego polski odpowiednik który jest o wiele gorszej jakości.
 

@@ -1,14 +1,13 @@
----
-title: Grejpfrut i antyhistaminy
-author: Wahwah
-layout: post
-date: 2007-07-12
-url: /2007/07/12/grejpfrut-i-antyhistaminy/
-categories:
-  - Kuchnia
-  - Objawy
++++
+author = "Wahwah"
+categories = ["Kuchnia", "Objawy"]
+date = "2007-07-12"
+layout = "post"
+title = "Grejpfrut i antyhistaminy"
+url = "/2007/07/12/grejpfrut-i-antyhistaminy/"
 
----
++++
+
 Do niedawna byłem święcie przekonany że jestem uczulony na cytrusy, na przykład na grejpfruta. Wniosek ten wysnułem stąd, że kiedyś miałem wyraźne pogorszenie po wzięciu leku który bazował na wyciągu z grejpfruta.
 
 Niedawno przeczytałem o tym, że grejpfrut [wchodzi w interakcje][1] z wieloma substancjami, na przykład z kafeiną. To znaczy, zamiast wypić dużą kawę, możemy wypić małą kawę i sok z grepfruta ― efekt jest podobno ten sam.

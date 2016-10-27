@@ -1,8 +1,9 @@
----
-title: Zbiórka pieniędzy na domenę (2005)
-permalink: /Zbiórka_pieniędzy_na_domenę_(2005)/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Zbiórka_pieniędzy_na_domenę_(2005)/"
+title = "Zbiórka pieniędzy na domenę (2005)"
+
++++
 
 Zebraliśmy całą kwotę!
 

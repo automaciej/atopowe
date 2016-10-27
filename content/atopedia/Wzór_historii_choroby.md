@@ -1,8 +1,9 @@
----
-title: Wzór historii choroby
-permalink: /Wzór_historii_choroby/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Wzór_historii_choroby/"
+title = "Wzór historii choroby"
+
++++
 
 Imię i nazwisko,
 kontakt (email)

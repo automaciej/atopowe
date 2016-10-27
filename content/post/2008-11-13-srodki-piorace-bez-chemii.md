@@ -1,15 +1,14 @@
----
-title: Środki piorące bez chemii
-author: dexter
-layout: post
-date: 2008-11-13
-url: /2008/11/13/srodki-piorace-bez-chemii/
-categories:
-  - Kontrowersje
-tags:
-  - chemia
++++
+author = "dexter"
+categories = ["Kontrowersje"]
+date = "2008-11-13"
+layout = "post"
+tags = ["chemia"]
+title = "Środki piorące bez chemii"
+url = "/2008/11/13/srodki-piorace-bez-chemii/"
 
----
++++
+
 Przeglądając dziś stare posty na Forum, przeczytałem też [taki][1]:
 
 > Dostaliśmy dziś Sapdu Clean Liquid Waschnuss, na opakowaniu napisane jest że środek ten do prania jest bez żadnej chemii, dodatkowo jest on przeznaczony dla alergików. 

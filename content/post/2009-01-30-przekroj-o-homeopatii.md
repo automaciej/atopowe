@@ -1,18 +1,14 @@
----
-title: Przekrój o homeopatii
-author: Wahwah
-layout: post
-date: 2009-01-30
-url: /2009/01/30/przekroj-o-homeopatii/
-categories:
-  - Kontrowersje
-  - Prasa
-  - Pseudomedycyna
-tags:
-  - Homeopatia
-  - Przekrój
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Prasa", "Pseudomedycyna"]
+date = "2009-01-30"
+layout = "post"
+tags = ["Homeopatia", "Przekrój"]
+title = "Przekrój o homeopatii"
+url = "/2009/01/30/przekroj-o-homeopatii/"
 
----
++++
+
 <div>
   <a href="http://www.przekroj.pl/cywilizacja_spoleczenstwo_artykul,3979.html">Doskonały artykuł w Przekroju</a>:
 </div>

@@ -1,15 +1,14 @@
----
-title: 'CM Synexus  – informacja o badaniach klinicznych'
-author: dexter
-layout: post
-date: 2015-06-15
-url: /2015/06/15/synexus-informacja-o-badaniach-klinicznych/
-categories:
-  - Leczenie
-tags:
-  - Leki biologiczne
++++
+author = "dexter"
+categories = ["Leczenie"]
+date = "2015-06-15"
+layout = "post"
+tags = ["Leki biologiczne"]
+title = "CM Synexus  – informacja o badaniach klinicznych"
+url = "/2015/06/15/synexus-informacja-o-badaniach-klinicznych/"
 
----
++++
+
 Centrum Medyczne Synexus prowadzi aktualnie badanie kliniczne dla pacjentów z Atopowym Zapaleniem Skóry.
   
 W ramach udziału w badaniu klinicznym pacjent otrzymuje bezpłatnie możliwość skorzystania z innowacyjnych terapii, dodatkowej opieki medycznej, bezpłatnych badań.

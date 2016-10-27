@@ -1,8 +1,9 @@
----
-title: Emolium
-permalink: /Emolium/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Emolium/"
+title = "Emolium"
+
++++
 
 [thumb|right|Emolium](/grafika:Emolium_grupa.jpg "wikilink") **Emolium** to linia nowoczesnych emolientów kompleksowo zwalczająca przyczyny i skutki suchej skóry. Emolium jest przeznaczone do profilaktycznej pielęgnacji skóry suchej oraz jako podstawa lub uzupełnienie leczenia dermatologicznego chorób przebiegających z suchością skóry – atopowego zapalenia skóry, rybiej łuski, łuszczycy, wyprysku i liszaju płaskiego. W linii znajdują się Krem, Krem Specjalny, Kremowy żel do mycia, Olejek do kąpieli, Emulsja do ciała, Krem barierowy oraz Szampon nawilżający. Dzięki bogatym formułom każdy z produktów działa na czterech płaszczyznach:
 

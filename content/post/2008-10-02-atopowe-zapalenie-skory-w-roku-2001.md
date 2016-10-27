@@ -1,15 +1,14 @@
----
-title: Atopowe zapalenie skóry w roku 2001
-author: Wahwah
-layout: post
-date: 2008-10-02
-url: /2008/10/02/atopowe-zapalenie-skory-w-roku-2001/
-categories:
-  - Forum
-tags:
-  - google
++++
+author = "Wahwah"
+categories = ["Forum"]
+date = "2008-10-02"
+layout = "post"
+tags = ["google"]
+title = "Atopowe zapalenie skóry w roku 2001"
+url = "/2008/10/02/atopowe-zapalenie-skory-w-roku-2001/"
 
----
++++
+
 To, że dzisiaj możemy znaleźć dużo informacji o atopowym zapaleniu skóry, jest teraz zupełnie normalne. Ale przecież nie zawsze tak było. Pamiętacie rok 2001? Nasz serwis w ogóle jeszcze nie istniał. Ja nawet nie zdążyłem jeszcze porządnie zachorować. A ci, którzy szukali w sieci frazy „atopowe zapalenie skóry” widzieli [takie oto wyniki][1].
 
 Pod każdym wynikiem jest link _View old version on the Internet Archive_. Można pod większością z tych linków zobaczyć historyczną zawartość strony.

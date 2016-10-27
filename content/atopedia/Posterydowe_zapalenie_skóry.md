@@ -1,8 +1,9 @@
----
-title: Posterydowe zapalenie skóry
-permalink: /Posterydowe_zapalenie_skóry/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Posterydowe_zapalenie_skóry/"
+title = "Posterydowe zapalenie skóry"
+
++++
 
 Uzależnienie od sterydów
 ------------------------

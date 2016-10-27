@@ -1,8 +1,9 @@
----
-title: Techniki relaksacyjne
-permalink: /Techniki_relaksacyjne/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Techniki_relaksacyjne/"
+title = "Techniki relaksacyjne"
+
++++
 
 [right](/Grafika:relaks.png "wikilink")
 

@@ -1,15 +1,13 @@
----
-title: Pierwsze starcie z książką Katarzyny Schier
-author: Wahwah
-layout: post
-date: 2008-05-17
-url: /2008/05/17/pierwsze-starcie-z-ksiazka-katarzyny-schier/
-categories:
-  - Kontrowersje
-  - Książka
-  - Nauka
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Książka", "Nauka"]
+date = "2008-05-17"
+layout = "post"
+title = "Pierwsze starcie z książką Katarzyny Schier"
+url = "/2008/05/17/pierwsze-starcie-z-ksiazka-katarzyny-schier/"
 
----
++++
+
 > _Kiedy cierpi dusza, choruje ciało._
   
 > &#8211;Reinhard Stalmann, Psychosomatik

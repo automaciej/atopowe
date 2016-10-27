@@ -1,13 +1,13 @@
----
-title: Hydrokortyzon bez recepty w USA
-author: Wahwah
-layout: post
-date: 2007-11-04
-url: /2007/11/04/hydrokortyzon-bez-recepty-w-usa/
-categories:
-  - Leczenie
++++
+author = "Wahwah"
+categories = ["Leczenie"]
+date = "2007-11-04"
+layout = "post"
+title = "Hydrokortyzon bez recepty w USA"
+url = "/2007/11/04/hydrokortyzon-bez-recepty-w-usa/"
 
----
++++
+
 Niedawno w Walmarcie zobaczyłem coś, czego w Polsce ani w Irlandii bym nie znalazł: Hydrokortyzon 1% bez recepty.
 
 ![Cortizone-10 (1)][1]

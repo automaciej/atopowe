@@ -1,13 +1,13 @@
----
-title: Nowa osoba na blogu
-author: aksamitka
-layout: post
-date: 2008-06-28
-url: /2008/06/28/nowa-osoba-na-blogu/
-categories:
-  - Blog
++++
+author = "aksamitka"
+categories = ["Blog"]
+date = "2008-06-28"
+layout = "post"
+title = "Nowa osoba na blogu"
+url = "/2008/06/28/nowa-osoba-na-blogu/"
 
----
++++
+
 Witam!
 
 Na forum jestem od roku. Moje forumowe imię to Aksamitka. Teraz zostałam zaproszona tutaj  <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />Dziękuję Wahwahowi i reszcie za ten zaszczyt <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

@@ -1,18 +1,14 @@
----
-title: Dni Drzwi Otwartych w ramach projektu Halo! ATOPIA
-author: ewaela
-layout: post
-date: 2012-08-21
-url: /2012/08/21/dni-drzwi-otwartych-w-ramach-projektu-halo-atopia/
-categories:
-  - W społeczeństwie
-  - Wydarzenia
-tags:
-  - dzieci
-  - fundacja alabaster
-  - halo atopia
++++
+author = "ewaela"
+categories = ["W społeczeństwie", "Wydarzenia"]
+date = "2012-08-21"
+layout = "post"
+tags = ["dzieci", "fundacja alabaster", "halo atopia"]
+title = "Dni Drzwi Otwartych w ramach projektu Halo! ATOPIA"
+url = "/2012/08/21/dni-drzwi-otwartych-w-ramach-projektu-halo-atopia/"
 
----
++++
+
 W każdą środę (do grudnia) zapraszamy do warszawskiego biura na Dzień Drzwi Otwartych.
 
 W przestronnej sali, przy kawie, herbacie i ciasteczkach, będzie można się poznać, otwarcie porozmawiać o AZS, wymienić się doświadczeniami i informacjami.

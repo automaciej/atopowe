@@ -1,14 +1,13 @@
----
-title: Zakupy elektroniczne
-author: Wahwah
-layout: post
-date: 2007-10-21
-url: /2007/10/21/zakupy-elektroniczne/
-categories:
-  - Kontrowersje
-  - Nauka
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Nauka"]
+date = "2007-10-21"
+layout = "post"
+title = "Zakupy elektroniczne"
+url = "/2007/10/21/zakupy-elektroniczne/"
 
----
++++
+
 Postanowiłem że kupię odtwarzacz MP3. Zastosowanie mam bardzo konkretne: odsłuchać 48 półgodzinnych wykładów z psychologii. Amerykańska firma [The Teaching Company][1], w skrócie TTC, sprzedaje kursy dotyczące najprzeróżniejszych dziedzin. Ma to mnie przygotować na daszą rozprawę z kwestią powiązań psychiki i chorób. Sam nie wiem jak się to zakończy, może okaże się że jednak ludzie chorują bo chcą? Wikipedia straszy hasłami typu _psychoneuroimmunologia_, a w [dyskusji][2] na temat psychosomatyki czuję się jak głos wołający na puszczy.
 
 <!--more-->Kursy są przygotowane przez TTC naprawdę znakomicie. Można je kupić w postaci płyt DVD, płyt audio lub ściąganych przez sieć plików MP3. Ta ostatnia opcja jest najtańsza.

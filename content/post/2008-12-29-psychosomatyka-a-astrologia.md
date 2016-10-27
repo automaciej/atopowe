@@ -1,14 +1,13 @@
----
-title: Psychosomatyka a astrologia
-author: aksamitka
-layout: post
-date: 2008-12-29
-url: /2008/12/29/psychosomatyka-a-astrologia/
-categories:
-  - Kontrowersje
-  - Pseudomedycyna
++++
+author = "aksamitka"
+categories = ["Kontrowersje", "Pseudomedycyna"]
+date = "2008-12-29"
+layout = "post"
+title = "Psychosomatyka a astrologia"
+url = "/2008/12/29/psychosomatyka-a-astrologia/"
 
----
++++
+
 Długo się zbierałam żeby napisać ten post, ale najważniejsze że wiem co napisać. Mam nadzieję, że przekona to zarówno racjonalistów jak i wierzących  <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />Słowem wszystkich którzy chcieliby poznać trochę prawdy na temat korzeni tak dzisiaj popularnej psychosomatyki&#8230;
 
 <!--more-->

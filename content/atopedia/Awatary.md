@@ -1,8 +1,9 @@
----
-title: Awatary
-permalink: /Awatary/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Awatary/"
+title = "Awatary"
+
++++
 
 Awatary to małe obrazki, wyświetlane na [forum](/atopedia/forum_dyskusyjne "wikilink") obok postów użytkownika. Niektóre osoby na forum używają nowych awatarów, ale zaczynają tęsknić do poprzednich. Tutaj możecie zobaczyć wcześniej używane awatary niektórych forumowiczów. Możecie też wstawiać tu swoje awatary, korzystając z [instrukcji](/atopedia/jak_wstawić_obrazek "wikilink").
 

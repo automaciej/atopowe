@@ -1,8 +1,9 @@
----
-title: Daktarin
-permalink: /Daktarin/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Daktarin/"
+title = "Daktarin"
+
++++
 
 Treść na opakowaniu
 -------------------

@@ -1,8 +1,9 @@
----
-title: Mus morelowy
-permalink: /Mus_morelowy/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Mus_morelowy/"
+title = "Mus morelowy"
+
++++
 
 **Składniki:**
 

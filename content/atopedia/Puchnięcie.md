@@ -1,8 +1,9 @@
----
-title: Puchnięcie
-permalink: /Puchnięcie/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Puchnięcie/"
+title = "Puchnięcie"
+
++++
 
 **Puchnięcie** jest często jednym z objawów [reakcji alergicznej](/atopedia/Reakcja_alergiczna "wikilink") lub [infekcji bakteryjnej](/atopedia/Infekcja_skóry "wikilink"). Może być jednym z objawów towarzyszących [atopowemu zapaleniu skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink"), i jest obserwowane najczęściej w stanach dużego nasilenia.
 

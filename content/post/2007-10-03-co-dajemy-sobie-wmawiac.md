@@ -1,18 +1,14 @@
----
-title: Co dajemy sobie wmawiać
-author: Wahwah
-layout: post
-date: 2007-10-03
-url: /2007/10/03/co-dajemy-sobie-wmawiac/
-categories:
-  - Kontrowersje
-  - Nauka
-  - Pseudomedycyna
-tags:
-  - Homeopatia
-  - psychika i ciało
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Nauka", "Pseudomedycyna"]
+date = "2007-10-03"
+layout = "post"
+tags = ["Homeopatia", "psychika i ciało"]
+title = "Co dajemy sobie wmawiać"
+url = "/2007/10/03/co-dajemy-sobie-wmawiac/"
 
----
++++
+
 Przeglądając [Atopedię][1] trafiłem niedawno na artykuł o wdzięcznym tytule „Geneza AZS i podstawy terapii według kliniki medycyny homeopatycznej Gelsenkirchen w Niemczech”. Przeczytałem go, i włosy stanęły mi dęba. Pomijając samą [kwestię homeopatii][2], są tam na przykład takie kwiatki:
 
 > Postępowanie w klinice w Gelsenkirchen zakłada, że sytuacje [stresowe][3] mogą być odpowiedzialne za powstanie neurodermitis. Każda choroba chroniczna powstaje poprzez uczucie, które niespodziewanie obejmuje daną osobę, i które jest porównywalne z szokiem. W przypadku neurodermitis jest to uczucie rozstania. Osoba chora boi się rozstań.

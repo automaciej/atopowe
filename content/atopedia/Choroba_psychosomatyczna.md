@@ -1,8 +1,9 @@
----
-title: Choroba psychosomatyczna
-permalink: /Choroba_psychosomatyczna/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Choroba_psychosomatyczna/"
+title = "Choroba psychosomatyczna"
+
++++
 
 [left](/Grafika:ChorobaPsychosomatyczna.png "wikilink") [Atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink") bywa zaliczane do chorób **psychosomatycznych**, czyli takich w których istotną rolę odgrywa podłoże psychogenne. W psychosomatyce – dziale medycyny i psychologii zajmującej się wzajemnymi związkami ciała i [psychiki](/atopedia/psychika "wikilink") – chorobą psychosomatyczną określa się: zaburzenia czynności narządu bez uchwytnych znamion jego morfologicznego uszkodzenia. Mechanizm psychosomatyczny opiera się na istniejącym widocznym wpływie czynników emocjonalnych i psychicznych (często nieuświadamianych) na stan zdrowia człowieka.
 

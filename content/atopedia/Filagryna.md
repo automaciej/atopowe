@@ -1,8 +1,9 @@
----
-title: Filagryna
-permalink: /Filagryna/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Filagryna/"
+title = "Filagryna"
+
++++
 
 Białko występujące w warstwie rogowej naskórka. Jego funkcją jest spajanie włókien keratyny w procesie dojrzewania keratynocytów.
 

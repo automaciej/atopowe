@@ -1,8 +1,9 @@
----
-title: Ryż z mięsem i warzywami
-permalink: /Ryż_z_mięsem_i_warzywami/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Ryż_z_mięsem_i_warzywami/"
+title = "Ryż z mięsem i warzywami"
+
++++
 
 **Składniki:**
 

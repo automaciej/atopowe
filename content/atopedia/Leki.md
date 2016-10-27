@@ -1,8 +1,9 @@
----
-title: Leki
-permalink: /Leki/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Leki/"
+title = "Leki"
+
++++
 
 W leczeniu [AZS](/atopedia/AZS "wikilink") stosuje się różne leki, które ze względu na sposób podawania można podzielić je na:
 

@@ -1,8 +1,9 @@
----
-title: Reakcja alergiczna
-permalink: /Reakcja_alergiczna/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Reakcja_alergiczna/"
+title = "Reakcja alergiczna"
+
++++
 
 **Reakcja alergiczna** - jest to złożona reakcja [układu immunologicznego](/atopedia/Układ_immunologiczny "wikilink") na kontakt z [alergenem](/atopedia/Alergen "wikilink") i polega na wytwarzaniu [przeciwciał](/atopedia/Przeciwciało "wikilink"), czyli specyficznych substancji białkowych (immunoglobulin – głównie klasy [IgE](/atopedia/IgE "wikilink")) oraz pobudzaniu swoistych komórek (limfocytów T). Przeciwciała wiążą się z [komórkami tucznymi](/atopedia/Komórki_tuczne "wikilink") (występującymi m. in. w skórze i błonach śluzowych) – przy powtórnym kontakcie z alergenem następuje reakcja zapalna, w wyniku której wyzwalają się substancje ([histamina](/atopedia/Histamina "wikilink"), leukotrieny, cytokiny i inne) odpowiedzialne za wystąpienie takich objawów jak np. [nieżyt nosa](/atopedia/Alergiczny_nieżyt_nosa "wikilink"), [świąd skóry](/atopedia/Świąd "wikilink"), [skurcz oskrzeli](/atopedia/Astma_oskrzelowa "wikilink") (duszność), obrzęk, kichanie, kaszel, biegunka i inne.
 

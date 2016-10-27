@@ -1,13 +1,13 @@
----
-title: Pragnienie i uczciwość
-author: Wahwah
-layout: post
-date: 2008-11-16
-url: /2008/11/16/pragnienie-i-uczciwosc/
-categories:
-  - Kontrowersje
++++
+author = "Wahwah"
+categories = ["Kontrowersje"]
+date = "2008-11-16"
+layout = "post"
+title = "Pragnienie i uczciwość"
+url = "/2008/11/16/pragnienie-i-uczciwosc/"
 
----
++++
+
 Często dyskutuję na forum z osobami które mają skłonność do medycyny alternatywnej. Szczególnie kiedy opisują, jak pomogła im cudowna metoda X, zadaję pytania w stylu „skąd wiesz, że to akurat X Ci pomogło?” Nie ma na to pytanie łatwej odpowiedzi, szczególnie że powiedzenie „bo się lepiej czuję” nie załatwia sprawy; zawsze można się lepiej poczuć z jakiegoś innego powodu, na przykład czegoś co wystąpiło w tym samym czasie.
 
 Osoby które stają w obliczu tego (całkiem słusznego) pytania stroszą się, robią różne uniki, począwszy od [gry w pomidor][1] („bo mi pomogło”, „bo się lepiej czuję”) do zadeklarowania że wyłączają się z dyskusji, i poinformowania mnie, że nie było ich intencją wszczęcie polemiki, ale „dotarcie do ludzi”. Ten ostatni przykład jest o tyle ciekawy, że mój rozmówca sugeruje, że powinienem się przejmować _intencją_, z jaką pisał.

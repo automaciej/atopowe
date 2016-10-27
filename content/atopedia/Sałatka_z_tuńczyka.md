@@ -1,8 +1,9 @@
----
-title: Sałatka z tuńczyka
-permalink: /Sałatka_z_tuńczyka/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Sałatka_z_tuńczyka/"
+title = "Sałatka z tuńczyka"
+
++++
 
 **Składniki:**
 

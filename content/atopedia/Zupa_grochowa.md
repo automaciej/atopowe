@@ -1,8 +1,9 @@
----
-title: Zupa grochowa
-permalink: /Zupa_grochowa/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Zupa_grochowa/"
+title = "Zupa grochowa"
+
++++
 
 **Składniki:**
 

@@ -1,8 +1,9 @@
----
-title: Cetaphil MD Dermoprotektor
-permalink: /Cetaphil_MD_Dermoprotektor/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Cetaphil_MD_Dermoprotektor/"
+title = "Cetaphil MD Dermoprotektor"
+
++++
 
 *Balsam nawilżający 250ml*
 

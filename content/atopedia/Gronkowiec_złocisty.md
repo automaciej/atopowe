@@ -1,8 +1,9 @@
----
-title: Gronkowiec złocisty
-permalink: /Gronkowiec_złocisty/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Gronkowiec_złocisty/"
+title = "Gronkowiec złocisty"
+
++++
 
 **Gronkowiec złocisty** (*Staphylococcus aureus*) jest bakterią powodującą [infekcje skóry](/atopedia/infekcja_skóry "wikilink").
 

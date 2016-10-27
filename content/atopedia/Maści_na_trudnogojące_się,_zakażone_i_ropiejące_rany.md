@@ -1,8 +1,9 @@
----
-title: Maści na trudnogojące się, zakażone i ropiejące rany
-permalink: /Maści_na_trudnogojące_się,_zakażone_i_ropiejące_rany/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Maści_na_trudnogojące_się,_zakażone_i_ropiejące_rany/"
+title = "Maści na trudnogojące się, zakażone i ropiejące rany"
+
++++
 
 **Maść z Balsamem Szostakowskiego** - wzmaga ziarninowanie ran
 

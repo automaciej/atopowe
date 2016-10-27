@@ -1,17 +1,14 @@
----
-title: Czy leki naturalne są lepsze od chemicznych?
-author: dexter
-layout: post
-date: 2008-02-25
-url: /2008/02/25/czy-leki-naturalne-sa-lepsze-od-chemicznych/
-categories:
-  - Kontrowersje
-  - Książka
-tags:
-  - chemia
-  - John Diamond
++++
+author = "dexter"
+categories = ["Kontrowersje", "Książka"]
+date = "2008-02-25"
+layout = "post"
+tags = ["chemia", "John Diamond"]
+title = "Czy leki naturalne są lepsze od chemicznych?"
+url = "/2008/02/25/czy-leki-naturalne-sa-lepsze-od-chemicznych/"
 
----
++++
+
 Na naszym Forum często pojawiają się osoby, usilnie próbujące namówić nas na zakup tzw. leków naturalnych. Na uzasadnione wątpliwości co do skuteczności tych specyfików, zwykle [odpowiadają][1]: &#8222;trujcie się chemią skoro nie chcecie spróbować naturalnych środków&#8221;. Czy rzeczywiście &#8222;naturalne&#8221; jest lepsze od &#8222;chemii&#8221;?
 
 > Przykładowo, korę wierzbową używa się od wieków jako środka przeciwgorączkowego, przeciwzapalnego i przeciwbólowego. Faktycznie stosuje się ją podobnie do tego, jak my stosujemy aspirynę. Nie jest to zaskakujące, ponieważ już w 1838 roku chemicy zidentyfikowali aktywny składnik kory wierzbowej jako kwas salicylowy &#8211; od _salix_, botanicznej nazwy rodziny wierzbowatych &#8211; którego syntetyczną postacią jest kwas acetylosalicylowy, lepiej znany jako aspiryna. Gdybyś wziął tabletkę czystego, naturalnego kwasu salicylowego wyciągniętego z wierzby i tabletkę chemicznego kwasu salicylowego wyprodukowaną w fabryce Bayera, żadnymi znanymi metodami nie udałoby się stwierdzić różnicy między nimi. Obie składają się z tych samych cząstek subatomowych tworzących identyczne atomy, które są skupione w identyczny sposób, tworząc identyczne molekuły. Chemik nie potrafi znaleźć różnicy i zielarz nie potrafi znaleźć różnicy. Zresztą nawet zielarz, który wierzy, że _istnieje_ różnica, nie potrafi jej znaleźć.

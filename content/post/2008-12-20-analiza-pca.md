@@ -1,13 +1,13 @@
----
-title: Analiza PCA
-author: Wahwah
-layout: post
-date: 2008-12-20
-url: /2008/12/20/analiza-pca/
-categories:
-  - Forum
++++
+author = "Wahwah"
+categories = ["Forum"]
+date = "2008-12-20"
+layout = "post"
+title = "Analiza PCA"
+url = "/2008/12/20/analiza-pca/"
 
----
++++
+
 Niedawno dla zabawy zrobiłem analizę zawartości forum pod kątem tego, kto używa jakich słów jak często w spoich postach. Każdy użytkownik to punkt w wielowymiarowej przestrzeni, w której każde słowo jest jednym wymiarem. Potem użyłem PCA (Principal Component Analysis) żeby „spłaszczyć” tę przestrzeń do dwóch wymiarów i zrobić wykres. Musiałem zrobić PDF (a nie PNG), bo wykres jest bardzo duży i są na nim małe literki, inaczej by się to wszystko nie zmieściło.
 
 <!--more-->

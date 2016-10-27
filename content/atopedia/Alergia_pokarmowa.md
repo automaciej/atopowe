@@ -1,8 +1,9 @@
----
-title: Alergia pokarmowa
-permalink: /Alergia_pokarmowa/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Alergia_pokarmowa/"
+title = "Alergia pokarmowa"
+
++++
 
 **Alergia pokarmowa** - zespół objawów zachodzących w organizmie będących wynikiem spożycia pokarmu, w którym dolegliwości uwarunkowane są przez nieprawidłowe działanie [mechanizmów immunologicznych](/atopedia/Reakcja_alergiczna "wikilink"). Substancjami silnie alergizującymi są np. białko mleka krowiego, jaja, orzechy i ryby.
 

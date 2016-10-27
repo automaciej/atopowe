@@ -1,8 +1,9 @@
----
-title: Wykład dr Ireny Grzesiak
-permalink: /Wykład_dr_Ireny_Grzesiak/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Wykład_dr_Ireny_Grzesiak/"
+title = "Wykład dr Ireny Grzesiak"
+
++++
 
 Wykład dr Ireny Grzesiak odbył się we Wrocławiu, 28 października 2005. Materiał jest dostępny dzięki uczynności Kawagi z forum.
 

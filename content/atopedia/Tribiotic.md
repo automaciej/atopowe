@@ -1,8 +1,9 @@
----
-title: Tribiotic
-permalink: /Tribiotic/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Tribiotic/"
+title = "Tribiotic"
+
++++
 
 *Maść antybakteryjna, 14 g*
 

@@ -1,8 +1,9 @@
----
-title: Papierosy
-permalink: /Papierosy/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Papierosy/"
+title = "Papierosy"
+
++++
 
 Zaobserwowano, że ryzyko zachorowania na [AZS](/atopedia/Atopowe_zapalenie_skóry "wikilink") jest większe u dzieci, których matki były czynnymi lub biernymi palaczami w czasie ciąży[1]. Unikanie ekspozycji na dym w ciąży jest zatem jednym z czynników, które mogą zmniejszyć rozwój AZS.
 

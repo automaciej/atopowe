@@ -1,8 +1,9 @@
----
-title: Piernik bezglutenowy
-permalink: /Piernik_bezglutenowy/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Piernik_bezglutenowy/"
+title = "Piernik bezglutenowy"
+
++++
 
 **Składniki:**
 

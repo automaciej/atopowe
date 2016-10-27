@@ -1,16 +1,13 @@
----
-title: Alveo oszustwo
-author: Wahwah
-layout: post
-date: 2008-01-15
-url: /2008/01/15/alveo-oszustwo/
-categories:
-  - Kontrowersje
-  - Leczenie
-  - Pseudomedycyna
-  - W społeczeństwie
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Leczenie", "Pseudomedycyna", "W społeczeństwie"]
+date = "2008-01-15"
+layout = "post"
+title = "Alveo oszustwo"
+url = "/2008/01/15/alveo-oszustwo/"
 
----
++++
+
 Dzisiaj szukając stron na temat [Alveo][1], zauważyłem, że Google proponuje dodatkowe powiązane słowa kluczowe. Wyglądało to tak:
 
 ![Screenshot: Alveo oszustwo][2]

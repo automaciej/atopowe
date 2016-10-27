@@ -1,8 +1,9 @@
----
-title: Przebieg atopowego zapalenia skóry
-permalink: /Przebieg_atopowego_zapalenia_skóry/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Przebieg_atopowego_zapalenia_skóry/"
+title = "Przebieg atopowego zapalenia skóry"
+
++++
 
 Wyprysk atopowy wczesnego dzieciństwa
 -------------------------------------

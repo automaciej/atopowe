@@ -1,8 +1,9 @@
----
-title: Zbiórka pieniędzy na hosting (2006)
-permalink: /Zbiórka_pieniędzy_na_hosting_(2006)/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Zbiórka_pieniędzy_na_hosting_(2006)/"
+title = "Zbiórka pieniędzy na hosting (2006)"
+
++++
 
 -   [Wątek na forum](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?t=3093)
 -   [O zbiórce na blogu](http://blog.atopowe.pl/2006/11/10/zrzutka-na-hosting/)

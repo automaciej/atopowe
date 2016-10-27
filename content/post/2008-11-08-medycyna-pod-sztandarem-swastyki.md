@@ -1,15 +1,13 @@
----
-title: Medycyna pod sztandarem swastyki
-author: aksamitka
-layout: post
-date: 2008-11-08
-url: /2008/11/08/medycyna-pod-sztandarem-swastyki/
-categories:
-  - Kontrowersje
-  - Leczenie
-  - W społeczeństwie
++++
+author = "aksamitka"
+categories = ["Kontrowersje", "Leczenie", "W społeczeństwie"]
+date = "2008-11-08"
+layout = "post"
+title = "Medycyna pod sztandarem swastyki"
+url = "/2008/11/08/medycyna-pod-sztandarem-swastyki/"
 
----
++++
+
 Dziś jak co rano zrobiłam sobie poranną, internetową [&#8222;prasówkę&#8221;][1]. I na pierwszym planie był [artykuł o pseudonaukowcach][2]. A że pseudonaukowcy to moja &#8222;specjalność&#8221;, więc kliknęłam. No i&#8230; Po paru minutach nie wiedziałam czy mam się śmiać, czy bać się czy płakać. Germańska nowa medycyna&#8230; Tak. Pewien człowiek postanowił, że będzie leczyć raka tylko siłą ducha (cokolwiek przez to rozumieć), ponieważ tzw. żydowski spisek wymyślił chemioterapię itp.
 
 Hmmmm&#8230;. Żydowski spisek, _germańska nowa_ medycyna, siła ducha&#8230; [Dziś jak co rano zrobiłam sobie poranną, internetową [&#8222;prasówkę&#8221;][1]. I na pierwszym planie był [artykuł o pseudonaukowcach][2]. A że pseudonaukowcy to moja &#8222;specjalność&#8221;, więc kliknęłam. No i&#8230; Po paru minutach nie wiedziałam czy mam się śmiać, czy bać się czy płakać. Germańska nowa medycyna&#8230; Tak. Pewien człowiek postanowił, że będzie leczyć raka tylko siłą ducha (cokolwiek przez to rozumieć), ponieważ tzw. żydowski spisek wymyślił chemioterapię itp.

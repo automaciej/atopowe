@@ -1,8 +1,9 @@
----
-title: Pasta z kiełków soczewicy
-permalink: /Pasta_z_kiełków_soczewicy/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Pasta_z_kiełków_soczewicy/"
+title = "Pasta z kiełków soczewicy"
+
++++
 
 **Składniki:**
 

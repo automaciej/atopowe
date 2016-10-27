@@ -1,16 +1,14 @@
----
-title: Historia chorób alergicznych
-author: aksamitka
-layout: post
-date: 2008-07-22
-url: /2008/07/22/historia-chorob-alergicznych/
-categories:
-  - Leczenie
-  - Nauka
-tags:
-  - historia
++++
+author = "aksamitka"
+categories = ["Leczenie", "Nauka"]
+date = "2008-07-22"
+layout = "post"
+tags = ["historia"]
+title = "Historia chorób alergicznych"
+url = "/2008/07/22/historia-chorob-alergicznych/"
 
----
++++
+
 Myślicie że choroby alergiczne to wymysł nas, ludzi żyjących w XX i XXI wieku? Jeśli tak, to grubo się mylicie. Takie choroby istniały od dawien dawna, lecz ludzie prawdopodobnie nie zwracali na nie uwagi (jak bowiem ma się katar do epidemii tyfusu), lub mylono je z innymi chorobami (np. astmę z gruźlicą), albo mawiano iż dany osobnik jest &#8222;chorowity&#8221;.
 
 <!--more-->

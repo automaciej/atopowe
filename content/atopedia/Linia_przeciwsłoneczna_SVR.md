@@ -1,8 +1,9 @@
----
-title: Linia przeciwsłoneczna SVR
-permalink: /Linia_przeciwsłoneczna_SVR/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Linia_przeciwsłoneczna_SVR/"
+title = "Linia przeciwsłoneczna SVR"
+
++++
 
 ### SVR 50 UVB Krem
 

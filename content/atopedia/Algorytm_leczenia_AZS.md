@@ -1,8 +1,9 @@
----
-title: Algorytm leczenia AZS
-permalink: /Algorytm_leczenia_AZS/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Algorytm_leczenia_AZS/"
+title = "Algorytm leczenia AZS"
+
++++
 
 w zależności od stopnia choroby
 -------------------------------

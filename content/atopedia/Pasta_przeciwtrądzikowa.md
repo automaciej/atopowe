@@ -1,8 +1,9 @@
----
-title: Pasta przeciwtrądzikowa
-permalink: /Pasta_przeciwtrądzikowa/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Pasta_przeciwtrądzikowa/"
+title = "Pasta przeciwtrądzikowa"
+
++++
 
 Pasta przeciwtrądzikowa
 -----------------------

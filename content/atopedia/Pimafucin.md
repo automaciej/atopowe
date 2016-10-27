@@ -1,8 +1,9 @@
----
-title: Pimafucin
-permalink: /Pimafucin/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Pimafucin/"
+title = "Pimafucin"
+
++++
 
 ''Natamycin ''
  krem: (20 mg/g) tuba 30 g (Rp) PP

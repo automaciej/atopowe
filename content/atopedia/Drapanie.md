@@ -1,8 +1,9 @@
----
-title: Drapanie
-permalink: /Drapanie/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Drapanie/"
+title = "Drapanie"
+
++++
 
 **Drapanie** - reakcja na [świąd](/atopedia/świąd "wikilink"), bardzo trudna lub niemożliwa do powstrzymania. Powoduje powstawanie [przeczosów](/atopedia/przeczosy "wikilink") i ran, ułatwia powstawanie [infekcji skóry](/atopedia/Infekcja_skóry "wikilink"). Drapanie jest jednym z elementów [błędnego koła](/atopedia/Efekt_błędnego_koła "wikilink").
 

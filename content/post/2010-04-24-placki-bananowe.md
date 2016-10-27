@@ -1,13 +1,13 @@
----
-title: Placki bananowe
-author: dexter
-layout: post
-date: 2010-04-24
-url: /2010/04/24/placki-bananowe/
-categories:
-  - Kuchnia
++++
+author = "dexter"
+categories = ["Kuchnia"]
+date = "2010-04-24"
+layout = "post"
+title = "Placki bananowe"
+url = "/2010/04/24/placki-bananowe/"
 
----
++++
+
 Łatwy przepis na śniadanie dla dwóch osób:
 
 <!--more-->

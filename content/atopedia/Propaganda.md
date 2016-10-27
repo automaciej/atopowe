@@ -1,8 +1,9 @@
----
-title: Propaganda
-permalink: /Propaganda/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Propaganda/"
+title = "Propaganda"
+
++++
 
 Jeżeli chcecie się przyczynić do propagowania naszej strony internetowej, możecie na swoich blogach i stronach internetowych umieszczać linki do nas. Przygotowaliśmy też button wraz z fragmentem kodu HTML gotowym do wklejenia na stronę internetową lub blog.
 

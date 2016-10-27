@@ -1,8 +1,9 @@
----
-title: Lipolan
-permalink: /Lipolan/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Lipolan/"
+title = "Lipolan"
+
++++
 
 **LIPOLAN - tłusty emolient** *' LIPOLAN*' zawiera jedynie 55% wody. Preparat ten nie zamarza nawet na dużym mrozie i polecany jest jako krem na zimę. Lipolan zawiera liposomy, tworzące barierę przeciw wysychaniu skóry i utrzymujące wilgoć w jej wnętrzu.
 

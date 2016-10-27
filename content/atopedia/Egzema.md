@@ -1,8 +1,9 @@
----
-title: Egzema
-permalink: /Egzema/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Egzema/"
+title = "Egzema"
+
++++
 
 **Egzema** (wyprysk)- (ang. eczema) termin ten odnosi się do wypryskowych lub zapalnych zmian skórnych. Jedną z jej postaci jest [atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink"). Pojęcia egzemy i atopowego zapalenia skóry są często (choć nie do końca słusznie) używane zamiennie.
 

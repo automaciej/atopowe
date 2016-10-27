@@ -1,8 +1,9 @@
----
-title: Lorinden T
-permalink: /Lorinden_T/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Lorinden_T/"
+title = "Lorinden T"
+
++++
 
 Skład
 -----

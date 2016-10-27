@@ -1,8 +1,9 @@
----
-title: Ciasteczka kruche na piwie
-permalink: /Ciasteczka_kruche_na_piwie/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Ciasteczka_kruche_na_piwie/"
+title = "Ciasteczka kruche na piwie"
+
++++
 
 Ciasteczka kruche na piwie zamiast jajka
 ----------------------------------------

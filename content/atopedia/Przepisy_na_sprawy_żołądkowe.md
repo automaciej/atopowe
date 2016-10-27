@@ -1,8 +1,9 @@
----
-title: Przepisy na sprawy żołądkowe
-permalink: /Przepisy_na_sprawy_żołądkowe/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Przepisy_na_sprawy_żołądkowe/"
+title = "Przepisy na sprawy żołądkowe"
+
++++
 
 [right](/Grafika:trawienie.png "wikilink")
 

@@ -1,14 +1,13 @@
----
-title: Jak sprzedaje się cudowne mikstury
-author: dexter
-layout: post
-date: 2008-03-11
-url: /2008/03/11/jak-sprzedaje-sie-cudowne-mikstury/
-categories:
-  - Kontrowersje
-  - Pseudomedycyna
++++
+author = "dexter"
+categories = ["Kontrowersje", "Pseudomedycyna"]
+date = "2008-03-11"
+layout = "post"
+title = "Jak sprzedaje się cudowne mikstury"
+url = "/2008/03/11/jak-sprzedaje-sie-cudowne-mikstury/"
 
----
++++
+
 > Współcześni cudotwórcy-uzdrawiacze są nadzwyczajnymi sprzedawcami. Grają na obawach. Zajmują się dostawą nadziei. A kiedy już cię mają, potrafią przekonać, byś wracał po więcej&#8230; i więcej&#8230; i więcej. Rzadko kiedy ich ofiary zdają sobie sprawę z tego, jak często i jak zręcznie są oszukiwane. Czy matka, która zadowolona z siebie, podaje dziecku witaminy, zastanawia się nad pytaniem, czy ono rzeczywiście ich potrzebuje? Czy abonenci pism o &#8222;zdrowej żywności&#8221; wiedzą, że artykuły napisane są w sposób tendencyjny, aby napędzić sprzedaż produktów firm zamieszczających reklamy w tych pismach? Na ogół tego nie wiedzą.
 > 
 > <!--more-->Większość ludzi uważa, że łatwo można odkryć szamaństwo. Często jednak tak nie jest. Jego propagatorzy zasłaniają się płaszczem nauki. Używają naukowej terminologii i cytują (lub przeinaczają cytaty) naukowe artykuły. Gospodarze programów telewizyjnych mówią o nich jako o ekspertach lub &#8222;naukowcach wyprzedzających swoje czasy&#8221;. Samo słowo &#8222;szaman&#8221; pomaga w zakamuflowaniu ich charakteru, bo kieruje nasze myśli na dziwaczne postaci sprzedające cudowne specyfiki z krytego wozu z zaprzęgniętym koniem — a oczywiście nikt inteligentny dzisiaj nie będzie kupował cudownego specyfiku.

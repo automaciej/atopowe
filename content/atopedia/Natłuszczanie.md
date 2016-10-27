@@ -1,8 +1,9 @@
----
-title: Natłuszczanie
-permalink: /Natłuszczanie/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Natłuszczanie/"
+title = "Natłuszczanie"
+
++++
 
 [Skóra atopowa](/atopedia/Skóra_atopowa "wikilink") wymaga stałego **natłuszczania** oraz **[nawilżania](/atopedia/nawilżanie "wikilink")** - z dwóch powodów:
 

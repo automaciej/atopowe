@@ -1,8 +1,9 @@
----
-title: Dardia Lipo Krem
-permalink: /Dardia_Lipo_Krem/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Dardia_Lipo_Krem/"
+title = "Dardia Lipo Krem"
+
++++
 
 Krem dla skóry suchej – przeznaczony specjalnie do pielęgnacji skóry twarzy, stosowany również wokół oczu.
 

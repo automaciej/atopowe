@@ -1,17 +1,14 @@
----
-title: Cudowne mikstury i inne troski
-author: dexter
-layout: post
-date: 2008-02-12
-url: /2008/02/12/cudowne-mikstury-i-inne-troski/
-categories:
-  - Kontrowersje
-  - Książka
-  - Pseudomedycyna
-tags:
-  - John Diamond
++++
+author = "dexter"
+categories = ["Kontrowersje", "Książka", "Pseudomedycyna"]
+date = "2008-02-12"
+layout = "post"
+tags = ["John Diamond"]
+title = "Cudowne mikstury i inne troski"
+url = "/2008/02/12/cudowne-mikstury-i-inne-troski/"
 
----
++++
+
 Polecam dzisiaj książkę Johna Diamonda pt. &#8222;Cudowne mikstury i inne troski&#8221;. Autor był znanym dziennikarzem brytyjskim, pisał felietony do Timesa, Guardiana, Daily Mail i.in. Był również prezenterem radiowym i telewizyjnym. Umarł na raka krtani w 2001 roku.
   
 A oto krótki fragment na zachętę:

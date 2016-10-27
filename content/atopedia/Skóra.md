@@ -1,8 +1,9 @@
----
-title: Skóra
-permalink: /Skóra/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Skóra/"
+title = "Skóra"
+
++++
 
 **Skóra** jest to zewnętrzna powłoka ciała, która oddziela organy wewnętrzne od środowiska zewnętrznego.
 

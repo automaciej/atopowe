@@ -1,8 +1,9 @@
----
-title: Pokrzywka
-permalink: /Pokrzywka/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Pokrzywka/"
+title = "Pokrzywka"
+
++++
 
 Objawy przewlekłej pokrzywki to blade lub różowe, dobrze „obrysowane” wykwity na skórze w postaci nieregularnych plam lub bąbli, często otoczone przez rumień. Wykwity i bąble pojawiają się stale lub znikają i nawracają, niekoniecznie w tym samym miejscu; mogą być swędzące lub piekące. [Obrzęk naczynioruchowy](/atopedia/Obrzęk_naczynioruchowy "wikilink") dotyczy głębszych warstw tkanki podskórnej, zaś objawy są podobne, jak w pokrzywce, toteż niekiedy trudne do odróżnienia, zwłaszcza, jeśli współistnieją ze zmianami pokrzywkowymi.
 

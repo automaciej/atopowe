@@ -1,13 +1,13 @@
----
-title: Ciasta i pieczywo dla atopików
-author: dexter
-layout: post
-date: 2010-06-12
-url: /2010/06/12/ciasta-i-pieczywo-dla-atopikow/
-categories:
-  - Kuchnia
++++
+author = "dexter"
+categories = ["Kuchnia"]
+date = "2010-06-12"
+layout = "post"
+title = "Ciasta i pieczywo dla atopików"
+url = "/2010/06/12/ciasta-i-pieczywo-dla-atopikow/"
 
----
++++
+
 Autorka bloga [2smaki.pl][1] przygotowała kilka przepisów specjalnie dla atopików. Wszystko przetestowałem i mogę potwierdzić, że jest bardzo smaczne i nie powoduje alergii. Polecam! <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 [Bułeczki orkiszowe z ziołami][2]

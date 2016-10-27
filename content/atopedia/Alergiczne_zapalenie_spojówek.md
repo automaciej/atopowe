@@ -1,8 +1,9 @@
----
-title: Alergiczne zapalenie spojówek
-permalink: /Alergiczne_zapalenie_spojówek/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Alergiczne_zapalenie_spojówek/"
+title = "Alergiczne zapalenie spojówek"
+
++++
 
 Zapalenie [spojówek](/atopedia/Spojówka "wikilink") jest najczęściej spotykaną chorobą oczu.
 

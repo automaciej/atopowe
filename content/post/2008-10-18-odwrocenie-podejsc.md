@@ -1,17 +1,14 @@
----
-title: Odwrócenie podejść
-author: Wahwah
-layout: post
-date: 2008-10-18
-url: /2008/10/18/odwrocenie-podejsc/
-categories:
-  - Kontrowersje
-  - Pseudomedycyna
-tags:
-  - Ben Goldacre
-  - Homeopatia
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Pseudomedycyna"]
+date = "2008-10-18"
+layout = "post"
+tags = ["Ben Goldacre", "Homeopatia"]
+title = "Odwrócenie podejść"
+url = "/2008/10/18/odwrocenie-podejsc/"
 
----
++++
+
 Kiedy [Samuel Hahnemann][1] eksperymentował ze swoim pomysłem, medycyna była wciąż w powijakach. Wciąż jeszcze nie było konsensusu odnośnie sposobu szukania dobrych metod leczenia.
 
 <!--more-->

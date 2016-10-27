@@ -1,8 +1,9 @@
----
-title: Dieta hipoalergiczna
-permalink: /Dieta_hipoalergiczna/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Dieta_hipoalergiczna/"
+title = "Dieta hipoalergiczna"
+
++++
 
 [Dieta eliminacyjna](/atopedia/Dieta_eliminacyjna "wikilink") na dobry początek w przypadkach, w których zupełnie nie wiemy, co może być [alergenem](/atopedia/alergen "wikilink"), a nie chcemy zaczynać od życia na ryżu i marchewce :)
 

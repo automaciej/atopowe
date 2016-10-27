@@ -1,8 +1,9 @@
----
-title: Rogowacenie
-permalink: /Rogowacenie/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Rogowacenie/"
+title = "Rogowacenie"
+
++++
 
 **Rogowacenie** (keratynizacja) zaczyna się w najniższej, twórczej warstwie [naskórka](/atopedia/Naskórek "wikilink"). Dochodzi w niej do intensywnej produkcji komórek, w których powoli odkłada się **keratyna** - włókniste, bardzo odporne na działanie czynników chemicznych białko.
 

@@ -1,8 +1,9 @@
----
-title: Narodowy Fundusz Zdrowia
-permalink: /Narodowy_Fundusz_Zdrowia/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Narodowy_Fundusz_Zdrowia/"
+title = "Narodowy Fundusz Zdrowia"
+
++++
 
 *Zasadniczo, wszyscy wiedzą, czym jest Narodowy Fundusz Zdrowia.*
 

@@ -1,8 +1,9 @@
----
-title: Cellcept
-permalink: /Cellcept/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Cellcept/"
+title = "Cellcept"
+
++++
 
 **CellCept 500 mg tabletki**
 

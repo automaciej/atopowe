@@ -1,8 +1,9 @@
----
-title: Przepisy na maści
-permalink: /Przepisy_na_maści/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Przepisy_na_maści/"
+title = "Przepisy na maści"
+
++++
 
 -   [Maści tłuste](/atopedia/Maści_tłuste "wikilink")
 -   [Maści z dziegciem](/atopedia/Maści_z_dziegciem "wikilink")

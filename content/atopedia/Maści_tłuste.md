@@ -1,8 +1,9 @@
----
-title: Maści tłuste
-permalink: /Maści_tłuste/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Maści_tłuste/"
+title = "Maści tłuste"
+
++++
 
 Znaczna większość z nich opiera się na maści cholesterolowej, ale czasem różnica w jednym składniku decyduje, czy dana receptura jest dla Ciebie optymalna, i czy danej maści dobrze Ci się używa.
 

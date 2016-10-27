@@ -1,8 +1,9 @@
----
-title: Clobaza
-permalink: /Clobaza/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Clobaza/"
+title = "Clobaza"
+
++++
 
 **Postać:** krem tłusty
 

@@ -1,16 +1,14 @@
----
-title: Konferencja „AZS u dzieci z perspektywy psychologii i dietetyki”
-author: ewaela
-layout: post
-date: 2012-11-06
-url: /2012/11/06/konferencja-azs-u-dzieci-z-perspektywy-psychologii-i-dietetyki/
-categories:
-  - W społeczeństwie
-  - Wydarzenia
-tags:
-  - fundacja alabaster
++++
+author = "ewaela"
+categories = ["W społeczeństwie", "Wydarzenia"]
+date = "2012-11-06"
+layout = "post"
+tags = ["fundacja alabaster"]
+title = "Konferencja „AZS u dzieci z perspektywy psychologii i dietetyki”"
+url = "/2012/11/06/konferencja-azs-u-dzieci-z-perspektywy-psychologii-i-dietetyki/"
 
----
++++
+
 [<img src="http://blog.atopowe.pl/wp-content/uploads/2012/11/Zaproszenie_13-11_01-210x300.jpg" alt="" width="210" height="300" class="alignleft size-medium wp-image-3082" />][1]
 
 O AZS u dzieci z perspektywy psychologii i dietetyki porozmawiamy na trzeciej i zarazem ostatniej konferencji organizowanej przez [Fundację Alabaster][2] w ramach [projektu Halo! ATOPIA][3], która odbędzie się we wtorek 13 listopada w Warszawie (w godz. 10-15 w sali kinowej w Centrum Bankowo-Finansowym &#8222;Nowy Świat&#8221;, ul. Nowy Świat 6/12). 

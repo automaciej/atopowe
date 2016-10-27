@@ -1,15 +1,14 @@
----
-title: Wykład Ireny Grzesiak
-author: Wahwah
-layout: post
-date: 2006-06-11
-url: /2006/06/11/wyklad-ireny-grzesiak/
-categories:
-  - Wydarzenia
-tags:
-  - Irena Grzesiak
++++
+author = "Wahwah"
+categories = ["Wydarzenia"]
+date = "2006-06-11"
+layout = "post"
+tags = ["Irena Grzesiak"]
+title = "Wykład Ireny Grzesiak"
+url = "/2006/06/11/wyklad-ireny-grzesiak/"
 
----
++++
+
 Wykład [odbył się][1] 28 października 2005 we Wrocławiu. Dzięki zaradności Kawagi, która zarejestrowała wykład, możemy go [udostępnić][2] czytelnikom naszego forum.
 
 <!--more-->

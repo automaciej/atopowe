@@ -1,15 +1,13 @@
----
-title: O słowa „polecani” wykreśleniu
-author: Wahwah
-layout: post
-date: 2009-06-02
-url: /2009/06/02/o-slowa-polecani-wykresleniu/
-categories:
-  - Forum
-  - Kontrowersje
-  - Portal
++++
+author = "Wahwah"
+categories = ["Forum", "Kontrowersje", "Portal"]
+date = "2009-06-02"
+layout = "post"
+title = "O słowa „polecani” wykreśleniu"
+url = "/2009/06/02/o-slowa-polecani-wykresleniu/"
 
----
++++
+
 Chciałbym opowiedzieć o Wielkiej Awanturze o Dział Lekarzy. Po części dlatego, żeby przyszłe pokolenia internautów mogły uczyć się na błędach obecnego pokolenia. Po części też dlatego, żebym ja sam mógł się rozliczyć z tym okresem i nabrać do niego, niczym malarze holenderscy, trochę dystansu.
 
 <!--more-->

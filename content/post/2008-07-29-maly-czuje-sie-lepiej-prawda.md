@@ -1,20 +1,14 @@
----
-title: Mały czuje się lepiej, prawda?
-author: Wahwah
-layout: post
-date: 2008-07-29
-url: /2008/07/29/maly-czuje-sie-lepiej-prawda/
-categories:
-  - Film
-  - Nauka
-  - Objawy
-tags:
-  - dzieci
-  - eksperyment
-  - podwójnie ślepa próba
-  - woda
++++
+author = "Wahwah"
+categories = ["Film", "Nauka", "Objawy"]
+date = "2008-07-29"
+layout = "post"
+tags = ["dzieci", "eksperyment", "podwójnie ślepa próba", "woda"]
+title = "Mały czuje się lepiej, prawda?"
+url = "/2008/07/29/maly-czuje-sie-lepiej-prawda/"
 
----
++++
+
 Jak sprawdzić, czy woda butelkowana różni się w smaku od kranówki? Niedawno sprawdziliśmy to razem z moją dziewczyną, stosując podwójnie ślepą próbę.
 
 <!--more-->

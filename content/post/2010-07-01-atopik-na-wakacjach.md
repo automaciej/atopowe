@@ -1,17 +1,14 @@
----
-title: Atopik na wakacjach!
-author: Ashitaka
-layout: post
-date: 2010-07-01
-url: /2010/07/01/atopik-na-wakacjach/
-categories:
-  - Środowisko
-  - W społeczeństwie
-tags:
-  - wakacje
-  - życie
++++
+author = "Ashitaka"
+categories = ["Środowisko", "W społeczeństwie"]
+date = "2010-07-01"
+layout = "post"
+tags = ["wakacje", "życie"]
+title = "Atopik na wakacjach!"
+url = "/2010/07/01/atopik-na-wakacjach/"
 
----
++++
+
 Wakacje! Lato, słońce, plaża, góry, mazury! I Atopia. Pylą różne roślinki, na szlaku wędrówki lekki pył unosi się znad drogi, piasek na plaży łaskocze skórę, słońce praży i można zwariować. Trzeba być jednak dzielnym stworzeniem i sobie radzić.
 
 Kiedyś intensywnie chodziłam po górach, czasami miałam wysypkę na odsłoniętych partiach ciała, ale w zasadzie długie spodnie załatwiały kłopot. Lubiłam i dalej lubię piesze wycieczki, tylko nie w upały. Jakoś nie widzę przeciwwskazań dla atopików.

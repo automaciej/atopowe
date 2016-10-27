@@ -1,15 +1,14 @@
----
-title: Antybiotyki nie leczą przeziębienia, ale czemu pacjenci myślą, że leczą?
-author: dexter
-layout: post
-date: 2010-05-19
-url: /2010/05/19/antybiotyki-nie-lecza-przeziebienia-ale-czemu-pacjenci-mysla-ze-lecza/
-categories:
-  - Nauka
-tags:
-  - Ben Goldacre
++++
+author = "dexter"
+categories = ["Nauka"]
+date = "2010-05-19"
+layout = "post"
+tags = ["Ben Goldacre"]
+title = "Antybiotyki nie leczą przeziębienia, ale czemu pacjenci myślą, że leczą?"
+url = "/2010/05/19/antybiotyki-nie-lecza-przeziebienia-ale-czemu-pacjenci-mysla-ze-lecza/"
 
----
++++
+
 ### Lekarze, którzy uginają się pod naciskiem pacjentów, tworzą popyt
 
 Ben Goldacre

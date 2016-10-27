@@ -1,16 +1,14 @@
----
-title: Wrażenia z Torunia
-author: Mirka
-layout: post
-date: 2009-07-16
-url: /2009/07/16/wrazenia-z-torunia/
-categories:
-  - W społeczeństwie
-  - Wydarzenia
-tags:
-  - zloty
++++
+author = "Mirka"
+categories = ["W społeczeństwie", "Wydarzenia"]
+date = "2009-07-16"
+layout = "post"
+tags = ["zloty"]
+title = "Wrażenia z Torunia"
+url = "/2009/07/16/wrazenia-z-torunia/"
 
----
++++
+
 Hej, pozdrawiam wszystkich obecnych [na zlocie][1].  <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />Zachęcona przez Ankę Lego postanowiłam zarejestrować się na forum, żeby podzielić się wrażeniami. <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 <!--more-->

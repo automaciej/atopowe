@@ -1,8 +1,9 @@
----
-title: Pączki bez jajek i mleka
-permalink: /Pączki_bez_jajek_i_mleka/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Pączki_bez_jajek_i_mleka/"
+title = "Pączki bez jajek i mleka"
+
++++
 
 Składniki:
 ----------

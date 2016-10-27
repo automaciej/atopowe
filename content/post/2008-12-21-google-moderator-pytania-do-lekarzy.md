@@ -1,17 +1,14 @@
----
-title: 'Google Moderator: Pytania do lekarzy'
-author: Wahwah
-layout: post
-date: 2008-12-20
-url: /2008/12/21/google-moderator-pytania-do-lekarzy/
-categories:
-  - Leczenie
-  - W społeczeństwie
-  - Wydarzenia
-tags:
-  - google
++++
+author = "Wahwah"
+categories = ["Leczenie", "W społeczeństwie", "Wydarzenia"]
+date = "2008-12-20"
+layout = "post"
+tags = ["google"]
+title = "Google Moderator: Pytania do lekarzy"
+url = "/2008/12/21/google-moderator-pytania-do-lekarzy/"
 
----
++++
+
 Google Moderator to strona na której można wpisywać pytania i głosować, które pytania uważamy za dobre, a które nie. Dobre pytania idą w górę, kiepskie pytania idą w dół. Założyłem nowy temat na Google Moderator:
 
 <span style="font-size: 150%; line-height: 116%;">Gdybyś mogła/mógł zadać pytanie lekarzowi, jakie byłoby to pytanie?</span>

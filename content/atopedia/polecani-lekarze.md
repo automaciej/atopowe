@@ -1,10 +1,8 @@
 +++
+aliases = ["/atopedia/Dział_z_lekarzami", "/atopedia/Polecani_lekarze"]
 date = "2016-08-30T21:24:19+01:00"
 title = "Polecani lekarze"
-aliases = [
-  "/atopedia/Dział_z_lekarzami",
-  "/atopedia/Polecani_lekarze"
-]
+
 +++
 
 # Według województw

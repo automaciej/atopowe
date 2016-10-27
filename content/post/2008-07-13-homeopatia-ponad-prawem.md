@@ -1,16 +1,14 @@
----
-title: Homeopatia ponad prawem
-author: Wahwah
-layout: post
-date: 2008-07-13
-url: /2008/07/13/homeopatia-ponad-prawem/
-categories:
-  - Kontrowersje
-  - Pseudomedycyna
-tags:
-  - Homeopatia
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Pseudomedycyna"]
+date = "2008-07-13"
+layout = "post"
+tags = ["Homeopatia"]
+title = "Homeopatia ponad prawem"
+url = "/2008/07/13/homeopatia-ponad-prawem/"
 
----
++++
+
 Polskie prawo farmakologiczne zawiera bardzo ciekawy zapis. Otóż leki homeopatyczne, tam nazywane „produktami leczniczymi homeopatycznymi”, nie wymagają wykazania ich skuteczności. Na początku nie mogłem w to uwierzyć. Poszukałem więc w prawodawstwie, i znalazłem ten zapis.
 
 <!--more-->

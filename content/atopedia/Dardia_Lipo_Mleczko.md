@@ -1,8 +1,9 @@
----
-title: Dardia Lipo Mleczko
-permalink: /Dardia_Lipo_Mleczko/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Dardia_Lipo_Mleczko/"
+title = "Dardia Lipo Mleczko"
+
++++
 
 Mleczko jest emulsją do pielęgnacji całego ciała. Może być stosowane u dzieci powyżej 2 roku życia.
 

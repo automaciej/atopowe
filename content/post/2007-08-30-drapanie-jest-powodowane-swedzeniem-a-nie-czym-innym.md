@@ -1,16 +1,14 @@
----
-title: Drapanie jest powodowane swędzeniem a nie czym innym
-author: Wahwah
-layout: post
-date: 2007-08-30
-url: /2007/08/30/drapanie-jest-powodowane-swedzeniem-a-nie-czym-innym/
-categories:
-  - Kontrowersje
-tags:
-  - drapanie
-  - psychika i ciało
++++
+author = "Wahwah"
+categories = ["Kontrowersje"]
+date = "2007-08-30"
+layout = "post"
+tags = ["drapanie", "psychika i ciało"]
+title = "Drapanie jest powodowane swędzeniem a nie czym innym"
+url = "/2007/08/30/drapanie-jest-powodowane-swedzeniem-a-nie-czym-innym/"
 
----
++++
+
 Po raz pierwszy, sam już nie wiem od jak dawna, w ogóle się nie drapię. Po przeprowadzce do Dublina praktycznie zapomniałem o tym że miałem AZS. Trudno powiedzieć co jest najważniejsze, czy to klimat, czy brak jakiegoś alergenu specyficznego dla Warszawy (albo Polski), a może kombinacja różnych rzeczy.
 
 Kiedyś zastanawiałem się, co by się stało gdybym nagle wyzdrowiał, czy w ogóle przestałbym się interesować AZS? Przestałbym pisać na [forum?][1] Przestał pisać bloga? Rzeczywiście, o wiele mniej udzielam się teraz na forum i mniej się nim zajmuję, ale o AZS cały czas pamiętam. Niedawno nawet przeprowadziłem [dyskusję][2] w której [udało mi się][3] przekonać moją rozmówczynię. Była to bodaj najbardziej produktywna dyskusja w internecie w jakiej miałem okazję brać udział.

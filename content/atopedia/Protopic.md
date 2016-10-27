@@ -1,8 +1,9 @@
----
-title: Protopic
-permalink: /Protopic/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Protopic/"
+title = "Protopic"
+
++++
 
 [Maść Protopic, opakowanie 30g](/Image:Protopic.jpg "wikilink") **Protopic** - [maść](/atopedia/Maść "wikilink") o działaniu immunomodulującym ([lek immunosupresyjny](/atopedia/Leki_immunosupresyjne "wikilink") [miejscowy](/atopedia/immunosupresja_miejscowa "wikilink")).
 

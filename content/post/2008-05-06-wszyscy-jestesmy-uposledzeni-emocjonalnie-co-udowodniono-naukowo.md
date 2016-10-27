@@ -1,13 +1,13 @@
----
-title: Wszyscy mamy zaburzenia emocjonalne (co udowodniono naukowo)
-author: dexter
-layout: post
-date: 2008-05-06
-url: /2008/05/06/wszyscy-jestesmy-uposledzeni-emocjonalnie-co-udowodniono-naukowo/
-categories:
-  - Kontrowersje
++++
+author = "dexter"
+categories = ["Kontrowersje"]
+date = "2008-05-06"
+layout = "post"
+title = "Wszyscy mamy zaburzenia emocjonalne (co udowodniono naukowo)"
+url = "/2008/05/06/wszyscy-jestesmy-uposledzeni-emocjonalnie-co-udowodniono-naukowo/"
 
----
++++
+
 Pytanie do czytelników: czy zgadzacie się z wymową poniżej streszczonego artykułu? Jakie błędy popełniono w poniższej analizie? Czy wyciągnięto prawidłowe wnioski? Prosimy o komentarze. 
 
 <!--more-->

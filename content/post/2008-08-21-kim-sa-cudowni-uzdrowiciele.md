@@ -1,17 +1,14 @@
----
-title: Kim są cudowni uzdrowiciele?
-author: aksamitka
-layout: post
-date: 2008-08-21
-url: /2008/08/21/kim-sa-cudowni-uzdrowiciele/
-categories:
-  - Kontrowersje
-  - Leczenie
-  - Pseudomedycyna
-tags:
-  - Homeopatia
++++
+author = "aksamitka"
+categories = ["Kontrowersje", "Leczenie", "Pseudomedycyna"]
+date = "2008-08-21"
+layout = "post"
+tags = ["Homeopatia"]
+title = "Kim są cudowni uzdrowiciele?"
+url = "/2008/08/21/kim-sa-cudowni-uzdrowiciele/"
 
----
++++
+
 Pozwolę sobie na wpis, w którym pokażę, kim są błyszczący wiedzą a czasem nawiedzeni ludzie o &#8222;cudownych&#8221; właściwościach. Korzystam tu ze wstępu do 6 rozdziału książki &#8222;Alergia&#8221; Lindy Gamlin oraz z lektury portalu [www.psychika.net][1] i Wikipedii, a także własnych przemyśleń.
 
 <!--more-->

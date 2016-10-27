@@ -1,8 +1,9 @@
----
-title: Antygen
-permalink: /Antygen/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Antygen/"
+title = "Antygen"
+
++++
 
 Antygen - każda substancja, która posiada zdolność pobudzenia układu odpornościowego organizmu do produkcji swoistego przeciwciała (immunogenność), a następnie reagowania z nim (antygenowość).
 

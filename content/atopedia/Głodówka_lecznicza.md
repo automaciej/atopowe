@@ -1,8 +1,9 @@
----
-title: Głodówka lecznicza
-permalink: /Głodówka_lecznicza/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Głodówka_lecznicza/"
+title = "Głodówka lecznicza"
+
++++
 
 **Głodówka lecznicza** jest sposobem na oczyszczenie organizmu z toksyn i niepotrzebnych "złogów". Organizm pozbawiony pożywienia po 2 lub 3 dniach "przestawia się" na inny tryb funkcjonowania. Proces trawienia zostaje zatrzymany, a sam organizm zaczyna spalać zapasy. Często dzieje się tak, że do obiegu wracają różne substancje, które - wcześniej odłożone w ciele - nie były "ruszane" przez organizm. Dopiero konieczność spalenia zapasów zmusza organizm do tego, aby ruszyć te złogi.
 

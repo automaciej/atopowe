@@ -1,8 +1,9 @@
----
-title: Zupa cebulowa po parysku
-permalink: /Zupa_cebulowa_po_parysku/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Zupa_cebulowa_po_parysku/"
+title = "Zupa cebulowa po parysku"
+
++++
 
 **Składniki:**
 

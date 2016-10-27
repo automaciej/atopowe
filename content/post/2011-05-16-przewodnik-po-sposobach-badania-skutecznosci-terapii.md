@@ -1,13 +1,13 @@
----
-title: Przewodnik po sposobach badania skuteczności terapii
-author: dexter
-layout: post
-date: 2011-05-16
-url: /2011/05/16/przewodnik-po-sposobach-badania-skutecznosci-terapii/
-categories:
-  - Książka
++++
+author = "dexter"
+categories = ["Książka"]
+date = "2011-05-16"
+layout = "post"
+title = "Przewodnik po sposobach badania skuteczności terapii"
+url = "/2011/05/16/przewodnik-po-sposobach-badania-skutecznosci-terapii/"
 
----
++++
+
 Polecam dziś do przeczytania książkę „**Czy nasze leczenie naprawdę działa? Przewodnik po sposobach badania skuteczności terapii**”. [Do przeczytania online w całości po polsku][1]. 
 
 Ta książka jest dobra dla zdrowia, pomaga podejmować decyzje dotyczące Waszego leczenia w świadomy sposób. Uświadamia, że można być aktywnym uczestnikiem terapii, a nie biernym odbiorcą recept. Wielu lekarzy w istocie nie wie, co nam przepisywać. Wizyta często zaczyna i kończy się pytaniem &#8222;Na co mam wypisać receptę?&#8221; Jeżeli pacjent nie poznał swojej choroby, przepisują silne sterydy, a emolienty polecają akurat tej firmy, która przysłała próbki. Dlatego najlepszym podejściem jest wspólne z lekarzem podejmowanie decyzji dotyczących leczenia, zadawanie kłopotliwych pytań i zdobywanie wiedzy o medycynie dzięki takim książkom jak ta. 

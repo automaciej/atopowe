@@ -1,8 +1,9 @@
----
-title: Zasady bezpiecznej terapii miejscowymi glikokortykosterydami
-permalink: /Zasady_bezpiecznej_terapii_miejscowymi_glikokortykosterydami/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Zasady_bezpiecznej_terapii_miejscowymi_glikokortykosterydami/"
+title = "Zasady bezpiecznej terapii miejscowymi glikokortykosterydami"
+
++++
 
 1.  Nie stosuj miejscowych preparatów glikokortykosteroidowych w leczeniu chorób skóry bez prawidłowo postawionej diagnozy. [GKS](/atopedia/Kortykosterydy "wikilink") są wyrafinowaną formą leczenia objawowego chorób przebiegających z zaburzeniami immunologicznymi i stanem zapalnym, jednak nie eliminują przyczyn ich powstawania. Niejednokrotnie zdarza się, iż po zaprzestaniu terapii objawy choroby wracają znacznie bardziej nasilone.
 2.  Nieprawidłowym postępowaniem jest stosowanie preparatów silnie działających jako leków I rzutu. Należy wybrać lek o [możliwie najsłabszym działaniu](/Europejska_klasyfikacja_kortykosterydów#Si.C5.82a_dzia.C5.82ania_steryd.C3.B3w "wikilink"), który zapewni ustąpienie wykwitów w jak najkrótszym czasie. W sytuacji, gdy konieczne jest zastosowanie kortykosteroidów z grupy I (najsilniej działających), należy ściśle przestrzegać czasu trwania terapii – maksymalnie 7 dni. Po uzyskaniu poprawy, dla podtrzymania efektu można kontynuować leczenie preparatem o mniejszej sile działania lub stosować terapię przerywaną. Polega ona na podawaniu preparatów GKS co 2. dzień, 2 razy w tyg. lub przez 2 tyg. w miesiącu, stosując w ciągu pozostałych 14 dni preparaty pielęgnacyjne ([emolienty](/atopedia/emolienty "wikilink")). Obfite stosowanie środków zmiękczających skórę i zmniejszających jej suchość często zmniejsza potrzebę stosowania miejscowej kortykoidoterapii (zwłaszcza u pacjentów z atopowym zapaleniem skóry i rybią łuską). Należy pamiętać, iż za **maksymalny bezpieczny okres** stosowania GKS u dorosłych uważa się 12 tyg., a u dzieci 4 tyg. Przez wiele lat zalecano stosowanie miejscowej kortykoidoterapii 2 razy/dobę. Badania przeprowadzone w ciągu ostatnich lat dowodzą, iż stosowanie preparatów zewnętrznych raz dziennie jest tak samo skuteczne i dobrze tolerowane, a ponadto zmniejsza ryzyko działań niepożądanych i obniża koszt terapii.

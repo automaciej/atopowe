@@ -1,8 +1,9 @@
----
-title: Kurz
-permalink: /Kurz/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Kurz/"
+title = "Kurz"
+
++++
 
 **Kurz** domowy składa się przede wszystkim ze [złuszczonego](/atopedia/Łuszczenie "wikilink") [naskórka](/atopedia/Naskórek "wikilink") skóry ludzkiej i stanowi pożywienie dla [roztoczy kurzu domowego](/atopedia/Roztocze_kurzu_domowego "wikilink"). Sam w sobie może być również silnym [alergenem](/atopedia/Alergen "wikilink").
 

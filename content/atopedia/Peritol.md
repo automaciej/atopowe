@@ -1,8 +1,9 @@
----
-title: Peritol
-permalink: /Peritol/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Peritol/"
+title = "Peritol"
+
++++
 
 Peritol, 4 mg, tabletki
 

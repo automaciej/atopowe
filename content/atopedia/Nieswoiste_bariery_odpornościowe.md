@@ -1,8 +1,9 @@
----
-title: Nieswoiste bariery odpornościowe
-permalink: /Nieswoiste_bariery_odpornościowe/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Nieswoiste_bariery_odpornościowe/"
+title = "Nieswoiste bariery odpornościowe"
+
++++
 
 Nieswoiste bariery odpornościowe dzielimy na :
 

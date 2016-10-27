@@ -1,15 +1,14 @@
----
-title: 16/10/2012 – konferencja w Radomiu – znowu mamy streaming!
-author: Kasia
-layout: post
-date: 2012-10-15
-url: /2012/10/15/16102012-konferencja-w-radomiu-znowu-mamy-streaming/
-categories:
-  - Wydarzenia
-tags:
-  - fundacja alabaster
++++
+author = "Kasia"
+categories = ["Wydarzenia"]
+date = "2012-10-15"
+layout = "post"
+tags = ["fundacja alabaster"]
+title = "16/10/2012 – konferencja w Radomiu – znowu mamy streaming!"
+url = "/2012/10/15/16102012-konferencja-w-radomiu-znowu-mamy-streaming/"
 
----
++++
+
 Firma Bioderma ufundowała streaming na kolejne dwie konferencje, więc będzie można znowu uczestniczyć w konferencji online &#8211; na [atopowe.pl/czat][1].
 
 [fundacja-alabaster.org.pl][2]

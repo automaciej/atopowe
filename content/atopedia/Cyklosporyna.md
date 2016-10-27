@@ -1,8 +1,9 @@
----
-title: Cyklosporyna
-permalink: /Cyklosporyna/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Cyklosporyna/"
+title = "Cyklosporyna"
+
++++
 
 [Lek immunosupresyjny](/atopedia/Leki_immunosupresyjne "wikilink") stosowany w ciężkim atopowym zapaleniu skóry. W przeciwieństwie do leków stosowanych miejscowo, cyklosporyna działa systemowo, czyli na cały organizm. Działa hamująco na uwalnianie prozapalnych [cytokin](/atopedia/cytokiny "wikilink") IL-1, IL-2, IFN-gamma.
 

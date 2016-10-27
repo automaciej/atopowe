@@ -1,8 +1,9 @@
----
-title: Dieta wysokotłuszczowa
-permalink: /Dieta_wysokotłuszczowa/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Dieta_wysokotłuszczowa/"
+title = "Dieta wysokotłuszczowa"
+
++++
 
 **Dieta wysokotłuszczowa** jest znana też jako:
 

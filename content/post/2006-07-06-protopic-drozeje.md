@@ -1,15 +1,14 @@
----
-title: Protopic drożeje
-author: Wahwah
-layout: post
-date: 2006-07-06
-url: /2006/07/06/protopic-drozeje/
-categories:
-  - Leczenie
-tags:
-  - Protopic
++++
+author = "Wahwah"
+categories = ["Leczenie"]
+date = "2006-07-06"
+layout = "post"
+tags = ["Protopic"]
+title = "Protopic drożeje"
+url = "/2006/07/06/protopic-drozeje/"
 
----
++++
+
 Niedawno dostałem receptę na 30g [Protopiku][1] i pobiegłem do mojej piaseczyńskiej apteki. Okazało się, że tubek 30g, kosztujących 198zł (od 185 do 210zł), już się _nie prowadzi_. Zamiast tego mamy nowe i wspaniałe tubki 10g, kosztujące 90zł. Mniejsza tubka, mniejsza cena. Policzmy jednak. Jeżeli 30g kosztowało ~200zł, to 10g powinno kosztować jedną trzecią tego, czyli 67zł. Zamiast 67zł płacimy jednak 90zł, czyli **34% drożej**.
 
 <!--more-->

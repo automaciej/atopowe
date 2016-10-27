@@ -1,8 +1,9 @@
----
-title: Pigmentum Castellani
-permalink: /Pigmentum_Castellani/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Pigmentum_Castellani/"
+title = "Pigmentum Castellani"
+
++++
 
 '''Pigmentum Castellani '''
 

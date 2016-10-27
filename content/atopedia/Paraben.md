@@ -1,8 +1,9 @@
----
-title: Paraben
-permalink: /Paraben/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Paraben/"
+title = "Paraben"
+
++++
 
 Strona ta w przeszłości alarmowała o rzekomej szkodliwości parabenów. Informacje te pochodziły z pojedynczego wpisu na forum[1]. Artykuł w angielskiej Wikipedii[2] nie potwierdził tych informacji. Najprawdopodobniej był to fałszywy alarm.
 

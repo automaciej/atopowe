@@ -1,15 +1,14 @@
----
-title: Podstawowe wiadomości na temat AZS. Przyczyny…
-author: Wahwah
-layout: post
-date: 2011-12-23
-url: /2011/12/23/podstawowe-wiadomosci-na-temat-azs-przyczyny/
-google_plus_activity_id:
-  - z132zfwgkwbhhdwzf04cj3ty5rz3xnq4wns0k
-categories:
-  - Portal
++++
+author = "Wahwah"
+categories = ["Portal"]
+date = "2011-12-23"
+google_plus_activity_id = ["z132zfwgkwbhhdwzf04cj3ty5rz3xnq4wns0k"]
+layout = "post"
+title = "Podstawowe wiadomości na temat AZS. Przyczyny…"
+url = "/2011/12/23/podstawowe-wiadomosci-na-temat-azs-przyczyny/"
 
----
++++
+
 Podstawowe wiadomości na temat AZS. Przyczyny, objawy, terapia i więcej.
 
 [Podstawowe wiadomości – Atopowe Zapalenie Skóry][1]

@@ -1,13 +1,13 @@
----
-title: Marsz alergiczny
-author: Wahwah
-layout: post
-date: 2008-02-08
-url: /2008/02/08/marsz-alergiczny/
-categories:
-  - Objawy
++++
+author = "Wahwah"
+categories = ["Objawy"]
+date = "2008-02-08"
+layout = "post"
+title = "Marsz alergiczny"
+url = "/2008/02/08/marsz-alergiczny/"
 
----
++++
+
 > <p align="left">
 >   Od ponad 10 lat naturalną ewolucję choroby atopowej określano pojęciem &#8222;marszu alergicznego&#8221;. Oznaczało to, że objawy pojawiały się w określonym wieku, utrzymywały się przez lata i często w miarę upływu czasu obserwowano tendencję do spontanicznej remisji lub zmiany lokalizacji narządowej. Najlepszym przykładem &#8222;marszu alergicznego&#8221; jest przejście atopowego zapalenia skóry (AZS) w kierunku astmy oskrzelowej.
 > </p>

@@ -1,8 +1,9 @@
----
-title: Pranie
-permalink: /Pranie/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Pranie/"
+title = "Pranie"
+
++++
 
 Należy uważać, aby ubrania prać w środkach, które nie powodują [podrażnienia](/atopedia/podrażnienie "wikilink") skóry. Użytkownicy forum polecają takie proszki:
 

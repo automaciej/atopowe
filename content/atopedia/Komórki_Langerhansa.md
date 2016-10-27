@@ -1,8 +1,9 @@
----
-title: Komórki Langerhansa
-permalink: /Komórki_Langerhansa/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Komórki_Langerhansa/"
+title = "Komórki Langerhansa"
+
++++
 
 **Komórki Langerhansa -** komórki pochodzenia szpikowego, których głównym zadaniem jest zapoczątkowanie [reakcji immunologicznej](/atopedia/Reakcja_alergiczna "wikilink") organizmu, poprzez ich zdolność do tzw. prezentacji [antygenu](/atopedia/Antygen "wikilink"). Stanowią od 3-8% naskórka. Wraz z innymi typami komórek współtworzą układ miejscowej odporności [skóry](/atopedia/Skóra "wikilink") (układ SALT). Komórki Langerhansa występują także w [błonie śluzowej](/atopedia/Błona_śluzowa "wikilink") jamy ustnej i narządach limfatycznych.
 

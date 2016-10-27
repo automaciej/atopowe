@@ -1,13 +1,13 @@
----
-title: Mamy 750 zebranych ankiet
-author: Wahwah
-layout: post
-date: 2006-11-25
-url: /2006/11/26/mamy-750-zebranych-ankiet/
-categories:
-  - Nauka
++++
+author = "Wahwah"
+categories = ["Nauka"]
+date = "2006-11-25"
+layout = "post"
+title = "Mamy 750 zebranych ankiet"
+url = "/2006/11/26/mamy-750-zebranych-ankiet/"
 
----
++++
+
 Właściwie zapomniałem już o [ankiecie][1]. A ona sobie cały czas stała i co jakiś czas ktoś ją wypełniał. Dzisiaj zajrzałem na serwer i zobaczyłem, że została wypełniona aż 750 razy!
 
 To jest naprawdę sporo danych. Jestem przekonany że można zrobić na podstawie tych danych interesującą analizę. Szczególnie interesuje mnie kwestia karmienia piersią. Co prawda już gdzieś czytałem że ktoś to zbadał i udowodnił że istnieje związek pomiędzy karmieniem piersią i występowaniem AZS, ale chciałbym to zrobić jeszcze raz, sam.

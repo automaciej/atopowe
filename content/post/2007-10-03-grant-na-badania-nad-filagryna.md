@@ -1,16 +1,14 @@
----
-title: Grant na badania nad filagryną
-author: Wahwah
-layout: post
-date: 2007-10-03
-url: /2007/10/03/grant-na-badania-nad-filagryna/
-categories:
-  - Leczenie
-  - Nauka
-tags:
-  - filagryna
++++
+author = "Wahwah"
+categories = ["Leczenie", "Nauka"]
+date = "2007-10-03"
+layout = "post"
+tags = ["filagryna"]
+title = "Grant na badania nad filagryną"
+url = "/2007/10/03/grant-na-badania-nad-filagryna/"
 
----
++++
+
 Rada Badań Naukowych w Zjednoczonym Królestwie przekazała 1.3 miliona funtów profesorom z uniwersytetów w Dundee i St Andrews na cele badań nad nowymi lekami na atopowe zapalenie skóry.
 
 Trzyletni grant dostali prof. Irwin McLean (College of Medicine, Nursing and Dentistry, Uniwersytet Dundee), prof. Julie Frearson (College of Life Sciences, Uniwersytet Dundee), oraz prof. Nick Westwood (Uniwersytet St Andrews). Będzie on finansował trzey nowe placówki badawcze, które będą podzielone pomiędzy te trzy jednostki naukowe.

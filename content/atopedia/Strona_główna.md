@@ -1,8 +1,9 @@
----
-title: Strona główna
-permalink: /Strona_główna/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Strona_główna/"
+title = "Strona główna"
+
++++
 
 __NOTOC__ __NOEDITSECTION__
 

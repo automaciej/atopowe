@@ -1,13 +1,13 @@
----
-title: Najpopularniejsze posty na blogu w roku 2008
-author: dexter
-layout: post
-date: 2009-01-09
-url: /2009/01/09/najpopularniejsze-posty-na-blogu-w-roku-2008/
-categories:
-  - Blog
++++
+author = "dexter"
+categories = ["Blog"]
+date = "2009-01-09"
+layout = "post"
+title = "Najpopularniejsze posty na blogu w roku 2008"
+url = "/2009/01/09/najpopularniejsze-posty-na-blogu-w-roku-2008/"
 
----
++++
+
 1. [Ceny leków, presja na apteki][1]
   
 2. [Richard Dawkins, Wrogowie rozsądku][2]

@@ -1,8 +1,9 @@
----
-title: Mucosolvan
-permalink: /Mucosolvan/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Mucosolvan/"
+title = "Mucosolvan"
+
++++
 
 ***ambroxoli chydrochloridum*** 30 mg/5 ml
 Syrop 100ml

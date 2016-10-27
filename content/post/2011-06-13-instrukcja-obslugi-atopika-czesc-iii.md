@@ -1,15 +1,13 @@
----
-title: Instrukcja obsługi atopika – część III
-author: magda2em
-layout: post
-date: 2011-06-13
-url: /2011/06/13/instrukcja-obslugi-atopika-czesc-iii/
-categories:
-  - Dom
-  - Objawy
-  - Pielęgnacja
++++
+author = "magda2em"
+categories = ["Dom", "Objawy", "Pielęgnacja"]
+date = "2011-06-13"
+layout = "post"
+title = "Instrukcja obsługi atopika – część III"
+url = "/2011/06/13/instrukcja-obslugi-atopika-czesc-iii/"
 
----
++++
+
 Zapraszam na ciąg dalszy <u>instrukcji obsługi atopika</u>, dzisiaj na tapecie: **mieszkanie, sprzątanie, ubrania i biżuteria, pranie, mycie, codzienna pielęgnacja (kremy, balsamy, emulsje, maści&#8230;) i sytuacje ekstremalne (maści sterydowe i inne), kosmetyki kolorowe**. Podobnie jak przy poprzedniej części &#8211; bardzo proszę o wszelkie uwagi konstruktywne, wytykanie błędów i nieścisłości &#8211; w końcu nie jestem nieomylna.
 
 _Notka pierwotnie wklejona tutaj: [KLIK-KLIK][1]_.

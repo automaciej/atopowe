@@ -1,8 +1,9 @@
----
-title: Zaczerwienienie skóry
-permalink: /Zaczerwienienie_skóry/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Zaczerwienienie_skóry/"
+title = "Zaczerwienienie skóry"
+
++++
 
 **Zaczerwienienie** - jeden z najczęstszych objawów [atopowego zapalenia skóry](/atopedia/atopowe_zapalenie_skóry "wikilink"). Zaczerwienienie wskazuje na wystąpienie [stanu zapalnego skóry](/atopedia/stan_zapalny_skóry "wikilink"). Może występować tylko na poszczególnych częściach ciała lub obejmować całe ciało. Zaczerwienienie wiąże ze sobą również ból, [świąd](/atopedia/świąd "wikilink") oraz [suchość skóry](/atopedia/suchość_skóry "wikilink").
 

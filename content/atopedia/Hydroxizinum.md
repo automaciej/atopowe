@@ -1,8 +1,9 @@
----
-title: Hydroxizinum
-permalink: /Hydroxizinum/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Hydroxizinum/"
+title = "Hydroxizinum"
+
++++
 
 **Hydroksyzyna hydroxyzine anxiolyticum N05BB**
 

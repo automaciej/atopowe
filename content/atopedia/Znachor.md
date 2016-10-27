@@ -1,9 +1,10 @@
----
-title: Znachor
-permalink: /Znachor/
-date: "2015-01-01T00:00:00+01:00"
-aliases: ["Znachorstwo"]
----
++++
+aliases = ["Znachorstwo"]
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Znachor/"
+title = "Znachor"
+
++++
 
 **Znachorstwo** (ang. *quackery*) jest zdefiniowane przez Stephena Barretta[^1]
 w następujący sposób:

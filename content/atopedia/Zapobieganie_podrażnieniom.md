@@ -1,8 +1,9 @@
----
-title: Zapobieganie podrażnieniom
-permalink: /Zapobieganie_podrażnieniom/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Zapobieganie_podrażnieniom/"
+title = "Zapobieganie podrażnieniom"
+
++++
 
 Jednym z głównych problemów w AZS jest [świąd](/atopedia/świąd "wikilink") skóry. [Reakcja alergiczna](/atopedia/Reakcja_alergiczna "wikilink") nie jest jedynym powodem dla którego skóra swędzi; może ona swędzieć na przykład z powodu kontkatu z szorstkimi ubraniami lub chemikaliami. [Skóra atopowa](/atopedia/Skóra_atopowa "wikilink") jest bardziej wrażliwa niż skóra zdrowa. Jest bardziej podatna na uszkodzenia mechaniczne takie jak obtarcia albo skaleczenia. Na przykład otarcie skórą o kant mebla, które zdrowej skórze niczego nie zrobiło, w przypadku skóry atopowej może spowodować skaleczenie.
 

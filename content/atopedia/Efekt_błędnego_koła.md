@@ -1,8 +1,9 @@
----
-title: Efekt błędnego koła
-permalink: /Efekt_błędnego_koła/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Efekt_błędnego_koła/"
+title = "Efekt błędnego koła"
+
++++
 
 Osoby chore na AZS często wpadają w sytuację, w której następuje dodatnie
 sprzężenie zwrotne pomiędzy

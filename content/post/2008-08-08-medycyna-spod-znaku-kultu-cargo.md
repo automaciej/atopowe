@@ -1,16 +1,14 @@
----
-title: Medycyna spod znaku kultu cargo
-author: dexter
-layout: post
-date: 2008-08-08
-url: /2008/08/08/medycyna-spod-znaku-kultu-cargo/
-categories:
-  - Kontrowersje
-  - W społeczeństwie
-tags:
-  - Homeopatia
++++
+author = "dexter"
+categories = ["Kontrowersje", "W społeczeństwie"]
+date = "2008-08-08"
+layout = "post"
+tags = ["Homeopatia"]
+title = "Medycyna spod znaku kultu cargo"
+url = "/2008/08/08/medycyna-spod-znaku-kultu-cargo/"
 
----
++++
+
 Na wielu wyspach południowego Pacyfiku istnieją religie, w których ludzie darzą kultem duchy przodków. Podczas wojny autochtoni widzieli samoloty lądujące z mnóstwem wspaniałych dóbr i pomyśleli, że zostały one przysłane Amerykanom z zaświatów przez duchy. Zaczęli więc naśladować Amerykanów. Pobudowali pasy startowe, rozpalili po obu stronach ogniska, postawili szopę, gdzie siedzi człowiek z drewienkami na głowie, które udają słuchawki, i kijami bambusowymi, które udają anteny (kontroler ruchu) &#8211; i czekają na lądowanie samolotów. Robią wszystko zgodnie z zaobserwowanymi regułami. Doskonale naśladują wszystkie formy. A jednak metoda nie sprawdza się. Samoloty nie lądują. Wyspiarzom to jednak nie przeszkadza&#8230;
 
 <!--more-->

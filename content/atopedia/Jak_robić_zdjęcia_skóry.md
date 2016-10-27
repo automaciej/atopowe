@@ -1,8 +1,9 @@
----
-title: Jak robić zdjęcia skóry
-permalink: /Jak_robić_zdjęcia_skóry/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Jak_robić_zdjęcia_skóry/"
+title = "Jak robić zdjęcia skóry"
+
++++
 
 Oto kilka rzeczy, na które warto zwrócić uwagę robiąc [zdjęcia](/atopedia/zdjęcia "wikilink") zmian skórnych. Skóra jest o tyle trudnym obiektem fotografii z tego względu, że to, co nas w skórze interesuje jest tak naprawdę bardzo małe. Jest to trochę tak, jakbyśmy robili zdjęcie plaży, chcąc widzieć pojedyncze ziarenka piasku. Rzecz taką jak szorstkość skóry trudno jest uchwycić na zdjęciu.
 

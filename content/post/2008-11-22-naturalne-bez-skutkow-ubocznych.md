@@ -1,17 +1,14 @@
----
-title: Naturalne = bez skutków ubocznych?
-author: aksamitka
-layout: post
-date: 2008-11-22
-url: /2008/11/22/naturalne-bez-skutkow-ubocznych/
-categories:
-  - Kontrowersje
-  - Leczenie
-  - W społeczeństwie
-tags:
-  - chemia
++++
+author = "aksamitka"
+categories = ["Kontrowersje", "Leczenie", "W społeczeństwie"]
+date = "2008-11-22"
+layout = "post"
+tags = ["chemia"]
+title = "Naturalne = bez skutków ubocznych?"
+url = "/2008/11/22/naturalne-bez-skutkow-ubocznych/"
 
----
++++
+
 Ostatnio u mnie na blogu ktoś w komentarzu napisał: to co roślinne, naturalne nie ma skutków ubocznych, tylko to co wytworzyli ludzie zawsze ma. No cóż, pozostało mi tylko się nie zgodzić, pomyśleć sobie o tym jak silny wpływ na ludzkie myślenie mają media reklamujące co chwila coś naturalnego i&#8230; Podać przykład, moim zdaniem bardzo prozaiczny.
 
 Weźmy na przykład morfinę. Morfina pochodzi przecież z &#8222;natury&#8221;, z główek maku lekarskiego a każdy kto choć przez sekundę uważał na biologii wie, że to roślina. W czasie wojny secesyjnej w USA zaczęto używać jej powszechnie jako środka przeciwbólowego. Później okazało się, że wielu żołnierzy stało się&#8230; Narkomanami. A czym jest narkomania i czym grozi &#8211; wie chyba każdy.

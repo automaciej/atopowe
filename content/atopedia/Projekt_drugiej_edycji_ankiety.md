@@ -1,8 +1,9 @@
----
-title: Projekt drugiej edycji ankiety
-permalink: /Projekt_drugiej_edycji_ankiety/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Projekt_drugiej_edycji_ankiety/"
+title = "Projekt drugiej edycji ankiety"
+
++++
 
 ### Cechy fizyczne
 

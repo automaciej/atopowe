@@ -1,8 +1,9 @@
----
-title: Nystatyna
-permalink: /Nystatyna/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Nystatyna/"
+title = "Nystatyna"
+
++++
 
 Przeciwgrzybiczy antybiotyk polienowy nie wykazujący działania przeciwbakteryjnego i przeciwpierwotniakowego. Wykazuje aktywność przeciwko Candida, Cryptococcus, Histoplasma, Blastomyces, Trichophyton, Epidermophyton, Microsporon i Aspergillus.
 

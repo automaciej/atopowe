@@ -1,8 +1,9 @@
----
-title: Podstawowe wiadomości
-permalink: /Podstawowe_wiadomości/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Podstawowe_wiadomości/"
+title = "Podstawowe wiadomości"
+
++++
 
 __NOTOC__
 

@@ -1,16 +1,14 @@
----
-title: Karen Crowe – Under My Skin
-author: dexter
-layout: post
-date: 2009-11-17
-url: /2009/11/17/karen-crowe-under-my-skin/
-categories:
-  - Książka
-tags:
-  - e-book
-  - Karen Crowe
++++
+author = "dexter"
+categories = ["Książka"]
+date = "2009-11-17"
+layout = "post"
+tags = ["e-book", "Karen Crowe"]
+title = "Karen Crowe – Under My Skin"
+url = "/2009/11/17/karen-crowe-under-my-skin/"
 
----
++++
+
 Przedstawiam dziś książkę do wspólnego czytania dla rodziców i dzieci pod tytułem &#8222;Under My Skin&#8221;, autorstwa Karen Crowe. Jest to dziecięcy przewodnik po AZS, ze świetnymi ilustracjami Norma Benetta. Książka ta otrzymała wyróżnienie w AMWA Medical Book Awards Competition w 2001 roku.
 
 <!--more-->

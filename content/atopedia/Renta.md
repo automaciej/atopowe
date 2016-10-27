@@ -1,8 +1,9 @@
----
-title: Renta
-permalink: /Renta/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Renta/"
+title = "Renta"
+
++++
 
 Osoby z ciężką atopią mogą starać się zarówno o **stopień niepełnosprawności**, jak i o **rentę** - socjalną lub zdrowotną. W Polsce, w przypadku chorób alergicznych najczęściej wydaje się renty osobom chorującym na [astmę oskrzelową](/atopedia/Astma_oskrzelowa "wikilink") o umiarkowanym lub ciężkim przebiegu. Brane są pod uwagę także tzw. schorzenia towarzyszące wpływające na ogólny stan zdrowia. W przeciwieństwie do państw zachodnich, w praktyce, znacznie rzadziej wydawane są renty osobom dotkniętym silnym AZS, jeżeli nie jest związane ze współwystępowaniem astmy. Tym niemniej nie zamyka to drogi do ubiegania się o odpowiednie orzeczenia i świadczenia poprzez wnoszenie wniosków i ew. odwołań. Każdorazowo podstawą do ustalenia stopnia niepełnosprawności lub renty jest pełna dokumentacja choroby, im pełniejsza, tym większa podstawa do jej wydania.
 

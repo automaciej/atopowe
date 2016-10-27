@@ -1,15 +1,14 @@
----
-title: Nowy serwer!
-author: Wahwah
-layout: post
-date: 2008-09-14
-url: /2008/09/14/nowy-serwer/
-categories:
-  - Techniczne
-tags:
-  - hosting
++++
+author = "Wahwah"
+categories = ["Techniczne"]
+date = "2008-09-14"
+layout = "post"
+tags = ["hosting"]
+title = "Nowy serwer!"
+url = "/2008/09/14/nowy-serwer/"
 
----
++++
+
 Przeniosłem nas na nowy serwer. Dla ciekawskich, kilka historycznych informacji o wędrówkach naszego serwisu.
 
   1. Pierwszy był serwer firmowy, czyli maszyna którą administrowałem w ramach pracy. Oczywiście wszystko za zgodą szefa. Bardzo wygodnie jest, kiedy ma się pełny dostęp administracyjny do serwera. Innymi słowy, kiedy ma się roota. Ale wszystko co dobre, kiedyś się kończy.

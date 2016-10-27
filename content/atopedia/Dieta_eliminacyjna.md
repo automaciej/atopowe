@@ -1,8 +1,9 @@
----
-title: Dieta eliminacyjna
-permalink: /Dieta_eliminacyjna/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Dieta_eliminacyjna/"
+title = "Dieta eliminacyjna"
+
++++
 
 **Dieta eliminacyjna** - polega na wyłączeniu z diety tych produktów, na które jesteśmy uczuleni, przez co unikamy ekspozycji na dany [alergen](/atopedia/alergen "wikilink") (np.: mleko krowie). Dieta ta ma dwa główne cele:
 

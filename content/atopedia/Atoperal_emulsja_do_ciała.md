@@ -1,8 +1,9 @@
----
-title: Atoperal emulsja do ciała
-permalink: /Atoperal_emulsja_do_ciała/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Atoperal_emulsja_do_ciała/"
+title = "Atoperal emulsja do ciała"
+
++++
 
 *tuba 200 ml*
 

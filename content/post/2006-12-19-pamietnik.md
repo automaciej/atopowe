@@ -1,13 +1,13 @@
----
-title: Pamiętnik
-author: Wahwah
-layout: post
-date: 2006-12-19
-url: /2006/12/19/pamietnik/
-categories:
-  - Portal
++++
+author = "Wahwah"
+categories = ["Portal"]
+date = "2006-12-19"
+layout = "post"
+title = "Pamiętnik"
+url = "/2006/12/19/pamietnik/"
 
----
++++
+
 [Polecani lekarze][1] cieszą się coraz większym zainteresowaniem. Widzę coraz większą liczbę odwiedzin, co jakiś czas pojawiają się nowe adresy lekarzy.
 
 Myślę że po jakimś czasie możemy się spodziewać, że osoby które odczytały adresy lekarzy od nas, wpiszą swoje opinie na ich temat.

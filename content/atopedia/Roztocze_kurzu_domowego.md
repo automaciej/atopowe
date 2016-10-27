@@ -1,8 +1,9 @@
----
-title: Roztocze kurzu domowego
-permalink: /Roztocze_kurzu_domowego/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Roztocze_kurzu_domowego/"
+title = "Roztocze kurzu domowego"
+
++++
 
 [thumb|right|Roztocze kurzu domowego](/Grafika:House_Dust_Mite.jpg "wikilink")
 

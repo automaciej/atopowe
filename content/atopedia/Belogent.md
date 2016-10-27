@@ -1,8 +1,9 @@
----
-title: Belogent
-permalink: /Belogent/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Belogent/"
+title = "Belogent"
+
++++
 
 (0,5 mg + 1 mg)/g, maść
 

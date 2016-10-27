@@ -1,8 +1,9 @@
----
-title: Biorezonans
-permalink: /Biorezonans/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Biorezonans/"
+title = "Biorezonans"
+
++++
 
 **Biorezonans** - niekonwencjonalna metoda leczenia, najczęściej przy pomocy aparatów BICOM. Stanowisko Polskiego Towarzystwa Alergologicznego jest jednoznaczne i stwierdza brak jakichkolwiek podstaw naukowych mówiących o skuteczności tej metody w zakresie diagnostyki czy leczenia schorzeń alergicznych. [1]
 

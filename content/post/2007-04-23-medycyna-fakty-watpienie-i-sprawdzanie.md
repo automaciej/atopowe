@@ -1,16 +1,13 @@
----
-title: Medycyna, fakty, wątpienie i sprawdzanie
-author: Wahwah
-layout: post
-date: 2007-04-22
-url: /2007/04/23/medycyna-fakty-watpienie-i-sprawdzanie/
-categories:
-  - Kontrowersje
-  - Leczenie
-  - Nauka
-  - Pseudomedycyna
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Leczenie", "Nauka", "Pseudomedycyna"]
+date = "2007-04-22"
+layout = "post"
+title = "Medycyna, fakty, wątpienie i sprawdzanie"
+url = "/2007/04/23/medycyna-fakty-watpienie-i-sprawdzanie/"
 
----
++++
+
 Chciałbym powiedzieć kilka słów o _metodach leczenia_. Podstawową zasadą metod leczenia w medycynie konwencjonalnej jest _sprawdzanie faktów, wątpienie i sprawdzanie jeszcze raz_. Jeżeli metoda leczenia ma zostać przyjęta w poczet metod medycyny konwencjonalnej, musi zostać zweryfikowana przez wielokrotne eksperymenty. Badacze muszą _udowodnić_, że ta metoda działa.
 
 Dlaczego metody niekonwencjonalne nie stają się z czasem konwencjonalne? Można wyobrażać sobie różne scenariusze. Na przykład teoria spiskowa, że lekarze edukowani tworzą klikę, nie dopuszczając nikogo. Albo że istnieje genialna metoda niekonwencjonalna, ale ma środków aby klinicznie udowodnić jej skuteczność.

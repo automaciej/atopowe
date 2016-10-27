@@ -1,14 +1,13 @@
----
-title: 'Zbigniew Samochocki: AZS – współczesne metody leczenia'
-author: dexter
-layout: post
-date: 2008-10-30
-url: /2008/10/30/zbigniew-samochocki-azs-wspolczesne-metody-leczenia/
-categories:
-  - Leczenie
-  - Nauka
++++
+author = "dexter"
+categories = ["Leczenie", "Nauka"]
+date = "2008-10-30"
+layout = "post"
+title = "Zbigniew Samochocki: AZS – współczesne metody leczenia"
+url = "/2008/10/30/zbigniew-samochocki-azs-wspolczesne-metody-leczenia/"
 
----
++++
+
 Prezentowany artykuł ma już kilka lat, część informacji jest już przestarzała, ale jednak warto go przeczytać.
   
 <!--more-->

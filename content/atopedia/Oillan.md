@@ -1,8 +1,9 @@
----
-title: Oillan
-permalink: /Oillan/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Oillan/"
+title = "Oillan"
+
++++
 
 Marka **Oillan** powstała z myślą o pielęgnacji skóry wrażliwej i alergicznej. Dolegliwości te towarzyszą często takim chorobom, jak: atopowe zapalenie skóry, łuszczyca i rybia łuska. Oparte na emolientach produkty Oillan, dzięki delikatnym, hipoalergicznym składnikom przeznaczone są zarówno dla dzieci jak i dla dorosłych.
 

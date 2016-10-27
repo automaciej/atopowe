@@ -1,8 +1,9 @@
----
-title: Amertil
-permalink: /Amertil/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Amertil/"
+title = "Amertil"
+
++++
 
 Przed zastosowaniem leku należy zapoznać się z jego właściwościami.
 Amertil ®

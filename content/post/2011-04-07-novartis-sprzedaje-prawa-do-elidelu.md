@@ -1,15 +1,14 @@
----
-title: Novartis sprzedaje prawa do Elidelu
-author: dexter
-layout: post
-date: 2011-04-07
-url: /2011/04/07/novartis-sprzedaje-prawa-do-elidelu/
-categories:
-  - Wydarzenia
-tags:
-  - Elidel
++++
+author = "dexter"
+categories = ["Wydarzenia"]
+date = "2011-04-07"
+layout = "post"
+tags = ["Elidel"]
+title = "Novartis sprzedaje prawa do Elidelu"
+url = "/2011/04/07/novartis-sprzedaje-prawa-do-elidelu/"
 
----
++++
+
 Novartis ogłosił dzisiaj, że podpisał z firmą Meda umowę sprzedaży globalnego prawa do produkcji, obrotu i komercjalizacji kremu Elidel, jest to lek stosowany w leczeniu łagodnym i umiarkowanym atopowym zapaleniem skóry. Novartis chce skupić się na swoich głównych markach i na uruchamianiu nowych produktów.
 
 <!--more-->Po domknięciu umowy, Novartis otrzyma z góry 420 milionów dolarów od Meda, która przyjmie globalną produkcję preparatu Elidel w ciągu trzech lat od domknięcia umowy. Oczekuje się około 406 milionów USD zysku księgowego &#8211; około 345 milionów USD będzie już do końca 2011 r., a pozostała część w 2012 i 2013. 

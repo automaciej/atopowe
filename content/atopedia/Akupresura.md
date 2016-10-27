@@ -1,8 +1,9 @@
----
-title: Akupresura
-permalink: /Akupresura/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Akupresura/"
+title = "Akupresura"
+
++++
 
 **Akupresura** - inaczej refleksologia, jest metodą leczniczą wywodzącą się ze starożytnych Chin, starsza od [akupunktury](/atopedia/Akupunktura "wikilink"). Zwana jest "miękką akupunkturą". Polega na uciskaniu i zazwyczaj punktowym masażu wybranych punktów na ciele człowieka. Według medycyny starochińskiej większość chorób to zaburzenia w przepływie energii w organizmie człowieka. Energia ta nazywa się Qi (lub Chi) i przepływa przez szlaki energetyczne - meridiany. Na przepływ tej energii wpływać można po przez masaż i ucisk specjalnie wybranych punktów. Punkty meridianowe odpowiadają punktom, w którym zagęszczone są zakończenia nerwowe, a meridiany odpowiadają przebiegowi układu nerwowego. Właśnie przez układ nerwowy wpływać można na pracę i funkcjonowanie narządów wewnętrznych.
 

@@ -1,8 +1,9 @@
----
-title: Działy naszego serwisu
-permalink: /Działy_naszego_serwisu/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Działy_naszego_serwisu/"
+title = "Działy naszego serwisu"
+
++++
 
 Oto, z jakich działów składa się nasz serwis, jak się który dział nazywa, skąd się wziął, i czym się charakteryzuje.
 

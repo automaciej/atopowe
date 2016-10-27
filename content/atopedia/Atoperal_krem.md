@@ -1,8 +1,9 @@
----
-title: Atoperal krem
-permalink: /Atoperal_krem/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Atoperal_krem/"
+title = "Atoperal krem"
+
++++
 
 Fucogel 3%
 

@@ -1,16 +1,14 @@
----
-title: 'Marcin Kwiek: Moja homeopatia'
-author: dexter
-layout: post
-date: 2008-06-12
-url: /2008/06/12/marcin-kwiek-moja-homeopatia/
-categories:
-  - Pseudomedycyna
-tags:
-  - Homeopatia
-  - humor
++++
+author = "dexter"
+categories = ["Pseudomedycyna"]
+date = "2008-06-12"
+layout = "post"
+tags = ["Homeopatia", "humor"]
+title = "Marcin Kwiek: Moja homeopatia"
+url = "/2008/06/12/marcin-kwiek-moja-homeopatia/"
 
----
++++
+
 > _To było pod koniec grudnia, zaraz przed świętami
   
 > Szwagier przyniósł spirytusu, no więc rozrabiamy

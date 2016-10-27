@@ -1,8 +1,9 @@
----
-title: Histamina
-permalink: /Histamina/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Histamina/"
+title = "Histamina"
+
++++
 
 Nasz organizm jest stale zagrożony na ataki zarazków, grzybów, pyłków, alergenów. W organizmie znajdują się receptory, które odpowiedzialne są za zniszczenie innociał. Zdarza się jednak, że atakujący [alergen](/atopedia/alergen "wikilink") jest odporny i wtedy zaczynają działać komórki zwane tucznymi. Pobudzają one jeden z głównych składników, zwany histaminą. Uwalnia się ona, gdy na organizm zadziała jakiś alergen. [500px|thumb|right|Udział histaminy i jej receptorów w wywoływaniu objawów alergii](/Plik:Histamina.png "wikilink") Histamina jest mediatorem świądu, towarzyszącym i nasilającym objawy stanu zapalnego skóry - alergii. Uwalnia się również pod wpływem czynników chemicznych, fizycznych i biochemicznych. Powstaje w wyniku dekarboksylacji histydyny i jest magazynowana w komórkach tucznych i bazofilach. [Komórki tuczne](/atopedia/Komórki_tuczne "wikilink") występują w tkance łącznej, przede wszystkim w okolicy naczyń krwionośnych i limfatycznych oraz nerwów. Po degranulacji komórek tucznych histamina przenika do naczyń krwionośnych, poziom histaminy we krwi rośnie między 2.5 a 5 minutami i wraca do poziomu wyjściowego po 15-30 minutach. Współczesne badania pokazują szerokie spektrum działania histaminy za pośrednictwem zidentyfikowanych czterech rodzajów receptorów: H1, H2, H3 i H4 zlokalizowanych w różnych tkankach i narządach. Centralną rolę w alergicznej reakcji natychmiastowej odgrywa aktywacja receptora H1, której wynikiem jest rozszerzenie naczyń krwionośnych, zwiększenie ich przepuszczalności co, prowadzi do wysięków krwi do organizmu. Ponadto aktywacja receptora H1 powoduje skurcz mięśni gładkich oskrzeli, a także pobudzenie zakończeń nerwów czuciowych, co prowadzi do ataków [duszności](/atopedia/duszności "wikilink") czy obrzęków płuc i tchawicy. Stąd ataki bezdechu u alergików.
 

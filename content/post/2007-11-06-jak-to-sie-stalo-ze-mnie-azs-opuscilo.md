@@ -1,17 +1,14 @@
----
-title: Jak to się stało że mnie AZS opuściło
-author: Wahwah
-layout: post
-date: 2007-11-06
-url: /2007/11/06/jak-to-sie-stalo-ze-mnie-azs-opuscilo/
-categories:
-  - Leczenie
-  - Środowisko
-  - Wydarzenia
-tags:
-  - przyczyny
++++
+author = "Wahwah"
+categories = ["Leczenie", "Środowisko", "Wydarzenia"]
+date = "2007-11-06"
+layout = "post"
+tags = ["przyczyny"]
+title = "Jak to się stało że mnie AZS opuściło"
+url = "/2007/11/06/jak-to-sie-stalo-ze-mnie-azs-opuscilo/"
 
----
++++
+
 Dopiero dzisiaj zauważyłem, że kilka dni temu na zostałem na forum zapytany, jak to się stało, że przeszło mi AZS. Najpierw muszę się zastrzec, że AZS nie przeszło mi do końca; cały czas mam zmiany na stopach, trzymające się uporczywie w paru miejscach, i nawet właśnie w trakcie pisania tego postu smaruję te miejsca hydrokortyzonem [kupionym w supermarkecie][1]. Ale poza tym faktycznie, AZS mi przeszło, to znaczy mogę normalnie żyć i w ogóle się tym AZS nie przejmować.
 
 <!--more-->

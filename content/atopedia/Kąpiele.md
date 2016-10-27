@@ -1,8 +1,9 @@
----
-title: Kąpiele
-permalink: /Kąpiele/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Kąpiele/"
+title = "Kąpiele"
+
++++
 
 Kąpiele i mycie skóry atopowej
 ------------------------------

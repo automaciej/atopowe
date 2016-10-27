@@ -1,18 +1,14 @@
----
-title: Kłopot z ziołami
-author: dexter
-layout: post
-date: 2009-01-14
-url: /2009/01/14/klopot-z-ziolami/
-categories:
-  - Kontrowersje
-  - Nauka
-  - Pseudomedycyna
-tags:
-  - Ben Goldacre
-  - chemia
++++
+author = "dexter"
+categories = ["Kontrowersje", "Nauka", "Pseudomedycyna"]
+date = "2009-01-14"
+layout = "post"
+tags = ["Ben Goldacre", "chemia"]
+title = "Kłopot z ziołami"
+url = "/2009/01/14/klopot-z-ziolami/"
 
----
++++
+
 Ben Goldacre
   
 [The Guardian][1]

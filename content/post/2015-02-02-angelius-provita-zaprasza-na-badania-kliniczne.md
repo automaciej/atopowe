@@ -1,15 +1,14 @@
----
-title: Angelius Provita w Katowicach zaprasza na badania kliniczne
-author: dexter
-layout: post
-date: 2015-02-02
-url: /2015/02/02/angelius-provita-zaprasza-na-badania-kliniczne/
-categories:
-  - Leczenie
-tags:
-  - Leki biologiczne
++++
+author = "dexter"
+categories = ["Leczenie"]
+date = "2015-02-02"
+layout = "post"
+tags = ["Leki biologiczne"]
+title = "Angelius Provita w Katowicach zaprasza na badania kliniczne"
+url = "/2015/02/02/angelius-provita-zaprasza-na-badania-kliniczne/"
 
----
++++
+
 Centrum Medyczne Angelius Provita w Katowicach prowadzi badanie kliniczne z użyciem leku biologicznego dla dorosłych pacjentów z Atopowym Zapaleniem Skóry.
   
 W trakcie badania pacjenci otrzymują ludzkie przeciwciało monoklonalne, które w szybki i bezpieczny sposób ma przynieść poprawę zmian klinicznych u pacjentów z atopowym zapaleniem skóry.

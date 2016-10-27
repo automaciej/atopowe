@@ -1,17 +1,14 @@
----
-title: AZS – zapobieganie
-author: dexter
-layout: post
-date: 2009-01-07
-url: /2009/01/07/azs-zapobieganie/
-categories:
-  - Leczenie
-tags:
-  - dzieci
-  - probiotyki
-  - zapobieganie
++++
+author = "dexter"
+categories = ["Leczenie"]
+date = "2009-01-07"
+layout = "post"
+tags = ["dzieci", "probiotyki", "zapobieganie"]
+title = "AZS – zapobieganie"
+url = "/2009/01/07/azs-zapobieganie/"
 
----
++++
+
 > Zdrowie własnego malucha jest dla matki najcenniejszym skarbem. Kobieta, której dziecko zagrożone jest wystąpieniem atopowego zapalenia skóry z niepokojem oczekuje jego narodzin. Obawia się, że w bliższej bądź dalszej przyszłości i ono zapadnie na chorobę, która w jej rodzinie jest dobrze znana, gdyż dziedziczy się ją od pokoleń.
 > 
 > Jednak naukowcy coraz częściej zwracają uwagę na fakt, że w dużym stopniu można temu zapobiec &#8211; i to podejmując pewne działania zaledwie na kilka tygodni przed porodem. Wystarczy codzienną dietę wzbogacić o jedną więcej kapsułkę dziennie. Kapsułkę z odpowiednim probiotykiem.

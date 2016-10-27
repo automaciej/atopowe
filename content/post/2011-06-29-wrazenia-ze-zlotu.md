@@ -1,16 +1,14 @@
----
-title: Wrażenia ze zlotu w Starych Jabłonkach
-author: mres
-layout: post
-date: 2011-06-29
-url: /2011/06/29/wrazenia-ze-zlotu/
-categories:
-  - W społeczeństwie
-  - Wydarzenia
-tags:
-  - zloty
++++
+author = "mres"
+categories = ["W społeczeństwie", "Wydarzenia"]
+date = "2011-06-29"
+layout = "post"
+tags = ["zloty"]
+title = "Wrażenia ze zlotu w Starych Jabłonkach"
+url = "/2011/06/29/wrazenia-ze-zlotu/"
 
----
++++
+
 Hej, pozdrawiam wszystkich obecnych na zlocie. Jako, że był to mój pierwszy zlot postanowiłam podzielić się wrażeniami z niego.
   
 Główną atrakcją spotkania byli przesympatyczni ludzie z którymi od dłuższego czasu zamierzałam się spotkać i wymienić spostrzeżeniami na temat azs, astmy i alergii: a byli to Anka lego, Dexter+ Mirka+ Ewa, Honda +Iza, Dragon+ Adrianna, Brummig z rodzinką, Kumina i Romaneq.

@@ -1,13 +1,13 @@
----
-title: O AZS w Gazecie Wyborczej
-author: dexter
-layout: post
-date: 2010-11-10
-url: /2010/11/10/o-azs-w-gazecie-wyborczej/
-categories:
-  - Prasa
++++
+author = "dexter"
+categories = ["Prasa"]
+date = "2010-11-10"
+layout = "post"
+title = "O AZS w Gazecie Wyborczej"
+url = "/2010/11/10/o-azs-w-gazecie-wyborczej/"
 
----
++++
+
 W dzisiejszym numerze Wyborczej ukazał się artykuł o AZS. Można go przeczytać online tutaj:
 
 [Nadwrażliwa skóra, czyli jak sobie radzić z atopią][1].

@@ -1,19 +1,14 @@
----
-title: Homeopatia w obliczu podwójnie ślepej próby
-author: Wahwah
-layout: post
-date: 2007-04-29
-url: /2007/04/29/homeopatia-w-obliczu-podwojnie-slepej-proby/
-categories:
-  - Kontrowersje
-  - Leczenie
-  - Nauka
-  - Pseudomedycyna
-tags:
-  - Homeopatia
-  - James Randi
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Leczenie", "Nauka", "Pseudomedycyna"]
+date = "2007-04-29"
+layout = "post"
+tags = ["Homeopatia", "James Randi"]
+title = "Homeopatia w obliczu podwójnie ślepej próby"
+url = "/2007/04/29/homeopatia-w-obliczu-podwojnie-slepej-proby/"
 
----
++++
+
 Wiecie, na czym polega homeopatia? Nie? W takim razie polecam [wideo, w którym James Randi tłumaczy zasady homeopatii][1]. Jeżeli wiecie, polecam je tym bardziej!
 
 Szukając w sieci informacji o tym jak się sprawuje homeopatia badana przy pomocy podwójnie ślepej próby, trafiłem na wpis w którym jest następujący fragment:

@@ -1,8 +1,9 @@
----
-title: Alergia
-permalink: /Alergia/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Alergia/"
+title = "Alergia"
+
++++
 
 **Alergia** jest jednym z czynników wyzwalających [atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink"). Najogólniej mówiąc, alergia jest nadwrażliwością organizmu na czynniki, nazywane [alergenami](/atopedia/Alergen "wikilink"). Na przykład pyłek kwiatu, który dostaje się do nosa osoby uczulonej, jest rozpoznawany przez jej [układ immunologiczny](/atopedia/Układ_immunologiczny "wikilink") jako intruz (tak jakby był wrogą bakterią, zarazkiem) i organizm osoby uczulonej zaczyna się natychmiast bronić, np. poprzez wywołanie [kataru siennego](/atopedia/Katar_sienny "wikilink").
 

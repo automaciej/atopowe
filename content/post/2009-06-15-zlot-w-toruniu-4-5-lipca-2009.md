@@ -1,16 +1,14 @@
----
-title: Zlot w Toruniu 4-5 lipca 2009
-author: Wahwah
-layout: post
-date: 2009-06-15
-url: /2009/06/15/zlot-w-toruniu-4-5-lipca-2009/
-categories:
-  - Forum
-  - Wydarzenia
-tags:
-  - zloty
++++
+author = "Wahwah"
+categories = ["Forum", "Wydarzenia"]
+date = "2009-06-15"
+layout = "post"
+tags = ["zloty"]
+title = "Zlot w Toruniu 4-5 lipca 2009"
+url = "/2009/06/15/zlot-w-toruniu-4-5-lipca-2009/"
 
----
++++
+
 Co? &#8211; Zlot atopików!
 
 Gdzie? &#8211; W Toruniu!

@@ -1,14 +1,13 @@
----
-title: Atopowe przeniesione
-author: Wahwah
-layout: post
-date: 2006-11-21
-url: /2006/11/21/atopowe-przeniesione/
-categories:
-  - Forum
-  - Techniczne
++++
+author = "Wahwah"
+categories = ["Forum", "Techniczne"]
+date = "2006-11-21"
+layout = "post"
+title = "Atopowe przeniesione"
+url = "/2006/11/21/atopowe-przeniesione/"
 
----
++++
+
 Jesteśmy już przeprowadzeni na nowe serwery. Dotychczas forum było serwowane ze sprzętu firmy w której pracuję. Układ ten miał dwie podstawowe wady:
 
   1. Hosting opierał się na zależnościach zawodowych i osobistych. Ewentualne zmiany w tych zależnościach mogą powodować niepotrzebne problemy i dodatkowe komplikacje.

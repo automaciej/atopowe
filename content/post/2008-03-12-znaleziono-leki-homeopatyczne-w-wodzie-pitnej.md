@@ -1,18 +1,14 @@
----
-title: Znaleziono leki homeopatyczne w wodzie pitnej
-author: Wahwah
-layout: post
-date: 2008-03-12
-url: /2008/03/12/znaleziono-leki-homeopatyczne-w-wodzie-pitnej/
-categories:
-  - Kontrowersje
-  - Nauka
-  - Pseudomedycyna
-tags:
-  - Homeopatia
-  - humor
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Nauka", "Pseudomedycyna"]
+date = "2008-03-12"
+layout = "post"
+tags = ["Homeopatia", "humor"]
+title = "Znaleziono leki homeopatyczne w wodzie pitnej"
+url = "/2008/03/12/znaleziono-leki-homeopatyczne-w-wodzie-pitnej/"
 
----
++++
+
 _[Za Skeptico][1]_
 
 Po ostatnich odkryciach, że leki na receptę &#8211; włączając antybiotyki, anty-konwulsanty, stabilizatory nastroju i hormony płciowe &#8211; zostały znalezione w wodzie pitnej w Stanach Zjednoczonych, ujawniono, że inny zespół odnalazł leki homeopatyczne w wodzie kranowej:

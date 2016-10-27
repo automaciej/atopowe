@@ -1,13 +1,13 @@
----
-title: Wzmacnianie układu odpornościowego
-author: Wahwah
-layout: post
-date: 2007-10-25
-url: /2007/10/25/wzmacnianie-ukladu-odpornosciowego/
-categories:
-  - Leczenie
++++
+author = "Wahwah"
+categories = ["Leczenie"]
+date = "2007-10-25"
+layout = "post"
+title = "Wzmacnianie układu odpornościowego"
+url = "/2007/10/25/wzmacnianie-ukladu-odpornosciowego/"
 
----
++++
+
 Bardzo często mamy do czynienia z lekami czy preparatami, których zadaniem jest „wzmocnienie naszego układu odpornościowego”. Co to właściwie oznacza, i co to oznacza, kiedy taki preparat jest polecany alergikowi?
 
 <!--more-->Koleżanka z forum napisała:

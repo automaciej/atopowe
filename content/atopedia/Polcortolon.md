@@ -1,8 +1,9 @@
----
-title: Polcortolon
-permalink: /Polcortolon/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Polcortolon/"
+title = "Polcortolon"
+
++++
 
 *Triamcinolone*
 

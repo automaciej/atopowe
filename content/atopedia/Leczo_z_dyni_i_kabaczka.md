@@ -1,8 +1,9 @@
----
-title: Leczo z dyni i kabaczka
-permalink: /Leczo_z_dyni_i_kabaczka/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Leczo_z_dyni_i_kabaczka/"
+title = "Leczo z dyni i kabaczka"
+
++++
 
 Leczo nadaje się dla małych dzieci.
 

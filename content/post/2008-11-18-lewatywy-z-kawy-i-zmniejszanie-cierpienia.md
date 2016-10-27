@@ -1,15 +1,13 @@
----
-title: Lewatywy z kawy i zmniejszanie cierpienia
-author: Wahwah
-layout: post
-date: 2008-11-18
-url: /2008/11/18/lewatywy-z-kawy-i-zmniejszanie-cierpienia/
-categories:
-  - Kontrowersje
-  - Leczenie
-  - Pseudomedycyna
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Leczenie", "Pseudomedycyna"]
+date = "2008-11-18"
+layout = "post"
+title = "Lewatywy z kawy i zmniejszanie cierpienia"
+url = "/2008/11/18/lewatywy-z-kawy-i-zmniejszanie-cierpienia/"
 
----
++++
+
 Niedawno znajoma zagadnęła mnie na jabberze, żeby pochwalić sposób w jaki napisałem [krytykę medycyny alternatywnej][1], choć, jak sama to określiła, sama „jest po drugiej stronie”. Znam ją (internetowo) już od kilku lat, uważam ją za generalnie rozsądną osobę, szanuję jej zdanie, oraz, co najważniejsze, uważam że warto z nią rozmawiać.
 
 Znajoma opowiadała o ostatnich stadiach ciężkich chorób nowotworowych, kiedy dla pacjenta nie ma już właściwie nadziei, i tak czy siak nie stosuje się już żadnych terapii, operacji ani naświetlań. Twierdziła, że w takich sytuacjach metody alternatywne poprawiają samopoczucie i komfort.

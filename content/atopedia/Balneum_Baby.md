@@ -1,8 +1,9 @@
----
-title: Balneum Baby
-permalink: /Balneum_Baby/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Balneum_Baby/"
+title = "Balneum Baby"
+
++++
 
 ### Co to jest Balneum Hermal Plus i w jakim celu się go stosuje?
 

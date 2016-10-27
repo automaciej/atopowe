@@ -1,15 +1,14 @@
----
-title: Gen Interleukiny 4 i atopowe zapalenie skóry
-author: dexter
-layout: post
-date: 2008-01-30
-url: /2008/01/30/gen-c-3223t-i-atopowe-zapalenie-skory/
-categories:
-  - Nauka
-tags:
-  - Genetyka
++++
+author = "dexter"
+categories = ["Nauka"]
+date = "2008-01-30"
+layout = "post"
+tags = ["Genetyka"]
+title = "Gen Interleukiny 4 i atopowe zapalenie skóry"
+url = "/2008/01/30/gen-c-3223t-i-atopowe-zapalenie-skory/"
 
----
++++
+
 W najnowszym numerze [Adv Clin Exp Med][1] opublikowano ciekawy artykuł pod tytułem &#8222;_Polymorphism in the promoter and coding region of the IL-4 receptor alpha-chain gene in atopic children_&#8222;. W artykule zreferowano wpływ znanych polimorfizmów łańcucha α genu receptora IL-4, zlokalizowanego na chromosomie 16 (16p12.1−p11.2), na zapadalność na choroby atopowe. Przeprowadzono badanie DNA grupy 40 dzieci chorych na alergiczne choroby atopowe (w tym ośmioro dzieci chorych na AZS) oraz 36 dzieci zdrowych, jako grupę kontrolną. Okazało się, że dzieci z odmianą C−3223T genu IL-4 (mutacja w regionie promotorowym genu) są siedmiokrotnie bardziej narażone na zachorowanie na atopową chorobę alergiczną.
 
 > Adv Clin Exp Med 2007, 16, 6, 735–741

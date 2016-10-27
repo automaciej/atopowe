@@ -1,22 +1,14 @@
----
-title: Gala konkursu e-wolontariatu!
-author: mres
-layout: post
-date: 2014-01-26
-url: /2014/01/26/gala-konkursu-e-wolontariatu/
-categories:
-  - Portal
-  - W społeczeństwie
-  - Wydarzenia
-tags:
-  - atopowe
-  - e-wolontariat
-  - fundacja alabaster
-  - Gala
-  - spotkanie atopików
-  - warszawa
++++
+author = "mres"
+categories = ["Portal", "W społeczeństwie", "Wydarzenia"]
+date = "2014-01-26"
+layout = "post"
+tags = ["atopowe", "e-wolontariat", "fundacja alabaster", "Gala", "spotkanie atopików", "warszawa"]
+title = "Gala konkursu e-wolontariatu!"
+url = "/2014/01/26/gala-konkursu-e-wolontariatu/"
 
----
++++
+
 Kochani!
 
 Chcielibyśmy Wam bardzo podziękować za głosowanie na nas!

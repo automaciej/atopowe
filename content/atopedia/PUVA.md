@@ -1,8 +1,9 @@
----
-title: PUVA
-permalink: /PUVA/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/PUVA/"
+title = "PUVA"
+
++++
 
 Terapia polegająca na jednoczesnym naświetlaniu promieniowaniem ultrafioletowym UVA oraz przyjmowaniu leków z grupy psolarenów (np. [oxsolaren](/atopedia/oxsolaren "wikilink"), [geralen](/atopedia/geralen "wikilink")), zwiększających wytwarzanie pigmentu (melaniny) w skórze po wystawieniu jej na działanie promieni ultrafioletowych. Terapia PUVA powoduje blokowanie receptorów [komórek Langerhansa](/atopedia/komórki_Langerhansa "wikilink") oraz eliminuje bakterie i niektóre wirusy obecne na skórze, co zmniejsza ryzyko [infekcji](/atopedia/infekcja_skóry "wikilink").
 

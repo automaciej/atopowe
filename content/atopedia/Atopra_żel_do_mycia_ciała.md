@@ -1,8 +1,9 @@
----
-title: Atopra żel do mycia ciała
-permalink: /Atopra_żel_do_mycia_ciała/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Atopra_żel_do_mycia_ciała/"
+title = "Atopra żel do mycia ciała"
+
++++
 
 **atopra®**
 

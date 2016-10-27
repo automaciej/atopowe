@@ -1,17 +1,14 @@
----
-title: Czy warto poszerzać wiedzę o swoich chorobach?
-author: dexter
-layout: post
-date: 2009-02-02
-url: /2009/02/02/czy-warto-poszerzac-wiedze-o-swoich-chorobach/
-categories:
-  - Leczenie
-  - Objawy
-  - W społeczeństwie
-tags:
-  - astma
++++
+author = "dexter"
+categories = ["Leczenie", "Objawy", "W społeczeństwie"]
+date = "2009-02-02"
+layout = "post"
+tags = ["astma"]
+title = "Czy warto poszerzać wiedzę o swoich chorobach?"
+url = "/2009/02/02/czy-warto-poszerzac-wiedze-o-swoich-chorobach/"
 
----
++++
+
 <blockquote cite="http://www.atopowe-zapalenie.pl/atopedia/Wyk%C5%82ad_dr_Ireny_Grzesiak#Transkrypcja_wyk.C5.82adu">
   <p>
     Wciąż jeszcze pacjenci uważają, że najlepiej się leczyć, a nie zdobywać wiedzę i unikać tego, co uniknąć się da. Ale to już niestety taka cecha pacjenta, że woli mieć jedną tabletkę raz dziennie, niż spędzić godzinę żeby posłuchać na temat swojej choroby. [1]

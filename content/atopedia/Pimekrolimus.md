@@ -1,8 +1,9 @@
----
-title: Pimekrolimus
-permalink: /Pimekrolimus/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Pimekrolimus/"
+title = "Pimekrolimus"
+
++++
 
 **Pimekrolimus** - jest substancją pochodzącą z bakterii *Streptomyces hygroscopius var ascomucetu*. Jest to pochodna aksomycyny. Został on wyodrębniony po raz pierwszy prawie 40 lat temu i początkowo badany był pod kątem działania przeciwgrzybicznego. Właściwości immunomodulujące macrolactamu ascomycyny poznano dopiero ok. 16 lat po jego wyizolowaniu. Na pimekrolimusie bazuje lek [Elidel](/atopedia/Elidel "wikilink").
 

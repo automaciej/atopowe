@@ -1,8 +1,9 @@
----
-title: Dziecko
-permalink: /Dziecko/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Dziecko/"
+title = "Dziecko"
+
++++
 
 **Dziecko** chore na AZS potrzebuje akceptacji i wsparcia ze strony rodziców!
 

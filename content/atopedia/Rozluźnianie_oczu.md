@@ -1,8 +1,9 @@
----
-title: Rozluźnianie oczu
-permalink: /Rozluźnianie_oczu/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Rozluźnianie_oczu/"
+title = "Rozluźnianie oczu"
+
++++
 
 Przydatne przy długiej pracy z komputerem lub czytaniu.
 

@@ -1,8 +1,9 @@
----
-title: Foliculitis
-permalink: /Foliculitis/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Foliculitis/"
+title = "Foliculitis"
+
++++
 
 **Foliculitis** - to stan zapalny mieszków włosowych, objawiający się tworzeniem na skórze krostek z ropną wydzieliną. Zwykle są one dokuczliwie [piekące](/atopedia/pieczenie "wikilink") i [swędzace](/atopedia/świąd "wikilink"), pobudzają więc do [drapania](/atopedia/drapanie "wikilink"), a rozdrapywane - mogą wywołać lub przyspieszyć nawrót [infekcji bakteryjnej na skórze](/atopedia/infekcja_skóry "wikilink").
 

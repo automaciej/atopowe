@@ -1,8 +1,9 @@
----
-title: Antybiotyki
-permalink: /Antybiotyki/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Antybiotyki/"
+title = "Antybiotyki"
+
++++
 
 **Antybiotyki** to substancje chemiczne - naturalne, wytwarzane przez drobnoustroje, ale także syntetyczne, produkowane przez człowieka, które są stosowane w lecznictwie jako leki przeciwdziałające infekcjom wywoływanym przez drobnoustroje (najczęściej bakterie, ale także mykoplazmy i pierwotniaki). Bywają także używane profilaktycznie w zapobieganiu zakażeniom bakteryjnym w przypadku osłabienia odporności.
 

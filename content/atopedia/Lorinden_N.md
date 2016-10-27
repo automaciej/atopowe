@@ -1,8 +1,9 @@
----
-title: Lorinden N
-permalink: /Lorinden_N/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Lorinden_N/"
+title = "Lorinden N"
+
++++
 
 *(Flumetasoni pivalas + Neomycini sulfas)*
 

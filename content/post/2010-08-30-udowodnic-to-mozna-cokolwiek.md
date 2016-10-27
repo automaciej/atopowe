@@ -1,15 +1,14 @@
----
-title: Udowodnić to można cokolwiek
-author: dexter
-layout: post
-date: 2010-08-30
-url: /2010/08/30/udowodnic-to-mozna-cokolwiek/
-categories:
-  - Nauka
-tags:
-  - Ben Goldacre
++++
+author = "dexter"
+categories = ["Nauka"]
+date = "2010-08-30"
+layout = "post"
+tags = ["Ben Goldacre"]
+title = "Udowodnić to można cokolwiek"
+url = "/2010/08/30/udowodnic-to-mozna-cokolwiek/"
 
----
++++
+
 Ben Goldacre
   
 The Guardian

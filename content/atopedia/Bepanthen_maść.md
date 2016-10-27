@@ -1,8 +1,9 @@
----
-title: Bepanthen maść
-permalink: /Bepanthen_maść/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Bepanthen_maść/"
+title = "Bepanthen maść"
+
++++
 
 *(dexpanthenolum)*
 

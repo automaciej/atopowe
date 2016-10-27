@@ -1,17 +1,14 @@
----
-title: Maść Takrolimus do długotrwałego leczenia atopowego zapalenia skóry
-author: dexter
-layout: post
-date: 2010-03-26
-url: /2010/03/26/masc-takrolimus-do-dlugotrwalego-leczenia-atopowego-zapalenia-skory/
-categories:
-  - Nauka
-  - Pielęgnacja
-  - Wydarzenia
-tags:
-  - Protopic
++++
+author = "dexter"
+categories = ["Nauka", "Pielęgnacja", "Wydarzenia"]
+date = "2010-03-26"
+layout = "post"
+tags = ["Protopic"]
+title = "Maść Takrolimus do długotrwałego leczenia atopowego zapalenia skóry"
+url = "/2010/03/26/masc-takrolimus-do-dlugotrwalego-leczenia-atopowego-zapalenia-skory/"
 
----
++++
+
 Dzisiaj o 12:00 na Uniwersytecie Helsińskim odbędzie się publiczna obrona pracy doktorskiej pod tytułem &#8222;Tacrolimus oinment for long-term treatment in atopic dermatitis&#8221; (tłumaczenie w tytule tej notki). Także jakbyście byli dzisiaj w Helsinkach&#8230; 😉
   
 Autorką pracy jest Johanna Mandelin. Przedstawię tutaj podsumowanie i wnioski tej pracy:

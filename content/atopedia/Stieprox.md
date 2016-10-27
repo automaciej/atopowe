@@ -1,8 +1,9 @@
----
-title: Stieprox
-permalink: /Stieprox/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Stieprox/"
+title = "Stieprox"
+
++++
 
 15mg/g (1,5%), szampon leczniczy
 

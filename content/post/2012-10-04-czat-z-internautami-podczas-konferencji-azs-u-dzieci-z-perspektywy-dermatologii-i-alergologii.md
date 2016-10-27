@@ -1,20 +1,14 @@
----
-title: Czat z internautami podczas konferencji „AZS u dzieci z perspektywy dermatologii i alergologii”
-author: ewaela
-layout: post
-date: 2012-10-04
-url: /2012/10/04/czat-z-internautami-podczas-konferencji-azs-u-dzieci-z-perspektywy-dermatologii-i-alergologii/
-categories:
-  - Leczenie
-  - Objawy
-  - Pielęgnacja
-  - Portal
-  - W społeczeństwie
-  - Wydarzenia
-tags:
-  - fundacja alabaster
++++
+author = "ewaela"
+categories = ["Leczenie", "Objawy", "Pielęgnacja", "Portal", "W społeczeństwie", "Wydarzenia"]
+date = "2012-10-04"
+layout = "post"
+tags = ["fundacja alabaster"]
+title = "Czat z internautami podczas konferencji „AZS u dzieci z perspektywy dermatologii i alergologii”"
+url = "/2012/10/04/czat-z-internautami-podczas-konferencji-azs-u-dzieci-z-perspektywy-dermatologii-i-alergologii/"
 
----
++++
+
 W środę, 26 września, odbyła się konferencja &#8222;AZS u dzieci z perspektywy dermatologii i alergologii&#8221; przeznaczona przede wszystkim dla rodziców (opiekunów) dzieci z AZS.
 
 Niedługo udostępnimy nagranie, na razie zachęcamy do przeczytania [relacji z konferencji na stronie projektu Halo! ATOPIA][1]. Tutaj dzielimy się przebiegiem czatu z internautami z udziałem dr Lidii Ruszkowskiej.

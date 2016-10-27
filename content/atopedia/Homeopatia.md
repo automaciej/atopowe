@@ -1,8 +1,9 @@
----
-title: Homeopatia
-permalink: /Homeopatia/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Homeopatia/"
+title = "Homeopatia"
+
++++
 
 **Homeopatia** (z gr. *homoios* - podobny i *pathos* - cierpienie) to kontrowersyjna, alternatywna metoda lecznicza, która zaleca używanie preparatów nie zawierających żadnych aktywnych składników. Teoria homeopatii została opracowana przez Samuela Hahnemanna (1755-1843) i po raz pierwszy opublikowana w 1796 roku.
 

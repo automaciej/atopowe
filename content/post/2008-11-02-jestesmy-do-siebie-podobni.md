@@ -1,16 +1,13 @@
----
-title: Jesteśmy do siebie podobni
-author: Wahwah
-layout: post
-date: 2008-11-02
-url: /2008/11/02/jestesmy-do-siebie-podobni/
-categories:
-  - Film
-  - Kontrowersje
-  - Leczenie
-  - Pseudomedycyna
++++
+author = "Wahwah"
+categories = ["Film", "Kontrowersje", "Leczenie", "Pseudomedycyna"]
+date = "2008-11-02"
+layout = "post"
+title = "Jesteśmy do siebie podobni"
+url = "/2008/11/02/jestesmy-do-siebie-podobni/"
 
----
++++
+
 Znacie ten fragment filmu Żywot Briana?
 
 

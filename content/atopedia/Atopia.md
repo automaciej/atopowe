@@ -1,8 +1,9 @@
----
-title: Atopia
-permalink: /Atopia/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Atopia/"
+title = "Atopia"
+
++++
 
 **Atopia** (gr. *atopos* = dziwny, odmienny) oznacza skłonność [układu immunologicznego](/atopedia/Układ_immunologiczny "wikilink") do reakcji obronnych na pospolicie występujące w środowisku substancje ([alergeny](/atopedia/Alergen "wikilink")). Jest zbiorczym określeniem reakcji atopowych ([alergicznych](/atopedia/Reakcja_alergiczna "wikilink")), które najczęściej dotyczą jednego układu, narządu (np. [skóra](/atopedia/Skóra "wikilink"), nos), ale mogą również doprowadzić do zaburzenia czynności całego organizmu – groźnego dla życia [wstrząsu anafilaktycznego](/atopedia/Wstrząs_anafilaktyczny "wikilink"). Atopia jest predyspozycją [dziedziczną](/atopedia/Obciążenie_genetyczne "wikilink").
 

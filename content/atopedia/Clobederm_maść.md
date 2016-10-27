@@ -1,8 +1,9 @@
----
-title: Clobederm maść
-permalink: /Clobederm_maść/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Clobederm_maść/"
+title = "Clobederm maść"
+
++++
 
 *(Clobetasoli propionas)*
 

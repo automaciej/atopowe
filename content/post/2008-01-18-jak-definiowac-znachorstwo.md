@@ -1,16 +1,13 @@
----
-title: Jak definiować znachorstwo
-author: Wahwah
-layout: post
-date: 2008-01-18
-url: /2008/01/18/jak-definiowac-znachorstwo/
-categories:
-  - Kontrowersje
-  - Leczenie
-  - Nauka
-  - Pseudomedycyna
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Leczenie", "Nauka", "Pseudomedycyna"]
+date = "2008-01-18"
+layout = "post"
+title = "Jak definiować znachorstwo"
+url = "/2008/01/18/jak-definiowac-znachorstwo/"
 
----
++++
+
 _Tekst przetłumaczony ze strony &lt;http://www.quackwatch.com/01QuackeryRelatedTopics/quackdef.html&gt;_
 
 ##  Znachorstwo: Jak je zdefiniować?

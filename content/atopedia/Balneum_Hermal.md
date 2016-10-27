@@ -1,8 +1,9 @@
----
-title: Balneum Hermal
-permalink: /Balneum_Hermal/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Balneum_Hermal/"
+title = "Balneum Hermal"
+
++++
 
 Opis działania
 --------------

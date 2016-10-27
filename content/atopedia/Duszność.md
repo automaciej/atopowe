@@ -1,8 +1,9 @@
----
-title: Duszność
-permalink: /Duszność/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Duszność/"
+title = "Duszność"
+
++++
 
 **Duszność** to subiektywne odczucie braku tchu, nie zawsze związane z rzeczywistą zmianą parametrów oddechowych.
 

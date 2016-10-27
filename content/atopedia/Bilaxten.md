@@ -1,8 +1,9 @@
----
-title: Bilaxten
-permalink: /Bilaxten/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Bilaxten/"
+title = "Bilaxten"
+
++++
 
 **Bilaxten, 20 mg, tabletki**
 

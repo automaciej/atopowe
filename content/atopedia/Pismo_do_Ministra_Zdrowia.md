@@ -1,8 +1,9 @@
----
-title: Pismo do Ministra Zdrowia
-permalink: /Pismo_do_Ministra_Zdrowia/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Pismo_do_Ministra_Zdrowia/"
+title = "Pismo do Ministra Zdrowia"
+
++++
 
 **Do Ministra Zdrowia**
 

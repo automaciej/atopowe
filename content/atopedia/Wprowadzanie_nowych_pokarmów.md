@@ -1,8 +1,9 @@
----
-title: Wprowadzanie nowych pokarmów
-permalink: /Wprowadzanie_nowych_pokarmów/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Wprowadzanie_nowych_pokarmów/"
+title = "Wprowadzanie nowych pokarmów"
+
++++
 
 Rozszerzanie diety dziecka jest dla jego zdrowia bardzo ważne. Każdy nowy pokarm należy wprowadzać zaczynając od małych ilości (łyżeczka). Potem stopniowo zwiększamy ilość, pamiętając, by nie wprowadzać więcej niż jeden nowy produkt tygodniowo (istnieje też teoria, że alergen może się utrzymywać w organizmie około 2 tygodni, więc najlepiej wprowadzać nowości przynajmniej w dwutygodniowych odstępach). Różnorodność jest kluczem do sukcesu w walce z [alergią](/atopedia/Alergia "wikilink") – monotonna, czasem nawet jedno-składnikowa dieta (wyłączając mleko matki - choć są przypadki ekstremalne, gdy nawet mleko matki „uczula”) może doprowadzić do powstania alergii na to, co jemy. Wbrew pozorom silnie alergizująca może okazać się soja i jej przetwory. Doświadczenie pokazuje, że nie ma produktów bezpiecznych – uczulić może każdy rodzaj białka, skrobi, a więc pozornie „niewinne” ziemniaki, kukurydza czy ryż bywają przyczyną wysypek. Wielu lekarzy, także na Zachodzie, poleca natomiast dyniowate (dynia, cukinia, kabaczek), które rzeczywiście stosunkowo rzadko uczulają. Warto też przeprowadzić prowokację z takimi warzywami jak kalafior czy brokuł. Zaskakujące jest to, że odradza się strączkowe (groch, groszek, fasolka szparagowa i zwykła, soczewica), prawdopodobnie jako ciężkostrawne, a zatem zbyt obciążające dla i tak „zmęczonego” układu pokarmowego małego alergika.
 

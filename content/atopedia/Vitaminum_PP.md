@@ -1,8 +1,9 @@
----
-title: Vitaminum PP
-permalink: /Vitaminum_PP/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Vitaminum_PP/"
+title = "Vitaminum PP"
+
++++
 
 Treść na opakowaniu
 ===================

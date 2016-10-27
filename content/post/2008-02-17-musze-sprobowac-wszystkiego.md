@@ -1,15 +1,13 @@
----
-title: Muszę spróbować wszystkiego
-author: Wahwah
-layout: post
-date: 2008-02-17
-url: /2008/02/17/musze-sprobowac-wszystkiego/
-categories:
-  - Kontrowersje
-  - Leczenie
-  - Pseudomedycyna
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Leczenie", "Pseudomedycyna"]
+date = "2008-02-17"
+layout = "post"
+title = "Muszę spróbować wszystkiego"
+url = "/2008/02/17/musze-sprobowac-wszystkiego/"
 
----
++++
+
 Nieskuteczne preparaty są jak kłamstwa.
 
 W książce Marka Haddona „Dziwny przypadek psa nocną porą” główny bohater tłumaczy, dlaczego nie kłamie. Jego matka twierdzi, że Christopher nie kłamie, bo jest dobrym człowiekiem. Ale on sam mówi, że powód jest inny. Nie kłamie dlatego, że _nie potrafi._

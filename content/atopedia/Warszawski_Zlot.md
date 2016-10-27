@@ -1,8 +1,9 @@
----
-title: Warszawski Zlot
-permalink: /Warszawski_Zlot/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Warszawski_Zlot/"
+title = "Warszawski Zlot"
+
++++
 
 15 października 2005
 --------------------

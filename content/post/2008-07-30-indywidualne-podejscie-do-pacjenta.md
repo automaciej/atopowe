@@ -1,18 +1,14 @@
----
-title: Indywidualne podejście do pacjenta
-author: Wahwah
-layout: post
-date: 2008-07-30
-url: /2008/07/30/indywidualne-podejscie-do-pacjenta/
-categories:
-  - Kontrowersje
-  - Nauka
-tags:
-  - eksperyment
-  - Homeopatia
-  - podwójnie ślepa próba
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Nauka"]
+date = "2008-07-30"
+layout = "post"
+tags = ["eksperyment", "Homeopatia", "podwójnie ślepa próba"]
+title = "Indywidualne podejście do pacjenta"
+url = "/2008/07/30/indywidualne-podejscie-do-pacjenta/"
 
----
++++
+
 Główny zarzut pod adresem medycyny alternatywnej to brak eksperymentalnego potwierdzenia skuteczności. Osoby broniące medycyny alternatywnej zazwyczaj odpowiadają, że metod alternatywnych nie da się przetestować, ponieważ stosuje się tam, uwaga, _indywidualne podejście do pacjenta._ W związku z tym indywidualnym podejściem nie można wziąć po prostu grupy pacjentów z AZS i podać im tego samego specyfiku.
 
 Czy rzeczywiście z powodu indywidualnego podejścia nie można testować metod alternatywnych? Argument ten jest najczęściej używany przez homeopatów, więc skupię się na tym przykładzie.

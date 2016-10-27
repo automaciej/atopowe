@@ -1,8 +1,9 @@
----
-title: Body Detox
-permalink: /Body_Detox/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Body_Detox/"
+title = "Body Detox"
+
++++
 
 Urządzenie stosowane w gabinetach bioenergoterapii, odnowy biologicznej i pseudomedycyny. Jest to tak zwana wanna odtruwająca, składająca się z miski z ciepłą wodą, do której wsypuje się sól. Do miski wkłada się żelazne elektrody i podłącza prąd o niewielkim natężeniu. Pacjent na pół godziny wkłada nogi do miski, po chwili woda zabarwia się na czerwono-brązowy kolor. Po "zabiegu" terapeuta twierdzi, że do wody uwolniło się mnóstwo toksyn, diagnozuje nadmiernie obciążoną wątrobę, lub problemy z układem trawiennym czy limfatycznym. Zaleca pić mniej alkoholu a więcej wody.
 

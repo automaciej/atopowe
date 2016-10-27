@@ -1,16 +1,14 @@
----
-title: Homeopatia i inne alternatywne metody leczenia a nasza kultura cz. 3
-author: aksamitka
-layout: post
-date: 2009-12-16
-url: /2009/12/16/homeopatia-i-inne-alternatywne-metody-leczenia-a-nasza-kultura-cz-3/
-categories:
-  - Kontrowersje
-  - Pseudomedycyna
-tags:
-  - Homeopatia
++++
+author = "aksamitka"
+categories = ["Kontrowersje", "Pseudomedycyna"]
+date = "2009-12-16"
+layout = "post"
+tags = ["Homeopatia"]
+title = "Homeopatia i inne alternatywne metody leczenia a nasza kultura cz. 3"
+url = "/2009/12/16/homeopatia-i-inne-alternatywne-metody-leczenia-a-nasza-kultura-cz-3/"
 
----
++++
+
 Tu omówię pozostałe terapie niekonwencjonalne i ich źródła. Pozostałe części notki: [1][1] i [2][2].
 
 <!--more-->

@@ -1,8 +1,9 @@
----
-title: Lorinden A
-permalink: /Lorinden_A/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Lorinden_A/"
+title = "Lorinden A"
+
++++
 
 (Flumetasoni pivalas + Acidum salicylicum)
 

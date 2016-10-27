@@ -1,13 +1,13 @@
----
-title: Jak naprawdę jest z „robakami”
-author: aksamitka
-layout: post
-date: 2008-08-03
-url: /2008/08/03/jak-naprawde-jest-z-robakami/
-categories:
-  - Kontrowersje
++++
+author = "aksamitka"
+categories = ["Kontrowersje"]
+date = "2008-08-03"
+layout = "post"
+title = "Jak naprawdę jest z „robakami”"
+url = "/2008/08/03/jak-naprawde-jest-z-robakami/"
 
----
++++
+
 Często słyszy się głosy o pomyłkach dotyczących diagnoz &#8211; że zamiast zakażenia pasożytami zdiagnozowano AZS.
 
 Jak to jest naprawdę? Aby zweryfikować, co jest prawdą, a co mitem, zajrzałam do Wikipedii, a wcześniej zaglądałam do różnych książek.

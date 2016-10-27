@@ -1,15 +1,14 @@
----
-title: Czy naukowcy wyeliminują swędzenie?
-author: dexter
-layout: post
-date: 2009-04-08
-url: /2009/04/08/czy-naukowcy-wyeliminuja-swedzenie/
-categories:
-  - Nauka
-tags:
-  - drapanie
++++
+author = "dexter"
+categories = ["Nauka"]
+date = "2009-04-08"
+layout = "post"
+tags = ["drapanie"]
+title = "Czy naukowcy wyeliminują swędzenie?"
+url = "/2009/04/08/czy-naukowcy-wyeliminuja-swedzenie/"
 
----
++++
+
 Z autopsji wszyscy wiemy, że drapanie szybko usuwa nieprzyjemny świąd. Do tej pory jednak nie wiedziano, jaki mechanizm fizjologiczny leży u podłoża tego zjawiska. Okazuje się, że skrobanie blokuje aktywność części neuronów rdzenia kręgowego, które odpowiadają za przewodzenie wrażeń do mózgu. Zjawisko to występuje jedynie podczas swędzenia, drapanie przy innej okazji nie przynosi podobnych rezultatów.
   
 <!--more-->

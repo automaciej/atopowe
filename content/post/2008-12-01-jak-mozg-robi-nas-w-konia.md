@@ -1,23 +1,15 @@
----
-title: Jak mózg robi nas w konia
-author: dexter
-layout: post
-date: 2008-12-01
-url: /2008/12/01/jak-mozg-robi-nas-w-konia/
-enclosure:
-  - |
-    |
-        http://www.atopowe-zapalenie.pl/media/2008-11-15-Przybylek.avi
-        7204164
-        video/x-msvideo
-        
-categories:
-  - Film
-  - Nauka
-tags:
-  - mózg
++++
+author = "dexter"
+categories = ["Film", "Nauka"]
+date = "2008-12-01"
+enclosure = ["|\n    http://www.atopowe-zapalenie.pl/media/2008-11-15-Przybylek.avi\n    7204164\n    video/x-msvideo\n    \n"]
+layout = "post"
+tags = ["mózg"]
+title = "Jak mózg robi nas w konia"
+url = "/2008/12/01/jak-mozg-robi-nas-w-konia/"
 
----
++++
+
 Często nie zdajemy sobie sprawy, jak subiektywnie działa nasz mózg i jak bardzo może wpłynąć na postrzeganie rzeczywistości. Mózg ima się różnych sztuczek, żeby zinterpretować dane, których dostarczają nam nasze zmysły. Spójrzcie przykładowo na ten obrazek:
 
 <!--more-->

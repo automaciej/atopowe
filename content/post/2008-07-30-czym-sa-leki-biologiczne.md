@@ -1,15 +1,14 @@
----
-title: Czym są leki biologiczne?
-author: dexter
-layout: post
-date: 2008-07-30
-url: /2008/07/30/czym-sa-leki-biologiczne/
-categories:
-  - Nauka
-tags:
-  - Leki biologiczne
++++
+author = "dexter"
+categories = ["Nauka"]
+date = "2008-07-30"
+layout = "post"
+tags = ["Leki biologiczne"]
+title = "Czym są leki biologiczne?"
+url = "/2008/07/30/czym-sa-leki-biologiczne/"
 
----
++++
+
 Rozwój inżynierii genetycznej i biologii molekularnej oraz wiedzy o procesach immunologicznych towarzyszących wielu chorobom doprowadził do stworzenia nowej generacji leków zwanych lekami biologicznymi. Leki te stały się obecnie alternatywą w terapii wielu chorób – zwłaszcza o podłożu autoimmunologicznym – w sytuacjach, gdy zawodzą środki tradycyjne. Zajęły one znaczącą pozycję w onkologii, endokrynologii, gastroenterologii i reumatologii. Wiąże się z nimi również duże nadzieje w leczeniu schorzeń dermatologicznych, np. łuszczycy. Być może leki biologiczne będą kolejnym przełomem w leczeniu AZS. 
 
 <!--more-->

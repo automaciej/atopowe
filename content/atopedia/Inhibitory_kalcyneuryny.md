@@ -1,8 +1,9 @@
----
-title: Inhibitory kalcyneuryny
-permalink: /Inhibitory_kalcyneuryny/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Inhibitory_kalcyneuryny/"
+title = "Inhibitory kalcyneuryny"
+
++++
 
 -   [Takrolimus](/atopedia/Takrolimus "wikilink") ([Protopic](/atopedia/Protopic "wikilink"))
 -   [Pimecrolimus](/atopedia/Pimecrolimus "wikilink") ([Elidel](/atopedia/Elidel "wikilink"))

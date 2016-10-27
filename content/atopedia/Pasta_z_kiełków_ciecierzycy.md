@@ -1,8 +1,9 @@
----
-title: Pasta z kiełków ciecierzycy
-permalink: /Pasta_z_kiełków_ciecierzycy/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Pasta_z_kiełków_ciecierzycy/"
+title = "Pasta z kiełków ciecierzycy"
+
++++
 
 **Składniki:**
 

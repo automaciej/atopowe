@@ -1,8 +1,9 @@
----
-title: Warsztaty dla dzieci z AZS
-permalink: /Warsztaty_dla_dzieci_z_AZS/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Warsztaty_dla_dzieci_z_AZS/"
+title = "Warsztaty dla dzieci z AZS"
+
++++
 
 4 – 5 czerwca 2011
 

@@ -1,8 +1,9 @@
----
-title: Oceanic Ocerin PTZ
-permalink: /Oceanic_Ocerin_PTZ/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Oceanic_Ocerin_PTZ/"
+title = "Oceanic Ocerin PTZ"
+
++++
 
 *Szampon przeciwłupieżowy*
 

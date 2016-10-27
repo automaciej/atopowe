@@ -1,18 +1,14 @@
----
-title: Koniec homeopatii?
-author: Wahwah
-layout: post
-date: 2007-11-22
-url: /2007/11/23/koniec-homeopatii/
-categories:
-  - Kontrowersje
-  - Nauka
-  - Pseudomedycyna
-tags:
-  - Ben Goldacre
-  - Homeopatia
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Nauka", "Pseudomedycyna"]
+date = "2007-11-22"
+layout = "post"
+tags = ["Ben Goldacre", "Homeopatia"]
+title = "Koniec homeopatii?"
+url = "/2007/11/23/koniec-homeopatii/"
 
----
++++
+
 _Poniższy tekst jest tłumaczeniem artykułu z bloga Bad Science, „[The End of Homeopathy?][1]”, autorem tekstu jest Ben Goldacre._
 
 Raz za razem, rzetelnie przeprowadzone badania naukowe wykazują, że preparaty homeopatyczne nie działają lepiej od zwykłego placebo. Więc dlaczego klnie się na nie tak wiele sensownych osób? I dlaczego homeopaci uważają, że padają ofiarą kampanii oszczerstw? Ben Goldacre podąża śladem sfałszowanych statystyk, podrobionych ankiet i ludzi oszukujących samych siebie.

@@ -1,14 +1,13 @@
----
-title: Wegetarianizm
-author: Wahwah
-layout: post
-date: 2007-11-11
-url: /2007/11/11/wegetarianizm/
-categories:
-  - Kontrowersje
-  - W społeczeństwie
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "W społeczeństwie"]
+date = "2007-11-11"
+layout = "post"
+title = "Wegetarianizm"
+url = "/2007/11/11/wegetarianizm/"
 
----
++++
+
 Lekarze lubią znajdywać powody dla których mamy AZS. Na przykład, nie kończący się temat psychiki, tego nieuchwytnego, lecz według niektórych, niezmiernie istotnego czynnika. Wiadomo, o wiele łatwiej jest [doszukać się][1] u kogoś problemu osobistego niż znaleźć skuteczny sposób na poprawienie stanu skóry.
 
 <!--more-->Ale okazuje się, że nie tylko psychika jest tutaj wdzięczną ofiarą. Pojawia się nowy „winowajca”: wegetarianizm. Angela z forum 

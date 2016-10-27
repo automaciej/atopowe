@@ -1,15 +1,13 @@
----
-title: Ewolucja, nie rewolucja
-author: Wahwah
-layout: post
-date: 2006-12-04
-url: /2006/12/04/ewolucja-nie-rewolucja/
-categories:
-  - Forum
-  - Portal
-  - Techniczne
++++
+author = "Wahwah"
+categories = ["Forum", "Portal", "Techniczne"]
+date = "2006-12-04"
+layout = "post"
+title = "Ewolucja, nie rewolucja"
+url = "/2006/12/04/ewolucja-nie-rewolucja/"
 
----
++++
+
 Jakiś czas temu rozważałem napisanie własnego silnika forum, w podejściu _rewolucyjnym_. Gdybym był młodszy, pewnie bym tak zrobił. Przesiedziałbym kilka tygodni dniami i nocami, implementując całe forum od zera, łącznie z zakładaniem kont, administracją, i całą masą rzeczy, która jest już zrobiona i działa. Na koniec wyrzuciłbym całe istniejące forum, na to miejsce wstawił nową wersję, wzbudzając zachwyt u niektórych użytkowników i popłoch u innych.
 
 <!--more-->Lat mi jednak wciąż przybywa. Robię się leniwy. Nie mam już ochoty na kilka tygodni pracy dniami i nocami. Dlatego zamiast pisząc całkowicie nowy silnik, będę powoli dobudowywał nowe części naszego serwisu, nie psując istniejących.

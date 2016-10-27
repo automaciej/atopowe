@@ -1,8 +1,9 @@
----
-title: Kliniki dermatologii i alergologii
-permalink: /Kliniki_dermatologii_i_alergologii/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Kliniki_dermatologii_i_alergologii/"
+title = "Kliniki dermatologii i alergologii"
+
++++
 
 <div>
 </div>

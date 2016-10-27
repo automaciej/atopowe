@@ -1,8 +1,9 @@
----
-title: Aloes
-permalink: /Aloes/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Aloes/"
+title = "Aloes"
+
++++
 
 **Aloes** - roślina lecznicza. Miąższ aloesu zawiera ponad 140 biologicznie czynnych składników.
 

@@ -1,8 +1,9 @@
----
-title: Ankieta testowa
-permalink: /Ankieta_testowa/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Ankieta_testowa/"
+title = "Ankieta testowa"
+
++++
 
 Dla chętnych, są do pobrania wyniki ankiety w stanie surowym, czyli plik tekstowy, plik SQL z bazą danych (PostgreSQL) oraz definicja ankiety w XML.
 

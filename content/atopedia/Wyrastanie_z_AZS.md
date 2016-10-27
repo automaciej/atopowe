@@ -1,8 +1,9 @@
----
-title: Wyrastanie z AZS
-permalink: /Wyrastanie_z_AZS/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Wyrastanie_z_AZS/"
+title = "Wyrastanie z AZS"
+
++++
 
 [left](/Grafika:Wyrastanie.png "wikilink") [Atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink") ujawnia się zazwyczaj w dzieciństwie, obecnie dotyka ona ok. 10% ogółu [dzieci](/atopedia/Dzieci "wikilink") – w 65% przypadków objawy AZS pojawią się w ciągu pierwszego roku życia, u 90% przypadków AZS rozwija się przed piątym rokiem życia. Atopowe zapalenie skóry ma tendencję do wyciszania się wraz z wiekiem, nawet do zupełnego ustąpienia choroby.
 

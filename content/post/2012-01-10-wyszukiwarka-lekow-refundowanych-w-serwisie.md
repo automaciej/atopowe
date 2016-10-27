@@ -1,15 +1,14 @@
----
-title: Wyszukiwarka leków refundowanych
-author: dexter
-layout: post
-date: 2012-01-10
-url: /2012/01/10/wyszukiwarka-lekow-refundowanych-w-serwisie/
-google_plus_activity_id:
-  - z130uhaafufyg1q3n23syjlhzszgxlb4y04
-categories:
-  - Portal
++++
+author = "dexter"
+categories = ["Portal"]
+date = "2012-01-10"
+google_plus_activity_id = ["z130uhaafufyg1q3n23syjlhzszgxlb4y04"]
+layout = "post"
+title = "Wyszukiwarka leków refundowanych"
+url = "/2012/01/10/wyszukiwarka-lekow-refundowanych-w-serwisie/"
 
----
++++
+
 W serwisie <http://leki-refundowane.com/> można wyszukać wszystkie refundowane leki oraz wyroby medyczne na receptę. Wyszukiwarka umożliwia wyszukanie ceny, poziomu refundacji i wskazań, w których jest stosowana refundacja.
 
 [Leki refundowane &#8211; Ceny leków refundowanych przez NFZ][1]

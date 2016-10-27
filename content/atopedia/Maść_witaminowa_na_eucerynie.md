@@ -1,8 +1,9 @@
----
-title: Maść witaminowa na eucerynie
-permalink: /Maść_witaminowa_na_eucerynie/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Maść_witaminowa_na_eucerynie/"
+title = "Maść witaminowa na eucerynie"
+
++++
 
 Dość tłusta, ale nie tak bardzo jak maść cholesterolowa i wchłania się też znacznie lepiej.
 

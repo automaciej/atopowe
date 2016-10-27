@@ -1,8 +1,9 @@
----
-title: Od czego skrótem jest AZS
-permalink: /Od_czego_skrótem_jest_AZS/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Od_czego_skrótem_jest_AZS/"
+title = "Od czego skrótem jest AZS"
+
++++
 
 **A-topiku Z-ostań S-atyrykiem czyli konkurs na niekonwencjonalne rozwinięcia skrótu AZS**
 

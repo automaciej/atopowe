@@ -1,13 +1,13 @@
----
-title: Psychologia z TTC
-author: Wahwah
-layout: post
-date: 2007-10-22
-url: /2007/10/22/psychologia-z-ttc/
-categories:
-  - Nauka
++++
+author = "Wahwah"
+categories = ["Nauka"]
+date = "2007-10-22"
+layout = "post"
+title = "Psychologia z TTC"
+url = "/2007/10/22/psychologia-z-ttc/"
 
----
++++
+
 Jak powiedziałem, tak zrobiłem. Pojechałem do Fry&#8217;s, po drodze oczywiście pojechałem nie tak jak zaplanowałem, potem w końcu trafiłem tam gdzie trzeba. I oto mój warsztat do uczenia się psychologii:
 
 ![Kurs psychologii TTC][1]

@@ -1,8 +1,9 @@
----
-title: Crunchy hypoalergiczne
-permalink: /Crunchy_hypoalergiczne/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Crunchy_hypoalergiczne/"
+title = "Crunchy hypoalergiczne"
+
++++
 
 **Składniki:**
 

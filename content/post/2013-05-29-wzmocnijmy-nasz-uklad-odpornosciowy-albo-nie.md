@@ -1,13 +1,13 @@
----
-title: Wzmocnijmy nasz układ odpornościowy (albo i nie)
-author: Wahwah
-layout: post
-date: 2013-05-29
-url: /2013/05/29/wzmocnijmy-nasz-uklad-odpornosciowy-albo-nie/
-categories:
-  - Pseudomedycyna
++++
+author = "Wahwah"
+categories = ["Pseudomedycyna"]
+date = "2013-05-29"
+layout = "post"
+title = "Wzmocnijmy nasz układ odpornościowy (albo i nie)"
+url = "/2013/05/29/wzmocnijmy-nasz-uklad-odpornosciowy-albo-nie/"
 
----
++++
+
 Źródło: Brian Dunning (Skeptoid), [Boost Your Immune System (or Not)][1]
   
 Tłumaczenie: wahwah.

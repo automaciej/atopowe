@@ -1,17 +1,14 @@
----
-title: 'Michael Specter: Niebezpieczeństwa wynikające z negowania nauki'
-author: dexter
-layout: post
-date: 2010-06-29
-url: /2010/06/29/michael-specter-niebezpieczenstwa-wynikajace-z-negowania-nauki/
-categories:
-  - Film
-  - Kontrowersje
-  - Nauka
-tags:
-  - Michael Specter
++++
+author = "dexter"
+categories = ["Film", "Kontrowersje", "Nauka"]
+date = "2010-06-29"
+layout = "post"
+tags = ["Michael Specter"]
+title = "Michael Specter: Niebezpieczeństwa wynikające z negowania nauki"
+url = "/2010/06/29/michael-specter-niebezpieczenstwa-wynikajace-z-negowania-nauki/"
 
----
++++
+
 Przedstawiamy dziś film z konferencji TED, w którym [Michael Specter][1], autor książki &#8222;Denialism&#8221; opowiada o rosnącym strachu przed nauką. Ostrzega nas przed trendem, który dla rozwoju ludzkości może okazać się katastrofalny w skutkach. Czas trwania: 16 minut.
 
 <!--more-->

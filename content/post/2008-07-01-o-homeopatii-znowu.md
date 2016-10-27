@@ -1,15 +1,14 @@
----
-title: O homeopatii znowu
-author: aksamitka
-layout: post
-date: 2008-07-01
-url: /2008/07/01/o-homeopatii-znowu/
-categories:
-  - Pseudomedycyna
-tags:
-  - Homeopatia
++++
+author = "aksamitka"
+categories = ["Pseudomedycyna"]
+date = "2008-07-01"
+layout = "post"
+tags = ["Homeopatia"]
+title = "O homeopatii znowu"
+url = "/2008/07/01/o-homeopatii-znowu/"
 
----
++++
+
 Weszłam niedawno przez zupełny przypadek na <a title="www.racjonalista.pl" href="http://racjonalista.pl" target="_self">www.racjonalista.pl</a> &#8211; i znalazłam tam coś, co bardzo tu pasuje i z czym się zgadzam. Artykuł zwie się **Homeopatyczna dawka normalności**.
 
 Zacytuję tu fragment:

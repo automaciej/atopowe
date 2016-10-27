@@ -1,15 +1,14 @@
----
-title: Tani Protopic w Lublinie
-author: dexter
-layout: post
-date: 2010-04-07
-url: /2010/04/07/tani-protopic-w-lublinie/
-categories:
-  - Leczenie
-tags:
-  - Protopic
++++
+author = "dexter"
+categories = ["Leczenie"]
+date = "2010-04-07"
+layout = "post"
+tags = ["Protopic"]
+title = "Tani Protopic w Lublinie"
+url = "/2010/04/07/tani-protopic-w-lublinie/"
 
----
++++
+
 Na poniższej mapie pokazano apteki w Lublinie, gdzie można kupić Protopic w cenie około 50 złotych.
 
 <!--more-->

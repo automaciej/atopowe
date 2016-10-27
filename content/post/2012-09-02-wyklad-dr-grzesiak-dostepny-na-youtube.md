@@ -1,15 +1,14 @@
----
-title: Wykład Dr Grzesiak dostępny na YouTube
-author: Wahwah
-layout: post
-date: 2012-09-02
-url: /2012/09/02/wyklad-dr-grzesiak-dostepny-na-youtube/
-categories:
-  - Film
-tags:
-  - Irena Grzesiak
++++
+author = "Wahwah"
+categories = ["Film"]
+date = "2012-09-02"
+layout = "post"
+tags = ["Irena Grzesiak"]
+title = "Wykład Dr Grzesiak dostępny na YouTube"
+url = "/2012/09/02/wyklad-dr-grzesiak-dostepny-na-youtube/"
 
----
++++
+
 Wykład Dr Grzesiak z 2005 roku, choć popularny, dostępny był tylko jako plik AVI do ściągnięcia, oraz plik MP3 z samym zapisem dźwiękowym. Od dziś wykład jest dostępny w całości (1h20m) na YouTube, w lepszej jakości niż dotychczas.
 
 

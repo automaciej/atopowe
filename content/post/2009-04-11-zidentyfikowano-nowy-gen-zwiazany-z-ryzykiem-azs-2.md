@@ -1,13 +1,13 @@
----
-title: Zidentyfikowano nowy gen związany z ryzykiem AZS
-author: dexter
-layout: post
-date: 2009-04-11
-url: /2009/04/11/zidentyfikowano-nowy-gen-zwiazany-z-ryzykiem-azs-2/
-categories:
-  - Nauka
++++
+author = "dexter"
+categories = ["Nauka"]
+date = "2009-04-11"
+layout = "post"
+title = "Zidentyfikowano nowy gen związany z ryzykiem AZS"
+url = "/2009/04/11/zidentyfikowano-nowy-gen-zwiazany-z-ryzykiem-azs-2/"
 
----
++++
+
 Wariant genu silnie związany z ryzykiem atopowego zapalenia skóry zidentyfikowali naukowcy niemieccy w badaniach prowadzonych w Polsce, Czechach oraz Niemczech. Informację na ten temat podaje pismo &#8222;Nature Genetics&#8221;.
   
 <!--more-->

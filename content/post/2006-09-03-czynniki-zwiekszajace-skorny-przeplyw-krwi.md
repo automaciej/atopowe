@@ -1,14 +1,13 @@
----
-title: Czynniki zwiększające skórny przepływ krwi
-author: Wahwah
-layout: post
-date: 2006-09-03
-url: /2006/09/03/czynniki-zwiekszajace-skorny-przeplyw-krwi/
-categories:
-  - Kontrowersje
-  - Nauka
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "Nauka"]
+date = "2006-09-03"
+layout = "post"
+title = "Czynniki zwiększające skórny przepływ krwi"
+url = "/2006/09/03/czynniki-zwiekszajace-skorny-przeplyw-krwi/"
 
----
++++
+
 Podoba mi się podejście do sprawy, które znalazłem w jednym artykule. Wiem, że moje poglądy na temat relacji psychiki, stresu i AZS są trudne do zrozumienia, ponieważ rozdzielam pojęcia psychiki jako _treści_ umysłu człowieka oraz _stresu_, a raczej jego działających niszcząco objawów somatycznych.
 
 W [artykule][1] tym napisano tak:

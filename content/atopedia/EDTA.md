@@ -1,8 +1,9 @@
----
-title: EDTA
-permalink: /EDTA/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/EDTA/"
+title = "EDTA"
+
++++
 
 **EDTA,** czyli kwas etylenodwuaminoczterooctowy (C,,10,,H,,14,,O,,8,,N,,2,,Na,,2,,.2H,,2,,O) oraz jego sole są dodawane do leków i kosmetyków. Stabilizuje kosmetyki i leki, hamuje katalityczny wpływ jonów metali, zapobiegając rozkładowi substancji czynnych; nasila działanie konserwantów i przeciwutleniaczy. Posiada właściwości przeciwbakteryjne i przeciwgrzybicze, dlatego ma zastosowanie również jako konserwant.
 

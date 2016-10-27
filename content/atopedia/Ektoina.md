@@ -1,8 +1,9 @@
----
-title: Ektoina
-permalink: /Ektoina/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Ektoina/"
+title = "Ektoina"
+
++++
 
 Ektoina jest naturalną cząsteczką o działaniu ochronnym i nawilżającym otrzymywaną z ekstremofilów - mikroorganizmów żyjących w skrajnie niesprzyjających warunkach środowiska.  Mikroorganizmy żyjące np. w gejzerach, słonych jeziorach, pustyniach wytwarzają ektoinę – substancję, która chroni je przed oddziaływaniem szkodliwych czynników, takich jak wysoka temperatura, suchość lub promieniowanie UV.   
 

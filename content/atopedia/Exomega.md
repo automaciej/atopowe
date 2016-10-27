@@ -1,8 +1,9 @@
----
-title: Exomega
-permalink: /Exomega/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Exomega/"
+title = "Exomega"
+
++++
 
 **EXOMEGA** jest linią dermokosmetyków marki A-Derma, przeznaczoną do pielęgnacji i higieny skóry bardzo suchej i atopowej.
 

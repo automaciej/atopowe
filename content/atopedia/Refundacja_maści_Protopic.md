@@ -1,8 +1,9 @@
----
-title: Refundacja maści Protopic
-permalink: /Refundacja_maści_Protopic/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Refundacja_maści_Protopic/"
+title = "Refundacja maści Protopic"
+
++++
 
 Podstawowe informacje
 =====================

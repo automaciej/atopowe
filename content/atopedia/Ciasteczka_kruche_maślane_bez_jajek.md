@@ -1,8 +1,9 @@
----
-title: Ciasteczka kruche maślane bez jajek
-permalink: /Ciasteczka_kruche_maślane_bez_jajek/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Ciasteczka_kruche_maślane_bez_jajek/"
+title = "Ciasteczka kruche maślane bez jajek"
+
++++
 
 **SKŁADNIKI**
 

@@ -1,8 +1,9 @@
----
-title: Jak stosować Protopic i Elidel
-permalink: /Jak_stosować_Protopic_i_Elidel/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Jak_stosować_Protopic_i_Elidel/"
+title = "Jak stosować Protopic i Elidel"
+
++++
 
 ### Błony śluzowe
 

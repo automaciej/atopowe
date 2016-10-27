@@ -1,16 +1,14 @@
----
-title: Oddam żonę ;)
-author: dexter
-layout: post
-date: 2010-07-30
-url: /2010/07/30/oddam-zone/
-categories:
-  - Film
-tags:
-  - humor
-  - Tim Minchin
++++
+author = "dexter"
+categories = ["Film"]
+date = "2010-07-30"
+layout = "post"
+tags = ["humor", "Tim Minchin"]
+title = "Oddam żonę ;)"
+url = "/2010/07/30/oddam-zone/"
 
----
++++
+
 Nie mam co prawda żony, ale gdybym miał, to też bym ją oddał :]&#8230; gdyby ktoś spełnił warunki, o których śpiewa Tim Minchin:
 
 

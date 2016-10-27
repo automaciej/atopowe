@@ -1,13 +1,13 @@
----
-title: Rozmazane litery na ekranie
-author: Wahwah
-layout: post
-date: 2006-08-01
-url: /2006/08/01/rozmazane-litery-na-ekranie/
-categories:
-  - Objawy
++++
+author = "Wahwah"
+categories = ["Objawy"]
+date = "2006-08-01"
+layout = "post"
+title = "Rozmazane litery na ekranie"
+url = "/2006/08/01/rozmazane-litery-na-ekranie/"
 
----
++++
+
 Dzisiaj wszystkie literki na ekranie rozmazane. Zakrywam jedno oko — rozmazane pionowo. Zakrywam drugie oko — rozmazane ukośnie.
 
 <img id="image24" src="http://blog.atopowe.pl/wp-content/uploads/2006/08/zapalenie-spojowek.jpg" alt="Rozmazane litery" />

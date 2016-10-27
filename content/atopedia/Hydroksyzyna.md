@@ -1,8 +1,9 @@
----
-title: Hydroksyzyna
-permalink: /Hydroksyzyna/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Hydroksyzyna/"
+title = "Hydroksyzyna"
+
++++
 
 **HYDROXYZINUM** Hydrochloridum w syropie 0,16% syr op 250g
 

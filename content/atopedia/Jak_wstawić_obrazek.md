@@ -1,8 +1,9 @@
----
-title: Jak wstawić obrazek
-permalink: /Jak_wstawić_obrazek/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Jak_wstawić_obrazek/"
+title = "Jak wstawić obrazek"
+
++++
 
 Obrazek zawsze wstawia się na konkretną stronę. To znaczy, że najpierw należy dotrzeć do strony na której chcemy wstawiać obrazek, a po dotarciu należy wykonywać następne kroki.
 

@@ -1,14 +1,13 @@
----
-title: Chcę mieszkać nad morzem
-author: Wahwah
-layout: post
-date: 2006-09-15
-url: /2006/09/15/chce-mieszkac-nad-morzem/
-categories:
-  - Dom
-  - Środowisko
++++
+author = "Wahwah"
+categories = ["Dom", "Środowisko"]
+date = "2006-09-15"
+layout = "post"
+title = "Chcę mieszkać nad morzem"
+url = "/2006/09/15/chce-mieszkac-nad-morzem/"
 
----
++++
+
 _W nawiązaniu do [jednego wątku][1] na forum._
 
 Nie chodzi o to, żeby nad _samym_ morzem, tylko w klimacie morskim.

@@ -1,14 +1,13 @@
----
-title: Instrukcja obsługi atopika – część II
-author: magda2em
-layout: post
-date: 2011-04-26
-url: /2011/04/26/instrukcja-obslugi-atopika-ii/
-categories:
-  - Objawy
-  - W społeczeństwie
++++
+author = "magda2em"
+categories = ["Objawy", "W społeczeństwie"]
+date = "2011-04-26"
+layout = "post"
+title = "Instrukcja obsługi atopika – część II"
+url = "/2011/04/26/instrukcja-obslugi-atopika-ii/"
 
----
++++
+
 Tym razem mowa będzie o <u>codziennym życiu atopika</u>. Tę część podzieliłam na jeszcze dwie części, żeby ograniczyć ten ogrom informacji, bo tego jest jednak dużo. Dzisiaj: **jedzenie, alkohol, witaminy, stres, sport, opalanie.** Jeśli macie jakiekolwiek pytania albo uwagi dotyczące tego, co poniżej, to zapraszam, na pytania postaram się odpowiedzieć, uwagi uwzględnić w edycji.
 
 _Notka pierwotnie wklejona tutaj: [KLIK-KLIK][1]_.

@@ -1,17 +1,14 @@
----
-title: Homeopatia i efekt nocebo
-author: dexter
-layout: post
-date: 2009-12-02
-url: /2009/12/02/homeopatia-i-efekt-nocebo/
-categories:
-  - Nauka
-  - Pseudomedycyna
-tags:
-  - Ben Goldacre
-  - Homeopatia
++++
+author = "dexter"
+categories = ["Nauka", "Pseudomedycyna"]
+date = "2009-12-02"
+layout = "post"
+tags = ["Ben Goldacre", "Homeopatia"]
+title = "Homeopatia i efekt nocebo"
+url = "/2009/12/02/homeopatia-i-efekt-nocebo/"
 
----
++++
+
 Ben Goldacre
   
 [The Guardian][1]

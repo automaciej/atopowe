@@ -1,15 +1,14 @@
----
-title: Jak super mieć chłopaka atopika! :)
-author: Mirka
-layout: post
-date: 2009-11-03
-url: /2009/11/03/jak-super-miec-chlopaka-atopika/
-categories:
-  - W społeczeństwie
-tags:
-  - życie
++++
+author = "Mirka"
+categories = ["W społeczeństwie"]
+date = "2009-11-03"
+layout = "post"
+tags = ["życie"]
+title = "Jak super mieć chłopaka atopika! :)"
+url = "/2009/11/03/jak-super-miec-chlopaka-atopika/"
 
----
++++
+
 Mój chłopak jest super. I jest atopikiem. I czasem jego wspaniałość jest związana z tym, że jest atopikiem. 😉
 
 <!--more-->

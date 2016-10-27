@@ -1,8 +1,9 @@
----
-title: Placki bananowe
-permalink: /Placki_bananowe/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Placki_bananowe/"
+title = "Placki bananowe"
+
++++
 
 Dla 4 osób
 

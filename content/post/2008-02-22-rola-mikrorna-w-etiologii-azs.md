@@ -1,16 +1,14 @@
----
-title: Rola mikroRNA w etiologii AZS
-author: dexter
-layout: post
-date: 2008-02-22
-url: /2008/02/22/rola-mikrorna-w-etiologii-azs/
-categories:
-  - Nauka
-tags:
-  - Genetyka
-  - microRNA
++++
+author = "dexter"
+categories = ["Nauka"]
+date = "2008-02-22"
+layout = "post"
+tags = ["Genetyka", "microRNA"]
+title = "Rola mikroRNA w etiologii AZS"
+url = "/2008/02/22/rola-mikrorna-w-etiologii-azs/"
 
----
++++
+
 Naukowcy ze szwedzkiego uniwersytetu medycznego [Karolinska Institutet][1] pokazali, że niektóre molekuły [mikroRNA][2] mogą odgrywać istotną rolę w rozwoju chorób skóry, takich jak AZS. MikroRNA to krótkie, jednoniciowe cząsteczki RNA, które regulują działanie genów, i poprzez oddziaływanie na wiele różnych protein i udział w różnych procesach komórkowych w skórze i systemie immunologicznym, mogą być istotnym czynnikiem w rozwoju chorób skóry. W przyszłości terapie oparte na bazie mikroRNA mogłyby być bardziej efektywne, niż terapie genowe oparte na wpływie na poszczególne proteiny. 
 
 W ciągu ostatnich kilku lat naukowcy zidentyfikowali setki różnych mikroRNA &#8211; krótkich łańcuchów RNA, które regulują działanie genów. Jednak rola wielu z tych µRNA w organizmie wciąż pozostaje zagadką. 

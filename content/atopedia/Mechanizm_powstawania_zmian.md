@@ -1,8 +1,9 @@
----
-title: Mechanizm powstawania zmian
-permalink: /Mechanizm_powstawania_zmian/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Mechanizm_powstawania_zmian/"
+title = "Mechanizm powstawania zmian"
+
++++
 
 AZS jest chorobą, której geneza jest bardzo skomplikowana, a przyczyny nie są do końca poznane. Wiadomo, że w przebiegu choroby znaczenie mają:
 

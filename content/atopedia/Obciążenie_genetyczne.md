@@ -1,8 +1,9 @@
----
-title: Obciążenie genetyczne
-permalink: /Obciążenie_genetyczne/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Obciążenie_genetyczne/"
+title = "Obciążenie genetyczne"
+
++++
 
 W chorobach alergicznych ([atopowych](/atopedia/atopia "wikilink")) dziedziczona jest nie dana choroba, a skłonność [układu immunologicznego](/atopedia/układ_immunologiczny "wikilink") do [reakcji alergicznych](/atopedia/reakcja_alergiczna "wikilink"), czyli [atopia](/atopedia/Atopia "wikilink"). Genetyczne podłoże tej choroby stwierdza się zazwyczaj w wywiadzie lekarskim.
 

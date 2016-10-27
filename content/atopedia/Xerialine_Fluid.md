@@ -1,8 +1,9 @@
----
-title: Xerialine Fluid
-permalink: /Xerialine_Fluid/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Xerialine_Fluid/"
+title = "Xerialine Fluid"
+
++++
 
 **XERIALINE FLUIDE - BALSAM DO CIAŁA**
 

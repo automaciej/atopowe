@@ -1,8 +1,9 @@
----
-title: Wyniki pierwszej edycji ankiety
-permalink: /Wyniki_pierwszej_edycji_ankiety/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Wyniki_pierwszej_edycji_ankiety/"
+title = "Wyniki pierwszej edycji ankiety"
+
++++
 
 Podstawowe zestawienia
 ----------------------

@@ -1,16 +1,14 @@
----
-title: Naczelna Rada Lekarska o homeopatii
-author: dexter
-layout: post
-date: 2008-04-18
-url: /2008/04/18/naczelna-rada-lekarska-o-homeopatii/
-categories:
-  - Kontrowersje
-  - Pseudomedycyna
-tags:
-  - Homeopatia
++++
+author = "dexter"
+categories = ["Kontrowersje", "Pseudomedycyna"]
+date = "2008-04-18"
+layout = "post"
+tags = ["Homeopatia"]
+title = "Naczelna Rada Lekarska o homeopatii"
+url = "/2008/04/18/naczelna-rada-lekarska-o-homeopatii/"
 
----
++++
+
 Naczelna Rada Lekarska [negatywnie ocenia][1] stosowanie homeopatii i pokrewnych nienaukowych metod przez niektórych lekarzy i lekarzy dentystów, a także organizowanie szkoleń w tych dziedzinach &#8211; napisano w oświadczeniu NRL, które <acronym title="Polska Agencja Prasowa">PAP</acronym> otrzymała 15 kwietnia.
 
 NRL podkreśliła, że narasta liczba dowodów, iż homeopatię należy zaliczać do nienaukowych metod tzw. medycyny alternatywnej, która proponuje stosowanie bezwartościowych produktów o niezweryfikowanym naukowo działaniu.

@@ -1,15 +1,14 @@
----
-title: Aktualne spojrzenie na patogenezę AZS
-author: dexter
-layout: post
-date: 2008-09-18
-url: /2008/09/18/aktualne-spojrzenie-na-patogeneze-azs/
-categories:
-  - Nauka
-tags:
-  - Genetyka
++++
+author = "dexter"
+categories = ["Nauka"]
+date = "2008-09-18"
+layout = "post"
+tags = ["Genetyka"]
+title = "Aktualne spojrzenie na patogenezę AZS"
+url = "/2008/09/18/aktualne-spojrzenie-na-patogeneze-azs/"
 
----
++++
+
 Atopia związana jest zwykle z dwoma charakterystycznymi cechami: podwyższeniem syntezy IgE i zaburzeniem równowagi między różnymi typami limfocytów T. Już przed 20 laty wykazano, że zaburzenia równowagi między różnymi typami limfocytów leżą u podłoża występowania astmy, kataru siennego i wyprysku uczuleniowego.
   
 <!--more-->

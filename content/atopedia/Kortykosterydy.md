@@ -1,8 +1,9 @@
----
-title: Kortykosterydy
-permalink: /Kortykosterydy/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Kortykosterydy/"
+title = "Kortykosterydy"
+
++++
 
 **Kortykosterydy** - leki działające silnie przeciwzapalnie. Hamują [stany zapalne](/atopedia/Stan_zapalny_skóry "wikilink") i [reakcje alergiczne](/atopedia/Reakcja_alergiczna "wikilink"), zmniejszając [świąd](/atopedia/Świąd "wikilink"), [zaczerwienienie](/atopedia/Zaczerwienienie_skóry "wikilink") i pogrubienie skóry. Przy stosowaniu tych leków należy zachować szczególną ostrożność ze względu na możliwość wystąpienia [**skutków ubocznych**](/atopedia/Skutki_uboczne_kortykosterydów "wikilink") – dotyczy to długotrwałego, przewlekłego używania.
 

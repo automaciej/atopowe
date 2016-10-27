@@ -1,15 +1,13 @@
----
-title: Polskie tłumaczenie Bad Science już w sprzedaży
-author: dexter
-layout: post
-date: 2011-01-05
-url: /2011/01/05/polskie-tlumaczenie-bad-science-juz-w-sprzedazy/
-categories:
-  - Książka
-tags:
-  - Ben Goldacre
++++
+author = "dexter"
+categories = ["Książka"]
+date = "2011-01-05"
+layout = "post"
+tags = ["Ben Goldacre"]
+title = "Polskie tłumaczenie Bad Science już w sprzedaży"
+url = "/2011/01/05/polskie-tlumaczenie-bad-science-juz-w-sprzedazy/"
 
----
++++
 
 ![Okładka książki przedstawia szaleńca w białym fartuchu i ochronnych
 okularach.](/wp-content/uploads/2011/02/leknau1.jpg "Okładka książki")

@@ -1,8 +1,9 @@
----
-title: SVR
-permalink: /SVR/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/SVR/"
+title = "SVR"
+
++++
 
 -   [Linia ochronno-pielęgnacyjna SVR](/Linia_ochronno-pielęgnacyjna_SVR "wikilink")
 -   [Linia przeciw potliwości SVR](/atopedia/Linia_przeciw_potliwości_SVR "wikilink")

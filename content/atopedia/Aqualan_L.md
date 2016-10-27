@@ -1,8 +1,9 @@
----
-title: Aqualan L
-permalink: /Aqualan_L/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Aqualan_L/"
+title = "Aqualan L"
+
++++
 
 **AQUALAN L - emolient półtłusty.**
 

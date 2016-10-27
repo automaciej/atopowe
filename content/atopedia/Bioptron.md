@@ -1,8 +1,9 @@
----
-title: Bioptron
-permalink: /Bioptron/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Bioptron/"
+title = "Bioptron"
+
++++
 
 **Bioptron** - lampa firmy Zepter. Terapia światłem spolaryzowanym. Według producenta, ma ona działanie bakteriobójcze i powoduje szybszą regenerację tkanek. Stosuje się w połączeniu z [ultradźwiękami](/atopedia/ultradźwięki "wikilink").
 

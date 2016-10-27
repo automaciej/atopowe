@@ -1,18 +1,14 @@
----
-title: Z pamiętnika Atopika
-author: Ashitaka
-layout: post
-date: 2011-03-27
-url: /2011/03/27/z-pamietnika-atopika/
-categories:
-  - Leczenie
-  - Objawy
-  - W społeczeństwie
-tags:
-  - psychika i ciało
-  - życie
++++
+author = "Ashitaka"
+categories = ["Leczenie", "Objawy", "W społeczeństwie"]
+date = "2011-03-27"
+layout = "post"
+tags = ["psychika i ciało", "życie"]
+title = "Z pamiętnika Atopika"
+url = "/2011/03/27/z-pamietnika-atopika/"
 
----
++++
+
 Zniknęłam na ładnych kilka miesięcy, gdyż dosłownie powaliła mnie choroba.
 
 Nie byłam w stanie o tym pisać, bo ledwo dawałam radę wytrzymać sama ze sobą. Teraz, gdy w końcu po pół roku widać poprawę, napiszę Wam, ludki łaciate, co przeszłam. Może innym nieco poprawi humor, że nie męczą się samotnie.

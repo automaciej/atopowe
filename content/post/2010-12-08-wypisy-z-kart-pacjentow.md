@@ -1,16 +1,15 @@
----
-title: Wypisy z kart pacjentów
-author: dexter
-layout: post
-date: 2010-12-08
-url: /2010/12/08/wypisy-z-kart-pacjentow/
-categories:
-  - Leczenie
-tags:
-  - humor
++++
+author = "dexter"
+categories = ["Leczenie"]
+date = "2010-12-08"
+layout = "post"
+tags = ["humor"]
+title = "Wypisy z kart pacjentów"
+url = "/2010/12/08/wypisy-z-kart-pacjentow/"
 
----
-  1. Pacjent ma dwoje nastoletnich dzieci, lecz poza tym nie wykazuje objawów choroby psychicznej.
++++
+
+1. Pacjent ma dwoje nastoletnich dzieci, lecz poza tym nie wykazuje objawów choroby psychicznej.
   2. Pacjent uskarża się na ból w klatce piersiowej po ośmiu miesiącach leżenia na lewym boku.
   3. Podczas badania kolano było zaczerwienione i obrzęknięte, a na drugi dzień zniknęło.
   4. Pacjentka nieustannie szlocha i płacze, wygląda także nieco depresyjnie.

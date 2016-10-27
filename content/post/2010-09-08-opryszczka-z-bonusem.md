@@ -1,16 +1,14 @@
----
-title: Opryszczka z bonusem
-author: Ashitaka
-layout: post
-date: 2010-09-08
-url: /2010/09/08/opryszczka-z-bonusem/
-categories:
-  - Leczenie
-  - Objawy
-tags:
-  - psychika i ciało
++++
+author = "Ashitaka"
+categories = ["Leczenie", "Objawy"]
+date = "2010-09-08"
+layout = "post"
+tags = ["psychika i ciało"]
+title = "Opryszczka z bonusem"
+url = "/2010/09/08/opryszczka-z-bonusem/"
 
----
++++
+
 Zniknęłam z eteru na jakiś czas, niestety nie z powodu utraty zainteresowanie tematem atopii, czy choćby wygranej w lotto. Nie było mnie długo, bo zmogła mnie choroba.
 
 Zaraz po powrocie z krótkich wakacji dopadła mnie pierwsza w życiu opryszczka. Z tym, że nie miałam pojęcia, że to to, bo nie miałam zimna ani nic takiego, nigdy, jak do tej pory&#8230; Jako, że wirus zaatakował mnie po raz pierwszy, było ciężko. A zaczęło się tak&#8230;

@@ -1,8 +1,9 @@
----
-title: Leki biologiczne
-permalink: /Leki_biologiczne/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Leki_biologiczne/"
+title = "Leki biologiczne"
+
++++
 
 **Leki biologiczne** - białka, które naśladują funkcje prawidłowych białek ludzkich.
 

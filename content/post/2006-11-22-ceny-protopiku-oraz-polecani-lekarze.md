@@ -1,14 +1,13 @@
----
-title: Ceny Protopiku oraz polecani lekarze
-author: Wahwah
-layout: post
-date: 2006-11-22
-url: /2006/11/22/ceny-protopiku-oraz-polecani-lekarze/
-categories:
-  - Forum
-  - Portal
++++
+author = "Wahwah"
+categories = ["Forum", "Portal"]
+date = "2006-11-22"
+layout = "post"
+title = "Ceny Protopiku oraz polecani lekarze"
+url = "/2006/11/22/ceny-protopiku-oraz-polecani-lekarze/"
 
----
++++
+
 Obecnie nasz serwis składa się z trzech części:
 
   1. [**Forum**][1]. Najstarsza część serwisu, powstała w 2003 roku. Służy do prowadzenia dyskusji pomiędzy użytkownikami.

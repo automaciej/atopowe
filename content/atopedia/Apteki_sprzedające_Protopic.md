@@ -1,8 +1,9 @@
----
-title: Apteki sprzedające Protopic
-permalink: /Apteki_sprzedające_Protopic/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Apteki_sprzedające_Protopic/"
+title = "Apteki sprzedające Protopic"
+
++++
 
 Poniższa tabela zawiera dane aptek, które sprzedają [Protopic](/atopedia/Protopic "wikilink").'''
 

@@ -1,14 +1,13 @@
----
-title: Może i nie pomoże, ale przynajmniej…
-author: Wahwah
-layout: post
-date: 2008-08-29
-url: /2008/08/29/moze-i-nie-pomoze-ale-przynajmniej/
-categories:
-  - Nauka
-  - Pseudomedycyna
++++
+author = "Wahwah"
+categories = ["Nauka", "Pseudomedycyna"]
+date = "2008-08-29"
+layout = "post"
+title = "Może i nie pomoże, ale przynajmniej…"
+url = "/2008/08/29/moze-i-nie-pomoze-ale-przynajmniej/"
 
----
++++
+
 &#8230;nie zaszkodzi? Czy aby na pewno?
 
 Oto dwa typowe mity na temat [medycyny alternatywnej][1]. Pierwszy to mit łapania się każdej okazji:

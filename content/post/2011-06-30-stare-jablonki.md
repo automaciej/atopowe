@@ -1,16 +1,14 @@
----
-title: Ogólnopolski Zlot Atopików w Starych Jabłonkach
-author: Mirka
-layout: post
-date: 2011-06-30
-url: /2011/06/30/stare-jablonki/
-categories:
-  - W społeczeństwie
-  - Wydarzenia
-tags:
-  - zloty
++++
+author = "Mirka"
+categories = ["W społeczeństwie", "Wydarzenia"]
+date = "2011-06-30"
+layout = "post"
+tags = ["zloty"]
+title = "Ogólnopolski Zlot Atopików w Starych Jabłonkach"
+url = "/2011/06/30/stare-jablonki/"
 
----
++++
+
 Kolejny zlot atopowy odbył się w dniach 25 – 26 czerwca w <a title="Stare Jabłonki" href="http://maps.google.pl/maps?q=Stare+Jab%C5%82onki&hl=pl&ie=UTF8&ll=53.692844,20.091248&spn=0.024242,0.090122&sll=53.690154,20.085972&sspn=0.012122,0.02871&z=14" target="_blank">Starych Jabłonkach</a>.
 
 Na zlot wybrałam się wraz z dexterem i jego siostrą Ewą. Pierwszy kontakt z innymi uczestnikami zlotu mieliśmy w Olsztynie Zachodnim, kiedy to do naszego pociągu dosiadły się mres i Anka Lego.

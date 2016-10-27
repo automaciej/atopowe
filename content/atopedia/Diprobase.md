@@ -1,8 +1,9 @@
----
-title: Diprobase
-permalink: /Diprobase/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Diprobase/"
+title = "Diprobase"
+
++++
 
 Bardzo dobrze natłuszcza. Raczej sprzęt dla naprawdę przesuszonych i przewlekłych recydywistów takich jak ja (20 lat ciężkiego AZS). Jeśli tak zwane *"świetnie nawilżające kremy dla skóry atopowej"* wsiąkają bez śladu w ciągu paru minut spróbujcie tego. Ja stosuję na dzień więc ubrania szybko wyglądają jak te, na których wypróbowuje się proszki w reklamach, ale na noc mi nie służy.
 

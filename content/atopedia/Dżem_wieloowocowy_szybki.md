@@ -1,8 +1,9 @@
----
-title: Dżem wieloowocowy szybki
-permalink: /Dżem_wieloowocowy_szybki/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Dżem_wieloowocowy_szybki/"
+title = "Dżem wieloowocowy szybki"
+
++++
 
 **Składniki:**
 

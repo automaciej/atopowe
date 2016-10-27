@@ -1,17 +1,14 @@
----
-title: Brak rezultatu plus wymówka równa się rezultat
-author: Wahwah
-layout: post
-date: 2007-05-27
-url: /2007/05/27/brak-rezultatu-plus-wymowka-rowna-sie-rezultat/
-categories:
-  - Forum
-  - Kontrowersje
-  - Objawy
-tags:
-  - James Randi
++++
+author = "Wahwah"
+categories = ["Forum", "Kontrowersje", "Objawy"]
+date = "2007-05-27"
+layout = "post"
+tags = ["James Randi"]
+title = "Brak rezultatu plus wymówka równa się rezultat"
+url = "/2007/05/27/brak-rezultatu-plus-wymowka-rowna-sie-rezultat/"
 
----
++++
+
 Niedawno spotkałem się ze stwierdzeniem jednej osoby na forum, które można w skrócie zapisać w ten sposób:
 
 > Od jakiegoś czasu mam pogorszenie. Leczę się, ale atopia się mnie cały czas mocno trzyma. Przyznaję, że to w dużej mierze moja wina, bo się drapię.

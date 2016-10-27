@@ -1,17 +1,14 @@
----
-title: Ceny leków, presja na apteki
-author: Wahwah
-layout: post
-date: 2006-12-23
-url: /2006/12/23/ceny-lekow-presja-na-apteki/
-categories:
-  - Leczenie
-  - Portal
-tags:
-  - Elidel
-  - Protopic
++++
+author = "Wahwah"
+categories = ["Leczenie", "Portal"]
+date = "2006-12-23"
+layout = "post"
+tags = ["Elidel", "Protopic"]
+title = "Ceny leków, presja na apteki"
+url = "/2006/12/23/ceny-lekow-presja-na-apteki/"
 
----
++++
+
 [Protopic][1] i [Elidel][2] to drogie leki. Zanim pójdziemy do apteki, długo myślimy czy na pewno chcemy wydać aż tyle pieniędzy na taką malusieńką tubeczkę. Jednak przyciśnięci chorobą w końcu to robimy.
 
 Do której apteki pójść? Dobre pytanie. Ceny Protopiku potrafią się różnić nawet o 40zł na tubce. W jednej aptece dostaniemy tubkę 30g za 190zł a w innej żąda się od nas 230zł. Założę się, że apteki które mają wyższe ceny też sprzedają Protopic, choćby dlatego że niektórzy pacjenci nie mają siły na uganianie się po wielu aptekach po to żeby porównać ceny.

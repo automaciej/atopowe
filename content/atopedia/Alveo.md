@@ -1,8 +1,9 @@
----
-title: Alveo
-permalink: /Alveo/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Alveo/"
+title = "Alveo"
+
++++
 
 **Alveo** jest preparatem klasyfikowanym jako *naturalny suplement diety*. Jako taki nie musi przechodzić badań klinicznych i dopuszczających. Jest produkowany przez firmę Akuna.
 

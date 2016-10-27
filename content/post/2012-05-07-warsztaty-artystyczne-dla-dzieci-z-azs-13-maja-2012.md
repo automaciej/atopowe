@@ -1,16 +1,14 @@
----
-title: Warsztaty artystyczne dla dzieci z AZS, 13 maja 2012
-author: ewaela
-layout: post
-date: 2012-05-07
-url: /2012/05/07/warsztaty-artystyczne-dla-dzieci-z-azs-13-maja-2012/
-categories:
-  - Wydarzenia
-tags:
-  - dzieci
-  - fundacja alabaster
++++
+author = "ewaela"
+categories = ["Wydarzenia"]
+date = "2012-05-07"
+layout = "post"
+tags = ["dzieci", "fundacja alabaster"]
+title = "Warsztaty artystyczne dla dzieci z AZS, 13 maja 2012"
+url = "/2012/05/07/warsztaty-artystyczne-dla-dzieci-z-azs-13-maja-2012/"
 
----
++++
+
 Warszawa, ul. Karmelicka 26
   
 2012-05-13

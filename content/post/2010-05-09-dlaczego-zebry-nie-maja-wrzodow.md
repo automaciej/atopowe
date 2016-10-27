@@ -1,16 +1,14 @@
----
-title: Dlaczego zebry nie mają wrzodów?
-author: dexter
-layout: post
-date: 2010-05-09
-url: /2010/05/09/dlaczego-zebry-nie-maja-wrzodow/
-categories:
-  - Książka
-  - Nauka
-tags:
-  - Robert M. Sapolsky
++++
+author = "dexter"
+categories = ["Książka", "Nauka"]
+date = "2010-05-09"
+layout = "post"
+tags = ["Robert M. Sapolsky"]
+title = "Dlaczego zebry nie mają wrzodów?"
+url = "/2010/05/09/dlaczego-zebry-nie-maja-wrzodow/"
 
----
++++
+
 Polecamy książkę [Roberta Sapolsky&#8217;ego][1] pt. &#8222;Dlaczego zebry nie mają wrzodów?&#8221;, którą PWN wydało niedawno w języku polskim. Książkę chyba najtaniej w sieci można kupić w serwisie [TwojaKsiążka][2].
 
 <!--more-->

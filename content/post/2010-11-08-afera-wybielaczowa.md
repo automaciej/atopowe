@@ -1,18 +1,14 @@
----
-title: Afera wybielaczowa
-author: dexter
-layout: post
-date: 2010-11-08
-url: /2010/11/08/afera-wybielaczowa/
-categories:
-  - Pseudomedycyna
-  - W społeczeństwie
-  - Wydarzenia
-tags:
-  - James Randi
-  - Rhys Morgan
++++
+author = "dexter"
+categories = ["Pseudomedycyna", "W społeczeństwie", "Wydarzenia"]
+date = "2010-11-08"
+layout = "post"
+tags = ["James Randi", "Rhys Morgan"]
+title = "Afera wybielaczowa"
+url = "/2010/11/08/afera-wybielaczowa/"
 
----
++++
+
 <div style="float:left;">
 </div>
 

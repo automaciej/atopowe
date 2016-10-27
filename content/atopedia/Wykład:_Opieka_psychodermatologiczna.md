@@ -1,8 +1,9 @@
----
-title: "Wykład: Opieka psychodermatologiczna"
-permalink: "/Wykład:_Opieka_psychodermatologiczna/"
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Wykład:_Opieka_psychodermatologiczna/"
+title = "Wykład: Opieka psychodermatologiczna"
+
++++
 
 Warszawa, 13 listopada 2012 r.
 

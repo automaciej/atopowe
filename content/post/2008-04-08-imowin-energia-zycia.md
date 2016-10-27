@@ -1,14 +1,13 @@
----
-title: Imowin – energią życia
-author: dexter
-layout: post
-date: 2008-04-08
-url: /2008/04/08/imowin-energia-zycia/
-categories:
-  - Kontrowersje
-  - Pseudomedycyna
++++
+author = "dexter"
+categories = ["Kontrowersje", "Pseudomedycyna"]
+date = "2008-04-08"
+layout = "post"
+title = "Imowin – energią życia"
+url = "/2008/04/08/imowin-energia-zycia/"
 
----
++++
+
 > Imowin to realizacja ogromnych możliwości zastosowanych w technologii terapii energoinformacyjnej. Takiego preparatu nie ma nigdzie indziej na całym świecie.
   
 > Aby przybliżyć i ułatwić Państwu zrozumienie pewnych współzależności i powiązań w otaczającym nas świecie oraz wykorzystania tych możliwości w uzdrawianiu organizmu człowieka &#8211; konieczne jest bliższe zapoznanie z podstawowymi mechanizmami, które warunkują te możliwości.

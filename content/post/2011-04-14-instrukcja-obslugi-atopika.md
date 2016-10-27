@@ -1,14 +1,13 @@
----
-title: Instrukcja obsługi atopika
-author: magda2em
-layout: post
-date: 2011-04-14
-url: /2011/04/14/instrukcja-obslugi-atopika/
-categories:
-  - Objawy
-  - W społeczeństwie
++++
+author = "magda2em"
+categories = ["Objawy", "W społeczeństwie"]
+date = "2011-04-14"
+layout = "post"
+title = "Instrukcja obsługi atopika"
+url = "/2011/04/14/instrukcja-obslugi-atopika/"
 
----
++++
+
 Za namową kilku osób napisałam instrukcję obsługi atopika. Pierwotnie seria wklejona została na moim LJ-u [KLIK-KLIK][1], wklejam tutaj na prośbę Dextera z nadzieją, że tutaj dotrze to do większej ilości osób. Jako że nie roszczę sobie prawa do nieomylności, bardzo proszę o uwagi i komentarze, chętnie uzupełnię i poprawię &#8211; instrukcję obsługi atopika pisałam z uwzględnieniem głównie moich doświadczeń i potrzeb, każdy kolejny punkt widzenia się przyda. Dziękuję bardzo Aleks i Ixolite za przejrzenie mojego bełkotu i za cenne uwagi, dzięki którym &#8222;instrukcja obsługi atopika&#8221; rozrosła się ponad planowaną długość. 
 
 Moją serię szczególnie polecam osobom bliskim atopików, być może będzie wam dzięki temu łatwiej zrozumieć, co się tak naprawdę z waszym domowym atopikiem dzieje i jak go &#8222;obsłużyć&#8221; 😉

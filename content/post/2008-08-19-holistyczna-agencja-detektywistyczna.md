@@ -1,14 +1,13 @@
----
-title: Holistyczna Agencja Detektywistyczna
-author: dexter
-layout: post
-date: 2008-08-19
-url: /2008/08/19/holistyczna-agencja-detektywistyczna/
-categories:
-  - Kontrowersje
-  - Pseudomedycyna
++++
+author = "dexter"
+categories = ["Kontrowersje", "Pseudomedycyna"]
+date = "2008-08-19"
+layout = "post"
+title = "Holistyczna Agencja Detektywistyczna"
+url = "/2008/08/19/holistyczna-agencja-detektywistyczna/"
 
----
++++
+
 > Termin „holistyczna” odzwierciedla moje głębokie przekonanie, że to, na co powinniśmy zwrócić szczególną uwagę, to wzajemna łączność między wszystkim, co istnieje. Nie zajmuję się takimi drobiazgami jak proszek do zdejmowania odcisków palców, fantazmatyczne kłaczki z czyichś kieszeni czy wreszcie te idiotyczne ślady stóp. Przez rozwiązanie każdego problemu rozumiem wytropienie właściwego wzorca w sieci wzajemnych powiązań. Związki pomiędzy przyczyną a skutkiem są często o wiele bardziej subtelne i złożone, niż moglibyśmy się spodziewać przy naszym tradycyjnym i prostackim rozumieniu zjawisk świata fizycznego, pani Rawlinson. Pozwoli pani, że podam przykład. Jeśli idzie pani do lekarza leczącego akupunkturą i skarży się na ból zęba, on wbija pani igłę w udo. Czy wie pani dlaczego, pani Rawlinson? Nie? Ja też nie wiem, droga pani Rawlinson, ale tego się właśnie mamy zamiar dowiedzieć. Miło było z panią rozmawiać, pani Rawlinson. Do widzenia.
 
 <!--more-->

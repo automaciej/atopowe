@@ -1,16 +1,14 @@
----
-title: Dostępne nagranie z konferencji AZS u dzieci z perspektywy dermatologii i alergologii
-author: ewaela
-layout: post
-date: 2012-10-08
-url: /2012/10/08/dostepne-nagranie-z-konferencji-azs-u-dzieci-z-perspektywy-dermatologii-i-alergologii/
-categories:
-  - Film
-  - Wydarzenia
-tags:
-  - fundacja alabaster
++++
+author = "ewaela"
+categories = ["Film", "Wydarzenia"]
+date = "2012-10-08"
+layout = "post"
+tags = ["fundacja alabaster"]
+title = "Dostępne nagranie z konferencji AZS u dzieci z perspektywy dermatologii i alergologii"
+url = "/2012/10/08/dostepne-nagranie-z-konferencji-azs-u-dzieci-z-perspektywy-dermatologii-i-alergologii/"
 
----
++++
+
 [Zapraszamy do obejrzenia nagrania z konferencji dot. AZS u dzieci z perspektywy dermatologii i alergologii.][1] Na razie dostępna jest wersja identyczna jak podczas streamingu, udostępniona dzięki [firmie Bioderma][2].
 
 Już niedługo udostępnimy wystąpienia zmontowane z prezentacjami.

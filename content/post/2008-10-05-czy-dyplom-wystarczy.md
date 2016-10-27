@@ -1,13 +1,13 @@
----
-title: Czy dyplom wystarczy
-author: Wahwah
-layout: post
-date: 2008-10-05
-url: /2008/10/05/czy-dyplom-wystarczy/
-categories:
-  - Kontrowersje
++++
+author = "Wahwah"
+categories = ["Kontrowersje"]
+date = "2008-10-05"
+layout = "post"
+title = "Czy dyplom wystarczy"
+url = "/2008/10/05/czy-dyplom-wystarczy/"
 
----
++++
+
 Zdarza się tak, że osoba z dyplomem lekarza poleca leki homeopatyczne i inne niepotwierdzone metody leczenia. Kodeks etyki lekarskiej wyraźnie mówi, że jest to coś, czego lekarz robić nie powinien. Mamy więc konflikt: czy ufać tej osobie, ponieważ ma tytuł lekarza? Czy zakwestionować te praktyki pomimo posiadania przez tę osobę dyplomu?
 
 <!--more-->

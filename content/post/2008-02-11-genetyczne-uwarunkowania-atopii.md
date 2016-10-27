@@ -1,15 +1,14 @@
----
-title: Genetyczne uwarunkowania atopii
-author: dexter
-layout: post
-date: 2008-02-11
-url: /2008/02/11/genetyczne-uwarunkowania-atopii/
-categories:
-  - Nauka
-tags:
-  - Genetyka
++++
+author = "dexter"
+categories = ["Nauka"]
+date = "2008-02-11"
+layout = "post"
+tags = ["Genetyka"]
+title = "Genetyczne uwarunkowania atopii"
+url = "/2008/02/11/genetyczne-uwarunkowania-atopii/"
 
----
++++
+
 W ostatnich latach, dzięki postępom biologii molekularnej, nastąpił ogromny postęp w zakresie technik stosowanych w badaniach genetycznych. Umożliwiło to dokładniejsze poznanie genetycznych uwarunkowań wielu chorób. Rozważania dotyczą również chorób atopowych.
 
 Obecnie uważa się, że czynnikom genetycznym może podlegać co najmniej kilka etapów patogenezy reakcji atopowej. Są to m.in.:

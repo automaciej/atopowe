@@ -1,8 +1,9 @@
----
-title: Efekt Kebnera
-permalink: /Efekt_Kebnera/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Efekt_Kebnera/"
+title = "Efekt Kebnera"
+
++++
 
 Zdarza się, że gojące się skaleczenie, prawie zabliźnione, często na granicy zniknięcia, zmienia się w zmiany [atopowego zapalenia skóry](/atopedia/atopowe_zapalenie_skóry "wikilink"). [Lekarze](/atopedia/Lekarze "wikilink") mówią, że taki efekt wskazuje, że AZS jest w stanie podwyższonej aktywności, w stanie wyrzutu, co dodatkowo potwierdza falowy charakter tej choroby. Komórki zapalne wędrują w miejsce niedawnego zranienia, gdzie tkanka była naruszona.
 

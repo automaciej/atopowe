@@ -1,8 +1,9 @@
----
-title: Leki immunosupresyjne
-permalink: /Leki_immunosupresyjne/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Leki_immunosupresyjne/"
+title = "Leki immunosupresyjne"
+
++++
 
 **Leki immunosupresyjne** - działanie leków immunosupresyjnych polega na obniżaniu odporności organizmu, zmniejszają one aktywność [układu immunologicznego](/atopedia/Układ_immunologiczny "wikilink"). To działanie może być miejscowe (maści [Protopic](/atopedia/Protopic "wikilink"), [Elidel](/atopedia/Elidel "wikilink")) albo ogólne (leki z grupy [cyklosporyn](/atopedia/Cyklosporyna "wikilink")).
 

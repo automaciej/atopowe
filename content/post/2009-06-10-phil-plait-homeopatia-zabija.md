@@ -1,16 +1,14 @@
----
-title: 'Phil Plait: Homeopatia zabija'
-author: dexter
-layout: post
-date: 2009-06-10
-url: /2009/06/10/phil-plait-homeopatia-zabija/
-categories:
-  - Kontrowersje
-  - Pseudomedycyna
-tags:
-  - Homeopatia
++++
+author = "dexter"
+categories = ["Kontrowersje", "Pseudomedycyna"]
+date = "2009-06-10"
+layout = "post"
+tags = ["Homeopatia"]
+title = "Phil Plait: Homeopatia zabija"
+url = "/2009/06/10/phil-plait-homeopatia-zabija/"
 
----
++++
+
 [Na Racjonaliście][1] pojawiło się tłumaczenie [artykułu Philipa Plaita][2] pt. „Homeopatia zabija”. Jest to artykuł dotyczący wielu osób odwiedzających nasz serwis, dlatego pozwolę sobie przytoczyć fragment. Do przeczytania całości zapraszam na Racjonalistę.
 
 <!--more-->

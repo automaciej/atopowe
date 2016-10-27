@@ -1,20 +1,14 @@
----
-title: O AZS w Radiu Maryja
-author: dexter
-layout: post
-date: 2010-08-17
-url: /2010/08/17/o-azs-w-radiu-maryja/
-enclosure:
-  - |
-    |
-        http://www.radiomaryja.pl/dzwieki/2010/07/2010.07.17.lek.mp3
-        5944128
-        audio/mpeg
-        
-categories:
-  - Kontrowersje
++++
+author = "dexter"
+categories = ["Kontrowersje"]
+date = "2010-08-17"
+enclosure = ["|\n    http://www.radiomaryja.pl/dzwieki/2010/07/2010.07.17.lek.mp3\n    5944128\n    audio/mpeg\n    \n"]
+layout = "post"
+title = "O AZS w Radiu Maryja"
+url = "/2010/08/17/o-azs-w-radiu-maryja/"
 
----
++++
+
 Niech będzie pochwalony Jezus Chrystus i Maryja zawsze dziewica! <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 Tak zaczyna się audycja w Radiu Maryja, w której o AZS opowiada dr [Urszula Krupa][1], lekarz anestezjolog i [polityk][2].

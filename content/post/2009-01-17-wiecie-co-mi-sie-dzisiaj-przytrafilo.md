@@ -1,17 +1,14 @@
----
-title: Wiecie, co mi się dzisiaj przytrafiło?
-author: Wahwah
-layout: post
-date: 2009-01-17
-url: /2009/01/17/wiecie-co-mi-sie-dzisiaj-przytrafilo/
-categories:
-  - Książka
-  - Nauka
-tags:
-  - Ben Goldacre
-  - Richard Feynman
++++
+author = "Wahwah"
+categories = ["Książka", "Nauka"]
+date = "2009-01-17"
+layout = "post"
+tags = ["Ben Goldacre", "Richard Feynman"]
+title = "Wiecie, co mi się dzisiaj przytrafiło?"
+url = "/2009/01/17/wiecie-co-mi-sie-dzisiaj-przytrafilo/"
 
----
++++
+
 Powoli kończę [książkę _Bad Science_][1]. Autorem jest Ben Goldacre, którego w UK można znać z sobotnich felietonów w The Guardian, a w anglojęzycznym Internecie z [bloga][2] o tym samym tytule co książka. Fantastyczna książka. Momentami mam ochotę siadać i przepisywać tu całe fragmenty, ale oczywiście nie mogę tego robić, więc gryzę się w język (czy palec) i czytam dalej.
 
 Ale i w książce zdarzają się cytaty długie na cały akapit. Skoro Ben może cytować, to i ja mogę. Oto cytat, który mnie dziś zupełnie zadziwił.

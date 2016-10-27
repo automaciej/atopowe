@@ -1,8 +1,9 @@
----
-title: Akupunktura
-permalink: /Akupunktura/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Akupunktura/"
+title = "Akupunktura"
+
++++
 
 **Akupunktura** - metoda lecznicza polegająca na nakłuwaniu specjalnymi igłami wybranych punktów na ciele człowieka. Pochodzi ze starożytnych Chin, ma ponad 2000 lat tradycji. Akupunktura posiada obecnie udokumentowane badania naukowe. Zaczyna być pełnoprawną, akceptowaną z punktu widzenia medycyny konwencjonalnej metodą leczenia – sprawdza się zwłaszcza w leczeniu bólu. Dowiedziono, że w czasie i po zabiegu w organizmie człowieka wzrasta poziom wydzielania neurohormonów, czyli hormonów wydzielanych przez komórki nerwowe - endorfin, enkefalin, odpowiedzialnych za odczuwanie bólu.
 

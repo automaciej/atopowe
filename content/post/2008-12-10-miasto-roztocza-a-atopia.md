@@ -1,16 +1,13 @@
----
-title: Miasto, roztocza a atopia
-author: aksamitka
-layout: post
-date: 2008-12-10
-url: /2008/12/10/miasto-roztocza-a-atopia/
-categories:
-  - Kontrowersje
-  - Nauka
-  - Objawy
-  - Środowisko
++++
+author = "aksamitka"
+categories = ["Kontrowersje", "Nauka", "Objawy", "Środowisko"]
+date = "2008-12-10"
+layout = "post"
+title = "Miasto, roztocza a atopia"
+url = "/2008/12/10/miasto-roztocza-a-atopia/"
 
----
++++
+
 Choroby atopowe, takie jak AZS, astma czy alergiczny nieżyt nosa wydają się być niezmiernie rzadkie w takich społecznościach jak Papuasi albo australijscy Aborygeni wiodący taki tryb życia jak ich przodkowie. W tradycyjnych językach afrykańskich brakuje słów na określeń astmy czy egzemy. Jednak wynalazki XX wieku pomału zaczęły wkraczać i na te tereny. Wiadomo też, że gdy tylko ci ludzie zaczęli żyć zgodnie z zachodnioeuropejskimi normami, szybko zaobserwowano u nich wzrost zachorowań na choroby atopowe. Powiązano to z roztoczami kurzu domowego oraz zanieczyszczeniem środowiska. Czy taki związek faktycznie istnieje? A jeśli tak &#8211; czy ma on jakieś większe znaczenie?
 
 <!--more-->

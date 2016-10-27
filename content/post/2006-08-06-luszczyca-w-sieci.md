@@ -1,13 +1,13 @@
----
-title: Łuszczyca w sieci
-author: Wahwah
-layout: post
-date: 2006-08-06
-url: /2006/08/06/luszczyca-w-sieci/
-categories:
-  - Forum
++++
+author = "Wahwah"
+categories = ["Forum"]
+date = "2006-08-06"
+layout = "post"
+title = "Łuszczyca w sieci"
+url = "/2006/08/06/luszczyca-w-sieci/"
 
----
++++
+
 Dzisiaj dostałem bardzo miłą wiadomość. Fanowską, można powiedzieć. A jeszcze bardziej fanowskie było to, co zobaczyłem później. Ale o tym za chwilę.
 
 Zaczęło się od tego, że jeden kolega założył nowe forum o łuszczycy i wykonał na Atopedii edycję polegającą na tym, że przesunął na pierwsze miejsce na mającej trzy pozycje liście link do swojego forum, spychając inny link w dół. Zważywszy, że wszystkie trzy linki prowadzą do stron o identycznej tematyce (łuszczyca), jest to kontrowersyjne posunięcie. Wiadomo, że ludzie klikają najczęściej w pierwszy link, ale może lepiej jest budować popularność swojego serwisu tworząc dobrą treść, zamiast przepychać się łokciami na pierwsze kliknięcie.

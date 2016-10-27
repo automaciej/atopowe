@@ -1,8 +1,9 @@
----
-title: Płaszcz lipidowy
-permalink: /Płaszcz_lipidowy/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Płaszcz_lipidowy/"
+title = "Płaszcz lipidowy"
+
++++
 
 **Płaszcz lipidowy** jest zbiorem substancji pokrywających [naskórek](/atopedia/naskórek "wikilink"), chroniących warstwę rogową przed utratą wilgotności.
 

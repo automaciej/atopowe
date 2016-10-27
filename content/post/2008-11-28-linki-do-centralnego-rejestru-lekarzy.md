@@ -1,14 +1,13 @@
----
-title: Linki do Centralnego Rejestru Lekarzy
-author: Wahwah
-layout: post
-date: 2008-11-28
-url: /2008/11/28/linki-do-centralnego-rejestru-lekarzy/
-categories:
-  - Portal
-  - Techniczne
++++
+author = "Wahwah"
+categories = ["Portal", "Techniczne"]
+date = "2008-11-28"
+layout = "post"
+title = "Linki do Centralnego Rejestru Lekarzy"
+url = "/2008/11/28/linki-do-centralnego-rejestru-lekarzy/"
 
----
++++
+
 Niedawno uruchomiłem logowanie do [działu z lekarzami][1]. Logowanie nie działało od czasu aktualizacji naszego forum z phpBB 2 na phpBB 3. Nowsza wersja phpBB inaczej zapamiętuje hasła, i moduł służący do sprawdzania haseł po prostu przestał pasować. Aktualizacja wymagała trochę pracy, m.in. przepisania kawałka kodu z PHP do Pythona. Przy okazji wydzieliłem z naszego kodu fragment który może służyć do bardziej ogólnych zastosowań i nazwałem go [django-phpbb][2].
 
 Wczoraj dodałem nową funkcję do działu z lekarzami: skrót do sprawdzania danych lekarza w Centralnym Rejestrze Lekarzy.

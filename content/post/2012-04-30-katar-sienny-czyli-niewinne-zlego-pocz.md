@@ -1,15 +1,14 @@
----
-title: Katar sienny, czyli niewinne złego początki
-author: Wahwah
-layout: post
-date: 2012-04-30
-url: /2012/04/30/katar-sienny-czyli-niewinne-zlego-pocz/
-google_plus_activity_id:
-  - z13rcr0psqbicjd2b23syjlhzszgxlb4y04
-categories:
-  - Objawy
++++
+author = "Wahwah"
+categories = ["Objawy"]
+date = "2012-04-30"
+google_plus_activity_id = ["z13rcr0psqbicjd2b23syjlhzszgxlb4y04"]
+layout = "post"
+title = "Katar sienny, czyli niewinne złego początki"
+url = "/2012/04/30/katar-sienny-czyli-niewinne-zlego-pocz/"
 
----
++++
+
 „Nieleczony katar sienny nie tylko obniża jakość życia, ale także ma tendencję do nasilania się, a jego konsekwencją mogą być groźne dla życia choroby. Poważnym zagrożeniem jest progresja objawów chorobowych, tzw. “marsz alergiczny”, który może prowadzić do astmy oskrzelowej. Celem leczenia alergicznego nieżytu nosa jest redukowanie dokuczliwych objawów alergicznych, zaburzeń snu i poczucia ogólnego rozbicia oraz powrót do codziennej aktywności społecznej. Postępowanie terapeutyczne u chorych na alergiczny nieżyt nosa obejmuje różne formy leczenia, w tym leczenie farmakologiczne.”
 
 [Katar sienny – Wikipedia, wolna encyklopedia][1]

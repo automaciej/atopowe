@@ -1,14 +1,13 @@
----
-title: 'Polecani lekarze: komentarze i oceny'
-author: Wahwah
-layout: post
-date: 2006-11-25
-url: /2006/11/25/polecani-lekarze-komentarze-i-oceny/
-categories:
-  - Forum
-  - Portal
++++
+author = "Wahwah"
+categories = ["Forum", "Portal"]
+date = "2006-11-25"
+layout = "post"
+title = "Polecani lekarze: komentarze i oceny"
+url = "/2006/11/25/polecani-lekarze-komentarze-i-oceny/"
 
----
++++
+
 Przygotowałem wstępną wersję przeglądarki polecanych lekarzy. Można oglądać lekarzy według miast oraz specjalności. Jest też informacja o tym, który lekarz przyjmuje w ramach NFZ. Baza danych jest na razie bardzo mała, raptem dwadzieścia kilka pozycji.
 
 Następne etapy to obsłużenie logowania przy pomocy loginu i hasła z forum oraz edycja danych. Zajmie mi to trochę czasu. Chciałbym jednak już pomyśleć o czymś więcej, tzn. o _komentarzach_ oraz _ocenach_ _lekarzy_.

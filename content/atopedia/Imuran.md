@@ -1,8 +1,9 @@
----
-title: Imuran
-permalink: /Imuran/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Imuran/"
+title = "Imuran"
+
++++
 
 Imuran 25mg lub 50mg, tabletki powlekane
 

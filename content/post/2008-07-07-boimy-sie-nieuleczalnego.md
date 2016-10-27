@@ -1,13 +1,13 @@
----
-title: Boimy się nieuleczalnego
-author: aksamitka
-layout: post
-date: 2008-07-07
-url: /2008/07/07/boimy-sie-nieuleczalnego/
-categories:
-  - W społeczeństwie
++++
+author = "aksamitka"
+categories = ["W społeczeństwie"]
+date = "2008-07-07"
+layout = "post"
+title = "Boimy się nieuleczalnego"
+url = "/2008/07/07/boimy-sie-nieuleczalnego/"
 
----
++++
+
 Wiele razy, kiedy rozmawiam z ludźmi o mojej chorobie i kiedy pojawia się zdanie &#8222;AZS, alergiczny nieżyt nosa i astma oskrzelowa są nieuleczalne&#8221; widać na twarzy mojego współrozmówcy dziwaczny grymas i szybkie &#8222;poprawianie&#8221; mojej wypowiedzi &#8211; ale co ty wiesz, lekarze często się mylą, nie ma chorób nieuleczalnych, dziś masz a jutro nie będziesz mieć&#8230; I tak dalej, i tak dalej. W takiej sytuacji jestem zmuszona szybko zmienić temat, bo z własnego doświadczenia wiem, że z dalszej rozmowy i tłumaczenia nic konstruktywnego nie wyjdzie. Jestem pewna że nie tylko ja mam za sobą takie doświadczenia <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 <!--more-->

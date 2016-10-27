@@ -1,8 +1,9 @@
----
-title: Higiena
-permalink: /Higiena/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Higiena/"
+title = "Higiena"
+
++++
 
 Bardzo ważne w [pielęgnacji](/atopedia/Pielęgnacja "wikilink") atopowego zapalenia skóry są środki higieny, jakich używamy, a przede wszystkim mydła (płyny do kąpieli).
 

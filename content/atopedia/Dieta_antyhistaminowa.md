@@ -1,8 +1,9 @@
----
-title: Dieta antyhistaminowa
-permalink: /Dieta_antyhistaminowa/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Dieta_antyhistaminowa/"
+title = "Dieta antyhistaminowa"
+
++++
 
 Ta dieta eliminuje:
 

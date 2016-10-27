@@ -1,17 +1,15 @@
----
-title: Oswoić AZS
-author: dexter
-layout: post
-date: 2012-02-21
-url: /2012/02/21/oswoic-azs-troche-stare-ale-byc-moz/
-google_plus_activity_id:
-  - z13fsvpromm2ujuql04cj3ty5rz3xnq4wns0k
-categories:
-  - Książka
-tags:
-  - e-book
++++
+author = "dexter"
+categories = ["Książka"]
+date = "2012-02-21"
+google_plus_activity_id = ["z13fsvpromm2ujuql04cj3ty5rz3xnq4wns0k"]
+layout = "post"
+tags = ["e-book"]
+title = "Oswoić AZS"
+url = "/2012/02/21/oswoic-azs-troche-stare-ale-byc-moz/"
 
----
++++
+
 Być może warto przypomnieć tego e-booka autorstwa Agnieszki Kądziołki.
 
   * link do [dyskusji na forum][1].

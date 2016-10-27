@@ -1,8 +1,9 @@
----
-title: Diflucan
-permalink: /Diflucan/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Diflucan/"
+title = "Diflucan"
+
++++
 
 **Nazwa handlowa leku:Diflucan**
 

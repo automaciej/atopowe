@@ -1,8 +1,9 @@
----
-title: Wstrząs anafilaktyczny
-permalink: /Wstrząs_anafilaktyczny/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Wstrząs_anafilaktyczny/"
+title = "Wstrząs anafilaktyczny"
+
++++
 
 **Wstrząs anafilaktyczny** (anafilaksja) - jest to zagrażające życiu zaburzenie krążenia, które wynika z dysproporcji pomiędzy pożądanym, a rzeczywistym zapotrzebowaniem na krew w organizmie. Wstrząs niezależnie od przyczyny, najczęściej łączy się z nagłym, silnym spadkiem ciśnienia tętniczego krwi, niewydolnością oddechową, często utratą przytomności.
 

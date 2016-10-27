@@ -1,16 +1,14 @@
----
-title: Posiedzenie sejmowej Komisji Zdrowia dot. dermatologii – kontynuacja posiedzenia z maja
-author: ewaela
-layout: post
-date: 2012-09-29
-url: /2012/09/29/posiedzenie-sejmowej-komisji-zdrowia-dot-dermatologii-kontynuacja-posiedzenia-z-maja/
-categories:
-  - Wydarzenia
-tags:
-  - fundacja alabaster
-  - sejm i senat
++++
+author = "ewaela"
+categories = ["Wydarzenia"]
+date = "2012-09-29"
+layout = "post"
+tags = ["fundacja alabaster", "sejm i senat"]
+title = "Posiedzenie sejmowej Komisji Zdrowia dot. dermatologii – kontynuacja posiedzenia z maja"
+url = "/2012/09/29/posiedzenie-sejmowej-komisji-zdrowia-dot-dermatologii-kontynuacja-posiedzenia-z-maja/"
 
----
++++
+
 W środę, 26 września, odbyło się posiedzenie sejmowej Komisji Zdrowia dot. realizacji świadczeń zdrowotnych w zakresie dermatologii. Byłam na nim obecna jako przedstawicielka Fundacji Alabaster.
 
 <!--more-->Na stronie Sejmu można obejrzeć 

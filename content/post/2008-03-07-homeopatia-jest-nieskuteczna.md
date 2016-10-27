@@ -1,17 +1,14 @@
----
-title: Homeopatia jest nieskuteczna.
-author: dexter
-layout: post
-date: 2008-03-07
-url: /2008/03/07/homeopatia-jest-nieskuteczna/
-categories:
-  - Kontrowersje
-  - Pseudomedycyna
-  - W społeczeństwie
-tags:
-  - Homeopatia
++++
+author = "dexter"
+categories = ["Kontrowersje", "Pseudomedycyna", "W społeczeństwie"]
+date = "2008-03-07"
+layout = "post"
+tags = ["Homeopatia"]
+title = "Homeopatia jest nieskuteczna."
+url = "/2008/03/07/homeopatia-jest-nieskuteczna/"
 
----
++++
+
 Nieskuteczne metody leczenia są jak kłamstwa&#8230;
 
 Wydaje się jednak, że ludzie lubią być okłamywani. Badania TNS OBOP wykazują, że 56 procent Polaków uważa, że homeopatia jest skuteczną i dobrą metodą leczenia, a 62 procent społeczeństwa ufa lekarzom zapisującym leki homeopatyczne.

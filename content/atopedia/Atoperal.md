@@ -1,8 +1,9 @@
----
-title: Atoperal
-permalink: /Atoperal/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Atoperal/"
+title = "Atoperal"
+
++++
 
 Linia kosmetyków firmy BlauFarma do pielęgnacji skóry atopowej, suchej, wrażliwej:
 

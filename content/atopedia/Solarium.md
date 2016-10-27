@@ -1,8 +1,9 @@
----
-title: Solarium
-permalink: /Solarium/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Solarium/"
+title = "Solarium"
+
++++
 
 Głównym promieniowaniem wykorzystywanym w solariach jest promieniowanie UVA, które jest uważane za mniej szkodliwe niż [UVB](/atopedia/UVB "wikilink") (mogące prowadzić m.in. do zaćmy lub nowotworu skóry – czerniaka). Mimo tego, że w solarium jest proporcjonalnie mniej promieniowania UVB niż na słońcu, nie można traktować solarium jako całkowicie bezpiecznego zamiennika.
 

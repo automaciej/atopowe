@@ -1,16 +1,14 @@
----
-title: 'Przekrój: Czas cudów'
-author: Wahwah
-layout: post
-date: 2008-01-07
-url: /2008/01/07/przekroj-czas-cudow/
-categories:
-  - Prasa
-  - Pseudomedycyna
-tags:
-  - Przekrój
++++
+author = "Wahwah"
+categories = ["Prasa", "Pseudomedycyna"]
+date = "2008-01-07"
+layout = "post"
+tags = ["Przekrój"]
+title = "Przekrój: Czas cudów"
+url = "/2008/01/07/przekroj-czas-cudow/"
 
----
++++
+
 Okazuje się że Przekrój, niegdyś krakowski, a obecnie warszawski tygodnik, ma stronę internetową i publikuje na niej niektóre artykuły. Zawsze lubiłem to pismo, i jako nastolatek, jeżdżąc pociągiem pomiędzy Warszawą i Kaliszem, zawsze kupowałem Przekrój na stacji.
 
 Przekrój zazwyczaj publikuje artykuły powiązane z nauką i okolicami. Dzisiaj znalazłem u nich artykuł p.t. „Czas cudów”.

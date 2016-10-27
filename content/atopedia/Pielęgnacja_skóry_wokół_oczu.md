@@ -1,8 +1,9 @@
----
-title: Pielęgnacja skóry wokół oczu
-permalink: /Pielęgnacja_skóry_wokół_oczu/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Pielęgnacja_skóry_wokół_oczu/"
+title = "Pielęgnacja skóry wokół oczu"
+
++++
 
 Maja z forum pisze tak : Jeżeli chodzi o oczy to mój lekarz doradził mi aby [Elidel](/atopedia/Elidel "wikilink") rozmieszać z [Xerialine](/atopedia/Xerialine "wikilink") 500 (może też być [lipobaza](/atopedia/lipobaza "wikilink")) w proporcjach 1 na 1 i taką mieszanka smarować cienką warstwą skórę pod oczami.Na początku strasznie piekło i też trochę łzawiły oczy na szczęście po paru dniach nie tylko pieczenie ale nawet łzawienie ustało.
 

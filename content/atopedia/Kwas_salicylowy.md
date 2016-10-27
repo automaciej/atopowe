@@ -1,8 +1,9 @@
----
-title: Kwas salicylowy
-permalink: /Kwas_salicylowy/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Kwas_salicylowy/"
+title = "Kwas salicylowy"
+
++++
 
 *salicylic acid*
 analgeticum, antiacneticum, antiphlogisticum nonsteroidum, antirheumaticum, dermaticum

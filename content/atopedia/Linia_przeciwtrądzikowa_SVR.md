@@ -1,8 +1,9 @@
----
-title: Linia przeciwtrądzikowa SVR
-permalink: /Linia_przeciwtrądzikowa_SVR/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Linia_przeciwtrądzikowa_SVR/"
+title = "Linia przeciwtrądzikowa SVR"
+
++++
 
 ### LYSANEL Żel myjący
 

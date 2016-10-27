@@ -1,8 +1,9 @@
----
-title: Atopowe zapalenie skóry i WKU
-permalink: /Atopowe_zapalenie_skóry_i_WKU/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Atopowe_zapalenie_skóry_i_WKU/"
+title = "Atopowe zapalenie skóry i WKU"
+
++++
 
 *[źródło](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?p=75655#p75655)*
 

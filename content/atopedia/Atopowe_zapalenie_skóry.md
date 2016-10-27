@@ -1,9 +1,10 @@
----
-title: Atopowe zapalenie skóry
-permalink: /Atopowe_zapalenie_skóry/
-date: "2015-01-01T00:00:00+01:00"
-aliases: ["/atopedia/AZS"]
----
++++
+aliases = ["/atopedia/AZS"]
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Atopowe_zapalenie_skóry/"
+title = "Atopowe zapalenie skóry"
+
++++
 
 **Atopowe zapalenie skóry** (ang. *atopic dermatitis*, wyprysk atopowy, kiedyś – [egzema](/atopedia/Egzema "wikilink"), [pokrzywka](/atopedia/pokrzywka "wikilink"), świerzbiączka) jest chorobą skóry, zaliczaną do chorób [atopowych](/atopedia/atopia "wikilink").
 

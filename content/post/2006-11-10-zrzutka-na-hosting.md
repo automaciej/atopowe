@@ -1,13 +1,13 @@
----
-title: Zrzutka na hosting
-author: Wahwah
-layout: post
-date: 2006-11-10
-url: /2006/11/10/zrzutka-na-hosting/
-categories:
-  - Forum
++++
+author = "Wahwah"
+categories = ["Forum"]
+date = "2006-11-10"
+layout = "post"
+title = "Zrzutka na hosting"
+url = "/2006/11/10/zrzutka-na-hosting/"
 
----
++++
+
 Tych którzy próbowali zajrzeć na naszą stronę od soboty wieczorem do wtorku przed południem, spotkała przykra niespodzianka. Wszystko było niedostępne. Obecny serwer stoi na łączu radiowym, które źle znosi wszelkie opady atmosferyczne. Sobotni pad był spowodowany pierwszym w tym roku śniegiem. Zazwyczaj wystarczyło wyłączyć i włączyć urządzenie obsługujące antenę, ale tym razem problem był poważniejszy.
 
 <!--more-->Takie sytuacje mogą się powtarzać.

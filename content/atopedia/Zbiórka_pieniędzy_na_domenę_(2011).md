@@ -1,8 +1,9 @@
----
-title: Zbiórka pieniędzy na domenę (2011)
-permalink: /Zbiórka_pieniędzy_na_domenę_(2011)/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Zbiórka_pieniędzy_na_domenę_(2011)/"
+title = "Zbiórka pieniędzy na domenę (2011)"
+
++++
 
 Nasz serwis utrzymuje się niezależnie - nie mamy żadnego patronatu. Domeny są opłacane przez samych użytkowników forum. Poprzednie zbiórki pieniędzy można zobaczyć tutaj: [Zbiórki](/atopedia/:kategoria:Zbiórki "wikilink")
 

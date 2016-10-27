@@ -1,17 +1,15 @@
----
-title: Homeopatia na drastycznej diecie
-author: dexter
-layout: post
-date: 2012-03-19
-url: /2012/03/19/homeopatia-na-drastycznej-diecie-rynek-homeopatii/
-google_plus_activity_id:
-  - z121vzjx2tv1gzz0p23syjlhzszgxlb4y04
-categories:
-  - Pseudomedycyna
-tags:
-  - Homeopatia
++++
+author = "dexter"
+categories = ["Pseudomedycyna"]
+date = "2012-03-19"
+google_plus_activity_id = ["z121vzjx2tv1gzz0p23syjlhzszgxlb4y04"]
+layout = "post"
+tags = ["Homeopatia"]
+title = "Homeopatia na drastycznej diecie"
+url = "/2012/03/19/homeopatia-na-drastycznej-diecie-rynek-homeopatii/"
 
----
++++
+
 Rynek homeopatii w Polsce spadł w 2011 r. o 16%. Coraz mniej osób daje się nabierać na leczenie cukrem. 
 
 _&#8211; Zaszkodził nam czarny PR &#8211; tak ubiegłoroczne wyniki komentują producenci preparatów homeopatycznych._

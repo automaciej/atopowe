@@ -1,8 +1,9 @@
----
-title: Atopra szampon
-permalink: /Atopra_szampon/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Atopra_szampon/"
+title = "Atopra szampon"
+
++++
 
 **atopra®**
 

@@ -1,13 +1,13 @@
----
-title: Podręczny odkurzacz
-author: Wahwah
-layout: post
-date: 2006-07-28
-url: /2006/07/28/podreczny-odkurzacz/
-categories:
-  - Dom
++++
+author = "Wahwah"
+categories = ["Dom"]
+date = "2006-07-28"
+layout = "post"
+title = "Podręczny odkurzacz"
+url = "/2006/07/28/podreczny-odkurzacz/"
 
----
++++
+
 Każda sesja [drapania][1] kończy się koniecznością zamiatania po sobie. Wiadomo jednak że zamiatanie jest niedokładne i, szczerze mowiąc, bardzo nie lubię zamiatać.
 
 <!--more-->

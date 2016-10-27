@@ -1,17 +1,14 @@
----
-title: Życie z AZS
-author: Ashitaka
-layout: post
-date: 2010-06-30
-url: /2010/06/30/zycie-z-azs/
-categories:
-  - Środowisko
-  - W społeczeństwie
-tags:
-  - dzieci
-  - życie
++++
+author = "Ashitaka"
+categories = ["Środowisko", "W społeczeństwie"]
+date = "2010-06-30"
+layout = "post"
+tags = ["dzieci", "życie"]
+title = "Życie z AZS"
+url = "/2010/06/30/zycie-z-azs/"
 
----
++++
+
 Witam Cię serdecznie wśród moich myśli. Tak się złożyło, że któregoś razu podesłałam na forum link do posta, w którym pisałam o swoich przeżyciach związanych z AZS. Dexter zaproponował by dzielić się tym tematem na blogu atopowym, zatem się podzielę, ku pokrzepieniu serc innych łaciatych.
 
 Początkowo wcale nie było mi łatwo pisać o AZS. Z czasem zadomowiłam się na forum atopowym, na które trafiłam szukając pomocy na własną rękę. Znalazłam ją, znalazłam wsparcie całej grupy ludzi borykającej się z podobnymi problemami. Nawet ich nie znam, nawet nie wiedzą, że czytam ich słowa i śmieję się, płaczę, drapię się tak samo i biorę te same leki, co oni. Zaczęłam poruszać temat choroby na swoim blogu. To dla mnie niezwykle osobiste wyznania. Trudno mi obnażać własną słabość, choć, być może, właśnie to moje pisanie przyniesie kiedyś komuś pomoc. A gdy jest mnie samej jest źle z chorobą i czuję się osamotniona w zmaganiach z nią, czerpię siłę wśród wirtualnych atopików.

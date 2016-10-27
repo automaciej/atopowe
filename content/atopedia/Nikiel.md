@@ -1,8 +1,9 @@
----
-title: Nikiel
-permalink: /Nikiel/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Nikiel/"
+title = "Nikiel"
+
++++
 
 Nikiel jest jedynym alergenem kontaktowym, wyraźnie częściej uczulającym osoby obciążone atopią niż przeciętną populację.
 

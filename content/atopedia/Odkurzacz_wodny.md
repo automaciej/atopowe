@@ -1,8 +1,9 @@
----
-title: Odkurzacz wodny
-permalink: /Odkurzacz_wodny/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Odkurzacz_wodny/"
+title = "Odkurzacz wodny"
+
++++
 
 **Odkurzacz wodny** od zwykłego odkurzacza różni się tym, że zamiast tradycyjnego worka na kurz ma zbiornik, który na czas odkurzania wypełnia się wodą, co służy zatrzymywaniu [kurzu](/atopedia/Kurz "wikilink") i zanieczyszczeń. Odkurzacz wodny jest szczególnie polecany osobom uczulonym na roztocza, ponieważ tradycyjny odkurzacz nie zatrzymuje w sobie całego kurzu, który wsysa: część kurzu zostaje z powrotem wyrzucona na zewnątrz odkurzacza! Odkurzacz wodny jest o wiele bardziej skuteczny w filtrowaniu powietrza i zatrzymuje o wiele większy procent zanieczyszczeń, szczególnie tych bardzo małych. Producenci odkurzaczy wodnych zapewniają, że ich sprzęt zatrzymuje [roztocza](/atopedia/Roztocze_kurzu_domowego "wikilink") i najmniejsze drobiny [kurzu](/atopedia/Kurz "wikilink").
 

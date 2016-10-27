@@ -1,8 +1,9 @@
----
-title: Często zadawane pytania
-permalink: /Często_zadawane_pytania/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Często_zadawane_pytania/"
+title = "Często zadawane pytania"
+
++++
 
 ### Czy możecie przesłać mi na mejla co zrobić żeby wyglądać jak każdy normalny człowiek?
 

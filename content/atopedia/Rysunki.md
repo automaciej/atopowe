@@ -1,8 +1,9 @@
----
-title: Rysunki
-permalink: /Rysunki/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Rysunki/"
+title = "Rysunki"
+
++++
 
 Przykłady grafiki dla strony, do waszej oceny
 

@@ -1,16 +1,14 @@
----
-title: O refundacji Protopiku i dlaczego jej nie będzie
-author: dexter
-layout: post
-date: 2010-04-08
-url: /2010/04/08/o-refundacji-protopiku-i-dlaczego-jej-nie-bedzie/
-categories:
-  - W społeczeństwie
-tags:
-  - Protopic
-  - sejm i senat
++++
+author = "dexter"
+categories = ["W społeczeństwie"]
+date = "2010-04-08"
+layout = "post"
+tags = ["Protopic", "sejm i senat"]
+title = "O refundacji Protopiku i dlaczego jej nie będzie"
+url = "/2010/04/08/o-refundacji-protopiku-i-dlaczego-jej-nie-bedzie/"
 
----
++++
+
 Jakiś czas temu (2005 rok) na [naszym Forum][1] powstał pomysł, żeby wystąpić do Ministerstwa Zdrowia o refundację maści Protopic. Na Atopedii powstały dwa dokumenty: [Refundacja Maści Protopic][2] i [Pismo do Ministra Zdrowia][3]. Pisma nie przyniosły szczególnego rezultatu, gdy nagle(!) na 17. posiedzeniu Senatu RP (25 sierpnia 2006 r.), senator Mirosława Nykiel występuje z oświadczeniem skierowanym do ministra Religi, które zaczyna się słowami: 
 
 > W związku z interwencją grupy chorych na atopowe zapalenie skóry (AZS), skierowane do biura w Bielsku-Białej, zgłaszam prośbę o rozpatrzenie możliwości refundacji maści Protopic dla chorych borykających się z najcięższą postacią atopowego zapalenia skóry.

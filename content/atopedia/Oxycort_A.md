@@ -1,8 +1,9 @@
----
-title: Oxycort A
-permalink: /Oxycort_A/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Oxycort_A/"
+title = "Oxycort A"
+
++++
 
 *(Oxytetracyclini hydrochloridum + Hydrocortisoni acetas)*
 

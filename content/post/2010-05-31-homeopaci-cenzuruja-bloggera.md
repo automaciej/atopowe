@@ -1,15 +1,14 @@
----
-title: Homeopaci cenzurują bloggera
-author: dexter
-layout: post
-date: 2010-05-31
-url: /2010/05/31/homeopaci-cenzuruja-bloggera/
-categories:
-  - Kontrowersje
-tags:
-  - Homeopatia
++++
+author = "dexter"
+categories = ["Kontrowersje"]
+date = "2010-05-31"
+layout = "post"
+tags = ["Homeopatia"]
+title = "Homeopaci cenzurują bloggera"
+url = "/2010/05/31/homeopaci-cenzuruja-bloggera/"
 
----
++++
+
 <div style="float:left;">
 </div>
 

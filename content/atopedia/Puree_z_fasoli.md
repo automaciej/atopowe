@@ -1,8 +1,9 @@
----
-title: Puree z fasoli
-permalink: /Puree_z_fasoli/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Puree_z_fasoli/"
+title = "Puree z fasoli"
+
++++
 
 [Grafika:pasta_fasolowa.JPG](/Grafika:pasta_fasolowa.JPG "wikilink")
 

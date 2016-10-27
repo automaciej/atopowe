@@ -1,8 +1,9 @@
----
-title: Lipikar mleczko
-permalink: /Lipikar_mleczko/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Lipikar_mleczko/"
+title = "Lipikar mleczko"
+
++++
 
 Mleczko do ciała
 

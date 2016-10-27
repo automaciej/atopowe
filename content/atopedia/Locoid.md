@@ -1,8 +1,9 @@
----
-title: Locoid
-permalink: /Locoid/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Locoid/"
+title = "Locoid"
+
++++
 
 [right](/Grafika:Locoid.jpg "wikilink")
 

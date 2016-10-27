@@ -1,18 +1,14 @@
----
-title: James Randi o homeopatii, wersja polska
-author: Wahwah
-layout: post
-date: 2008-07-20
-url: /2008/07/20/james-randi-o-homeopatii-wersja-polska/
-categories:
-  - Film
-  - Kontrowersje
-  - Pseudomedycyna
-tags:
-  - Homeopatia
-  - James Randi
++++
+author = "Wahwah"
+categories = ["Film", "Kontrowersje", "Pseudomedycyna"]
+date = "2008-07-20"
+layout = "post"
+tags = ["Homeopatia", "James Randi"]
+title = "James Randi o homeopatii, wersja polska"
+url = "/2008/07/20/james-randi-o-homeopatii-wersja-polska/"
 
----
++++
+
 Kiedyś pisałem o [homeopatii w obliczu podwójnie ślepej próby][1], dając link do filmu na którym James Randi wyjaśnia zasady homeopatii. Film był fragmentem z wykładu w Princeton w 2001 roku, i był po angielsku. Dla tych, którzy lubią filmy z polskimi napisami, mam dobrą wiadomość! Zrobiłem polskie napisy! Proszę bardzo:
 
 **[James Randi wyjaśnia zasady homeopatii &#8211; z polskimi napisami][2].**

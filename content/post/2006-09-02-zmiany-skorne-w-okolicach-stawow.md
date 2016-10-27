@@ -1,13 +1,13 @@
----
-title: Zmiany skórne w okolicach stawów
-author: Wahwah
-layout: post
-date: 2006-09-02
-url: /2006/09/02/zmiany-skorne-w-okolicach-stawow/
-categories:
-  - Objawy
++++
+author = "Wahwah"
+categories = ["Objawy"]
+date = "2006-09-02"
+layout = "post"
+title = "Zmiany skórne w okolicach stawów"
+url = "/2006/09/02/zmiany-skorne-w-okolicach-stawow/"
 
----
++++
+
 To, że zmiany skórne lokalizują się najczęściej w okolicach stawów, wie każdy atopik. Sam się często nad tym zastanawiałem. Czy w stawach mają miejsce jakieś mechanizmy immunologiczne które powodują uczulenie skóry w tych miejscach?
 
 <!--more--> Dzisiaj w łazience popatrzyłem na swoje stopy. Nasady dużych palców czerwone. Naokoło ― lepiej. Potem pomyślałem o tym jak chodzę. To właśnie nasada dużego palca jest miejscem które najmocniej pracuje mechanicznie, rozciągając i marszcząc skórę naokoło stawu. Przypomniałem sobie też 

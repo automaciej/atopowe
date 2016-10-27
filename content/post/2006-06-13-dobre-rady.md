@@ -1,14 +1,13 @@
----
-title: Dobre rady
-author: Wahwah
-layout: post
-date: 2006-06-13
-url: /2006/06/13/dobre-rady/
-categories:
-  - Kontrowersje
-  - W społeczeństwie
++++
+author = "Wahwah"
+categories = ["Kontrowersje", "W społeczeństwie"]
+date = "2006-06-13"
+layout = "post"
+title = "Dobre rady"
+url = "/2006/06/13/dobre-rady/"
 
----
++++
+
 Zdrowy człowiek, widząc suchą skórę atopika, daje mu dobre rady: posmaruj się tym, posmaruj się tamtym. Daje takie rady, które pomogły by jemu, człowiekowi zdrowemu, z jednego prostego powodu: **ponieważ jest zdrowy**. Atopikowi te rady **nie** pomogą!
 
 <!--more-->

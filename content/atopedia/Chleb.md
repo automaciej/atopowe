@@ -1,8 +1,9 @@
----
-title: Chleb
-permalink: /Chleb/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Chleb/"
+title = "Chleb"
+
++++
 
 Chleb bez mleka, margaryny (żadnych konserwantów, lecytyny czy betakarotenu...), bez kukurydzy, bez glutenu, ale MIĘKKI!
 

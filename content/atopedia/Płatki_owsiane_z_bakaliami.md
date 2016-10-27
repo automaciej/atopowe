@@ -1,8 +1,9 @@
----
-title: Płatki owsiane z bakaliami
-permalink: /Płatki_owsiane_z_bakaliami/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Płatki_owsiane_z_bakaliami/"
+title = "Płatki owsiane z bakaliami"
+
++++
 
 [Grafika:owsianka_bak.JPG](/Grafika:owsianka_bak.JPG "wikilink")
 

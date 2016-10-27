@@ -1,14 +1,13 @@
----
-title: Pierwsze zajęcia Aikido
-author: Wahwah
-layout: post
-date: 2006-11-10
-url: /2006/11/11/pierwsze-zajecia-aikido/
-categories:
-  - Objawy
-  - W społeczeństwie
++++
+author = "Wahwah"
+categories = ["Objawy", "W społeczeństwie"]
+date = "2006-11-10"
+layout = "post"
+title = "Pierwsze zajęcia Aikido"
+url = "/2006/11/11/pierwsze-zajecia-aikido/"
 
----
++++
+
 To znaczy, pierwsze zajęcia po przerwie. Dwunastoletniej.
 
 Byłem pełen obaw, bo na treningu człowiek się cały poci, a wiemy dobrze co się wtedy dzieje. Cała skóra swędzi tak że można oszaleć. Poziom swędzenia zależy od stanu skóry, im gorszy stan tym bardziej swędzi.

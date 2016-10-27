@@ -1,18 +1,14 @@
----
-title: Woda, dieta i stres
-author: Wahwah
-layout: post
-date: 2007-11-10
-url: /2007/11/11/woda-dieta-i-stres/
-categories:
-  - Środowisko
-tags:
-  - dieta
-  - przyczyny
-  - stres
-  - woda
++++
+author = "Wahwah"
+categories = ["Środowisko"]
+date = "2007-11-10"
+layout = "post"
+tags = ["dieta", "przyczyny", "stres", "woda"]
+title = "Woda, dieta i stres"
+url = "/2007/11/11/woda-dieta-i-stres/"
 
----
++++
+
 W [poprzednim poście][1] opisałem pokrótce swój „wyjazd z choroby”. W mojego doświadczenia wynika, że związek z chorobą ma ogólnie pojęte środowisko, a im dalej od Warszawy tym lepiej.
 
 Od razu zastanawiamy się, a co takiego właściwie w tym środowisku może być takiego. Dwóch pierwszych kandydatów to woda i dieta.

@@ -1,16 +1,14 @@
----
-title: Śmiertelna dawka środka nasennego
-author: Wahwah
-layout: post
-date: 2013-06-02
-url: /2013/06/02/smiertelna-dawka-srodka-nasennego/
-categories:
-  - Pseudomedycyna
-tags:
-  - Homeopatia
-  - James Randi
++++
+author = "Wahwah"
+categories = ["Pseudomedycyna"]
+date = "2013-06-02"
+layout = "post"
+tags = ["Homeopatia", "James Randi"]
+title = "Śmiertelna dawka środka nasennego"
+url = "/2013/06/02/smiertelna-dawka-srodka-nasennego/"
 
----
++++
+
 Kiedyś już linkowaliśmy do [prezentacji][1] Jamesa Randi, w której opowiadał on o zasadach homeopatii.
 
 Na ted.com można obejrzeć nowszą prezentację, tym razem James Randi demonstruje na sobie skuteczność homeopatycznego środka nasennego, przyjmując całe opakowanie na jeden raz. Co było dalej? Zobaczcie sami!

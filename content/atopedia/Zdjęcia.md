@@ -1,8 +1,9 @@
----
-title: Zdjęcia
-permalink: /Zdjęcia/
-date: "2015-01-01T00:00:00+01:00"
----
++++
+date = "2015-01-01T00:00:00+01:00"
+permalink = "/Zdjęcia/"
+title = "Zdjęcia"
+
++++
 
 Nie diagnozuj się samodzielnie. Jeżeli chcesz wiedzieć czy masz AZS czy nie, skonsultuj się z lekarzem.
 
