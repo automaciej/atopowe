@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Efekt_błędnego_koła/"
 title = "Efekt błędnego koła"
 kategorie = [ "terapia", "objawy atopowego zapalenia skóry",]
+aliases = [ "/atopedia/Błędne_koło" ]
 
 +++
 
