@@ -1,3 +1,32 @@
-{{ partial "header.html" . }}
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    {{ partial "head-section.html" . }}
+    <title>{{ with .Title }}{{ . }} &mdash; {{ end }}
+      Atopowe Zapalenie Skóry</title>
+
+  </head>
+  <body role="document">
+    
+    {{ partial "navbar.html" . }}
+
+    <div class="container" role="main">
+      <div class="row">
+        <div class="col-md-12">
+          {{ partial "entry.html" . }}
+
+          {{ partial "disqus-main.html" . }}
+        </div><!-- col-md-12 -->
+      </div><!-- row -->
+		</div><!-- /.container -->
+    {{ partial "page-end-includes.html" . }}
+    {{ partial "disqus-footer.html" . }}
+  </body>
+</html>
+<!-- {{ partial "header.html" . }}
+
 {{ partial "entry.html" . }}
 {{ partial "footer.html" . }}
+-->
+<!-- continue here, make this a root document and not use header/footer -->
+
