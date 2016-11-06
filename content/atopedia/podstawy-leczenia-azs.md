@@ -1,8 +1,8 @@
 +++
 date = "2015-01-01T00:00:00+01:00"
-permalink = "/Algorytm_leczenia_AZS/"
-title = "Algorytm leczenia AZS"
+title = "Podstawy leczenia AZS"
 kategorie = [ "terapia", "Podstawowe wiadomości",]
+aliases = [ "/atopedia/Algorytm_leczenia_AZS/" ]
 
 +++
 

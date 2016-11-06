@@ -2,6 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Elementarz_AZS/"
 title = "Elementarz AZS"
+aliases = [ "/atopedia/Podstawowe_zasady_AZS/" ]
 kategorie = [ "Podstawowe wiadomości",]
 
 +++
