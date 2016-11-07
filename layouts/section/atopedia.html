@@ -2,6 +2,18 @@
 
 	<main role="main">
 		<h1>{{ .Title }}</h1>
+    <p>
+    Proponujemy zacząć od artykułu <a
+       href="/atopedia/Podstawowe_wiadomości/">podstawowe wiadomości</a>, a
+     potem:
+      <ul class="list">
+        {{ range .Site.Taxonomies.kategorie.Get "podstawowe-wiadomości" }}
+        <li>
+          <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </p>
 	  <h2 class="list-title">Kategorie</h2>
     <ul class="list-unstyled list-inline inline">
     {{ range $name, $taxonomy := .Site.Taxonomies.kategorie }}
