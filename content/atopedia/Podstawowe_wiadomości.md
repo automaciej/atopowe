@@ -5,10 +5,9 @@ title = "Podstawowe wiadomości"
 kategorie = [ "Podstawowe wiadomości",]
 
 +++
+# Podstawowe wiadomości
 
-__NOTOC__
-
-### Czym jest atopia?
+## Czym jest atopia?
 
 Pojęciem atopia określa się grupę chorób o mechanizmie natychmiastowym (typu I) związanym z wytwarzaniem przeciwciał klasy [IgE](/atopedia/IgE "wikilink") pod wpływem kontaktu z alergenem (związkiem uczulającym), który powszechnie występuje w środowisku.
 
