@@ -6,9 +6,13 @@ kategorie = [ "Podstawowe wiadomości",]
 
 +++
 
-**SCORAD** (***scor**ing **a**topic **d**ermatitis*) jest systemem oceny i narzędziem kontroli nasilenia [AZS](/atopedia/AZS "wikilink"). Został stworzony we wrześniu 1990 r. przez Europejską Grupę Ekspertów *European Task Force*.
+**SCORAD** (scoring atopic dermatitis) jest systemem oceny i narzędziem kontroli
+nasilenia [AZS](/atopedia/AZS "wikilink"). Został stworzony we wrześniu 1990 r.
+przez Europejską Grupę Ekspertów *European Task Force*.
 
-[Ta broszura](http://www.fondation-dermatite-atopique.org/sites/default/files/polonaisPo-Scorad.pdf) pomoże Ci samodzielnie ocenić stopień nasilenia AZS.
+[Ta
+broszura](http://www.fondation-dermatite-atopique.org/sites/default/files/polonaisPo-Scorad.pdf)
+pomoże Ci samodzielnie ocenić stopień nasilenia AZS.
 
 ### Zobacz również
 

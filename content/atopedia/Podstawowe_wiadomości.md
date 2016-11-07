@@ -58,7 +58,7 @@ U [dzieci](/atopedia/dziecko "wikilink") zmiany skórne często związane są z 
 <references />
 **Zobacz też**
 
--   [Podstawowe wiadomości o AZS](/atopedia/:Kategoria:Podstawowe_wiadomości "wikilink")
+-   [Kategoria: Podstawowe wiadomości o AZS](/kategorie/podstawowe-wiadomości/)
 -   [Często zadawane pytania](/atopedia/Często_zadawane_pytania "wikilink")
 -   [Poprawa samopoczucia](/atopedia/Poprawa_samopoczucia "wikilink")
 
