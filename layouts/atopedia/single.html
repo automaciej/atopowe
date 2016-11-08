@@ -12,18 +12,22 @@
 
     <div class="container" role="main">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8 col-sm-12">
+          <h1 class="entry-title" itemprop="headline">{{ .Title }}</h1>
+        </div><!-- col-md-8 -->
+        <div class="col-md-4 col-sm-12">
           <p>
-          <a href="https://github.com/automatthias/atopowe-hugo/blob/master/content/{{ .File.Path }}">Edytuj tę stronę na github.com</a>
+            <a
+              href="https://github.com/automatthias/atopowe-hugo/blob/master/content/{{ .File.Path }}"
+              title="Edytuj tę stronę na github.com">Edytuj tę stronę</a>
           </p>
+        </div><!-- col-md-4 -->
+        <div class="col-md-12 col-sm-12">
 
-           <div class="page-header">
-              <h1 class="entry-title" itemprop="headline">{{ .Title }}</h1>
-           </div>
-           <section itemprop="entry-text">
-             {{ .Content }}
-           </section>
-           {{ partial "disqus-main.html" . }}
+          <section itemprop="entry-text">
+            {{ .Content }}
+          </section>
+          {{ partial "disqus-main.html" . }}
         </div><!-- col-md-12 -->
       </div><!-- row -->
 		</div><!-- /.container -->
