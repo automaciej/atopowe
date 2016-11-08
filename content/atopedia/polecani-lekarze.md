@@ -1,11 +1,15 @@
 +++
-aliases = ["/atopedia/Dział_z_lekarzami", "/atopedia/Polecani_lekarze"]
 date = "2016-08-30T21:24:19+01:00"
 title = "Polecani lekarze"
+aliases = ["/atopedia/Dział_z_lekarzami", "/atopedia/Polecani_lekarze"]
 
 +++
 
-# Według województw
+Ta strona zawiera listę lekarzy zebraną przez użytkowników forum atopowe.pl.
+Gdyby zobaczyli tutaj państwo informacje błędne albo nieaktualne, prosimy o
+kontakt.
+
+## Województwa
 
 *  [Dolnośląskie](#dolnośląskie)
 *  [Kujawsko-pomorskie](#kujawsko-pomorskie)
@@ -24,7 +28,7 @@ title = "Polecani lekarze"
 *  [Wielkopolskie](#wielkopolskie)
 *  [Zachodniopomorskie](#zachodniopomorskie)
 
-## Dolnośląskie
+### Dolnośląskie
 
 --------
 
@@ -162,7 +166,7 @@ ul. Armii Krajowej 14a lok. 6
 
 http://www.dermatolog-ziarkiewicz.pl/
 
-## Kujawsko-pomorskie
+### Kujawsko-pomorskie
 
 dr Anna Gralec Zawadzka
 Alergolog
@@ -173,7 +177,7 @@ N
 
 --------
 
- dr n. med. Marek Jankowski
+dr n. med. Marek Jankowski
 Dermatolog Wenerolog
 Lecznice Citomed
 87-100 
@@ -185,9 +189,9 @@ http://www.citomed.pl/
 
 --------
 
- lek. Bożena Jerzy
+lek. Bożena Jerzy
 Dermatolog
-SPZOZ Przych. \&quot;Akademicka\&quot; 
+SPZOZ Przych. &quot;Akademicka&quot; 
 85-080 
 Bydgoszcz
 Kołłątaja 9
@@ -195,7 +199,7 @@ Kołłątaja 9
 
 --------
 
- lek. Beata Madej
+lek. Beata Madej
 Alergolog Pediatra
 Szpital Dziecięcy
 
@@ -203,11 +207,12 @@ Bydgoszcz
 Gajowa 24a
 
 T
+
 http://www.wsd.org.pl/viewpage.php?page_id=1
 
 --------
 
- lek. Maria Majchrzak-Baś
+lek. Maria Majchrzak-Baś
 Dermatolog Pediatra
 NZOZ Zespół Lekarzy Specjalistów ALERGO-VITA
 85-092 
@@ -218,12 +223,12 @@ T
 
 --------
 
- dr Artur Markowski
+dr Artur Markowski
 Dermatolog
 Pomorskie Centrum Medycyny Estetycznej
 87-100
 Toruń
- Grudziądzka 110-114
+Grudziądzka 110-114
 56 622 48 65; 56 662 60 10
 
 http://www.pcme.pl/
@@ -231,7 +236,7 @@ artur.markowski@pcme.pl
 
 --------
 
- dr Barbara Nowak
+dr Barbara Nowak
 Dermatolog
 prywatny Szpital Specjalistyczny MATOPAT
 
@@ -241,7 +246,7 @@ Storczykowa 8/10
 
 --------
 
- dr Elżbieta Skwarek
+dr Elżbieta Skwarek
 Dermatolog
 prywatny Szpital Specjalistyczny MATOPAT
 
@@ -251,7 +256,7 @@ Storczykowa 8/10
 
 --------
 
- dr Dorota Termanowska
+dr Dorota Termanowska
 Dermatolog
 Poliklinika
 
@@ -261,16 +266,16 @@ Dąbrowskiego 2
 
 --------
 
- dr n. med. Barbara Zegarska
+dr n. med. Barbara Zegarska
 Dermatolog Alergolog Wenerolog
 Wojewódzka Przychodnia Dermatologiczna
 
 Bydgoszcz
 ul. Kurpińskiego 5
- (0-52) 325-58-10
+(0-52) 325-58-10
 T
 
-## Lubelskie
+### Lubelskie
 
 dr Adam Borzęcki
 Dermatolog Wenerolog
@@ -304,7 +309,7 @@ T
 
 --------
 
-## Lubuskie
+### Lubuskie
 
 lek. Aleksander Lenda
 Wenerolog Dermatolog
@@ -315,7 +320,7 @@ ul. Srebrna Góra 1B
 683835801
 T
 
-## Łódzkie
+### Łódzkie
 
 dr Agnieszka Brzozowska
 Alergolog
@@ -416,7 +421,7 @@ T
 
 --------
 
-## Małopolskie
+### Małopolskie
 
 dr n. med. Grażyna Antoszczyk
 Alergolog Dermatolog
@@ -465,7 +470,7 @@ Dermatolog
 
 Krakow
 Rejtana 2
- 12 633 01 75
+12 633 01 75
 N
 http://www.atopia.pl/konsultacje.htm#
 
@@ -528,7 +533,7 @@ T
 
 marcin.stobiecki@uj.edu.pl
 
-## Mazowieckie
+### Mazowieckie
 
 dr n. med. Witold Bartosiewicz
 Alergolog
@@ -652,7 +657,7 @@ http://www.cmlim.pl/
 prof. Edward Zawisza
 Alergolog
 
-## Opolskie
+### Opolskie
 
 lek. Małgorzata Konopka-Błaszczyk
 Dermatolog Wenerolog
@@ -676,7 +681,7 @@ T
 http://www.poradnia-alergologiczna.pl/
 poradnia@list.pl
 
-## Podkarpackie 
+### Podkarpackie 
 
 dr Jan Rozmus
 Dermatolog Wenerolog
@@ -697,7 +702,7 @@ Plac Wolności 17
 (0-17) 859-15-60
 T
 
-## Podlaskie
+### Podlaskie
 
 prof. Maciej Kaczmarski
 Alergolog Pediatra
@@ -729,7 +734,7 @@ Białystok
 ul. Nowy Świat 17
 85 74 45 115
 
-## Pomorskie
+### Pomorskie
 
 dr Konrad Chełmiński
 Laryngolog
@@ -744,7 +749,7 @@ T
 
 dr Jadwiga  Filipiuk
 Dermatolog
- DERM-AL Centrum Dermatologiczno-Alergologiczne
+DERM-AL Centrum Dermatologiczno-Alergologiczne
 
 Sopot
 ul.Armi Krajowej 116 / 5
@@ -885,7 +890,7 @@ ul Abrahama 57
 058 621-91-22
 T
 
-## Śląskie
+### Śląskie
 
 dr Jadwiga Bergler-Miedzińska
 Dermatolog Wenerolog
@@ -992,7 +997,7 @@ Dermatolog
 Drzymały 12/1
 32 249 33 66
 
-## Świętokrzyskie
+### Świętokrzyskie
 
 dr	Bogusław 	Kupis
 Dermatolog
@@ -1002,7 +1007,7 @@ Kielce
 Wspolna
 041-368-21-41
 
-## Warmińsko-mazurskie
+### Warmińsko-mazurskie
 
 dr Danuta Przybyszewska
 
@@ -1022,7 +1027,7 @@ Olsztyn
 
 T
 
-## Wielkopolskie
+### Wielkopolskie
 
 prof. Magdalena Czarnecka-Operacz
 Alergolog Dermatolog
@@ -1140,7 +1145,7 @@ ul. Szwajcarska 3
 061/8739006
 T
 
-## Zachodniopomorskie
+### Zachodniopomorskie
 
 dr Konrad Andrzejewski
 Alergolog

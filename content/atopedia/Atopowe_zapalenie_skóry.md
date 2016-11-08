@@ -3,7 +3,7 @@ aliases = ["/atopedia/AZS"]
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atopowe_zapalenie_skóry/"
 title = "Atopowe zapalenie skóry"
-kategorie = [ "strona główna", " podstawowe wiadomości",]
+kategorie = [ "podstawowe wiadomości",]
 
 +++
 

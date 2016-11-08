@@ -1,14 +1,14 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2011-05-01T00:00:00+01:00"
 permalink = "/Warsztaty_dla_dzieci_z_AZS/"
-title = "Warsztaty dla dzieci z AZS"
+title = "Warsztaty dla dzieci z AZS (czerwiec 2011)"
 kategorie = [ "Fundacja Alabaster", "Życie towarzyskie atopików", "Atopowe zapalenie skóry u dzieci",]
 
 +++
 
 4 – 5 czerwca 2011
 
-**[Relacja](http://fundacja-alabaster.org.pl/?p=880)**
+**[Relacja z warsztatów](http://fundacja-alabaster.org.pl/?p=880)**
 
 Zalesie Górne pod Warszawą (możliwy dojazd PKP z Dworca Centralnego – ok. 40 min.)
 
@@ -39,9 +39,3 @@ Na bieżąco zapewniamy napoje (kawa, herbata, woda) i coś do pogryzienia (susz
 **Adam Walny** - lalkarz, reżyser, scenograf, aktor. Jest absolwentem Liceum Sztuk Plastycznych w Supraślu ze specjalizacją snycerz oraz Akademii Teatralnej w Warszawie jako reżyser teatru lalek. W 1999 roku założył własny teatr, z którym gościł na wielu prestiżowych festiwalach teatralnych w Polsce i za granicą ze spektaklami "Kuglarz i Śmierć", "Genesis", "Motyl", "Kamieniarz", "Misterium Narodzenia", "Dziadek", "Hamlet". W roku 2009 wyreżyserował "Przygody Münchhausena" Gottfrieda Augusta Bürgera w łódzkim Teatrze Nowym. W 2010 r. stworzył scenografię do spektaklu "Janosik" w warszawskim Tetrze "Lalka". Zdobywca kilkudziesięciu nagród na festiwalach teatralnych w Polsce i za granicą. Założył Instytut Sztuki Lalkarskiej przy własnym teatrze oraz Pracownię Teatru Przedmiotu przy Staromiejskim Domu Kultury w Warszawie. Jest autorem programów edukacyjnych (Lekcje z lalki) i terapeutycznych (Lalka z duszą). Prowadzi różnego rodzaju warsztaty dla dzieci i dorosłych, był terapeutą na plenerach twórców niepełnosprawnych organizowanych przez Stowarzyszenie NIKE. Współpracował ze Stowarzyszeniem Twórców Niepełnosprawnych, Stowarzyszeniem Rodzin i Przyjaciół Osób z Upośledzeniem Umysłowym "Chata z pomysłami", Centrum Edukacji Teatralnej w Gdańsku, Teatrem Muzycznym w Gdyni, Białostockim Teatrem Lalek, Eksperymentalnym Studiem Tańca EST w Krakowie.
 
 **Katarzyna Wyrzykowska** – psycholog, terapeuta z dziewięcioletnim doświadczeniem, certyfikowany analityk grupowy, ma doświadczenie w prowadzeniu terapii indywidualnej i grupowej z elementami psychodramy i psychogimnastyki, prowadziła warsztaty rozwoju osobistego dla dzieci i młodzieży. Obecnie współpracuje z ośrodkiem terapeutyczno-medycznym MABOR, gdzie prowadzi terapię indywidualną, między innymi dla osób z zaburzeniami odżywiania i kobiet w ciąży oraz jest jedną z osób prowadzących zajęcia w atestowanym szkoleniu psychoterapeutycznym.
-
-Zgłoszenia, pytania, wyjaśnienia:
-
-Tel: 602 613 003 Monika Wyrzykowska
-
-Mail: fundacja@fundacja-alabaster.org
