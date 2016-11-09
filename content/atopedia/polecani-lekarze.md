@@ -7,7 +7,7 @@ aliases = ["/atopedia/Dział_z_lekarzami", "/atopedia/Polecani_lekarze"]
 
 Ta strona zawiera listę lekarzy zebraną przez użytkowników forum atopowe.pl.
 Gdyby zobaczyli tutaj państwo informacje błędne albo nieaktualne, prosimy o
-kontakt.
+kontakt, np. zostawienie komentarza na dole.
 
 ## Województwa
 
