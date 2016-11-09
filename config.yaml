@@ -1,13 +1,11 @@
 title: "Atopowe Zapalenie Skóry"
-url: https://www.atopowe.pl
 baseurl: https://www.atopowe.pl
 language-code: pl-pl
-name: "Atopowe Zapalenie Skóry"
-description: Atopowe.pl, archiwum forum oraz Atopedii.
 copyright: 2003-2016 Atopowe.pl
 params:
   logo: /images/atopowe-logo.png
-twitter: "https://twitter.com/atopowe"
+  description: "Forum oraz FAQ, informacje oraz porady pochodzące od osób chorych na AZS."
+  twitter: "https://twitter.com/atopowe"
 permalinks:
   post: /:year/:month/:day/:slug/
 taxonomies:

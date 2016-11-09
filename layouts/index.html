@@ -2,8 +2,8 @@
 <html lang="en">
   <head>
     {{ partial "head-section.html" . }}
-    <title>{{ with .Title }}{{ . }} &mdash; {{ end }}
-      Atopowe Zapalenie Skóry</title>
+    <title>{{ with .Title }}{{ . }} &mdash; {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}" />
   </head>
   <body role="document">
     {{ partial "navbar.html" . }}
