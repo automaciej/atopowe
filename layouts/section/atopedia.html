@@ -2,8 +2,14 @@
 <html lang="en">
   <head>
     {{ partial "head-section.html" . }}
-    <title>{{ with .Title }}{{ . }} &mdash; {{ end }}
-      Atopowe Zapalenie Skóry</title>
+    <title>{{ with .Title }}{{ . }} &mdash; {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="Encyklopedia Atopowego Zapalenia Skóry." />
+
+    <meta property="og:url"         content="{{ .Permalink }}" />
+    <meta property="og:type"        content="article" />
+    <meta property="og:title"       content="{{ .Site.Title }}" />
+    <meta property="og:description" content="Encyklopedia Atopowego Zapalenia Skóry" />
+    <meta property="og:image"       content="/images/atopowe-logo.png" />
 
   </head>
   <body role="document">
