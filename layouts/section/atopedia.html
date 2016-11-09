@@ -8,24 +8,45 @@
   </head>
   <body role="document">
     {{ partial "navbar.html" . }}
+
+    <div class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2 col-xs-12 text-center">
+              <img class="img-circle" src="/images/atopowe-logo.png"
+                   alt="Logo" width="140" height="140">
+          </div><!-- col-md-2 -->
+          <div class="col-md-10 col-xs-12 text-center">
+            <h1>
+              {{ .Title }}
+              <br/>
+              <small>
+                Encyklopedia atopowego zapalenia skóry
+              </small>
+            </h1>
+          </div><!-- col-md-10 -->
+        </div><!-- row -->
+      </div>
+    </div><!-- jumbotron -->
+
     <div class="container" role="main">
       <div class="row">
         <div class="col-md-12">
 
 <main role="main">
-  <h1>{{ .Title }}</h1>
   <p>
   Proponujemy zacząć od artykułu <a
      href="/atopedia/Podstawowe_wiadomości/">podstawowe wiadomości</a>, a
    potem:
-    <ul class="list">
-      {{ range .Site.Taxonomies.kategorie.Get "podstawowe-wiadomości" }}
-      <li>
-        <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
-      </li>
-      {{ end }}
-    </ul>
   </p>
+  <ul class="list">
+    {{ range .Site.Taxonomies.kategorie.Get "podstawowe-wiadomości" }}
+    <li>
+      <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+  <p>Poniżej listy wszystkich kategorii i wszystkich artykułów:</p>
   <h2 class="list-title">Kategorie</h2>
   <ul class="list-unstyled list-inline inline">
   {{ range $name, $taxonomy := .Site.Taxonomies.kategorie }}
