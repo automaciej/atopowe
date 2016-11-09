@@ -1,43 +1,61 @@
-{{ partial "header.html" . }}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "head-section.html" . }}
+    <title>{{ with .Title }}{{ . }} &mdash; {{ end }}
+      Atopowe Zapalenie Skóry</title>
 
-	<main role="main">
-		<h1>{{ .Title }}</h1>
-    <p>
-    Proponujemy zacząć od artykułu <a
-       href="/atopedia/Podstawowe_wiadomości/">podstawowe wiadomości</a>, a
-     potem:
-      <ul class="list">
-        {{ range .Site.Taxonomies.kategorie.Get "podstawowe-wiadomości" }}
-        <li>
-          <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
-        </li>
-        {{ end }}
-      </ul>
-    </p>
-	  <h2 class="list-title">Kategorie</h2>
-    <ul class="list-unstyled list-inline inline">
-    {{ range $name, $taxonomy := .Site.Taxonomies.kategorie }}
-    <li>
-      <a href="{{ "/kategorie/" | relURL }}{{ $name | urlize }}/">{{ $name }}</a>
-      <span class="text-muted">({{ $taxonomy.Count }})</span>
-    </li>
-    {{ end }}
+  </head>
+  <body role="document">
+    {{ partial "navbar.html" . }}
+    <div class="container" role="main">
+      <div class="row">
+        <div class="col-md-12">
+
+<main role="main">
+  <h1>{{ .Title }}</h1>
+  <p>
+  Proponujemy zacząć od artykułu <a
+     href="/atopedia/Podstawowe_wiadomości/">podstawowe wiadomości</a>, a
+   potem:
+    <ul class="list">
+      {{ range .Site.Taxonomies.kategorie.Get "podstawowe-wiadomości" }}
+      <li>
+        <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+      </li>
+      {{ end }}
     </ul>
-		<h2 class="list-title">Wszystkie artykuły</h2>
-    <p>
-      Użyj CTRL+F żeby wyszukać interesujący cię artykuł.
-    </p>
-    <ul class="list-inline inline">
-{{ range .Data.Pages }}
-			<li class="entry-title" itemprop="headline">
+  </p>
+  <h2 class="list-title">Kategorie</h2>
+  <ul class="list-unstyled list-inline inline">
+  {{ range $name, $taxonomy := .Site.Taxonomies.kategorie }}
+  <li>
+    <a href="{{ "/kategorie/" | relURL }}{{ $name | urlize }}/">{{ $name }}</a>
+    <span class="text-muted">({{ $taxonomy.Count }})</span>
+  </li>
+  {{ end }}
+  </ul>
+  <h2 class="list-title">Wszystkie artykuły</h2>
+  <p>
+    Użyj CTRL+F żeby wyszukać interesujący cię artykuł.
+  </p>
+  <ul class="list-inline inline">
+    {{ range .Data.Pages }}
+      <li class="entry-title" itemprop="headline">
         <article itemscope itemtype="http://schema.org/Blog">
         <a href="{{ .RelPermalink }}">
           {{ .Title }}{{ if .Draft }} #Draft{{ end }}
         </a>
         </article>
       </li>
-{{ end }}
-    </ul>
-	</main>
+    {{ end }}
+  </ul>
+</main>
 
-{{ partial "footer.html" . }}
+          {{ partial "disqus-main.html" . }}
+        </div><!-- col-md-12 -->
+      </div><!-- row -->
+    </div><!-- /.container -->
+    {{ partial "page-end-includes.html" . }}
+  </body>
+</html>
