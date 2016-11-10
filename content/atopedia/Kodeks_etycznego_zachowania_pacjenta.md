@@ -19,14 +19,3 @@ kategorie = [ "humor",]
 3.  **STARAJ SIĘ CHOROWAĆ NA TO NA CO CIĘ LECZĄ**
 
     Pamiętaj że Twój lekarz musi dbać o swoją reputację.
-
-4.  **NIE PYTAJ O SKUTKI UBOCZNE STOSOWANIA PRZEPISYWANYCH LEKÓW (o składy też nie)**
-
-    Przecież możesz sobie sam przeczytać w ulotce, oszczędź struny głosowe lekarza.
-
-5.  **NIE STAWIAJ DIAGNOZY SAM SOBIE**
-
-    Lekarze naprawdę się męczą przez długie lata przygotowując do zawodu, a tu
-    im przychodzi jakiś laik i mówi jak go leczyć. Jeżeli lekarz się myli,
-    spróbuj delikatnie powiedzieć, że lekarz pierwszego kontaktu zasugerował AZS
-    i prosił Cię o sprawdzenie diagnozy u dermatologa.
