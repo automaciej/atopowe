@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Bezglutenowy_biszkopcik/"
 title = "Bezglutenowy biszkopcik"
-kategorie = [ "przepisy",]
+rodzajeprzepisow = [ "przepisy",]
 
 +++
 

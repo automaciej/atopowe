@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Racuchy/"
 title = "Racuchy"
-kategorie = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna",]
+rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna",]
 
 +++
 

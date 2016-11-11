@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Masło_migdałowe/"
 title = "Masło migdałowe"
-kategorie = [ "przepisy", "dieta bezmleczna",]
+rodzajeprzepisow = [ "przepisy", "dieta bezmleczna",]
 
 +++
 

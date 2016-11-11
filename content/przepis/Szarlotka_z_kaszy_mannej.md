@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Szarlotka_z_kaszy_mannej/"
 title = "Szarlotka z kaszy mannej"
-kategorie = [ "przepisy", "dieta hipoalergiczna plus pszenica",]
+rodzajeprzepisow = [ "przepisy", "dieta hipoalergiczna plus pszenica",]
 
 +++
 

@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Ciasteczka_kruche_na_piwie/"
 title = "Ciasteczka kruche na piwie"
-kategorie = [ "przepisy", "Dieta hipoalergiczna plus pszenica",]
+rodzajeprzepisow = [ "przepisy", "Dieta hipoalergiczna plus pszenica",]
 
 +++
 

@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Sałatka_z_tuńczyka/"
 title = "Sałatka z tuńczyka"
-kategorie = [ "przepisy", "dieta bezmleczna",]
+rodzajeprzepisow = [ "przepisy", "dieta bezmleczna",]
 
 +++
 

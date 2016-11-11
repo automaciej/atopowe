@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Biszkopt_bez_jajek/"
 title = "Biszkopt bez jajek"
-kategorie = [ "przepisy", "dieta hipoalergiczna plus pszenica",]
+rodzajeprzepisow = [ "przepisy", "dieta hipoalergiczna plus pszenica",]
 
 +++
 
