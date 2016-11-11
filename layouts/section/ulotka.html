@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "head-section.html" . }}
+    {{ $title := "Ulotki leków" }}
+    {{ $description := "Ulotki leków wpisane przez użytkowników" }}
+    <title>{{ with $title }}{{ . }} &mdash; {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ $description }}" />
+
+    <meta property="og:url"         content="{{ .Permalink }}" />
+    <meta property="og:type"        content="article" />
+    <meta property="og:title"       content="{{ .Site.Title }}" />
+    <meta property="og:description" content="{{ $description }}" />
+    <meta property="og:image"       content="/images/atopowe-logo.png" />
+
+  </head>
+  <body role="document">
+    {{ partial "navbar.html" . }}
+
+    <div class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2 col-xs-12 text-center">
+              <img class="img-circle" src="/images/atopowe-logo.png"
+                   alt="Logo" width="140" height="140">
+          </div><!-- col-md-2 -->
+          <div class="col-md-10 col-xs-12 text-center">
+            <h1>
+              {{ $title }}
+              <br/>
+              <small>
+                {{ $description }}
+              </small>
+            </h1>
+          </div><!-- col-md-10 -->
+        </div><!-- row -->
+      </div>
+    </div><!-- jumbotron -->
+
+    <div class="container" role="main">
+      <div class="row">
+        <div class="col-md-12">
+
+<main role="main">
+  <h2 class="list-title">Rodzaje leków</h2>
+  <ul class="list-unstyled list-inline inline">
+  {{ range $name, $taxonomy := .Site.Taxonomies.rodzajelekow }}
+  <li>
+    <a href="{{ "/rodzajelekow/" | relURL }}{{ $name | urlize }}/">{{ $name }}</a>
+    <span class="text-muted">({{ $taxonomy.Count }})</span>
+  </li>
+  {{ end }}
+  </ul>
+  <h2 class="list-title">Lista wszystkich ulotek</h2>
+  <p>
+    Wciśnij CTRL+F żeby wyszukać interesującą cię ulotkę.
+  </p>
+  <ul class="list-inline inline">
+    {{ range .Data.Pages }}
+      <li class="entry-title" itemprop="headline">
+        <article itemscope itemtype="http://schema.org/BlogPosting">
+        <a href="{{ .RelPermalink }}">
+          <span itemprop="name">{{ .Title }}{{ if .Draft }} #Draft{{ end }}</span>
+        </a>
+        </article>
+      </li>
+    {{ end }}
+  </ul>
+</main>
+
+          {{ partial "disqus-main.html" . }}
+        </div><!-- col-md-12 -->
+      </div><!-- row -->
+    </div><!-- /.container -->
+    {{ partial "page-end-includes.html" . }}
+  </body>
+</html>
