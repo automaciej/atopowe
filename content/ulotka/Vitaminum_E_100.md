@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Vitaminum_E_100/"
 title = "Vitaminum E 100"
-kategorie = [ "leki",]
+rodzajelekow = [ "leki",]
 aliases = [ "/atopedia/Vitaminum_E_100/",]
 
 +++

@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Squamax/"
 title = "Squamax"
-kategorie = [ "preparaty zawierające mocznik", "kosmetyki",]
+rodzajelekow = [ "preparaty zawierające mocznik", "kosmetyki",]
 aliases = [ "/atopedia/Squamax/",]
 
 +++

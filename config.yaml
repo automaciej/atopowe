@@ -10,3 +10,4 @@ permalinks:
   post: /:year/:month/:day/:slug/
 taxonomies:
   kategoria: "kategorie"
+  rodzajleku: "rodzajelekow"

@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Neostrata_Bionic_Lotion/"
 title = "Neostrata Bionic Lotion"
-kategorie = [ "emolienty",]
+rodzajelekow = [ "emolienty",]
 aliases = [ "/atopedia/Neostrata_Bionic_Lotion/",]
 
 +++

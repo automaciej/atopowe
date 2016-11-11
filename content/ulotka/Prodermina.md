@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Prodermina/"
 title = "Prodermina"
-kategorie = [ "maści z dziegciem", "maści",]
+rodzajelekow = [ "maści z dziegciem", "maści",]
 aliases = [ "/atopedia/Prodermina/",]
 
 +++

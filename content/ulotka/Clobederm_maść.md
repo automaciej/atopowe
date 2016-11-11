@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Clobederm_maść/"
 title = "Clobederm maść"
-kategorie = [ "maści", "leki sterydowe",]
+rodzajelekow = [ "maści", "leki sterydowe",]
 aliases = [ "/atopedia/Clobederm_maść/",]
 
 +++

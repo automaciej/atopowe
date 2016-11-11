@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Bedicort/"
 title = "Bedicort"
-kategorie = [ "leki sterydowe", "antybiotyki", "kremy",]
+rodzajelekow = [ "leki sterydowe", "antybiotyki", "kremy",]
 aliases = [ "/atopedia/Bedicort/",]
 
 +++

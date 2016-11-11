@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lorinden_emulsja/"
 title = "Lorinden emulsja"
-kategorie = [ "leki sterydowe",]
+rodzajelekow = [ "leki sterydowe",]
 aliases = [ "/atopedia/Lorinden_emulsja/",]
 
 +++

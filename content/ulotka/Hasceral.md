@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Hasceral/"
 title = "Hasceral"
-kategorie = [ "maści", "preparaty zawierające mocznik",]
+rodzajelekow = [ "maści", "preparaty zawierające mocznik",]
 aliases = [ "/atopedia/Hasceral/",]
 
 +++

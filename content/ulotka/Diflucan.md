@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Diflucan/"
 title = "Diflucan"
-kategorie = [ "Leki przeciwgrzybicze",]
+rodzajelekow = [ "Leki przeciwgrzybicze",]
 aliases = [ "/atopedia/Diflucan/",]
 
 +++

@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Virlix/"
 title = "Virlix"
-kategorie = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
+rodzajelekow = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 aliases = [ "/atopedia/Virlix/",]
 
 +++

@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atopra_krem/"
 title = "Atopra krem"
-kategorie = [ "emolienty", "kremy",]
+rodzajelekow = [ "emolienty", "kremy",]
 aliases = [ "/atopedia/Atopra_krem/",]
 
 +++

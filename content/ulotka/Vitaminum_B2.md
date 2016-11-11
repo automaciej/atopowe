@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Vitaminum_B2/"
 title = "Vitaminum B2"
-kategorie = [ "leki", "leki doustne",]
+rodzajelekow = [ "leki", "leki doustne",]
 aliases = [ "/atopedia/Vitaminum_B2/",]
 
 +++

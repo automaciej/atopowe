@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Balneum_Hermal/"
 title = "Balneum Hermal"
-kategorie = [ "emolienty",]
+rodzajelekow = [ "emolienty",]
 aliases = [ "/atopedia/Balneum_Hermal/",]
 
 +++

@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alermed/"
 title = "Alermed"
-kategorie = [ "Leki antyhistaminowe", "leki antyhistaminowe II generacji",]
+rodzajelekow = [ "Leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 aliases = [ "/atopedia/Alermed/",]
 
 +++

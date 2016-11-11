@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Filomag_B6/"
 title = "Filomag B6"
-kategorie = [ "leki", "leki doustne",]
+rodzajelekow = [ "leki", "leki doustne",]
 aliases = [ "/atopedia/Filomag_B6/",]
 
 +++
