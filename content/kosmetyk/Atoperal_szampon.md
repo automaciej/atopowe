@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atoperal_szampon/"
 title = "Atoperal szampon"
-kategorie = [ "szampony", "preparaty zawierające mocznik",]
+rodzajekosmetykow = [ "szampony", "preparaty zawierające mocznik",]
 
 +++
 
