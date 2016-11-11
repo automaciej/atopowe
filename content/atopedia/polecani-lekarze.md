@@ -320,6 +320,18 @@ ul. Srebrna Góra 1B
 683835801
 T
 
+--------
+
+lek. Atena Emerle
+Wenerolog Dermatolog
+
+66-450
+Gorzów Wielkopolski
+ul. Walczaka 12B/13
+Villa Park
+
+--------
+
 ### Łódzkie
 
 dr Agnieszka Brzozowska
