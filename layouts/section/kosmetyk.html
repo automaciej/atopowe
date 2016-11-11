@@ -17,45 +17,36 @@
   <body role="document">
     {{ partial "navbar.html" . }}
 
-    <div class="jumbotron">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-2 col-xs-12 text-center">
-              <img class="img-circle" src="/images/atopowe-logo.png"
-                   alt="Logo" width="140" height="140">
-          </div><!-- col-md-2 -->
-          <div class="col-md-10 col-xs-12 text-center">
-            <h1>
-              {{ $title }}
-              <br/>
-              <small>
-                {{ $description }}
-              </small>
-            </h1>
-          </div><!-- col-md-10 -->
-        </div><!-- row -->
-      </div>
-    </div><!-- jumbotron -->
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-xs-12 text-center">
+          <h1>
+            {{ $title }}
+            <br/>
+            <small>
+              {{ $description }}
+            </small>
+          </h1>
+        </div><!-- col-md-10 -->
+      </div><!-- row -->
+    </div>
 
     <div class="container" role="main">
       <div class="row">
         <div class="col-md-12">
 
 <main role="main">
-  <h2 class="list-title">Rodzaje leków</h2>
+  <h2 class="list-title">Rodzaje kosmetyków</h2>
   <ul class="list-unstyled list-inline inline">
-  {{ range $name, $taxonomy := .Site.Taxonomies.rodzajelekow }}
+  {{ range $name, $taxonomy := .Site.Taxonomies.rodzajekosmetykow }}
   <li>
-    <a href="{{ "/rodzajelekow/" | relURL }}{{ $name | urlize }}/">{{ $name }}</a>
+    <a href="{{ "/rodzajekosmetykow/" | relURL }}{{ $name | urlize }}/">{{ $name }}</a>
     <span class="text-muted">({{ $taxonomy.Count }})</span>
   </li>
   {{ end }}
   </ul>
-  <h2 class="list-title">Lista wszystkich ulotek</h2>
-  <p>
-    Wciśnij CTRL+F żeby wyszukać interesującą cię ulotkę.
-  </p>
-  <ul class="list-inline inline">
+  <h2 class="list-title">Lista wszystkich kosmetyków</h2>
+  <ul class="list-unstyled">
     {{ range .Data.Pages }}
       <li class="entry-title" itemprop="headline">
         <article itemscope itemtype="http://schema.org/BlogPosting">
