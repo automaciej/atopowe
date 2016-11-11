@@ -2,7 +2,8 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Hydroksyzyna/"
 title = "Hydroksyzyna"
-kategorie = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
+rodzajelekow = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
+aliases = [ "/atopedia/Hydroksyzyna/",]
 
 +++
 

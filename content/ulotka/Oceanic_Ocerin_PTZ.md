@@ -2,7 +2,8 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Oceanic_Ocerin_PTZ/"
 title = "Oceanic Ocerin PTZ"
-kategorie = [ "szampony", "preparaty zawierające mocznik", "leki przeciwgrzybicze",]
+rodzajelekow = [ "szampony", "preparaty zawierające mocznik", "leki przeciwgrzybicze",]
+aliases = [ "/atopedia/Oceanic_Ocerin_PTZ/",]
 
 +++
 
