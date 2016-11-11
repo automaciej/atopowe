@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/SolcoKerasal/"
 title = "SolcoKerasal"
 kategorie = [ "maści", "preparaty zawierające mocznik",]
+aliases = [ "/atopedia/SolcoKerasal/",]
 
 +++
 

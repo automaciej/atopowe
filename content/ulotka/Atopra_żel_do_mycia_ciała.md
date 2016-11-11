@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atopra_żel_do_mycia_ciała/"
 title = "Atopra żel do mycia ciała"
 kategorie = [ "kosmetyki", "preparaty zawierające mocznik",]
+aliases = [ "/atopedia/Atopra_żel_do_mycia_ciała/",]
 
 +++
 

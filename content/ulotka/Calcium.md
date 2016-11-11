@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Calcium/"
 title = "Calcium"
 kategorie = [ "leki doustne",]
+aliases = [ "/atopedia/Calcium/",]
 
 +++
 

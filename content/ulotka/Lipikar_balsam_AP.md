@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lipikar_balsam_AP/"
 title = "Lipikar balsam AP"
 kategorie = [ "emolienty",]
+aliases = [ "/atopedia/Lipikar_balsam_AP/",]
 
 +++
 

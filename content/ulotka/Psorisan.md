@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Psorisan/"
 title = "Psorisan"
 kategorie = [ "maści", "maści z dziegciem",]
+aliases = [ "/atopedia/Psorisan/",]
 
 +++
 

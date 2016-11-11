@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Triderm/"
 title = "Triderm"
 kategorie = [ "leki sterydowe", "antybiotyki", "leki przeciwgrzybicze", "kremy",]
+aliases = [ "/atopedia/Triderm/",]
 
 +++
 

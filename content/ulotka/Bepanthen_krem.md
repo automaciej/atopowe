@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Bepanthen_krem/"
 title = "Bepanthen krem"
 kategorie = [ "kremy",]
+aliases = [ "/atopedia/Bepanthen_krem/",]
 
 +++
 

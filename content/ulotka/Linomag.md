@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Linomag/"
 title = "Linomag"
 kategorie = [ "maści", "kremy", "emolienty",]
+aliases = [ "/atopedia/Linomag/",]
 
 +++
 

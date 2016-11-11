@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lorinden_C/"
 title = "Lorinden C"
 kategorie = [ "leki sterydowe", "maści",]
+aliases = [ "/atopedia/Lorinden_C/",]
 
 +++
 

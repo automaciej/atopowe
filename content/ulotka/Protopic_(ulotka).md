@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Protopic_(ulotka)/"
 title = "Protopic (ulotka)"
 kategorie = [ "maści", "leki immunosupresyjne",]
+aliases = [ "/atopedia/Protopic_(ulotka)/",]
 
 +++
 

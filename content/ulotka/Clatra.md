@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Clatra/"
 title = "Clatra"
 kategorie = [ "Leki antyhistaminowe", "Leki antyhistaminowe III generacji",]
+aliases = [ "/atopedia/Clatra/",]
 
 +++
 

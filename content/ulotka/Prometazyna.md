@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Prometazyna/"
 title = "Prometazyna"
 kategorie = [ "leki antyhistaminowe", "Leki antyhistaminowe I generacji",]
+aliases = [ "/atopedia/Prometazyna/",]
 
 +++
 

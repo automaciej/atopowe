@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Vitaminum_B6/"
 title = "Vitaminum B6"
 kategorie = [ "leki", "leki doustne",]
+aliases = [ "/atopedia/Vitaminum_B6/",]
 
 +++
 

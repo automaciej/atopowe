@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lirra/"
 title = "Lirra"
 kategorie = [ "Leki antyhistaminowe", "leki antyhistaminowe III generacji",]
+aliases = [ "/atopedia/Lirra/",]
 
 +++
 

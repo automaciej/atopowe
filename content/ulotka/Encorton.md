@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Encorton/"
 title = "Encorton"
 kategorie = [ "leki sterydowe",]
+aliases = [ "/atopedia/Encorton/",]
 
 +++
 

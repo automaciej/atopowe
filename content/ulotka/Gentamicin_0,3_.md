@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Gentamicin_0,3%/"
 title = "Gentamicin 0,3%"
 kategorie = [ "antybiotyki",]
+aliases = [ "/atopedia/Gentamicin_0,3%/",]
 
 +++
 

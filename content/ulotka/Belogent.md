@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Belogent/"
 title = "Belogent"
 kategorie = [ "maści", "leki sterydowe", "antybiotyki",]
+aliases = [ "/atopedia/Belogent/",]
 
 +++
 

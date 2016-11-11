@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Clemastinum/"
 title = "Clemastinum"
 kategorie = [ "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
+aliases = [ "/atopedia/Clemastinum/",]
 
 +++
 

@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pigmentum_Castellani/"
 title = "Pigmentum Castellani"
 kategorie = [ "leki przeciwgrzybicze",]
+aliases = [ "/atopedia/Pigmentum_Castellani/",]
 
 +++
 

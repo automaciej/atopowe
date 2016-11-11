@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Polytar_AF/"
 title = "Polytar AF"
 kategorie = [ "szampony", "leki przeciwgrzybicze",]
+aliases = [ "/atopedia/Polytar_AF/",]
 
 +++
 

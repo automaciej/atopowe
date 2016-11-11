@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Telfast/"
 title = "Telfast"
 kategorie = [ "leki antyhistaminowe", "leki antyhistaminowe III generacji", "leki doustne",]
+aliases = [ "/atopedia/Telfast/",]
 
 +++
 

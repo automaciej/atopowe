@@ -3,6 +3,7 @@ date = "2015-01-01T00:00:00+01:00"
 permalink = "/Travocort/"
 title = "Travocort"
 kategorie = [ "leki przeciwgrzybicze", "leki sterydowe",]
+aliases = [ "/atopedia/Travocort/",]
 
 +++
 
