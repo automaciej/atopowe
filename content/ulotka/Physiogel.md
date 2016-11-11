@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Physiogel/"
 title = "Physiogel"
-kategorie = [ "kremy", "ulotki leków", "szampony",]
+kategorie = [ "kremy", "szampony",]
 
 +++
 

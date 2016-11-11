@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atopiclair/"
 title = "Atopiclair"
-kategorie = [ "emolienty", "kremy", "ulotki leków",]
+kategorie = [ "emolienty", "kremy",]
 
 +++
 

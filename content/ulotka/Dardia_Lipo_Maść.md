@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Dardia_Lipo_Maść/"
 title = "Dardia Lipo Maść"
-kategorie = [ "maści", "ulotki leków", "preparaty zawierające mocznik",]
+kategorie = [ "maści", "preparaty zawierające mocznik",]
 
 +++
 

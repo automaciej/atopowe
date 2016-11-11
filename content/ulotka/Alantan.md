@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Alantan/"
 title = "Alantan"
-kategorie = [ "kremy", "maści", "emolienty", "ulotki leków",]
+kategorie = [ "kremy", "maści", "emolienty",]
 
 +++
 

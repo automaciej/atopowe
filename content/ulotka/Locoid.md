@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Locoid/"
 title = "Locoid"
-kategorie = [ "maści", "leki sterydowe", "kremy", "ulotki leków",]
+kategorie = [ "maści", "leki sterydowe", "kremy",]
 
 +++
 

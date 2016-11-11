@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Oxycort_A/"
 title = "Oxycort A"
-kategorie = [ "maści", "leki sterydowe", "ulotki leków", "antybiotyki",]
+kategorie = [ "maści", "leki sterydowe", "antybiotyki",]
 
 +++
 

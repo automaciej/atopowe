@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Polcortolon/"
 title = "Polcortolon"
-kategorie = [ "ulotki leków", "leki sterydowe", "maści", "kremy",]
+kategorie = [ "leki sterydowe", "maści", "kremy",]
 
 +++
 

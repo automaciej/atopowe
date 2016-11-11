@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Flumetazon/"
 title = "Flumetazon"
-kategorie = [ "maści", "leki sterydowe", "ulotki leków",]
+kategorie = [ "maści", "leki sterydowe",]
 
 +++
 

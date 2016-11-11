@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Sandimmun_Neoral/"
 title = "Sandimmun Neoral"
-kategorie = [ "leki doustne", "leki immunosupresyjne", "ulotki leków",]
+kategorie = [ "leki doustne", "leki immunosupresyjne",]
 
 +++
 

@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Mavena_B12/"
 title = "Mavena B12"
-kategorie = [ "ulotki leków", "maści",]
+kategorie = [ "maści",]
 
 +++
 

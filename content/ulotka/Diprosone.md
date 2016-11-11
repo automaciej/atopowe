@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Diprosone/"
 title = "Diprosone"
-kategorie = [ "leki sterydowe", "kremy", "ulotki leków",]
+kategorie = [ "leki sterydowe", "kremy",]
 
 +++
 

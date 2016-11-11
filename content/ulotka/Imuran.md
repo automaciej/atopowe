@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Imuran/"
 title = "Imuran"
-kategorie = [ "ulotki leków", "leki immunosupresyjne",]
+kategorie = [ "leki immunosupresyjne",]
 
 +++
 

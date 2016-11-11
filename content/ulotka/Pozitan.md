@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Pozitan/"
 title = "Pozitan"
-kategorie = [ "ulotki leków", "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
+kategorie = [ "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
 
 +++
 

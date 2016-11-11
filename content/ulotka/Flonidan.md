@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Flonidan/"
 title = "Flonidan"
-kategorie = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe II generacji", "leki zawierające loratadynę", "ulotki leków",]
+kategorie = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe II generacji", "leki zawierające loratadynę",]
 
 +++
 

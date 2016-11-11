@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Fenistil/"
 title = "Fenistil"
-kategorie = [ "ulotki leków", "leki antyhistaminowe", "Leki antyhistaminowe I generacji",]
+kategorie = [ "leki antyhistaminowe", "Leki antyhistaminowe I generacji",]
 
 +++
 

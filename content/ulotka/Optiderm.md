@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Optiderm/"
 title = "Optiderm"
-kategorie = [ "emolienty", "preparaty zawierające mocznik", "ulotki leków",]
+kategorie = [ "emolienty", "preparaty zawierające mocznik",]
 
 +++
 

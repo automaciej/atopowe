@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Myfortic/"
 title = "Myfortic"
-kategorie = [ "Ulotki leków", "Leki immunosupresyjne",]
+kategorie = [ "Leki immunosupresyjne",]
 
 +++
 

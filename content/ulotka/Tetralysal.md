@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Tetralysal/"
 title = "Tetralysal"
-kategorie = [ "antybiotyki", "ulotki leków",]
+kategorie = [ "antybiotyki",]
 
 +++
 

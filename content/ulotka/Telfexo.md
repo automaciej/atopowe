@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Telfexo/"
 title = "Telfexo"
-kategorie = [ "ulotki leków", "leki antyhistaminowe", "leki antyhistaminowe III generacji",]
+kategorie = [ "leki antyhistaminowe", "leki antyhistaminowe III generacji",]
 
 +++
 

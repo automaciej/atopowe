@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Clatra/"
 title = "Clatra"
-kategorie = [ "Ulotki leków", "Leki antyhistaminowe", "Leki antyhistaminowe III generacji",]
+kategorie = [ "Leki antyhistaminowe", "Leki antyhistaminowe III generacji",]
 
 +++
 

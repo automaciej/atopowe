@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Atopra_szampon/"
 title = "Atopra szampon"
-kategorie = [ "ulotki leków", "szampony", "preparaty zawierające mocznik",]
+kategorie = [ "szampony", "preparaty zawierające mocznik",]
 
 +++
 

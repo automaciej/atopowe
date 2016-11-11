@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Lirra_Gem/"
 title = "Lirra Gem"
-kategorie = [ "Leki antyhistaminowe", "leki antyhistaminowe III generacji", "Ulotki leków",]
+kategorie = [ "Leki antyhistaminowe", "leki antyhistaminowe III generacji",]
 
 +++
 

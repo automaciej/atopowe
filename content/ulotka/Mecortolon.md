@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Mecortolon/"
 title = "Mecortolon"
-kategorie = [ "ulotki leków", "kremy", "leki sterydowe",]
+kategorie = [ "kremy", "leki sterydowe",]
 
 +++
 

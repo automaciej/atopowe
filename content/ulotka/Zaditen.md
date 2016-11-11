@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Zaditen/"
 title = "Zaditen"
-kategorie = [ "leki antyhistaminowe", "leki antyhistaminowe I generacji", "ulotki leków",]
+kategorie = [ "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
 
 +++
 

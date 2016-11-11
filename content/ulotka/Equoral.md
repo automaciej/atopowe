@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Equoral/"
 title = "Equoral"
-kategorie = [ "leki immunosupresyjne", "ulotki leków",]
+kategorie = [ "leki immunosupresyjne",]
 
 +++
 

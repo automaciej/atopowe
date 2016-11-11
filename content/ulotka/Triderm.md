@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Triderm/"
 title = "Triderm"
-kategorie = [ "ulotki leków", "leki sterydowe", "antybiotyki", "leki przeciwgrzybicze", "kremy",]
+kategorie = [ "leki sterydowe", "antybiotyki", "leki przeciwgrzybicze", "kremy",]
 
 +++
 
