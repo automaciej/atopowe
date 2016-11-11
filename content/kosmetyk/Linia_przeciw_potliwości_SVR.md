@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Linia_przeciw_potliwości_SVR/"
 title = "Linia przeciw potliwości SVR"
-kategorie = [ "kosmetyki", "środki higieny",]
+rodzajekosmetykow = [ "kosmetyki", "środki higieny",]
 
 +++
 

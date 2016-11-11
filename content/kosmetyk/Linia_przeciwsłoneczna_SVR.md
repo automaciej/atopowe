@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Linia_przeciwsłoneczna_SVR/"
 title = "Linia przeciwsłoneczna SVR"
-kategorie = [ "kosmetyki",]
+rodzajekosmetykow = [ "kosmetyki",]
 
 +++
 

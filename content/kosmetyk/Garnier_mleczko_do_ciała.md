@@ -2,7 +2,7 @@
 date = "2015-01-01T00:00:00+01:00"
 permalink = "/Garnier_mleczko_do_ciała/"
 title = "Garnier mleczko do ciała"
-kategorie = [ "kosmetyki",]
+rodzajekosmetykow = [ "kosmetyki",]
 
 +++
 
