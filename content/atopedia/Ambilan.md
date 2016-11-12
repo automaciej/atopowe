@@ -8,7 +8,7 @@ kategorie = [ "emolienty",]
 
 **AMBILAN - emolient tłusty**
 
-![](/images/_Ambilan.gif "120px|left")
+![](/images/Ambilan.gif "120px|left")
 
 **AMBILAN** zawiera glikol propylenowy, jako substancję nawilżającą. Dzięki temu, pomimo znacznej zawartości fazy tłustej (zawartość wody jedynie 50%), posiada dobre właściwości kosmetyczne. **AMBILAN** przeznaczony jest dla wszystkich osób, u których szczególnie nasila się suchość skóry, a dotychczasowe środki kosmetyczne zawodzą. Jest szczególnie skuteczny w pielęgnacji skóry chorych na łuszczycę. **AMBILAN** przeznaczony jest do stosowania na większe obszary ciała, także w przypadku występowania wysypek związanych z leczeniem. Nadaje się jako zaróbka dla maści recepturowych. Można go również stosować zamiast mydła, jako preparat do mycia ciała.
 
