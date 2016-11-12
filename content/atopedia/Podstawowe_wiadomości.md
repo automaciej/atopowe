@@ -76,22 +76,22 @@ przypuszczać, że jest nakręcana przez producentów leków sterydowych.
 
 ### Łagodne, miejscowe objawy
 
-Łagodne objawy to [zaczerwienione]({{< relref "Zaczerwienienie.md" >}}), łuszczące się i
-[swędzące]({{< relref "Świąd.md" >}}) miejsca gdzieś na ciele.  Są trochę irytujące, ale
-to wszystko. [Pielęgnuj]({{< relref "Pielęgnacja.md" >}}) swoją skórę. Miejsce
+Łagodne objawy to [zaczerwienione]({{< relref "Zaczerwienienie.md" >}}),
+łuszczące się i swędzące miejsca gdzieś na ciele.  Są trochę irytujące, ale to
+wszystko. [Pielęgnuj]({{< relref "Pielęgnacja.md" >}}) swoją skórę. Miejsce
 objęte zmianami smaruj lekiem przepisanym przez lekarza.
 
 ### Poważne, rozległe objawy
 
-Intensywny [świąd]({{< relref "Świąd.md" >}}) dużych obszarów skóry,
-[infekcje]({{< relref "Infekcja_skóry.md" >}}), [wysięk]({{< relref "Wysięk.md" >}}),
-[puchnięcie]({{< relref "Puchnięcie.md" >}}), [bezsenność]({{< relref "Bezsenność.md" >}}). Jeżeli
-jesteś w takim stanie, trudno będzie Ci wyjść z niego o własnych siłach. Taki
-stan wymaga intensywnej, dwutygodniowej terapii w szpitalu. Praktyka pokazuje,
-że wyjście z ciężkiego stanu nie jest możliwe w łagodny sposób. Stan zapalny,
-który objął duże obszary skóry, musi zostać ugaszony. Po dojściu do lepszego
-stanu, kiedy możesz już normalnie spać, staraj się poprzez pielęgnację i leki
-utrzymać poprawiony stan.
+Intensywny świąd dużych obszarów skóry, [infekcje]({{< relref
+"Infekcja_skóry.md" >}}), [wysięk]({{< relref "Wysięk.md" >}}), [puchnięcie]({{<
+relref "Puchnięcie.md" >}}), [bezsenność]({{< relref "Bezsenność.md" >}}).
+Jeżeli jesteś w takim stanie, trudno będzie Ci wyjść z niego o własnych siłach.
+Taki stan wymaga intensywnej, dwutygodniowej terapii w szpitalu. Praktyka
+pokazuje, że wyjście z ciężkiego stanu nie jest możliwe w łagodny sposób. Stan
+zapalny, który objął duże obszary skóry, musi zostać ugaszony. Po dojściu do
+lepszego stanu, kiedy możesz już normalnie spać, staraj się poprzez pielęgnację
+i leki utrzymać poprawiony stan.
 
 ### Dzieci i dorośli
 
