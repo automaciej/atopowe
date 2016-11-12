@@ -2,9 +2,13 @@
 <html lang="pl">
   <head>
     {{ partial "head-section.html" . }}
-    <title>{{ with .Title }}{{ . }} &mdash; {{ end }}
-      Atopowe Zapalenie Skóry</title>
+    <title>{{ .Title }} &mdash; {{ .Site.Title }}</title>
 
+    {{ if .Description -}}
+    <meta name="description" content="{{ .Description }}" />
+    {{- else -}}
+    <meta name="description" content="Artykuł '{{ .Title }}' na Atopedii, encyklopedii atopowego zapalenia skóry." />
+    {{- end }}
   </head>
   <body role="document">
     
