@@ -6,7 +6,7 @@ kategorie = [ "Psychika",]
 
 +++
 
-[left](/Grafika:Psychika.png "wikilink")
+![](/images/Psychika.png "left")
 
 Od zawsze wierzono, że psychika człowieka jest związana z jego zdrowiem.
 

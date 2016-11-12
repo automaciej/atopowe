@@ -7,7 +7,7 @@ aliases = [ "/atopedia/Calcium/",]
 
 +++
 
-[right](/Grafika:Calcium.jpg "wikilink")
+![](/images/Calcium.jpg "right")
 
 Treść na opakowaniu
 ===================

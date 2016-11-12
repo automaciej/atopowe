@@ -5,7 +5,7 @@ title = "Terapia"
 
 +++
 
-[thumb|Zjawiska towarzyszące AZS i podstawowe metody leczenia|left](/Grafika:Atopowe-diagram.png "wikilink")
+![](/images/Atopowe-diagram.png "thumb|Zjawiska towarzyszące AZS i podstawowe metody leczenia|left")
 
 **Terapia** - w przypadku [atopowego zapalenia skóry](/atopedia/atopowe_zapalenie_skóry "wikilink") terapia polega głównie na leczeniu objawowym (patrz: [objawy atopowego zapalenia skóry](/atopedia/objawy_atopowego_zapalenia_skóry "wikilink")), tzw. zaleczaniu.
 

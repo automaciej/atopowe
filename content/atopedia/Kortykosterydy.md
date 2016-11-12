@@ -22,7 +22,7 @@ W czasie używania leków kortykosterydowych należy ściśle przestrzegać zale
 
 Gdy decydujemy się lub musimy użyć maści (kremów) kortykosterydowych, należy pamiętać o kilku zasadach:
 
-[right](/Grafika:wrrr.png)
+![](/images/wrrr.png "right")
 
 1.  zawsze ściśle stosuj się do zaleceń lekarza, zwłaszcza co do czasu używania
     danego preparatu – używaj tych maści jak najkrócej, z reguły nie powinno się

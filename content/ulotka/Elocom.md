@@ -43,7 +43,7 @@ Bardzo rzadko - reakcje uczuleniowe, świąd skóry, objawy zaniku skóry, łojo
 
 <div align="center">
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [16px](/Grafika:Uwaga.png "wikilink") Nie stosować na skórę twarzy! Twarz poprzez to przyzwyczaja się do sterydów, które zawiera Elocom i w wyniku zamiast sobie pomóc - pogarszamy nieświadomie nasz stan. Na początku stan poprawia się, lecz po dłuższym stosowaniu trzeba stosować go coraz więcej i więcej, a poprawy nie widać. |
+| ![](/images/Uwaga.png "16px") Nie stosować na skórę twarzy! Twarz poprzez to przyzwyczaja się do sterydów, które zawiera Elocom i w wyniku zamiast sobie pomóc - pogarszamy nieświadomie nasz stan. Na początku stan poprawia się, lecz po dłuższym stosowaniu trzeba stosować go coraz więcej i więcej, a poprawy nie widać. |
 
 </div>
 ### Uwagi

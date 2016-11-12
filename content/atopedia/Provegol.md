@@ -8,7 +8,7 @@ kategorie = [ "środki higieny",]
 
 ### Żel
 
-[120px|left](/Grafika:ProvegolZel.jpg "wikilink")
+![](/images/ProvegolZel.jpg "120px|left")
 
 **Skład:**
 

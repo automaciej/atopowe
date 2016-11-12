@@ -56,6 +56,6 @@ Podczas kąpieli z dodatkiem Oilatum® emulsji nie należy stosować innych śro
 Ciekawostka
 -----------
 
-[right|Pćyn do kąpieli...](/Grafika:Pćyn.jpg "wikilink")
+![](/images/Pćyn.jpg "right|Pćyn do kąpieli...")
 
 Był okres w którym można było często spotkać opakowanie Oilatum ze śmiesznym błędem językowym.

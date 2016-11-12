@@ -10,7 +10,7 @@ aliases = [ "/atopedia/Vitaminum_B2/",]
 Treść na opakowaniu
 ===================
 
-[right](/Grafika:Vitaminum_B2.jpg "wikilink")
+![](/images/Vitaminum_B2.jpg "right")
 
 **Vitaminum B2**
 RIBOFLAVINUM

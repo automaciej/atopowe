@@ -10,7 +10,7 @@ aliases = [ "/atopedia/Vitaminum_B6/",]
 Treść na opakowaniu
 ===================
 
-[right](/Grafika:Vitaminum_B6.jpg "wikilink")
+![](/images/Vitaminum_B6.jpg "right")
 
 **Vitaminum B6**
 Pyridoxini hydrochloridum

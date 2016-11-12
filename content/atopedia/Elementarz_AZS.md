@@ -7,7 +7,7 @@ kategorie = [ "Podstawowe wiadomości",]
 
 +++
 
-[right](/Grafika:SuperAtop.png "wikilink")
+![](/images/SuperAtop.png "right")
 
 Kodeks Zeldy obowiązuje każdego, kto cierpi na atopowe zapalenie skóry, niezależnie od długości remisji i wieku zachorowania. Nie wolno się chwalić wiedzą zgromadzoną w nim, ponieważ lekarze w odróżnieniu od psychoterapeutów nie analizują własnego przeciwprzeniesienia. Kto da posłuch jego artykułom - pokona chorobę. Inaczej to choroba go pokona rujnując mu życie.
 

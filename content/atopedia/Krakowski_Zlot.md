@@ -11,17 +11,17 @@ kategorie = [ "Spotkania",]
 
 W sobotę 13.10.2007 odbyło się małe, krakowskie spotkanie.
 
-[framed|left|od lewej Pliszkowa, Makowa-panienka, marcisz i nula-nulska](/Grafika:14.10.07_Kr1.jpg "wikilink")
+![](/images/14.10.07_Kr1.jpg "framed|left|od lewej Pliszkowa, Makowa-panienka, marcisz i nula-nulska")
 
-[framed|left|Pliszkowa, Makowa-panienka, Ranulka, marcisz i nula-nulska](/Grafika:14.10.07_Kr2.jpg "wikilink")
+![](/images/14.10.07_Kr2.jpg "framed|left|Pliszkowa, Makowa-panienka, Ranulka, marcisz i nula-nulska")
 
-[framed|left|Makowa-panienka](/Grafika:13.10.07_makowa.jpg "wikilink")
+![](/images/13.10.07_makowa.jpg "framed|left|Makowa-panienka")
 
-[framed|left|Ranulka](/Grafika:13.10.07_ranulka.jpg "wikilink")
+![](/images/13.10.07_ranulka.jpg "framed|left|Ranulka")
 
-[framed|left|Nula-nulska](/Grafika:13.10.07_nula.jpg "wikilink")
+![](/images/13.10.07_nula.jpg "framed|left|Nula-nulska")
 
-[framed|left|Pliszkowa](/Grafika:13.10.07_pliszkowa.jpg "wikilink")
+![](/images/13.10.07_pliszkowa.jpg "framed|left|Pliszkowa")
 
 <div style="clear: both">
 </div>

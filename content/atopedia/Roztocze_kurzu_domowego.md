@@ -6,7 +6,7 @@ kategorie = [ "Alergia", "Alergeny",]
 
 +++
 
-[thumb|right|Roztocze kurzu domowego](/Grafika:House_Dust_Mite.jpg "wikilink")
+![](/images/House_Dust_Mite.jpg "thumb|right|Roztocze kurzu domowego")
 
 **Roztocze kurzu domowego** - pajęczak, wielkości 0.3mm - 1mm, żyjący w [kurzu](/atopedia/Kurz "wikilink") i obecny w każdym domu, którego odnóża oraz odchody są często silnym [alergenem](/atopedia/Alergen "wikilink").
 

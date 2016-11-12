@@ -10,7 +10,7 @@ aliases = [ "/atopedia/Physiogel/",]
 Physiogel Szampon
 =================
 
-[left](/Grafika:Physiogel_Szampon.jpg "wikilink")
+![](/images/Physiogel_Szampon.jpg "left")
 
 **PHYSIOGEL®**
 **Szampon hipoalergiczny**
@@ -61,7 +61,7 @@ MIEJSCE WYTWARZANIA: STIEFEL Laboratories (Ireland), Ltd.
 Physiogel Krem
 ==============
 
-[right](/Grafika:Physiogel_Krem.jpg "wikilink")
+![](/images/Physiogel_Krem.jpg "right")
 
 **PHYSIOGEL®**
 

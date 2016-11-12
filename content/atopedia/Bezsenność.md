@@ -6,7 +6,7 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
-[left](/Grafika:Sen.png "wikilink")
+![](/images/Sen.png "left")
 
 [Bezsenność](/atopedia/Bezsenność "wikilink") w przypadku [atopowego zapalenia skóry](/atopedia/atopowe_zapalenie_skóry "wikilink") najczęściej jest powodowana przez silny [świąd](/atopedia/świąd "wikilink"), który uniemożliwia [rozluźnienie się](/atopedia/techniki_relaksacyjne "wikilink"), zastygnięcie w bezruchu i zaśnięcie.
 

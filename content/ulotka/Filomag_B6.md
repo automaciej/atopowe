@@ -7,7 +7,7 @@ aliases = [ "/atopedia/Filomag_B6/",]
 
 +++
 
-[right](/Grafika:filomag_b6.jpg "wikilink")
+![](/images/filomag_b6.jpg "right")
 
 Treść na opakowaniu
 ===================

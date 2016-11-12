@@ -6,7 +6,7 @@ kategorie = [ "Psychika",]
 
 +++
 
-[right](/Grafika:relaks.png "wikilink")
+![](/images/relaks.png "right")
 
 Podstawowym celem **technik relaksacyjnych** jest obniżenie napięcia mięśni. Napięcie takie może być nieświadomie utrzymywane na bardzo wysokim poziomie. W przypadku [atopowego zapalenia skóry](/atopedia/atopowe_zapalenie_skóry "wikilink") rozluźnienie może być bardzo trudne, ze względu na [świąd](/atopedia/świąd "wikilink").
 

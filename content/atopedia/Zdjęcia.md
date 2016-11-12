@@ -34,7 +34,7 @@ Grafika:DSC07044_.jpg Grafika:DSC07084_.jpg Grafika:DSC07057_.jpg Grafika:DSC070
 
 Alergolog stwierdziła, że powyższe zmiany wcale nie świadczą o AZS (gdyż nie wykryto czynnika alergicznego w testach z krwi). Mały ponoć ma ektodermalną skazę, czyli bardzo wysuszoną skórę wymagającą wyjątkowej pielęgnacji. Zalecono kurację Elidelem oraz jakimś kremem pielęgnacyjnym do suchej skóry. Co do kremu/oliwki nie było konkretnych wskazówek, gdyż każdy może inaczej na nie zareagować i należy samemu przetestować preparaty. WNIOSEK: zarówno w przypadku skazy ektodermalnej jak i AZS zalecenia lekarskie są bardzo podobne.
 
-[thumb|left|Tak wygląda buzia Krzysia po 2-dniowej kuracji Elidelem i Topialyse. Uszka co prawda nie widać, ale skórka pod nim również się zagoiła. Niestety nie udało się całkowicie wyeliminować plam na szyi i w zgięciach kolan.](/Grafika:DSC07136_.jpg "wikilink")
+![](/images/DSC07136_.jpg "thumb|left|Tak wygląda buzia Krzysia po 2-dniowej kuracji Elidelem i Topialyse. Uszka co prawda nie widać, ale skórka pod nim również się zagoiła. Niestety nie udało się całkowicie wyeliminować plam na szyi i w zgięciach kolan.")
 
 <div style="clear: left;">
 </div>

@@ -6,7 +6,7 @@ rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "di
 
 +++
 
-[Grafika:owsianka_bak.JPG](/Grafika:owsianka_bak.JPG "wikilink")
+![](/images/owsianka_bak.JPG "Grafika:owsianka_bak.JPG")
 
 **Składniki:**
 

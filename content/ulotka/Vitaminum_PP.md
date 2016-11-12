@@ -10,7 +10,7 @@ aliases = [ "/atopedia/Vitaminum_PP/",]
 Treść na opakowaniu
 ===================
 
-[right](/Grafika:Vitaminum_PP.jpg "wikilink")
+![](/images/Vitaminum_PP.jpg "right")
 
 **Vitaminum PP**
 NICOTINAMIDUM

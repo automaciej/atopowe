@@ -7,7 +7,7 @@ aliases = [ "/atopedia/Locoid/",]
 
 +++
 
-[right](/Grafika:Locoid.jpg "wikilink")
+![](/images/Locoid.jpg "right")
 
 Treść na opakowaniu
 -------------------

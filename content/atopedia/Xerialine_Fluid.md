@@ -8,7 +8,7 @@ kategorie = [ "Emolienty", "Preparaty zawierające mocznik",]
 
 **XERIALINE FLUIDE - BALSAM DO CIAŁA**
 
-[120px|left](/Grafika:FLUIDE_XERIALINE.jpg "wikilink")
+![](/images/FLUIDE_XERIALINE.jpg "120px|left")
 
 '''Wskazania: ''' Codzienna pielęgnacja suchej skóry ciała dzieci i dorosłych, po kąpieli, plażowaniu, solarium.
 

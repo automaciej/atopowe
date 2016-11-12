@@ -8,7 +8,7 @@ rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "di
 
 3-4 porcje
 
-[Grafika:Cukinia_duszona_m.JPG](/Grafika:Cukinia_duszona_m.JPG "wikilink")
+![](/images/Cukinia_duszona_m.JPG "Grafika:Cukinia_duszona_m.JPG")
 
 **Składniki:**
 

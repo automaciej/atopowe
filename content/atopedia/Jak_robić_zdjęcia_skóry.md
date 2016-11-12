@@ -21,35 +21,35 @@ Oto przykład pięciu typowych błędów: kadrowanie, ostrość, kierunek świat
 
 ### Kadrowanie
 
-[440px|Złe kadrowanie: dywan zapełnia większość zdjęcia.](/Grafika:Skinfoto-01-framing.jpg "wikilink")
+![](/images/Skinfoto-01-framing.jpg "440px|Złe kadrowanie: dywan zapełnia większość zdjęcia.")
 
 Złe kadrowanie: dywan zapełnia większość zdjęcia. Należy przysunąć aparat bliżej skóry, albo użyć zoomu.
 
 ### Ostrość
 
-[440px](/Grafika:Skinfoto-02-focus-on-background.jpg "wikilink")
+![](/images/Skinfoto-02-focus-on-background.jpg "440px")
 
 Błąd: ostrość ustawiona na dywan zamiast na skórę. Należy obserwować, na co jest ustawiona ostrość i robić zdjęcie wtedy, kiedy ostrość jest ustawiona na skórę.
 
 ### Kierunek światła
 
-[440px|Oświetlenie na wprost, nie widać faktury skóry.](/Grafika:Skinfoto-03-front-light.jpg "wikilink")
+![](/images/Skinfoto-03-front-light.jpg "440px|Oświetlenie na wprost, nie widać faktury skóry.")
 
 Oświetlenie na wprost, nie widać faktury skóry. Należy obrócić się tak, aby światło padało z boku (wzdłuż) skóry.
 
-[440px](/Grafika:Skinfoto-04-side-light.jpg "wikilink")
+![](/images/Skinfoto-04-side-light.jpg "440px")
 
 Oświetlenie z boku, widać fakturę skóry.
 
 ### Flash
 
-[440px|Flash: skóra oświetlona na wprost, nie widać faktury, zdjęcie miejscami przepalone.](/Grafika:Skinfoto-05-flash.jpg "wikilink")
+![](/images/Skinfoto-05-flash.jpg "440px|Flash: skóra oświetlona na wprost, nie widać faktury, zdjęcie miejscami przepalone.")
 
 Flash: skóra oświetlona na wprost, nie widać faktury, zdjęcie miejscami przepalone. Należy wyłączyć flash.
 
 ### Czas naświetlania
 
-[440px|Za długi czas naświetlania, zdjęcie jest rozmazane (pomimo ostrości ustawionej na skórę).](/Grafika:Skinfoto-06-blur.jpg "wikilink")
+![](/images/Skinfoto-06-blur.jpg "440px|Za długi czas naświetlania, zdjęcie jest rozmazane (pomimo ostrości ustawionej na skórę).")
 
 Za długi czas naświetlania, zdjęcie jest rozmazane (pomimo ostrości ustawionej na skórę). Należy znaleźć miejsce, gdzie jest więcej światła.
 

@@ -10,7 +10,7 @@ aliases = [ "/atopedia/Vitaminum_A_2500/",]
 Treść na opakowaniu
 ===================
 
-[right](/Grafika:Vitaminum_A_2500.jpg "wikilink")
+![](/images/Vitaminum_A_2500.jpg "right")
 
 **Vitaminum A 2500**
 (Retinoli paimitas)

@@ -27,7 +27,7 @@ ok 10-15%[^1].
 
 ### Atopowe zapalenie skóry
 
-[thumb|right|Atopowe zapalenie skóry, przyczyny i skutki](/Grafika:Atopowe-diagram.png)
+![](/images/Atopowe-diagram.png "thumb|right|Atopowe zapalenie skóry, przyczyny i skutki")
 
 **Wprowadzenie i definicja**
 

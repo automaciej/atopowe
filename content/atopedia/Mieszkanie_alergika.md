@@ -17,7 +17,7 @@ kategorie = [ "alergia",]
 
 ### Łatwość sprzątania
 
-[right](/Grafika:mieszkanie_alergika.png "wikilink") Ponieważ mieszkanie alergika musi być często sprzątane, powinno być tak urządzone, żeby sprzątanie było łatwe. Dobrze, jeżeli całe mieszkanie da się odkurzyć w jedną osobę w 15 minut. Wtedy odkurzanie jest łatwe i można robić je często. Uzyskuje się to poprzez odpowiednie umeblowanie: wszystkie meble na kółkach, stoliki na nogach, mało zakamarków, maksymalnie dużo otwartych powierzchni.
+![](/images/mieszkanie_alergika.png "right") Ponieważ mieszkanie alergika musi być często sprzątane, powinno być tak urządzone, żeby sprzątanie było łatwe. Dobrze, jeżeli całe mieszkanie da się odkurzyć w jedną osobę w 15 minut. Wtedy odkurzanie jest łatwe i można robić je często. Uzyskuje się to poprzez odpowiednie umeblowanie: wszystkie meble na kółkach, stoliki na nogach, mało zakamarków, maksymalnie dużo otwartych powierzchni.
 
 ### Komputer w domu
 

@@ -10,7 +10,7 @@ aliases = [ "/atopedia/Daktarin/",]
 Treść na opakowaniu
 -------------------
 
-[right](/Grafika:daktarin.jpg "wikilink")
+![](/images/daktarin.jpg "right")
 
 **Daktarin** 15 g krem
 

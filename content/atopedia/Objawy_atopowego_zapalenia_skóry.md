@@ -6,7 +6,7 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
-[right](/Grafika:pecherzyki.png "wikilink")
+![](/images/pecherzyki.png "right")
 
 Objawy choroby mogą być bardzo różne u różnych osób, jednak do najczęstszych objawów AZS należą:
 

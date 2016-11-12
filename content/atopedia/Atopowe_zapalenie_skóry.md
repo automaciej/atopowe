@@ -16,7 +16,7 @@ Przyczynami atopowego zapalenia skóry są [reakcje alergiczne](/atopedia/reakcj
 
 *Przeczytaj osobny artykuł: [przyczyny atopowego zapalenia skóry](/atopedia/przyczyny_atopowego_zapalenia_skóry "wikilink").*
 
-[right|500px|Atopowe zapalenie skóry, zależności|link=](/Grafika:Atopowe-diagram.png "wikilink")
+![](/images/Atopowe-diagram.png "right|500px|Atopowe zapalenie skóry, zależności|link=")
 
 Przebieg choroby
 ----------------

@@ -9,7 +9,7 @@ kategorie = [ "emolienty", "preparaty zawierające mocznik",]
 Xerialine 500
 -------------
 
-[120px|left](/Grafika:Xerialine500.jpg "wikilink")
+![](/images/Xerialine500.jpg "120px|left")
 
 **Skład:**
 

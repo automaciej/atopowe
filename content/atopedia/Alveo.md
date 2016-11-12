@@ -7,7 +7,7 @@ title = "Alveo"
 
 **Alveo** jest preparatem klasyfikowanym jako *naturalny suplement diety*. Jako taki nie musi przechodzić badań klinicznych i dopuszczających. Jest produkowany przez firmę Akuna.
 
-[thumb|left|Alveo](/Grafika:Alveo-akuna.jpg "wikilink")
+![](/images/Alveo-akuna.jpg "thumb|left|Alveo")
 
 Według opisów, Alveo oscyluje pomiędzy suplementem codziennej diety i panaceum, czyli lekiem na wszystko. W opisach Alveo można znaleźć twierdzenie, że usuwa ono przyczyny wielu chorób. Dla osób z AZS jest to szczególnie kusząca obietnica, ponieważ medycyna, nie znając dobrze przyczyn AZS, koncentruje się raczej na leczeniu objawów.
 

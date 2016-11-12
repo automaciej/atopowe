@@ -10,7 +10,7 @@ kategorie = [ "substancje aktywne", "Leki immunosupresyjne",]
 
 Wyniki badań wykazują znaczącą skuteczność stosowanego miejscowo pimekrolimusu już po 3 dniach leczenia[1][2]. Skuteczność ta dotyczyła zmniejszenia stopnia nasilenia zmian skórnych oraz zmniejszenia zaburzeń snu. Natomiast znaczące zmniejszenie nasilenia świądu obserwowano już po 2 dniach stosowania leczenia pimekrolimusem.
 
-[thumb|Pimecrolimus - budowa cząsteczki](/Grafika:Pimecrolimus_-_budowa_czasteczki.jpg "wikilink")
+![](/images/Pimecrolimus_-_budowa_czasteczki.jpg "thumb|Pimecrolimus - budowa cząsteczki")
 
 Pimekrolimus ma działanie zbliżone do [tacrolimusu](/atopedia/Tacrolimus "wikilink") z tą różnicą, że pimekrolimus nie upośledza działania [komórek Langerhansa](/atopedia/Komórki_Langerhansa "wikilink"). Z tego powodu jest uznawany za jeszcze bezpieczniejszy w użyciu (w mniejszym stopniu obniża miejscową odporność skóry). Ma silniejsze działanie przeciwświądowe, jest szczególnie skuteczny w początkowej fazie AZS, oraz przy słabo i średnio nasilonym AZS. Budowa cząsteczki leku różni się od budowy cząsteczki takrolimusu dwoma podstawnikami: metylowym w miejscu etylowego i chlorowym w miejscu hydroksylowego.
 

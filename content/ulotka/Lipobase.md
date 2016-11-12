@@ -44,7 +44,7 @@ Przechowywanie
 
 Przechowywać w temperaturze poniżej 25°C. Nie stosować po upływie terminu ważności podanym na opakowaniu.
 
-[right](/Grafika:Lipobase.jpg "wikilink")
+![](/images/Lipobase.jpg "right")
 
 ------------------------------------------------------------------------
 

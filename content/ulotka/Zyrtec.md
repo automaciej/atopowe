@@ -59,7 +59,7 @@ Cetirizini dihydrochloridum
  -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
  -   Jeśli objawy nasilą się lub nie ustąpią po 10 dniach, należy skontaktować się z lekarzem.                        |
 
-[right](/Grafika:Zyrtec_UCB.jpg "wikilink")
+![](/images/Zyrtec_UCB.jpg "right")
 
 ### Skład:
 

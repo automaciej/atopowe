@@ -6,7 +6,7 @@ rodzajeprzepisow = [ "przepisy",]
 
 +++
 
-[right](/Grafika:trawienie.png "wikilink")
+![](/images/trawienie.png "right")
 
 Najbardziej naturalnymi lekami są znane od dawna zioła. Już w czasach egipskich faraonów znano ich lecznicze działanie. Zamieszczamy w tym miejscu kilka przepisów poprawiających przemianę materii i trawienie.
 
