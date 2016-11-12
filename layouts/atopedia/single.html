@@ -22,9 +22,8 @@
         </div><!-- col-md-8 -->
         <div class="col-md-4 col-sm-12">
           <p>
-            <a
-              href="https://github.com/automatthias/atopowe-hugo/blob/master/content/{{ .File.Path }}"
-              title="Edytuj tę stronę na github.com">Edytuj tę stronę</a>
+            <a href="{{ .Site.Params.githubsrc }}{{ .File.Path }}"
+               title="Edytuj tę stronę na github.com">Edytuj tę stronę</a>
           </p>
         </div><!-- col-md-4 -->
       </div><!-- row -->
