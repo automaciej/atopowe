@@ -6,15 +6,29 @@ kategorie = [ "alergia", "podstawowe wiadomości", "terapia",]
 
 +++
 
-| Test                                                                    | Uwagi                                                                                                                                                                                          |
-|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Skórne testy punktowe **(STP)**                                         | Wykonuje się po 4. roku życia.<br/>**Bezwzględne wskazania:** odstawienie ogólnych i miejscowych glikokortykosteroidów oraz leków przeciwhistaminowych przed wykonaniem badania.
-| Skórny natychmiastowy ekspozycyjny test pokarmowy **(SAFT)**            | Wykonuje się u niemowląt i małych dzieci z alergiami pokarmowymi.
-                                                                           **Zalety:** test przyjazny dla dziecka, niestresujący.                                                                                                                                          |
-| Oznaczenie antygenowo swoistych immunoglobulin E w surowicy **(asIgE)** | Alergeny powietrznopochodne i pokarmowe. Niezależny od stosowanego leczenia, test bardzo obiektywny. Najbardziej wiarygodny CAP-System.                                                        |
-| Oznaczenie całkowitego stężenia immunoglobulin E w surowicy **(cIgE)**  | Test orientacyjny, może być także dodatni w innych chorobach niż alergiczne. Ma znaczenie w zespole hiper-IgE.                                                                                 |
-| Naskórkowe testy płatkowe **(NTP)**                                     | Nadwrażliwość na alergeny kontaktowe (metale, podłoża maściowe, substancje zapachowe itp.). Mają coraz większe znaczenie kliniczne.                                                            |
-| Atopowe płatkowe testy skórne **(APT)**                                 | Test orientacyjny dla udowodnienia alergii kontaktowej. Brak standaryzacji dotyczącej stężenia alergenów, czasu odczytów reakcji i stosowanego podłoża. Wskazany głównie do badań klinicznych. |
+-   Skórne testy punktowe **(STP)**
+
+    Wykonuje się po 4. roku życia.<br/>**Bezwzględne wskazania:** odstawienie ogólnych i miejscowych glikokortykosteroidów oraz leków przeciwhistaminowych przed wykonaniem badania.
+
+-   Skórny natychmiastowy ekspozycyjny test pokarmowy **(SAFT)**
+
+    Wykonuje się u niemowląt i małych dzieci z alergiami pokarmowymi. <br/> **Zalety:** test przyjazny dla dziecka, niestresujący.
+
+-   Oznaczenie antygenowo swoistych immunoglobulin E w surowicy **(asIgE)**
+
+    Alergeny powietrznopochodne i pokarmowe. Niezależny od stosowanego leczenia, test bardzo obiektywny. Najbardziej wiarygodny CAP-System.
+
+-   Oznaczenie całkowitego stężenia immunoglobulin E w surowicy **(cIgE)**
+
+    Test orientacyjny, może być także dodatni w innych chorobach niż alergiczne. Ma znaczenie w zespole hiper-IgE.
+
+-   Naskórkowe testy płatkowe **(NTP)**
+
+    Nadwrażliwość na alergeny kontaktowe (metale, podłoża maściowe, substancje zapachowe itp.). Mają coraz większe znaczenie kliniczne.
+
+-   Atopowe płatkowe testy skórne **(APT)**
+
+    Test orientacyjny dla udowodnienia alergii kontaktowej. Brak standaryzacji dotyczącej stężenia alergenów, czasu odczytów reakcji i stosowanego podłoża. Wskazany głównie do badań klinicznych.
 
 **Źródła:**
 
