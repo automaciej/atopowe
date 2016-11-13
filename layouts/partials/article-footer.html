@@ -1,0 +1,15 @@
+<i>
+  Autor:
+<span itemprop="author">
+  {{ with .Params.author }}{{ . }}{{ else }}
+  użytkownicy atopowe.pl
+  {{- end }};
+</span>
+</i>
+  <time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time>;
+<span itemprop="publisher">
+  Opublikowane w serwisie Atopowe.pl
+</span>
+<span itemprop="license">
+  Licencja GNU Wolnej Dokumentacji, wersja 1.2, Listopad 2002
+</span>

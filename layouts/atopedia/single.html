@@ -18,7 +18,7 @@
          itemscope itemtype="http://schema.org/Article">
       <div class="row">
         <div class="col-md-10 col-sm-12">
-          <h1 class="entry-title" itemprop="name">{{ .Title }}</h1>
+          <h1 class="entry-title" itemprop="name headline">{{ .Title }}</h1>
         </div><!-- col-md-8 -->
         <div class="col-md-2 col-sm-12">
           <p>
@@ -32,6 +32,9 @@
           <section itemprop="articleBody">
             {{ .Content }}
           </section>
+          <footer class="small">
+            {{ partial "article-footer.html" }}
+          </footer>
         </div><!-- col-md-12 -->
       </div><!-- row -->
       <div class="row">
