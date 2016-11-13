@@ -15,31 +15,13 @@
   <body role="document">
     {{ partial "navbar.html" . }}
 
-    <div class="jumbotron">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-2 col-xs-12 text-center">
-              <img class="img-circle" src="/images/atopowe-logo.png"
-                   alt="Logo" width="140" height="140">
-          </div><!-- col-md-2 -->
-          <div class="col-md-10 col-xs-12 text-center">
-            <h1>
-              {{ .Title }}
-              <br/>
-              <small>
-                Encyklopedia atopowego zapalenia skóry
-              </small>
-            </h1>
-          </div><!-- col-md-10 -->
-        </div><!-- row -->
-      </div>
-    </div><!-- jumbotron -->
-
     <div class="container" role="main">
       <div class="row">
         <div class="col-md-12">
 
 <main role="main">
+  <h1>{{ .Title }}</h1>
+  <p>Encyklopedia atopowego zapalenia skóry</p>
   <p>
   Proponujemy zacząć od artykułu <a
      href="/atopedia/Podstawowe_wiadomości/">podstawowe wiadomości</a>, a
