@@ -4,6 +4,9 @@ permalink = "/Elementarz_AZS/"
 title = "Elementarz AZS"
 aliases = [ "/atopedia/Podstawowe_zasady_AZS/" ]
 kategorie = [ "Podstawowe wiadomości",]
+description = "Kodeks Zeldy obowiązuje każdego, kto cierpi na atopowe zapalenie skóry."
+image = "/images/SuperAtop.png"
+author = "Zelda"
 
 +++
 
