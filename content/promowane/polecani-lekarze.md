@@ -4,6 +4,7 @@ prowadzi_do = "/atopedia/polecani-lekarze/"
 fa_icon = "user-md"
 title = "Polecani lekarze"
 weight = 3
+draft = true
 
 +++
 Lista lekarzy zebrana przez użytkowników forum. Szukasz lekarza?  Zajrzyj tu.
