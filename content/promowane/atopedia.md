@@ -4,6 +4,7 @@ prowadzi_do = "/atopedia"
 fa_icon = "book"
 title = "Atopedia"
 weight = 1
+draft = true
 
 +++
 Zbiór informacji o atopowym zapaleniu skóry, czym ono jest, jak się je
