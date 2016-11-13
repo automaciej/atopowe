@@ -14,7 +14,7 @@ Przyczyny
 
 Przyczynami atopowego zapalenia skóry są [reakcje alergiczne](/atopedia/reakcja_alergiczna "wikilink"). Jednak, kiedy choroba się rozwinie, zniknięcie pierwotnej przyczyny może nie wystarczyć do wyzdrowienia.
 
-*Przeczytaj osobny artykuł: [przyczyny atopowego zapalenia skóry](/atopedia/przyczyny_atopowego_zapalenia_skóry "wikilink").*
+*Przeczytaj osobny artykuł: [przyczyny atopowego zapalenia skóry](/atopedia/Przyczyny_atopowego_zapalenia_skóry "wikilink").*
 
 ![](/images/Atopowe-diagram.png "right|500px|Atopowe zapalenie skóry, zależności|link=")
 

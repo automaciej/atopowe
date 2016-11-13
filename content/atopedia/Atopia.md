@@ -6,7 +6,21 @@ kategorie = [ "przyczyny atopowego zapalenia skóry",]
 
 +++
 
-**Atopia** (gr. *atopos* = dziwny, odmienny) oznacza skłonność [układu immunologicznego](/atopedia/Układ_immunologiczny "wikilink") do reakcji obronnych na pospolicie występujące w środowisku substancje ([alergeny](/atopedia/Alergen "wikilink")). Jest zbiorczym określeniem reakcji atopowych ([alergicznych](/atopedia/Reakcja_alergiczna "wikilink")), które najczęściej dotyczą jednego układu, narządu (np. [skóra](/atopedia/Skóra "wikilink"), nos), ale mogą również doprowadzić do zaburzenia czynności całego organizmu – groźnego dla życia [wstrząsu anafilaktycznego](/atopedia/Wstrząs_anafilaktyczny "wikilink"). Atopia jest predyspozycją [dziedziczną](/atopedia/Obciążenie_genetyczne "wikilink").
+**Atopia** (gr. *atopos* = dziwny, odmienny) oznacza skłonność [układu
+immunologicznego](/atopedia/Układ_immunologiczny "wikilink") do reakcji
+obronnych na pospolicie występujące w środowisku substancje
+([alergeny](/atopedia/Alergen "wikilink")). Jest zbiorczym określeniem reakcji
+atopowych ([alergicznych](/atopedia/Reakcja_alergiczna "wikilink")), które
+najczęściej dotyczą jednego układu, narządu (np. [skóra](/atopedia/Skóra
+"wikilink"), nos), ale mogą również doprowadzić do zaburzenia czynności całego
+organizmu – groźnego dla życia [wstrząsu
+anafilaktycznego](/atopedia/Wstrząs_anafilaktyczny "wikilink"). Atopia jest
+predyspozycją [dziedziczną](/atopedia/Obciążenie_genetyczne "wikilink").
+
+W medycynie, pojęciem atopia określa się grupę chorób o mechanizmie
+natychmiastowym (typu I) związanym z wytwarzaniem przeciwciał klasy [IgE]({{<
+relref "IgE.md" >}}) pod wpływem kontaktu z alergenem (związkiem uczulającym),
+który powszechnie występuje w środowisku.
 
 Atopia obejmuje następujące choroby alergiczne:
 

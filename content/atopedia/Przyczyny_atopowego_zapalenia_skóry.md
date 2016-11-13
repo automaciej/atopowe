@@ -5,7 +5,17 @@ title = "Przyczyny atopowego zapalenia skóry"
 
 +++
 
-W powstawaniu atopowego zapalenia skóry rolę odgrywają czynniki [genetyczne](/atopedia/obciążenie_genetyczne "wikilink"), [odpornościowe](/atopedia/układ_immunologiczny "wikilink") oraz [środowiskowe](/atopedia/środowisko "wikilink").
+Dawniej uważano, że pierwotną przyczynę tej choroby odgrywa defekt układu
+odpornościowego, związanego z przewlekłym stanem zapalnym i wtórnym uszkodzeniem
+bariery naskórka. Obecnie główną rolę przypisuje się zaburzeniom bariery
+naskórkowej, która powoduje zwiększone wnikanie alergenów oraz związków
+drażniącym w głąb skóry doprowadzając następnie do rozwoju stanu zapalnego
+skóry.
+
+W powstawaniu atopowego zapalenia skóry rolę odgrywają czynniki
+[genetyczne](/atopedia/obciążenie_genetyczne "wikilink"),
+[odpornościowe](/atopedia/układ_immunologiczny "wikilink") oraz
+[środowiskowe](/atopedia/środowisko "wikilink").
 
 Pod wpływem [alergenów](/atopedia/alergen "wikilink") (niezależnie od drogi wniknięcia do organizmu) następuje [reakcja obronna](/atopedia/reakcja_alergiczna "wikilink") objawiająca się [stanem zapalnym skóry](/atopedia/stan_zapalny_skóry "wikilink"). AZS często towarzyszą wtórne [infekcje bakteryjne](/atopedia/infekcja_skóry "wikilink"), powodowane zazwyczaj przez [gronkowca złocistego](/atopedia/gronkowiec_złocisty "wikilink") oraz inne bakterie.
 
