@@ -10,49 +10,70 @@
     <div class="jumbotron">
       <div class="container">
         <div class="row">
-          <div class="col-md-2 col-xs-12 text-center">
-              <img class="img-circle" src="/images/atopowe-logo.png"
-                   alt="Logo" width="140" height="140">
-          </div><!-- col-md-2 -->
-          <div class="col-md-10 col-xs-12 text-center">
+          <div class="col-md-10 col-sm-12 col-xs-12">
             <h1>
               {{ .Site.Title }}
-              <small>
-                AZS, alergia, atopia i astma
-              </small>
             </h1>
+            <p>{{ .Site.Params.description }}</p>
+            <p><a class="btn btn-primary btn-lg"
+                  href="/atopedia/Podstawowe_wiadomości/"
+                  role="button">Podstawowe wiadomości o AZS &raquo;</a></p>
           </div><!-- col-md-10 -->
-        </div><!-- row -->
-        <div class="row">
-          <div class="col-md-12 col-xs-12 text-center">
-            <ul class="list list-inline">
-              <li>
-                <p>
-                  <a class="btn btn-default btn-lg" href="http://pl.reddit.com/r/atopowezapalenieskory/" role="button">Zadaj pytanie &raquo;</a>
-                </p>
-              </li>
-              <li>
-                <p>
-                <a class="btn btn-default btn-lg" href="/atopedia" role="button">Atopedia &raquo;</a>
-                </p>
-              </li>
-              <li>
-                <p>
-                <a class="btn btn-default btn-lg" href="/forum" role="button">Archiwum starego forum &raquo;</a>
-                </p>
-              </li>
-            </ul>
-          </div><!-- col-md-12 -->
+          <div class="col-md-2 hidden-xs hidden-sm">
+              <img class="img-circle" src="/images/atopowe-logo.png"
+              alt="Atopowe słoneczko, kółko z biało-czerwonym kształtem yin-yang, część czerwona lekko poszarpana, jak podrapana skóra."
+              width="140" height="140">
+          </div><!-- col-md-2 -->
         </div><!-- row -->
       </div>
     </div>
 
     <div class="container" role="main">
       <div class="row">
+        <div class="col-md-4">
+          <h2>Atopedia</h2>
+          <p>Zbiór informacji o atopowym zapaleniu skóry, czym ono jest, jak się
+          je rozpoznaje i jak leczy. Informacje te były zbierane i wprowadzane przez
+          użytkowników forum Atopowe.pl od 2003 roku.</p>
+          <p><a class="btn btn-default" href="/atopedia" role="button">Zobacz więcej &raquo;</a></p>
+        </div><!-- col-md-4 -->
+        <div class="col-md-4">
+          <h2>Polecani lekarze</h2>
+          <p>Lista lekarzy zebrana przez użytkowników forum. Szukasz lekarza?
+          Zajrzyj tu. Znasz dobrego lekarza? Poleć!</p>
+          <p><a class="btn btn-default" href="/atopedia/polecani-lekarze/"
+                role="button">Zobacz więcej &raquo;</a></p>
+        </div><!-- col-md-4 -->
+        <div class="col-md-4">
+          <h2>Porozmawiaj z innymi</h2>
+          <p>Osoby z atopowym zapaleniem skóry rzadko mają okazję spotkać
+          innych atopowców, lub porozmawiać z kimś kto rozumie, czym jest AZS.
+          Społeczność internetowa sprawi że nie będziesz się z AZSem czuć
+          samotnie!</p>
+          <p><a class="btn btn-default" href="http://pl.reddit.com/r/atopowezapalenieskory/"
+                role="button">Zobacz więcej &raquo;</a>
+        </div><!-- col-md-4 -->
+      </div><!-- row -->
+      <div class="row">
         <div class="col-md-12">
-          {{ range where .Data.Pages ".Params.permalink" "eq" nil }}
-                 {{ .Render "summary" }}
+          <h2>Ostatnie wpisy</h2>
+          {{ range first 10 .Data.Pages }}
+            {{ .Render "summary" }}
           {{ end }}
+          <hr />
+          <p>
+          <a class="btn btn-default btn-lg" href="/post">
+            Zobacz wszystkie wpisy na blogu &raquo;
+          </a>
+          </p>
+        </div><!-- col-md-12 -->
+      </div><!-- row -->
+      <div class="row">
+        <div class="col-md-12">
+          <hr />
+          <footer>
+            <p>Data ostatniej aktualizacji: {{ .Site.LastChange }}<p>
+          </footer>
         </div><!-- col-md-12 -->
       </div><!-- row -->
 		</div><!-- /.container -->
