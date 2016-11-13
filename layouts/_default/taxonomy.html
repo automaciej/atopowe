@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    {{ partial "head-section.html" . }}
+    <title>{{ with .Title }}{{ . }} &mdash; {{ end }} {{ .Site.Title }}</title>
+
+  </head>
+  <body role="document">
+    
+    {{ partial "navbar.html" . }}
+
+    <div class="container" role="main">
+      <div class="row">
+        <div class="col-md-12">
+          {{ $currenttaxonomy := .Data.Plural }}
+          <ul class="list list-inline">
+          {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+          <!-- lepiej byłoby wydobyć taksonomię po nazwie, ale .Site.Taxonomies
+            nie ma metody Get, więc się nie da. Trzeba iterować i filtrować. -->
+          {{ if eq $taxonomyname $currenttaxonomy }}
+            {{ range $key, $value := $taxonomy }}
+            <li><a href="{{ "/" | relURL}}{{ $taxonomyname | urlize }}/{{ $key | urlize }}">
+                {{ $key }}</a>
+              <span class="text-muted">({{ $value.Count }})</span>
+            </li>
+            {{ end }}
+          {{ end }}
+          {{ end }}
+          </ul>
+
+          <main role="main">
+            <h2 class="list-title">{{ .Title }}</h2>
+            {{ range .Data.Pages }}
+              {{ .Render "summary" }}
+            {{ end }}
+          </main>
+
+        </div><!-- col-md-12 -->
+      </div><!-- row -->
+		</div><!-- /.container -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> -->
+    <script src="/js/jquery-3.1.0.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    {{ partial "page-end-includes.html" . }}
+  </body>
+</html>
