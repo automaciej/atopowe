@@ -4,6 +4,7 @@
     {{ partial "head-section.html" . }}
     <title>{{ with .Title }}{{ . }} &mdash; {{ end }}{{ .Site.Title }}</title>
     <meta name="description" content="{{ .Site.Params.description }}" />
+    <meta property="og:image"              content="{{ .Site.Params.logo }}" />
   </head>
   <body role="document">
     {{ partial "navbar.html" . }}
@@ -20,9 +21,10 @@
                   role="button">Podstawowe wiadomości o AZS &raquo;</a></p>
           </div><!-- col-md-10 -->
           <div class="col-md-2 hidden-xs hidden-sm">
-              <img class="img-circle" src="/images/atopowe-logo.png"
-              alt="Atopowe słoneczko, kółko z biało-czerwonym kształtem yin-yang, część czerwona lekko poszarpana, jak podrapana skóra."
-              width="140" height="140">
+            <img class="img-circle"
+                 src="{{ .Site.Params.logo }}"
+                 alt="Atopowe słoneczko, kółko z biało-czerwonym kształtem yin-yang, część czerwona lekko poszarpana, jak podrapana skóra."
+                 width="140" height="140">
           </div><!-- col-md-2 -->
         </div><!-- row -->
       </div>
