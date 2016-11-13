@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Pielęgnacja_skóry_wokół_oczu/"
 title = "Pielęgnacja skóry wokół oczu"
 kategorie = [ "pielęgnacja",]

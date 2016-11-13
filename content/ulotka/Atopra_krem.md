@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Atopra_krem/"
 title = "Atopra krem"
 rodzajelekow = [ "emolienty", "kremy",]

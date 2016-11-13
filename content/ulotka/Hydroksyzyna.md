@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Hydroksyzyna/"
 title = "Hydroksyzyna"
 rodzajelekow = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe I generacji",]

@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Wojewódzki_Specjalistyczny_Szpital_im._dr_Wł._Biegańskiego_w_Łodzi/"
 title = "Wojewódzki Specjalistyczny Szpital im. dr Wł. Biegańskiego w Łodzi"
 kategorie = [ "Szpitale i lekarze",]

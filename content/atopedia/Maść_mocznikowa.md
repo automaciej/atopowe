@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Maść_mocznikowa/"
 title = "Maść mocznikowa"
 kategorie = [ "Maści", "preparaty zawierające mocznik", "Przepisy na maści robione",]

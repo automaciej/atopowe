@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Analiza_pierwiastkowa_włosów/"
 title = "Analiza pierwiastkowa włosów"
 kategorie = [ "niekonwencjonalne metody leczenia",]

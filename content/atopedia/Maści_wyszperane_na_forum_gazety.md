@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Maści_wyszperane_na_forum_gazety/"
 title = "Maści wyszperane na forum gazety"
 kategorie = [ "maści", "Przepisy na maści robione",]

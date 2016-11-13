@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Maść_witaminowa_na_eucerynie/"
 title = "Maść witaminowa na eucerynie"
 kategorie = [ "Maści", "Przepisy na maści robione",]

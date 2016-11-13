@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Podwójnie_ślepa_próba/"
 title = "Podwójnie ślepa próba"
 kategorie = [ "Wiedza z nauk przyrodniczych",]

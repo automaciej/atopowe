@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Wykład:_Podstawy_patogenezy_i_terapii_atopowego_zapalenia_skóry/"
 title = "Wykład: Podstawy patogenezy i terapii atopowego zapalenia skóry"
 kategorie = [ "Fundacja Alabaster", "Wykłady", "Multimedia",]

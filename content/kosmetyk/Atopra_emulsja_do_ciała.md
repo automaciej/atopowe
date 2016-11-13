@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Atopra_emulsja_do_ciała/"
 title = "Atopra emulsja do ciała"
 rodzajekosmetykow = [ "emolienty", "kosmetyki", "preparaty zawierające mocznik",]

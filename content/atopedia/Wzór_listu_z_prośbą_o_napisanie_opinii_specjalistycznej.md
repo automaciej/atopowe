@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Wzór_listu_z_prośbą_o_napisanie_opinii_specjalistycznej/"
 title = "Wzór listu z prośbą o napisanie opinii specjalistycznej"
 kategorie = [ "Refundacja i pisma",]

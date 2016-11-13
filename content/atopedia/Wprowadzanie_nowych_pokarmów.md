@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Wprowadzanie_nowych_pokarmów/"
 title = "Wprowadzanie nowych pokarmów"
 kategorie = [ "atopowe zapalenie skóry u dzieci", "diety",]

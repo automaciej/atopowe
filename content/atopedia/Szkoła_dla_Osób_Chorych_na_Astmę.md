@@ -1,5 +1,5 @@
 +++
-date = "2015-01-01T00:00:00+01:00"
+date = "2005-01-01T00:00:00+01:00"
 permalink = "/Szkoła_dla_Osób_Chorych_na_Astmę/"
 title = "Szkoła dla Osób Chorych na Astmę"
 
