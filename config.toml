@@ -13,6 +13,9 @@ title = "Atopowe Zapalenie Skóry"
   logo = "/images/atopowe-logo.png"
   googleplus = "https://plus.google.com/+AtopowePL"
   twitter = "https://twitter.com/atopowe"
-  description = "Forum oraz FAQ, informacje oraz porady pochodzące od osób chorych na AZS."
+  # Opis strony. Pojawia się on w kilku miejscach na stronie i jest to opis
+  # prezentowany wyszukiwarkom jako najbardziej podstawowa informacja, czym jest
+  # atopowe.pl.
+  description = "Atopowe.pl jest stroną poświęconą atopowemu zapaleniu skóry, alergii, atopii i astmie."
   # githubsrc jest używane do "edytuj tę stronę"
   githubsrc = "https://github.com/automatthias/atopowe-hugo/blob/master/content/"
