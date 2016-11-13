@@ -32,29 +32,19 @@
 
     <div class="container" role="main">
       <div class="row">
+        {{ range .Site.Sections.promowane.Pages }}
         <div class="col-md-4">
-          <h2>Atopedia</h2>
-          <p>Zbiór informacji o atopowym zapaleniu skóry, czym ono jest, jak się
-          je rozpoznaje i jak leczy. Informacje te były zbierane i wprowadzane przez
-          użytkowników forum Atopowe.pl od 2003 roku.</p>
-          <p><a class="btn btn-default" href="/atopedia" role="button">Zobacz więcej &raquo;</a></p>
+          <h2>{{ .Title }}</h2>
+          {{ .Content }}
+          {{ if .Params.prowadzi_do -}}
+          <p>
+            <a class="btn btn-default btn-social btn-lg" href="{{ .Params.prowadzi_do }}" role="button">
+              <i class="fa fa-{{ .Params.fa_icon }}" aria-hidden="true"></i>
+              Zobacz więcej &raquo;</a>
+          </p>
+          {{- end }}
         </div><!-- col-md-4 -->
-        <div class="col-md-4">
-          <h2>Polecani lekarze</h2>
-          <p>Lista lekarzy zebrana przez użytkowników forum. Szukasz lekarza?
-          Zajrzyj tu. Znasz dobrego lekarza? Poleć!</p>
-          <p><a class="btn btn-default" href="/atopedia/polecani-lekarze/"
-                role="button">Zobacz więcej &raquo;</a></p>
-        </div><!-- col-md-4 -->
-        <div class="col-md-4">
-          <h2>Porozmawiaj z innymi</h2>
-          <p>Osoby z atopowym zapaleniem skóry rzadko mają okazję spotkać
-          innych atopowców, lub porozmawiać z kimś kto rozumie, czym jest AZS.
-          Społeczność internetowa sprawi że nie będziesz się z AZSem czuć
-          samotnie!</p>
-          <p><a class="btn btn-default" href="http://pl.reddit.com/r/atopowezapalenieskory/"
-                role="button">Zobacz więcej &raquo;</a>
-        </div><!-- col-md-4 -->
+        {{ end }}
       </div><!-- row -->
       <div class="row">
         <div class="col-md-12">
