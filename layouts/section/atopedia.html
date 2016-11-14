@@ -50,12 +50,10 @@
   </p>
   <ul class="list-inline inline">
     {{ range .Data.Pages }}
-      <li class="entry-title" itemprop="headline">
-        <article itemscope itemtype="http://schema.org/Blog">
+      <li>
         <a href="{{ .RelPermalink }}">
           {{ .Title }}{{ if .Draft }} #Draft{{ end }}
         </a>
-        </article>
       </li>
     {{ end }}
   </ul>
