@@ -8,7 +8,7 @@ kategorie = [ "multimedia", "Wykłady",]
 
 Wykład dr Ireny Grzesiak odbył się we Wrocławiu, 28 października 2005. Materiał jest dostępny dzięki uczynności Kawagi z forum.
 
-**Wykład dr Ireny Grzesiak na YouTube (w całości):** <youtube>gJjMjol1VI4</youtube>
+**Wykład dr Ireny Grzesiak na YouTube (w całości):** {{< youtube gJjMjol1VI4 >}}
 
 Transkrypt wykładu
 ------------------

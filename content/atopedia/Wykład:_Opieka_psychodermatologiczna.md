@@ -15,7 +15,7 @@ Wykład: Opieka psychodermatologiczna
 
 **prof. nadzw. dr hab. n. med. Anna Zalewska-Janowska**
 
-**Wykład na YouTube (w całości):** <youtube>peY_2rI_mqY</youtube>
+**Wykład na YouTube (w całości):** {{< youtube peY_2rI_mqY >}}
 
 __TOC__
 

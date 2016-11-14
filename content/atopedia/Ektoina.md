@@ -2,7 +2,7 @@
 date = "2005-01-01T00:00:00+01:00"
 permalink = "/Ektoina/"
 title = "Ektoina"
-kategorie = [ "substancje chemiczne",]
+kategorie = [ "substancje chemiczne", "wykłady",]
 
 +++
 
@@ -20,7 +20,8 @@ Ektoina jest cząsteczką naturalną, pozyskiwaną na drodze fermentacji
 
 Ektoina jako substancja wykorzystywana do leczenia chorób alergicznych znalazła uznanie w środowisku wybitnych specjalistów w dziedzinie alergologii i dermatologii.
 
-**Wykład prof. Romana Nowickiego podczas XVIII Sympozjum Naukowo - Szkoleniowego "Postępy w Alergologii i Pneumunologii" na temat zastosowania ektoiny w leczeniu [AZS](/atopedia/AZS "wikilink"):** <youtube>f99hzNTCjbY</youtube>
+**Wykład prof. Romana Nowickiego podczas XVIII Sympozjum Naukowo - Szkoleniowego "Postępy w Alergologii i Pneumunologii" na temat zastosowania ektoiny w leczeniu [AZS](/atopedia/AZS "wikilink"):**
+{{< youtube f99hzNTCjbY >}}
 
 Linki zewnętrzne
 ----------------
