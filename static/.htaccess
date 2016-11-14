@@ -3,3 +3,4 @@ Redirect permanent /feed /index.xml
 RedirectMatch permanent ^/tag/(.*)/$ /tags/$1/
 RedirectMatch temp /lekarze.* /atopedia/Dział_z_lekarzami
 Redirect permanent /reddit https://pl.reddit.com/r/atopowezapalenieskory
+Redirect permanent /atopedia/Strona_główna/ /atopedia
