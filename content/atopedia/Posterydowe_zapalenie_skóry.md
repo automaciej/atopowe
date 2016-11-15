@@ -13,8 +13,8 @@ Uzależnienie od sterydów
 
 **Dodatkowo uzależnienie pogłębia fakt, że:**
 
--   [kortykosterydy](/atopedia/kortykosterydy "wikilink") stosowane zewnętrznie powodują stopniowe ścieńczenie, a z czasem zanik warstwy rogowej naskórka, co zwiększa absorpcję sterydu przez skórę,
--   w przypadku aplikowania bez odpowiednich przerw, dochodzi do [tachyfilaksji skóry](/atopedia/tachyfilaksja "wikilink"), czy jej uniewrażliwienia się na działanie sterydu.
+-   [kortykosterydy]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink") stosowane zewnętrznie powodują stopniowe ścieńczenie, a z czasem zanik warstwy rogowej naskórka, co zwiększa absorpcję sterydu przez skórę,
+-   w przypadku aplikowania bez odpowiednich przerw, dochodzi do [tachyfilaksji skóry]({{< relref "atopedia/Tachyfilaksja.md" >}} "wikilink"), czy jej uniewrażliwienia się na działanie sterydu.
 
 **Skłonność do uzależnienia skóry** od sterydów jest sprawą indywidualną, u niektórych osób następuje bardzo szybko (np. już po kilku tygodniach).
 
@@ -23,7 +23,7 @@ Znaczenie ma tutaj obszar powierzchni ciała, które były smarowane, okres czas
 Objawy
 ------
 
-Momentem przełomowym w błędnym kole jest najczęściej permanentne odstawienie [sterydów](/atopedia/kortykosterydy "wikilink"). "*Głód sterydowy*" skóry manifestuje się wówczas (oprócz zaostrzenia objawów choroby):
+Momentem przełomowym w błędnym kole jest najczęściej permanentne odstawienie [sterydów]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink"). "*Głód sterydowy*" skóry manifestuje się wówczas (oprócz zaostrzenia objawów choroby):
 
 -   [swędzącym](/atopedia/Świąd "wikilink") rumieniem z silnym obrzękiem w obrębie smarowanych sterydem obszarów,
 -   wokół ust, brody, także w okolicach przynosowych występuje tzw. zapalenie okołoustne,
@@ -32,9 +32,9 @@ Momentem przełomowym w błędnym kole jest najczęściej permanentne odstawieni
 Leczenie
 --------
 
-Leczenie posterydowego zapalenia skóry jest długotrwałe. Zmiany ustępują opornie, stopniowo w ciągu min. 4 tygodni, ale u niektórych może trwać to nawet kilka miesięcy! Nie zaleca się w tym czasie stosowania zewnętrznie żadnych [substancji czynnych](/atopedia/substancje_aktywne "wikilink"), jedynie [obojętne emolienty](/atopedia/Emolienty "wikilink") w celu zniwelowania ogromnego [podrażnienia](/atopedia/podrażnienie "wikilink") i odbudowania zniszczonej warstwy rogowej [naskórka](/atopedia/skóra "wikilink").
+Leczenie posterydowego zapalenia skóry jest długotrwałe. Zmiany ustępują opornie, stopniowo w ciągu min. 4 tygodni, ale u niektórych może trwać to nawet kilka miesięcy! Nie zaleca się w tym czasie stosowania zewnętrznie żadnych [substancji czynnych]({{< relref "atopedia/Substancje_aktywne.md" >}} "wikilink"), jedynie [obojętne emolienty](/atopedia/Emolienty "wikilink") w celu zniwelowania ogromnego [podrażnienia](/atopedia/podrażnienie "wikilink") i odbudowania zniszczonej warstwy rogowej [naskórka](/atopedia/skóra "wikilink").
 
-Najważniejszym elementem terapii posterydowego zapalenia skóry jest *odwyk* od [sterydów](/atopedia/kortykosterydy "wikilink"). Zbyt gwałtowne ich odstawienie może być dla skóry dużym wstrząsem. Dlatego czasami, w początkowej fazie leczenia stosuje się jeszcze niewielkie, stopniowo zmniejszane dawki sterydów. .
+Najważniejszym elementem terapii posterydowego zapalenia skóry jest *odwyk* od [sterydów]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink"). Zbyt gwałtowne ich odstawienie może być dla skóry dużym wstrząsem. Dlatego czasami, w początkowej fazie leczenia stosuje się jeszcze niewielkie, stopniowo zmniejszane dawki sterydów. .
 
 Trądzik posterydowy
 -------------------

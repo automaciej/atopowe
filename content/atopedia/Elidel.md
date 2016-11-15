@@ -8,7 +8,7 @@ kategorie = [ "kremy", "leki immunosupresyjne",]
 
 **Elidel** jest kremem immunosupresyjnym, czyli działającym poprzez obniżenie aktywności systemu immunologicznego. Nie jest to lek [sterydowy](/atopedia/kortykosterydy "wikilink") i można stosować go przez długi okres.
 
-Substancję czynną maści Elidel 0,03% stanowi [pimekrolimus](/atopedia/pimekrolimus "wikilink"). Do tej samej grupy należy [takrolimus](/atopedia/takrolimus "wikilink"), składnik czynny leku [Protopic](/atopedia/Protopic "wikilink").
+Substancję czynną maści Elidel 0,03% stanowi [pimekrolimus]({{< relref "atopedia/Pimekrolimus.md" >}} "wikilink"). Do tej samej grupy należy [takrolimus](/atopedia/takrolimus "wikilink"), składnik czynny leku [Protopic](/atopedia/Protopic "wikilink").
 
 Elidel u niemowląt i dzieci
 ---------------------------
