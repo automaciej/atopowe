@@ -35,7 +35,7 @@
   </ul>
   <h2 class="list-title">Lista wszystkich przepisów</h2>
   <ul class="list-unstyled">
-    {{ range .Data.Pages }}
+    {{ range .Data.Pages.ByTitle }}
       <li class="entry-title" itemprop="headline">
         <article itemscope itemtype="http://schema.org/BlogPosting">
         <a href="{{ .RelPermalink }}">

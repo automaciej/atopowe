@@ -49,7 +49,7 @@
     Użyj CTRL+F żeby wyszukać interesujący cię artykuł.
   </p>
   <ul class="list-inline inline">
-    {{ range .Data.Pages }}
+    {{ range .Data.Pages.ByTitle }}
       <li>
         <a href="{{ .RelPermalink }}">
           {{ .Title }}{{ if .Draft }} #Draft{{ end }}

@@ -38,7 +38,7 @@
     Wciśnij CTRL+F żeby wyszukać interesującą cię ulotkę.
   </p>
   <ul class="list-inline inline">
-    {{ range .Data.Pages }}
+    {{ range .Data.Pages.ByTitle }}
       <li class="entry-title" itemprop="headline">
         <article itemscope itemtype="http://schema.org/BlogPosting">
         <a href="{{ .RelPermalink }}">
