@@ -12,8 +12,19 @@
     <div class="container" role="main">
       <div class="row">
         <div class="col-md-12">
-          {{ partial "entry.html" . }}
-
+          <main>
+            <article itemscope itemtype="http://schema.org/BlogPosting">
+              <h1 class="entry-title" itemprop="name headline">{{ .Title }}</h1>
+              <small>
+                <time itemprop="datePublished"
+                    datetime="{{ .Date.Format "2006-01-02" }}"
+                    >{{ .Date.Format "January 02, 2006" }}</time>
+              </small>
+              <section itemprop="articleBody">
+                {{ .Content }}
+              </section>
+            </article>
+          </main>
           {{ partial "disqus-main.html" . }}
         </div><!-- col-md-12 -->
       </div><!-- row -->
@@ -22,10 +33,3 @@
     {{ partial "disqus-footer.html" . }}
   </body>
 </html>
-<!-- {{ partial "header.html" . }}
-
-{{ partial "entry.html" . }}
-{{ partial "footer.html" . }}
--->
-<!-- continue here, make this a root document and not use header/footer -->
-
