@@ -1,5 +1,5 @@
 +++
-aliases = ["/atopedia/AZS"]
+aliases = [ "/atopedia/AZS", "/atopedia/Azs/",]
 date = "2005-01-01T00:00:00+01:00"
 permalink = "/Atopowe_zapalenie_skóry/"
 title = "Atopowe zapalenie skóry"

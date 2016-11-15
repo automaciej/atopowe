@@ -3,7 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Pi_Yan_Ping/"
 title = "Pi Yan Ping („Maść 999”)"
 kategorie = [ "Leki sterydowe",]
-aliases = [ "/atopedia/Piyan_Ping/", ]
+aliases = [ "/atopedia/Piyan_Ping/", "/atopedia/Maść_999/",]
 
 +++
 

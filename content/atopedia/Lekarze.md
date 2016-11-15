@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Lekarze/"
 title = "Lekarze"
 kategorie = [ "Szpitale i lekarze",]
+aliases = [ "/atopedia/Lekarz/",]
 
 +++
 

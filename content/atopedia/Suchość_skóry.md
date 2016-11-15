@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Suchość_skóry/"
 title = "Suchość skóry"
 kategorie = [ "objawy atopowego zapalenia skóry",]
+aliases = [ "/atopedia/Sucha_skóra/",]
 
 +++
 

@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Szkoły_dla_osób_chorych_na_astmę/"
 title = "Szkoły dla osób chorych na astmę"
 kategorie = [ "astma",]
+aliases = [ "/atopedia/Szkoła_dla_Osób_Chorych_na_Astmę/",]
 
 +++
 

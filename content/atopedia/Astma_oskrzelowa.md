@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Astma_oskrzelowa/"
 title = "Astma oskrzelowa"
 kategorie = [ "astma",]
+aliases = [ "/atopedia/Astma/",]
 
 +++
 

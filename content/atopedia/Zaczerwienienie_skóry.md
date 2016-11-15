@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Zaczerwienienie_skóry/"
 title = "Zaczerwienienie skóry"
 kategorie = [ "objawy atopowego zapalenia skóry",]
+aliases = [ "/atopedia/Zaczerwienienie/",]
 
 +++
 
