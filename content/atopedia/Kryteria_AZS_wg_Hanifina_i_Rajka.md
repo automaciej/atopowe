@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Kryteria_AZS_wg_Hanifina_i_Rajka/"
 title = "Kryteria AZS wg Hanifina i Rajka"
 kategorie = [ "podstawowe wiadomości", "objawy atopowego zapalenia skóry",]
+aliases = [ "/atopedia/Kryteria/",]
 
 +++
 

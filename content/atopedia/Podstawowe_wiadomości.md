@@ -76,7 +76,7 @@ przypuszczać, że jest nakręcana przez producentów leków sterydowych.
 
 ## Jeżeli masz łagodne, miejscowe objawy
 
-Łagodne objawy to [zaczerwienione]({{< relref "Zaczerwienienie.md" >}}),
+Łagodne objawy to [zaczerwienione]({{< relref "Zaczerwienienie_skóry.md" >}}),
 łuszczące się i swędzące miejsca gdzieś na ciele. Są trochę irytujące, ale to
 wszystko. [Pielęgnuj]({{< relref "Pielęgnacja.md" >}}) swoją skórę. Miejsce
 objęte zmianami smaruj lekiem przepisanym przez lekarza.
