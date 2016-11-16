@@ -19,7 +19,7 @@ ISCOCONAZOLI NITRAS + DIFLUCORTOLONI VALERAS
 
 Preparat do stosowania miejscowego. Izokonazol - pochodna imidazolu - charakteryzuje się szerokim zakresem działania przeciwgrzybiczego. Wywiera działanie grzybostatyczne na drożdżaki (przede wszystkim Candida spp., Malassezia furfur), dermatofity (rodzaje Trichophyton, Epidermophyton, Microsporum), grzyby pleśniowe. Działa również przeciwbakteryjnie na ziarniaki Gram-dodatnie (paciorkowce, gronkowce). Zastosowany miejscowo osiąga duże stężenia w warstwie rogowej naskórka, **nie wchłaniając się przez skórę.**
 
-Walerianian diflukortolonu jest [glikokortykosteroidem](/atopedia/sterydy "wikilink") o silnym działaniu miejscowym, działającym przeciwzapalnie i przeciwalergicznie. Dzieki synergizmowi składników preparat wywiera działanie przeciwgrzybicze, przeciwzapalne, przeciwbakteryjne i przeciwświądowe.
+Walerianian diflukortolonu jest glikokortykosteroidem o silnym działaniu miejscowym, działającym przeciwzapalnie i przeciwalergicznie. Dzieki synergizmowi składników preparat wywiera działanie przeciwgrzybicze, przeciwzapalne, przeciwbakteryjne i przeciwświądowe.
 
 **Wskazania**
 

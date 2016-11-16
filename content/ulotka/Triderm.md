@@ -41,7 +41,7 @@ Co to jest Triderm krem i w jakim celu się go stosuje
 
 Właściwości leku Triderm krem wynikają z działania substancji czynnych: betametazonu dipropionianu, gentamycyny i klotrymazolu.
 
-Betametazonu dipropionian należy do leków z grupy [kortykosteroidów](/atopedia/sterydy "wikilink") o silnym działaniu, stosowany miejscowo wywiera szybkie i długotrwałe działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
+Betametazonu dipropionian należy do leków z grupy kortykosteroidów o silnym działaniu, stosowany miejscowo wywiera szybkie i długotrwałe działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
 
 Gentamycyna jest antybiotykiem aminoglikozydowym o działaniu przeciwbakteryjnym.
 

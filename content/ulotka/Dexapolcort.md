@@ -35,7 +35,7 @@ ul. A. Fleminga 2
 Co to jest lek Dexapolcort i w jakim celu się go stosuje
 --------------------------------------------------------
 
-Deksametazon - substancja czynna leku Dexapolcort - jest syntetycznym [kortykosteroidem](/atopedia/sterydy "wikilink") o silnym działaniu przeciwzapalnym, przeciwświądowym, przeciwalergicznym i obkurczającym naczynia krwionośne.
+Deksametazon - substancja czynna leku Dexapolcort - jest syntetycznym kortykosteroidem o silnym działaniu przeciwzapalnym, przeciwświądowym, przeciwalergicznym i obkurczającym naczynia krwionośne.
 
 ### Wskazania do stosowania
 

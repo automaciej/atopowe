@@ -14,7 +14,7 @@ aliases = [ "/atopedia/Clobederm_maść/",]
 Opis produktu
 -------------
 
-Clobederm (clobetazolu propionian) jest najsilniej działającym syntetycznym [glikokortykosteroidem](/atopedia/sterydy "wikilink") do stosowania miejscowego na skórę. Zastosowana miejscowo na skórę maść o stężeniu 0,05% wykazuje bardzo silne działanie przeciwzapalne, przeciwświądowe, przeciwalergiczne i obkurczające naczynia krwionośne. Wykazuje właściwości lipofilne i łatwo przenika przez skórę do organizmu. Już po zastosowaniu 2 g maści może zmniejszać wydzielanie przez przysadkę hormonu adrenokortykotropowego (ACTH) przez hamowanie osi nadnerczowo-przysadkowej.
+Clobederm (clobetazolu propionian) jest najsilniej działającym syntetycznym glikokortykosteroidem do stosowania miejscowego na skórę. Zastosowana miejscowo na skórę maść o stężeniu 0,05% wykazuje bardzo silne działanie przeciwzapalne, przeciwświądowe, przeciwalergiczne i obkurczające naczynia krwionośne. Wykazuje właściwości lipofilne i łatwo przenika przez skórę do organizmu. Już po zastosowaniu 2 g maści może zmniejszać wydzielanie przez przysadkę hormonu adrenokortykotropowego (ACTH) przez hamowanie osi nadnerczowo-przysadkowej.
 
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**

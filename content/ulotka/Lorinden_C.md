@@ -24,7 +24,7 @@ CO TO JEST LEK LORINDEN C MAŚĆ I W JAKIM CELU SIĘ GO STOSUJE
 
 Lorinden C w postaci maści jest lekiem do stosowania na skórę, zawiera substancje czynne flumetazonu piwalan i kliochinol.
 
-Flumetazonu piwalan jest lekiem z grupy [kortykosteroidów](/atopedia/sterydy "wikilink") o umiarkowanie silnym działaniu przeciwzapalnym, stosowany miejscowo na skórę wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
+Flumetazonu piwalan jest lekiem z grupy kortykosteroidów o umiarkowanie silnym działaniu przeciwzapalnym, stosowany miejscowo na skórę wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
 
 Kliochinol jest lekiem, który wykazuje działanie przeciwbakteryjne na niektóre bakterie Gram dodatnie i Gram-ujemne.
 

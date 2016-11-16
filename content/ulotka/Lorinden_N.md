@@ -24,7 +24,7 @@ CO TO JEST LEK LORINDEN N KREM I W JAKIM CELU SIĘ GO STOSUJE
 
 Lorinden N w postaci kremu jest lekiem do stosowania na skórę, zawiera substancje czynne flumetazonu piwalan i neomycyny siarczan.
 
-Flumetazonu piwalan jest syntetycznym [kortykosteroidem](/atopedia/sterydy "wikilink") o umiarkowanie silnym działaniu przeciwzapalnym. Stosowany miejscowo na skórę wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
+Flumetazonu piwalan jest syntetycznym kortykosteroidem o umiarkowanie silnym działaniu przeciwzapalnym. Stosowany miejscowo na skórę wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
 
 Neomycyny siarczan jest antybiotykiem aminoglikozydowym, który ze względu na swoją toksyczność przeznaczony jest głównie do stosowania miejscowego. Lek działa na tlenowe bakterie Gram-ujemne i niektóre bakterie Gram-dodatnie. Neomycyny siarczan z podłoża kremowego może przenikać do głębszych warstw skóry. Podczas długotrwałego stosowania na duże powierzchnie skóry, zwłaszcza uszkodzonej procesem chorobowym, neomycyny siarczan może wchłaniać się do krwi.
 

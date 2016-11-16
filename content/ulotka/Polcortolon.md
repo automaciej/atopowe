@@ -21,7 +21,7 @@ Skład
 Działanie
 ---------
 
-Triamcynolon w postaci acetonidu jest fluorowanym, syntetycznym [glikokortykosteroidem](/atopedia/sterydy "wikilink") do stosowania miejscowego o silnym działaniu przeciwzapalnym, przeciwuczuleniowym i przeciwświądowym.
+Triamcynolon w postaci acetonidu jest fluorowanym, syntetycznym glikokortykosteroidem do stosowania miejscowego o silnym działaniu przeciwzapalnym, przeciwuczuleniowym i przeciwświądowym.
 
 Wskazania
 ---------

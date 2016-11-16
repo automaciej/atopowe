@@ -22,7 +22,7 @@ aliases = [ "/atopedia/Flucinar/",]
 CO TO JEST LEK FLUCINAR MAŚĆ I W JAKIM CELU SIĘ GO STOSUJE
 ----------------------------------------------------------
 
-Substancją czynną leku Flucinar maść jest fluocynolonu acetonid. Fluocynolonu acetonid jest syntetycznym [glikokortykosteroidem](/atopedia/sterydy "wikilink") do stosowania miejscowego na skórę. Lek wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
+Substancją czynną leku Flucinar maść jest fluocynolonu acetonid. Fluocynolonu acetonid jest syntetycznym glikokortykosteroidem do stosowania miejscowego na skórę. Lek wykazuje działanie przeciwzapalne, przeciwświądowe i obkurczające naczynia krwionośne.
 
 ### Wskazania do stosowania
 

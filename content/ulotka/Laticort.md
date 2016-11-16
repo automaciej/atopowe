@@ -18,7 +18,7 @@ Postacie występowania leku: maść, krem, płyn
 
 ### Jak działa lek?
 
-Lek należy do grupy hormonów zwanych [glikokortykosteroidami](/atopedia/sterydy "wikilink"). Jest naturalnym hormonem ludzkim, wydzielanym przez korę nadnerczy. Działa przeciwzapalnie (zmniejsza zaczerwienienie i swędzenie skóry).
+Lek należy do grupy hormonów zwanych glikokortykosteroidami. Jest naturalnym hormonem ludzkim, wydzielanym przez korę nadnerczy. Działa przeciwzapalnie (zmniejsza zaczerwienienie i swędzenie skóry).
 
 ### Kiedy lek ma zastosowanie?
 

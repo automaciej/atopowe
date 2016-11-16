@@ -62,7 +62,7 @@ Wielka Brytania
 Co to jest lek Dermovate maść i w jakim celu się go stosuje
 -----------------------------------------------------------
 
-Substancją czynną leku Dermovate w postaci maści jest klobetazolu propionan, [kortykosteroid](/atopedia/sterydy "wikilink") o bardzo silnym działaniu przeciwzapalnym. Lek jest przeznaczony do stosowania miejscowego na skórę.
+Substancją czynną leku Dermovate w postaci maści jest klobetazolu propionan, kortykosteroid o bardzo silnym działaniu przeciwzapalnym. Lek jest przeznaczony do stosowania miejscowego na skórę.
 
 Dermovate maść jest wskazany do krótkotrwałego leczenia miejscowego chorób skóry reagujących na leczenie kortykosteroidami, takich jak:
 

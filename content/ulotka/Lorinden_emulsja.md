@@ -23,7 +23,7 @@ Skład
 Działanie
 ---------
 
-Piwalan (trimetylooctan) flumetazonu jest difluorowanym, syntetycznym [glikokortykosteroidem](/atopedia/sterydy "wikilink") do stosowania miejscowego o długotrwałym i silnym działaniu przeciwzapalnym, przeciwuczuleniowym i przeciwświądowym.
+Piwalan (trimetylooctan) flumetazonu jest difluorowanym, syntetycznym glikokortykosteroidem do stosowania miejscowego o długotrwałym i silnym działaniu przeciwzapalnym, przeciwuczuleniowym i przeciwświądowym.
 
 Wskazania
 ---------

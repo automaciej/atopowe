@@ -8,7 +8,7 @@ kategorie = [ "leki immunosupresyjne", "terapia",]
 
 ### Błony śluzowe
 
-W przypadku stosowania [Protopicu](/atopedia/Protopic "wikilink") i [Elidelu](/atopedia/Elidel "wikilink") (tak jak i przy [sterydach](/atopedia/sterydy "wikilink")), należy unikać kontaktu z błonami śluzowymi (oczy, narządy płciowe). Tak jak w przypadku [cyklosporyny]({{< relref "atopedia/Cyklosporyna.md" >}} "wikilink") należy unikać nadmiernej ekspozycji na promienie słoneczne.
+W przypadku stosowania [Protopicu](/atopedia/Protopic "wikilink") i [Elidelu](/atopedia/Elidel "wikilink") (tak jak i przy sterydach), należy unikać kontaktu z błonami śluzowymi (oczy, narządy płciowe). Tak jak w przypadku [cyklosporyny]({{< relref "atopedia/Cyklosporyna.md" >}} "wikilink") należy unikać nadmiernej ekspozycji na promienie słoneczne.
 
 ### Typowe błędy w stosowaniu
 

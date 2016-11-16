@@ -44,7 +44,7 @@ Belgia
 Co to jest lek Diprosone krem i w jakim celu się go stosuje
 -----------------------------------------------------------
 
-Substancją czynną leku Diprosone krem jest betametazon w postaci dipropionianu betametazonu. Dipropionian betametazonu jest syntetycznym fluorowanym [kortykosteroidem](/atopedia/sterydy "wikilink") o silnym działaniu. Lek stosowany miejscowo na skórę wykazuje działanie przeciwzapalne i przeciwświądowe, a także obkurczające naczynia krwionośne.
+Substancją czynną leku Diprosone krem jest betametazon w postaci dipropionianu betametazonu. Dipropionian betametazonu jest syntetycznym fluorowanym kortykosteroidem o silnym działaniu. Lek stosowany miejscowo na skórę wykazuje działanie przeciwzapalne i przeciwświądowe, a także obkurczające naczynia krwionośne.
 
 ### Wskazania
 

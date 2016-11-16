@@ -92,7 +92,7 @@ Oczywiście wybrana strategia zależy od stanu skóry i zaawansowania zmian.
 
 ### Zobacz również
 
--   [Europejska klasyfikacja kortykosterydów](/atopedia{{< relref "atopedia/Europejska_klasyfikacja_kortykosterydów.md" >}})
+-   [Europejska klasyfikacja kortykosterydów]({{< relref "atopedia/Europejska_klasyfikacja_kortykosterydów.md" >}})
 -   [Skutki uboczne kortykosterydów](/atopedia/Skutki_uboczne_kortykosterydów)
 -   [Posterydowe zapalenie skóry](/atopedia/Posterydowe_zapalenie_skóry)
 -   [Silny kortykosteryd 3 razy w tygodniu, a słabszy stosowany przez cały tydzień](http://www.mp.pl/artykuly/?aid=13078)

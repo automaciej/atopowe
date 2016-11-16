@@ -17,7 +17,7 @@ aliases = [ "/atopedia/Elosone/",]
 
 ### Działanie
 
-Pirośluzan mometazonu, [glikokortykosteroid](/atopedia/sterydy "wikilink") o średniej sile działania, stosowany zewnętrznie działa -miejscowo przeciwzapalnie, przeciwświądowo i zwęża naczynia krwionośne.
+Pirośluzan mometazonu, glikokortykosteroid o średniej sile działania, stosowany zewnętrznie działa -miejscowo przeciwzapalnie, przeciwświądowo i zwęża naczynia krwionośne.
 
 ### Wskazania
 

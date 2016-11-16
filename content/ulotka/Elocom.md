@@ -9,7 +9,7 @@ aliases = [ "/atopedia/Elocom/",]
 
 *(Mometasoni furoas)*
 
-Syntetyczny [kortykosteroid](/atopedia/steryd "wikilink") o silnym działaniu miejscowym. Działa przeciwzapalnie i przeciwświądowo.
+Syntetyczny kortykosteroid o silnym działaniu miejscowym. Działa przeciwzapalnie i przeciwświądowo.
 
 ### Skład
 

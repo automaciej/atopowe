@@ -62,7 +62,7 @@ Zobacz również
 
 -   [Zespół Cushinga](/atopedia/Zespół_Cushinga "wikilink")
 -   [Posterydowe zapalenie skóry](/atopedia/Posterydowe_zapalenie_skóry "wikilink")
--   [Europejska klasyfikacja kortykosterydów](/atopedia{{< relref "atopedia/Europejska_klasyfikacja_kortykosterydów.md" >}} "wikilink")
+-   [Europejska klasyfikacja kortykosterydów]({{< relref "atopedia/Europejska_klasyfikacja_kortykosterydów.md" >}})
 -   [Konsekwencje korzystania z maści sterydowych](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=10&t=161) - wątek na Forum
 -   [Silny kortykosteryd 3 razy w tygodniu, a słabszy stosowany przez cały tydzień](http://www.mp.pl/artykuly/?aid=13078)
 

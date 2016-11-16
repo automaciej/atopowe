@@ -15,7 +15,7 @@ Postacie występowania leku: zawiesina do wstrzykiwań, krem, tabletki
 
 ### Jak działa lek?
 
-Lek należy do grupy hormonów zwanych [glikokortykosteroidami](/atopedia/sterydy "wikilink").
+Lek należy do grupy hormonów zwanych glikokortykosteroidami.
 
 Jest naturalnym hormonem ludzkim, wydzielanym przez korę nadnerczy. Działa przeciwzapalnie (zmniejsza zaczerwienienie i swędzenie skóry). Hydrokortyzon wywiera działanie przeciwzapalne,przeciwreumatyczne,przeciwalergiczne,immunosupresyjne.Hamuje działanie hialuronidazy, zmniejsza przepuszczalność naczyń włosowatych i zmniejsza obrzęk, zwiększa stężenie glukozy we krwi, przyspiesza rozpad i hamuje syntezę białek oraz osłabia odporność organizmu na zakażenia.Powoduje również zatrzymanie sodu i wody w organizmie i zwiększa wydalanie potasu z moczem.Nasila resorpcję wapnia z kości,powoduje rozwój osteoporozy, zmniejsza wchłanianie jonów wapniowych z przewodu pokarmowego jednocześnie zwiększając wydalanie wapnia z moczem, hamuje wzrost u dzieci. Blokuje wydzielanie hormonu adrenokortykotropowego przez przysadkę co w następstwie może spowodować niewydolność kory nadnerczy. Zmniejsza liczbę limfocytów, monocytów i granulocytów kwasochłonnych.
 

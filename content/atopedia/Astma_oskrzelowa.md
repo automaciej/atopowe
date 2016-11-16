@@ -31,11 +31,11 @@ ponadto:
 -   refluks przełykowy
 -   infekcje układu oddechowego
 -   stany zapalne zatok nosowych
--   przewlekły [katar sienny](/atopedia/katar_sienny "wikilink")
+-   przewlekły katar sienny
 -   [palenie tytoniu](/atopedia/Papierosy "wikilink")
 -   zanieczyszczenie powietrza
 
-Astma oskrzelowa może mieć przebieg przewlekły lub incydentalny. Ciężka, przewlekła astma oskrzelowa leczona jest zazwyczaj za pomoca preparatów [sterydowych](/atopedia/steryd "wikilink") wziewnych lub doustnych. W lżejszych przypadkach wystarcza używanie środków rozkurczających oskrzela.
+Astma oskrzelowa może mieć przebieg przewlekły lub incydentalny. Ciężka, przewlekła astma oskrzelowa leczona jest zazwyczaj za pomoca preparatów sterydowych wziewnych lub doustnych. W lżejszych przypadkach wystarcza używanie środków rozkurczających oskrzela.
 
 Profilaktyka
 ------------

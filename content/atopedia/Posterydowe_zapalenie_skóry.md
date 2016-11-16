@@ -18,7 +18,7 @@ Uzależnienie od sterydów
 
 **Skłonność do uzależnienia skóry** od sterydów jest sprawą indywidualną, u niektórych osób następuje bardzo szybko (np. już po kilku tygodniach).
 
-Znaczenie ma tutaj obszar powierzchni ciała, które były smarowane, okres czasu aplikowania i [siła sterydu](/atopedia{{< relref "atopedia/Europejska_klasyfikacja_kortykosterydów.md" >}} "wikilink"), a także przypadłość skórna pacjenta. Posterydowe zapalenie skóry może jednak dotyczyć nie tylko osób z chorobami skórnymi - zdrowa skóra konsekwentnie smarowana sterydami również jest w stanie się uzależnić.
+Znaczenie ma tutaj obszar powierzchni ciała, które były smarowane, okres czasu aplikowania i [siła sterydu]({{< relref "atopedia/Europejska_klasyfikacja_kortykosterydów.md" >}}), a także przypadłość skórna pacjenta. Posterydowe zapalenie skóry może jednak dotyczyć nie tylko osób z chorobami skórnymi - zdrowa skóra konsekwentnie smarowana sterydami również jest w stanie się uzależnić.
 
 Objawy
 ------
@@ -52,5 +52,5 @@ Zarówno posterydowe zapalenie skóry, jak i trądzik posterydowy ustępują bez
 **Zobacz też:**
 
 -   [Skutki uboczne kortykosterydów](/atopedia/Skutki_uboczne_kortykosterydów "wikilink")
--   [Europejska klasyfikacja kortykosterydów](/atopedia{{< relref "atopedia/Europejska_klasyfikacja_kortykosterydów.md" >}} "wikilink")
+-   [Europejska klasyfikacja kortykosterydów]({{< relref "atopedia/Europejska_klasyfikacja_kortykosterydów.md" >}})
 -   [Problemy z lekarzami](/atopedia/Problemy_z_lekarzami "wikilink")

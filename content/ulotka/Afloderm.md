@@ -22,7 +22,7 @@ aliases = [ "/atopedia/Afloderm/",]
 Co to jest lek Afloderm i w jakim celu się go stosuje
 =====================================================
 
-Lek Afloderm w kremie zawiera substancję czynną alklometazonu dipropionian. Alklometazon jest syntetycznym niefluorowanym [kortykosteroidem](/atopedia/sterydy "wikilink") o umiarkowanie silnym działaniu, stosowanym miejscowo w dermatologii. Alklometazonu dipropionian działa przeciwzapalnie, przeciwświądowo, immunosupresyjnie i obkurczająco na naczynia krwionośne.
+Lek Afloderm w kremie zawiera substancję czynną alklometazonu dipropionian. Alklometazon jest syntetycznym niefluorowanym kortykosteroidem o umiarkowanie silnym działaniu, stosowanym miejscowo w dermatologii. Alklometazonu dipropionian działa przeciwzapalnie, przeciwświądowo, immunosupresyjnie i obkurczająco na naczynia krwionośne.
 
 Wskazania
 ---------
