@@ -1,9 +1,9 @@
-<article itemscope itemtype="http://schema.org/BlogPosting">
-	<h3 class="entry-title" itemprop="name headline"><a href="{{ .RelPermalink }}">{{ .Title }}{{ if .Draft }} #Draft{{ end }}</a>
-	<span class="entry-meta small"><time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></span>
+<div itemscope itemtype="http://schema.org/BlogPosting">
+	<h3><a itemprop="url" href="{{ .RelPermalink }}">{{ .Title }}{{ if .Draft }} #Draft{{ end }}</a>
+	<small><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></small>
   </h3>
   {{ .Summary }}
   <footer>
     <a href='{{ .RelPermalink }}'>Czytaj dalej&nbsp;&raquo;</a>
   </footer>
-</article>
+</div>
