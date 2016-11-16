@@ -1,9 +1,9 @@
 # Atopowe.pl
 
-To co wcześniej było na MediaWiki i Wordpressie, teraz jest serwowane ze
-statycznych plików HTML, nie ma na serwerze żadnej bazy danych. Treść jest
-przechowywana i edytowana w formacie Markdown, a pliki HTML generuje się przy
-pomocy programu [hugo](http://gohugo.io/).
+Treść serwisu http://www.atopowe.pl.
+
+Treść jest przechowywana i edytowana w formacie Markdown, a pliki HTML generuje
+się przy pomocy programu [hugo](http://gohugo.io/).
 
 ## Wymagane pliki
 
