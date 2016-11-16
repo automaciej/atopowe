@@ -1,57 +1,51 @@
 +++
+author = "Wahwah"
 date = "2016-04-23T11:44:28+01:00"
-tags = ["", ""]
 title = "Reorganizacja serwisu atopowe.pl"
+description = """
+W kwietniu 2016 r. stare forum zostanie wyłączone, a treść przeniesiona \
+w nowe miejsca, które nie będą od nas wymagały aktywnego utrzymywania."""
 
 +++
 
-Opiekowałem się naszym forum ochotniczo przez ostatnie 13 lat. Miałem poczucie
-że robię coś dobrego, wartościowego, i czerpałem z tego satysfakcję. Z drugiej
-strony, wiązało się to z odpowiedzialnością. W razie problemów technicznych,
-musiałem forum naprawiać, czy miałem na to ochotę, czy nie.  Tymczasem życie
-płynie dalej. Chcę się uwolnić od tej odpowiedzialności i przekazać opiekę nad
-forum komuś innemu.
+[Przenosimy treść serwisu w inne miejsca][reddit-opis], które mają już
+istniejącą infrastrukturę i nie będą wymagały od nas wysiłku przy utrzymywaniu.
 
-Plan A wyglądał tak, żeby przekazać serwis w takiej formie w jakiej istniał
-(forum na phpBB, atopedia na Mediawiki, blog na Wordpressie, lekarze w Django)
-ochotnikowi/ochotniczce, osobie która będzie kontynuowała opiekę nad forum. To
-się niestety nie udało.
+*   Atopedia:
 
-W ramach planu B napisałem do Fundacji Alabaster. Niestety dotychczas nie
-dostałem pozytywnej odpowiedzi.
+    Instalacja MediaWiki zostanie zamieniona na pliki HTML. Stare URLe pozostaną
+    dostępne, z minimalnymi różnicami.
 
-Zdałem sobie sprawę, że zostałem z problemem sam.
+*   Forum:
 
-Uruchamiam więc plan C: [przeniesienie treści serwisu w inne
-miejsca](https://www.reddit.com/r/atopowezapalenieskory/comments/4fb20l/reddit_i_wiki_plan_reorganizacji_atopowepl/),
-które mają już istniejącą infrastrukturę.
+    1. Przełączę forum w tryb tylko do odczytu &mdash; nie będzie można już pisać na
+       atopowe.pl/forum. (spróbuję zamienić je na pliki statyczne)
+    1. Umieszczę linki do [/r/atopowezapalenieskory][reddit].
+    1. Poproszę obecnych moderatorów o pomoc z utrzymywaniem porządku na subie.
 
-*  Atopedia:
-   Instalacja MediaWiki zostanie zamieniona na linki statyczne. Stare URLe
-   pozostaną dostępne, tylko z tą różnicą, że po zamianie na pliki statyczne
-   URLe dostaną dodatkowy slash na końcu: `/atopedia/Coś` zostanie zamienione
-   na `/atopedia/Coś/`.
+*   Blog:
 
-*  Forum
-   1. Przełączę forum w tryb tylko do odczytu &mdash; nie będzie można już pisać na
-      atopowe.pl/forum. (spróbuję zamienić je na pliki statyczne)
-   1. Umieszczę linki do [/r/atopowezapalenieskory][reddit].
-   1. Poproszę obecnych moderatorów o pomoc z utrzymywaniem porządku na subie.
+    Zamienię instalację wordpress na statyczne pliki HTML.
 
-*  Blog:
-   Zamienię instalację wordpress na statyczne pliki HTML.
+*   domeny atopowe.pl i atopowe-zapalenie.pl:
 
-*  domeny atopowe.pl i atopowe-zapalenie.pl:
-   Na domeny na razie nie mam pomysłu.
+    Na domeny na razie nie konkretnych planów.
 
 &mdash;wahwah
 
 -------
 
-*   2016-04-24: Atopedia, forum i blog są już w postaci archiwum i plików
+*   Aktualizacja 2016-04-24: Atopedia, forum i blog są już w postaci archiwum i plików
     statycznych. Teraz można je przenieść na normalny hosting, pod warunkiem że
     będzie tam Apache i możliwość używania plików .htaccess i mod_rewrite, bo
     jest to potrzebne do archiwum forum.
 
+*   Aktualizacja 2016-11-16: Po migracji było sporo problemów. Strona główna
+    była brzydka, nie można było wyświetlić plików z jednej kategorii,
+    niedziałające linki wewnętrzne (kilkało się na jakiś link na Atopedii, i on
+    prowadził do nieistniejącego adresy). Część problemów jest już rozwiązana,
+    ale jeszcze nie wszystkie.
+
+[reddit-opis]: https://www.reddit.com/r/atopowezapalenieskory/comments/4fb20l/reddit_i_wiki_plan_reorganizacji_atopowepl/
 [reddit]: https://www.reddit.com/r/atopowezapalenieskory/
 [github]: https://github.com/automatthias/atopowe-hugo
