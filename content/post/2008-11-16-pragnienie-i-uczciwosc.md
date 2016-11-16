@@ -10,7 +10,7 @@ url = "/2008/11/16/pragnienie-i-uczciwosc/"
 
 Często dyskutuję na forum z osobami które mają skłonność do medycyny alternatywnej. Szczególnie kiedy opisują, jak pomogła im cudowna metoda X, zadaję pytania w stylu „skąd wiesz, że to akurat X Ci pomogło?” Nie ma na to pytanie łatwej odpowiedzi, szczególnie że powiedzenie „bo się lepiej czuję” nie załatwia sprawy; zawsze można się lepiej poczuć z jakiegoś innego powodu, na przykład czegoś co wystąpiło w tym samym czasie.
 
-Osoby które stają w obliczu tego (całkiem słusznego) pytania stroszą się, robią różne uniki, począwszy od [gry w pomidor][1] („bo mi pomogło”, „bo się lepiej czuję”) do zadeklarowania że wyłączają się z dyskusji, i poinformowania mnie, że nie było ich intencją wszczęcie polemiki, ale „dotarcie do ludzi”. Ten ostatni przykład jest o tyle ciekawy, że mój rozmówca sugeruje, że powinienem się przejmować _intencją_, z jaką pisał.
+Osoby które stają w obliczu tego (całkiem słusznego) pytania stroszą się, robią różne uniki, począwszy od gry w pomidor („bo mi pomogło”, „bo się lepiej czuję”) do zadeklarowania że wyłączają się z dyskusji, i poinformowania mnie, że nie było ich intencją wszczęcie polemiki, ale „dotarcie do ludzi”. Ten ostatni przykład jest o tyle ciekawy, że mój rozmówca sugeruje, że powinienem się przejmować _intencją_, z jaką pisał.
 
 <!--more-->
 
@@ -41,5 +41,3 @@ A Józek? Józek będzie przede wszystkim chciał, żeby dowód był _niezbity_.
 Ale co to oznacza? Dowód „zbity” to taki, który został w jakiś sposób podważony. Na przykład ktoś może powiedzieć, że według niego osoby biorące masaże stóp czują się lepiej po prostu dlatego, że cieszą się, że się ktoś nimi zainteresował. Kwestia psychologiczna. Józek wie, że to byłby poważny zarzut, więc musi pokazać że wziął to pod uwagę. To znaczy zbadał, w jaki sposób osoby z AZS reagują na samo zainteresowanie nimi. Będzie starał się też, żeby badanie było na licznej grupie pacjentów. Będzie starał się uniknąć wszelkich czynników które mogłyby zakłócić wynik eksperymentu. Użyje placebo, randomizacji i ogólnie rzecz biorąc &#8211; będzie starał się przeprowadzić eksperyment zgodnie z najlepszymi znanymi mu standardami.
 
 Czym więc w praktyce różni się zachowanie Józka od tego co robi Sebastian? Niczym! Pomimo że powodują nimi inne intencje, obydwaj przeprowadzają eksperyment w taki sam sposób, ponieważ to daje im największe szanse na sukces: Sebastianowi na wykazanie, że grupa biorąca masaże nie czuje się lepiej niż grupa placebo, a Józkowi na zdobycie niezbitego dowodu.
-
- [1]: http://pl.wikipedia.org/wiki/Pomidor_(gra)
