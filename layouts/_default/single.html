@@ -4,6 +4,9 @@
     {{ partial "head-section.html" . }}
     <title>{{ with .Title }}{{ . }} &mdash; {{ end }}{{ .Site.Title }}</title>
 
+    {{ with .Description }}
+    <meta name="description" content="{{ . }}" />
+    {{ end }}
   </head>
   <body>
     
@@ -15,14 +18,29 @@
           <main>
             <article itemscope itemtype="http://schema.org/BlogPosting">
               <h1 class="entry-title" itemprop="name headline">{{ .Title }}</h1>
-              <small>
-                <time itemprop="datePublished"
-                    datetime="{{ .Date.Format "2006-01-02" }}"
-                    >{{ .Date.Format "January 02, 2006" }}</time>
-              </small>
-              <section itemprop="articleBody">
+              {{ with .Description }}
+              <p class="text-muted">{{ . }}</p>
+              {{ end }}
+              <p>
+                <small class="text-muted">
+                  {{ with .Params.author }}
+                  Autor:
+                  <span itemprop="author">{{ . }}</span>;
+                  {{ end }}
+                  data publikacji
+                  <time itemprop="datePublished"
+                      datetime="{{ .Date.Format "2006-01-02" }}">
+                    {{ .Date.Format "January 02, 2006" }}</time>,
+                    artykuł opublikowany przez
+                    <span itemscope itemtype="http://schema.org/Organization"
+                                    itemprop="publisher"><span
+                                    itemprop="name">Atopowe.pl</span></span>.
+                </small>
+              </p>
+              <link url="{{ .Permalink }}" />
+              <div itemprop="articleBody">
                 {{ .Content }}
-              </section>
+              </div>
             </article>
           </main>
           {{ partial "disqus-main.html" . }}
