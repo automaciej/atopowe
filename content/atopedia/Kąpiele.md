@@ -66,7 +66,7 @@ Owies : Płatki owsiane dzięki zawartości krzemionki świetnie nawilżają suc
 Zbyt częste kąpiele
 -------------------
 
-O ile kąpiele są dobrym sposobem na [pielęgnację]({{< relref "atopedia/Pielęgnacja.md" >}} "wikilink") skóry, to należy uważać aby nie robić ich zbyt często. Chlorowana [woda]({{< relref "atopedia/Woda.md" >}} "wikilink") w dużych miastach szczególnie źle wpływa na [skórę atopową]({{< relref "atopedia/Skóra.md" >}}_atopowa "wikilink"). Woda do kąpieli powinna mieć niezbyt wysoką temperaturę.
+O ile kąpiele są dobrym sposobem na [pielęgnację]({{< relref "atopedia/Pielęgnacja.md" >}} "wikilink") skóry, to należy uważać aby nie robić ich zbyt często. Chlorowana [woda]({{< relref "atopedia/Woda.md" >}} "wikilink") w dużych miastach szczególnie źle wpływa na [skórę atopową]({{< relref "atopedia/Skóra_atopowa.md" >}} "wikilink"). Woda do kąpieli powinna mieć niezbyt wysoką temperaturę.
 
 Można do wody dodać naturalny olejek (np. herbaciany), albo płyn do kąpieli dla skóry suchej lub bardzo suchej, albo sól do kąpieli przeznaczoną do pielęgnacji skóry z problemami (np. Bocheńska, z Morza Martwego). Sól po kąpieli należy spłukać. Można też kąpać się w leciutkim roztworze nadmanganianu potasu.
 

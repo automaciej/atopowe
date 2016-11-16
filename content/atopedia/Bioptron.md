@@ -12,7 +12,7 @@ Jej skuteczność jest wątpliwa.
 
 **Patrz też:**
 
--   [Dr Grzesiak o wpływie promieniowania słonecznego]({{< relref "atopedia/Wykład_dr_Ireny_Grzesiak.md" >}}#Wp.C5.82yw_promieniowania_s.C5.82onecznego "wikilink").
+-   [Dr Grzesiak o wpływie promieniowania słonecznego]({{< relref "atopedia/Wykład_dr_Ireny_Grzesiak.md" >}}).
 
 <!-- -->
 

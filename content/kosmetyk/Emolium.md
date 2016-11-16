@@ -19,7 +19,7 @@ Preparaty Emolium powstały w ścisłej współpracy z dermatologami i pediatram
 
 <http://www.emolium.pl>
 
-**Krem** 75 ml ![](/images/krem.jpg "right")
+**Krem** 75 ml ![](/images/Krem.jpg "right")
 
 **Wskazania:** Codzienne odżywianie i pielęgnacja skóry:
 

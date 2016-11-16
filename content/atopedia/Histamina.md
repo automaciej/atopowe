@@ -36,7 +36,7 @@ ataki bezdechu u alergików.
 
 Histamina w czasie alarmu powoduje wzmożone wydzielanie soków trawiennych i
 skurcze mięśni, co prowadzi do biegunki i tzw. [alergii
-pokarmowej]({{< relref "atopedia/Alergia.md" >}}_pokarmowa "wikilink").
+pokarmowej]({{< relref "atopedia/Alergia_pokarmowa.md" >}} "wikilink").
 
 Receptory H3 modulują syntezę histaminy i jej uwalnianie w ośrodkowym układzie
 nerwowym i mogą obniżać jej uwalnianie z komórek tucznych i hamować uwalnianie

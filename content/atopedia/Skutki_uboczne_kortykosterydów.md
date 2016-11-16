@@ -44,7 +44,7 @@ Długotrwałe stosowanie sterydów zewnętrznie wiąże się jednak z szeregiem 
 -   rozstępy skórne
 -   zmiany w pigmentacji skóry ([biały dermografizm]({{< relref "atopedia/Biały_dermografizm.md" >}} "wikilink"))
 -   ścieńczenie skóry właściwej
--   [alergia kontaktowa]({{< relref "atopedia/Alergia.md" >}}_kontaktowa "wikilink") na sterydy
+-   [alergia kontaktowa]({{< relref "atopedia/Alergia_kontaktowa.md" >}} "wikilink") na sterydy
 -   większa podatność skóry na [infekcje]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink")
 
 Jak tego uniknąć?

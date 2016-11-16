@@ -99,7 +99,7 @@ Szampon w piance
 
 Do stosowania w czasie zaostrzeń i remisji AZS.
 
--   przeznaczony do mycia włosów oraz owłosionej skóry głowy niemowląt i dzieci z [atopową]({{< relref "atopedia/Skóra.md" >}}_atopowa "wikilink") i wrażliwą skórą
+-   przeznaczony do mycia włosów oraz owłosionej skóry głowy niemowląt i dzieci z [atopową]({{< relref "atopedia/Skóra_atopowa.md" >}} "wikilink") i wrażliwą skórą
 -   koi i nawilża skórę głowy
 -   włosy stają się miękkie i błyszczące
 -   postać pianki zapobiega spływaniu szamponu na twarz dziecka

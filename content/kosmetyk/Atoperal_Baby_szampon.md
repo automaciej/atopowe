@@ -12,7 +12,7 @@ DLA DZIECI I NIEMOWLĄT
 
 Jedyny szampon nawilżający zawierający Biolin, substancję, która jest naturalnym prebiotykiem. Prebiotyki stymulują prawidłową barierę ochronną skóry.
 
-Szampon przeznaczony dla dzieci i niemowląt powyżej 1 miesiąca życia do [skóry atopowej]({{< relref "atopedia/Skóra.md" >}}_atopowa "wikilink"), suchej, wrażliwej. Wykazuje działanie nawilżające i łagodzące. Receptura szamponu oparta jest na substancjach myjących o łagodnym działaniu, pochodzenia cukrowego.
+Szampon przeznaczony dla dzieci i niemowląt powyżej 1 miesiąca życia do [skóry atopowej]({{< relref "atopedia/Skóra_atopowa.md" >}} "wikilink"), suchej, wrażliwej. Wykazuje działanie nawilżające i łagodzące. Receptura szamponu oparta jest na substancjach myjących o łagodnym działaniu, pochodzenia cukrowego.
 
 Atoperal Baby szampon przeznaczony jest do codziennej pielęgnacji skóry głowy, wykazującej cechy skóry atopowej, suchej, wrażliwej dzieci i niemowląt. Dzięki specjalnie opracowanej recepturze zapewnia profesjonalną pielęgnację skóry Twojego dziecka. Szampon zawiera delikatne substancje oczyszczające skórę głowy. Nawilża i łagodzi podrażnienia oraz wygładza nadmiernie wysuszoną skórę. Włosy po umyciu szamponem atoperal® Baby są miękkie, gładkie i łatwo się rozczesują.
 

@@ -323,7 +323,7 @@ To są bardzo dobre preparaty. Nie mogę powiedzieć marnego słowa na ten temat
 
 *A one prawdopodobnie też przeszły badania...*
 
-Przeszły na zdrowych ochotnikach i na zwierzętach. Natomiast tak naprawdę, jak [skóra atopowa]({{< relref "atopedia/Skóra.md" >}}_atopowa "wikilink") będzie reagowała.. na razie wszystkie recenzje, wszystkie badania są doskonałe.
+Przeszły na zdrowych ochotnikach i na zwierzętach. Natomiast tak naprawdę, jak [skóra atopowa]({{< relref "atopedia/Skóra_atopowa.md" >}} "wikilink") będzie reagowała.. na razie wszystkie recenzje, wszystkie badania są doskonałe.
 
 *Który z tych leków jest lepszy?*
 

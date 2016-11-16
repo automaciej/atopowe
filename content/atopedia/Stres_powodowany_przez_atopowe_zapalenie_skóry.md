@@ -14,7 +14,7 @@ Już sam stan chorobowy, pojawienie się [świądu]({{< relref "atopedia/Świąd
 
 Jest oczywiste, że wszyscy ludzie żyją pod wpływem stresu, nie ma ludzi którzy się „nie denerwują”. Ważne jest radzenie sobie ze stresem oraz rozładowywanie go w każdy możliwy sposób, byle nie przez chorobę – tutaj pomocne mogą być różnego rodzaju [techniki relaksacyjne](/atopedia/Techniki_relaksacyjne "wikilink") (medytacje, [joga](http://pl.wikipedia.org/wiki/Joga), techniki oddechowe, niektóre wschodnie sztuki walki, czasem po prostu ulubione zajęcie lub inne).
 
-Szczególnie przydatna dla chorych na [astmę oskrzelową]({{< relref "atopedia/Astma_oskrzelowa.md" >}}_oskrzelowa "wikilink") jest nauka technik oddechowych – bowiem w astmie skurcz oskrzeli (w tym skurcz mięśni gładkich) utrudnia oddychanie bez względu na stan pobudzenia – tak, więc w stanie pobudzenia może być tylko gorzej.
+Szczególnie przydatna dla chorych na [astmę oskrzelową]({{< relref "atopedia/Astma_oskrzelowa.md" >}} "wikilink") jest nauka technik oddechowych – bowiem w astmie skurcz oskrzeli (w tym skurcz mięśni gładkich) utrudnia oddychanie bez względu na stan pobudzenia – tak, więc w stanie pobudzenia może być tylko gorzej.
 
 Należy pamiętać, że [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink"), jak każda przewlekła choroba (w zależności od nasilenia), może prowadzić do długo utrzymującego się stanu obniżonego nastroju, depresji lub różnie nasilonych nerwic.
 

@@ -14,8 +14,8 @@ Głównymi narzędziami w badaniach klinicznych są [podwójnie ślepa próba]({
 -   [kortykosterydy]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink") (maści, kremy, zastrzyki, tabletki)
 -   leczenie immunosupresyjne systemowe (doustnie, np. [cyklosporyna]({{< relref "atopedia/Cyklosporyna.md" >}} "wikilink"))
 -   leczenie immunosupresyjne miejscowe, tacrolimus (maść [Protopic](/atopedia/Protopic "wikilink")) lub [pimekrolimus]({{< relref "atopedia/Pimekrolimus.md" >}} "wikilink") (krem [Elidel](/atopedia/Elidel "wikilink"))
--   [leki antyhistaminowe]({{< relref "atopedia/Leki.md" >}}_antyhistaminowe "wikilink")
--   [leki sedatywne]({{< relref "atopedia/Leki.md" >}}_sedatywne "wikilink"), uspokajające (w tym o działaniu antyhistaminowym)
+-   [leki antyhistaminowe]({{< relref "atopedia/Leki_antyhistaminowe.md" >}} "wikilink")
+-   [leki sedatywne]({{< relref "atopedia/Leki_sedatywne.md" >}} "wikilink"), uspokajające (w tym o działaniu antyhistaminowym)
 -   fototerapia (lampy PUVA)
 -   fotochemoterapia (lampy PUVA + leki wspomagające)
 -   leczenie preparatami taropochodnymi (na bazie smoły) – np. maść [Delatar](/atopedia/Delatar "wikilink") i inne

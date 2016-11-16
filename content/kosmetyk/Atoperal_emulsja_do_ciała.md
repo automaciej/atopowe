@@ -26,7 +26,7 @@ Aqua, Paraffinum Liquidum, Glycerin, Propylene Glycol, Sodium Palmitoyl Proline,
 Wskazania:
 ----------
 
-Codzienna pielęgnacja i ochrona skóry osób z wywiadem atopowym, czyli skóry suchej, szorstkiej, z nadmiernie łuszczącym się naskórkiem, dotkniętej schorzeniami przebiegającymi z suchością i/lub świądem; pielęgnacja skóry leczonej preparatami sterydowymi, ze szczególnym uwzględnieniem długotrwałych terapii; poprawa poziomu nawilżenia [skóry atopowej]({{< relref "atopedia/Skóra.md" >}}_atopowa "wikilink"), wrażliwej, skłonnej do przesuszenia, stwarzającej problemy w codziennej pielęgnacji; pielęgnacja skóry wykazującej niską tolerancję na standardowe kosmetyki pielęgnacyjne.
+Codzienna pielęgnacja i ochrona skóry osób z wywiadem atopowym, czyli skóry suchej, szorstkiej, z nadmiernie łuszczącym się naskórkiem, dotkniętej schorzeniami przebiegającymi z suchością i/lub świądem; pielęgnacja skóry leczonej preparatami sterydowymi, ze szczególnym uwzględnieniem długotrwałych terapii; poprawa poziomu nawilżenia [skóry atopowej]({{< relref "atopedia/Skóra_atopowa.md" >}} "wikilink"), wrażliwej, skłonnej do przesuszenia, stwarzającej problemy w codziennej pielęgnacji; pielęgnacja skóry wykazującej niską tolerancję na standardowe kosmetyki pielęgnacyjne.
 
 Opis działania:
 ---------------

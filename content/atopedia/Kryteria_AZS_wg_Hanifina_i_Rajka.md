@@ -46,4 +46,4 @@ Kryteria AZS wg Hanifina i Rajka
 Zobacz również
 --------------
 
-Opis kryteriów w [wykładzie dr Grzesiak]({{< relref "atopedia/Wykład_dr_Ireny_Grzesiak.md" >}}#Dodatkowe_kryteria "wikilink")
+Opis kryteriów w [wykładzie dr Grzesiak]({{< relref "atopedia/Wykład_dr_Ireny_Grzesiak.md" >}})

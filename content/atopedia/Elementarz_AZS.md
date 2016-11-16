@@ -49,7 +49,7 @@ Przepisy szczególne
 18. Senność, osłabienie pamięci krótkotrwałej, dezorientacja, wyciszenie, problemy z załatwianiem i wypróżnianiem po lekach antyhistaminowych pierwszej generacji to ich skutki uboczne cholinergiczne, czyli wynikające z powinowactwa do receptorów muskarynowych.
 19. Leki na azs, co do zasady, nie szkodzą funkcjom seksualnym.
 20. Zdaniem Zeldy leki na astmę, montelukast i zafirlukast, nie łagodzą objawów AZS. Alergolodzy mogą je przepisać off-label.
-21. W USA spekulowano, czy [alergia pokarmowa]({{< relref "atopedia/Alergia.md" >}}_pokarmowa "wikilink") jest przyczyną czy skutkiem AZS u dzieci.
+21. W USA spekulowano, czy [alergia pokarmowa]({{< relref "atopedia/Alergia_pokarmowa.md" >}} "wikilink") jest przyczyną czy skutkiem AZS u dzieci.
 22. Rola [alergenów]({{< relref "atopedia/Alergen.md" >}} "wikilink") powietrznopochodnych w patogenezie AZS nie jest dogłębnie zbadana.
 23. Polscy lekarze raczej nie przepisują leków off-label. To nie ich wina, że opinie prawne są kontradyktoryjne, a argumentacja w nich przedstawiona - karkołomna.
 24. Jeśli ktoś chory na AZS cierpi na inną chorobę i przyjmuje: [mykofenolat mofetylu]({{< relref "atopedia/Mykofenolat_mofetylu.md" >}} "wikilink"), azatioprynę, metotrekstat, ewerolimus, leflunomid, [omalizumab]({{< relref "atopedia/Omalizumab.md" >}} "wikilink"), rytuksymab, bazyliksymab, efalizumab, interferon gamma, dożylne immunoglobuliny, to ma szczęście! Tak eksperymentalnie leczą AZS za granicą.
@@ -57,7 +57,7 @@ Przepisy szczególne
 26. Warto dowiedzieć się, czy w poradniach fizjoterapii stosują naświetlania UV. Pomagają, ale pod ścisłą kontrolą doświadczonego dermatologa.
 27. Protopic i Elidel są na alergię kontaktową. Zeldzie doradził alergolog, że w razie alergii kontaktowej trzeba po prostu unikać alergenu.
 28. Czasem dzieli się atopic dermatitis na intrinsic (bez podwyższonego IgE całkowitego) i extrinsic (z podwyższonym IgE).
-29. Każdy powinien znać [reakcje krzyżowe]({{< relref "atopedia/Alergen.md" >}}y_krzyżowe "wikilink").
+29. Każdy powinien znać [reakcje krzyżowe]({{< relref "atopedia/Alergeny_krzyżowe.md" >}}).
 30. W razie [wstrząsu anafilaktycznego]({{< relref "atopedia/Wstrząs_anafilaktyczny.md" >}} "wikilink") należy mieć ze sobą zastrzyki z epinefryny, od alergologa.
 31. AZS jest przeciwskazaniem do laserowej korekty wzroku z obawy przed DLK (diffuse lamellar keratitis).
 32. Niedobór witamin A, B, D i E oraz kwasów tłuszczowych prowadzi do suchości skóry.

@@ -106,7 +106,7 @@ skóry do świądu (jako defekt genetyczny).
 -   [Mechanizm powstawania zmian](/atopedia/Mechanizm_powstawania_zmian "wikilink")
 -   [Obciążenie genetyczne](/atopedia/Obciążenie_genetyczne "wikilink"), [Wyrastanie z AZS](/atopedia/Wyrastanie_z_AZS "wikilink")
 -   [Papierosy](/atopedia/Papierosy "wikilink")
--   [Wykład dr Ireny Grzesiak](/atopedia{{< relref "atopedia/Wykład_dr_Ireny_Grzesiak.md" >}} "wikilink")
+-   [Wykład dr Ireny Grzesiak]({{< relref "atopedia/Wykład_dr_Ireny_Grzesiak.md" >}})
 
 **Linki zewnętrzne**
 

@@ -9,7 +9,7 @@ aliases = [ "/atopedia/Duszności",]
 
 **Duszność** to subiektywne odczucie braku tchu, nie zawsze związane z rzeczywistą zmianą parametrów oddechowych.
 
-Może być objawem różnych chorób, w tym [astmy oskrzelowej]({{< relref "atopedia/Astma_oskrzelowa.md" >}}_oskrzelowa "wikilink"). W przebiegu astmy duszność ma charakter organiczny - związana jest z obrzękiem błony śluzowej i produkcją gęstego śluzu, zwężającego światło dróg oddechowych. Często stanowi objaw nadreaktywności oskrzeli i pojawia się po:
+Może być objawem różnych chorób, w tym [astmy oskrzelowej]({{< relref "atopedia/Astma_oskrzelowa.md" >}}). W przebiegu astmy duszność ma charakter organiczny - związana jest z obrzękiem błony śluzowej i produkcją gęstego śluzu, zwężającego światło dróg oddechowych. Często stanowi objaw nadreaktywności oskrzeli i pojawia się po:
 
 -   wysiłku fizycznym, zwłaszcza przy suchym i zimnym powietrzu
 -   ekspozycji na dym tytoniowy, spaliny, chemikalia

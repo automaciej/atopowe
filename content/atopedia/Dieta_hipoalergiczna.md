@@ -26,4 +26,4 @@ Opiera się na eliminacji "złotej ósemki" alergenów pokarmowych:
 
 Jeśli uda się uzyskać ustąpienie objawów, rozpoczyna się stopniowe wprowadzanie wyeliminowanych wcześniej pokarmów, rozpoczynając od pszenicy:
 
-**[Spis przepisów - dieta hipoalergiczna plus pszenica]({{< relref "atopedia/Dieta_hipoalergiczna.md" >}}_plus_pszenica "wikilink")**
+**[Spis przepisów - dieta hipoalergiczna plus pszenica](/rodzajeprzepisow/dieta-hipoalergiczna-plus-pszenica/)**

@@ -10,10 +10,9 @@ kategorie = [ "przyczyny atopowego zapalenia skóry",]
 
 Mówiąc o **alergii**, mówi się zazwyczaj o alergii na konkretną substancję, np. alergia na pyłki.
 
-Używa się też ogólnych określeń, na przykład alergia pokarmowa, alergia wziewna lub [alergia kontaktowa]({{< relref "atopedia/Alergia.md" >}}_kontaktowa "wikilink").
+Używa się też ogólnych określeń, na przykład alergia pokarmowa, alergia wziewna lub [alergia kontaktowa]({{< relref "atopedia/Alergia_kontaktowa.md" >}} "wikilink").
 
-Teorie na temat powstania alergii
----------------------------------
+## Teorie na temat powstania alergii
 
 Często rozbieżne teorie na ten temat łączy wspólna prawidłowość (poparta wieloma badaniami): w krótkim ewolucyjnie czasie, w środowisku człowieka, pojawiło się bardzo wiele nowych substancji, które [układ immunologiczny]({{< relref "atopedia/Układ_immunologiczny.md" >}} "wikilink") człowieka rozpoznaje jako obce i szkodliwe. Wiele z tych substancji człowiek stworzył sam na przestrzeni niespełna 100 lat – [antybiotyki]({{< relref "atopedia/Antybiotyki.md" >}} "wikilink"), szczepionki, [leki]({{< relref "atopedia/Leki.md" >}} "wikilink"), chemiczne [środki czystości]({{< relref "atopedia/Higiena.md" >}} "wikilink"), kosmetyki, chemikalia, nowe materiały, zmodyfikowaną żywność, w której również często obecne są hormony i antybiotyki, w powietrzu pojawiło się wiele zanieczyszczeń, pyłów – do tego wszystkiego układ odpornościowy człowieka nie zdołał się przystosować w tak krótkim czasie. Dowodem na to jest chociażby to, na jak zupełnie różne rzeczy uczula się człowiek.
 
