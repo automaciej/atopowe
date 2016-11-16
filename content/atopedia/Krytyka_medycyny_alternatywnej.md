@@ -5,7 +5,7 @@ title = "Krytyka medycyny alternatywnej"
 
 +++
 
-[Medycyna alternatywna](/atopedia/Medycyna_alternatywna) bywa w stawiana na
+Medycyna alternatywna bywa w stawiana na
 równi z medycyną. W rzeczywistości równości takiej nie ma. Ten artykuł opisuje
 różnice oraz pomaga zastanowić się, czym jest leczenie i jak ocenić jego
 skuteczność.

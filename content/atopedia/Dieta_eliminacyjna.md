@@ -50,4 +50,4 @@ raczej nie.
 **Zobacz też**
 
 -   [Alergia](/atopedia/Alergia)
--   [Przepisy kulinarne](/atopedia/Przepisy_kulinarne)
+-   Przepisy kulinarne

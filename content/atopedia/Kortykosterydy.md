@@ -67,7 +67,7 @@ kombinacją 0,1% hydrocotisonu z maścią cholesterolową, stosowane niekiedy pr
 wiele miesięcy, nawet lat. Wiadomo, że z czasem skóra przestaje, albo znacznie
 słabiej reaguje na dane stężenie sterydu. Poza tym obniża się jej odporność na
 infekcje bakteryjne. Przy długim stosowaniu 0,1%
-[hydrocortisonu](/atopedia/hydrokortyzon) na obojętnej bazie zaczyna z reguły
+hydrocortisonu na obojętnej bazie zaczyna z reguły
 doskwierać [foliculitis]({{< relref "atopedia/Foliculitis.md" >}}).
 
 Inną możliwością jest zastosowanie od razu odpowiednio silnego stężenia,
