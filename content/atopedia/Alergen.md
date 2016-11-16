@@ -26,4 +26,4 @@ Potencjalnie alergenem pokarmowym może być wszystko co jemy, szczególnie jeż
 
 ### Zobacz też
 
--   [Alergeny krzyżowe](/atopedia/Alergeny_krzyżowe "wikilink")
+-   Alergeny krzyżowe

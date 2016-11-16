@@ -45,4 +45,4 @@ Zwykle uczulenie na kobalt współistnieje z uczuleniem na chrom lub [nikiel]({{
 
 **Zobacz też:**
 
--   [Alergia kontaktowa](/atopedia/Alergia_kontaktowa "wikilink")
+-   Alergia kontaktowa

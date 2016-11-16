@@ -36,7 +36,7 @@ stopniowo, w niewielkich dawkach.
 
 Przy stosowaniu wszelkich diet, należy pamiętać, że czasem pokarm, który nie
 uczulał nas wcześniej spożywany często i w dużych ilościach, może zacząć
-uczulać; [alergia na pokarmy](/atopedia/Alergia_pokarmowa) może również zmieniać
+uczulać; alergia na pokarmy może również zmieniać
 się sezonowo, zmieniać w ciągu roku; tak więc najważniejsze to obserwacja
 własnego organizmu i tego jakie są reakcje na poszczególne pokarmy, które jemy
 oraz nasze [samopoczucie](/atopedia/Poprawa_samopoczucia).

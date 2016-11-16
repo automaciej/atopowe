@@ -37,4 +37,4 @@ Alergeny kontaktowe
 **Zobacz też**
 
 -   [Alergia](/atopedia/Alergia "wikilink")
--   [Alergia pokarmowa](/atopedia/Alergia_pokarmowa "wikilink")
+-   Alergia pokarmowa

@@ -53,4 +53,4 @@ Osoby uczulone na nikiel powinny stosować dietę polegającą na eliminacji pok
 -   [Nadwrażliwość na nikiel](http://www.mediton.pl/library/aai_volume-13_issue-3_article-776.pdf) Wojciechowska M, Kołodziejczyk J, Gocki J, Bartuzi Z. *Alergia Astma Immunologia 2008, 13(3): 136-140*
 -   [Nikiel - alergen wyjątkowy](http://www.radoslawspiewak.net/2006-3p.htm) Śpiewak R, Piętowska J.
 -   [Alergia na nikiel, chrom i kobalt](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=12&t=855) - wątek na Forum
--   [Alergia kontaktowa](/atopedia/Alergia_kontaktowa "wikilink")
+-   Alergia kontaktowa

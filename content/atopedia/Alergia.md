@@ -10,7 +10,7 @@ kategorie = [ "przyczyny atopowego zapalenia skóry",]
 
 Mówiąc o **alergii**, mówi się zazwyczaj o alergii na konkretną substancję, np. alergia na pyłki.
 
-Używa się też ogólnych określeń, na przykład [alergia pokarmowa](/atopedia/Alergia_pokarmowa "wikilink"), alergia wziewna lub [alergia kontaktowa]({{< relref "atopedia/Alergia.md" >}}_kontaktowa "wikilink").
+Używa się też ogólnych określeń, na przykład alergia pokarmowa, alergia wziewna lub [alergia kontaktowa]({{< relref "atopedia/Alergia.md" >}}_kontaktowa "wikilink").
 
 Teorie na temat powstania alergii
 ---------------------------------
@@ -21,8 +21,8 @@ Warto dodać, że przypadki [reakcji alergicznych]({{< relref "atopedia/Reakcja_
 
 **Zobacz też**
 
--   [Alergia kontaktowa](/atopedia/Alergia_kontaktowa "wikilink")
--   [Alergia pokarmowa](/atopedia/Alergia_pokarmowa "wikilink")
+-   Alergia kontaktowa
+-   Alergia pokarmowa
 -   Alergia - w polskiej Wikipedii
 
 \*
