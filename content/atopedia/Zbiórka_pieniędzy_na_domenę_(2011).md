@@ -6,7 +6,7 @@ kategorie = [ "Zbiórki",]
 
 +++
 
-Nasz serwis utrzymuje się niezależnie - nie mamy żadnego patronatu. Domeny są opłacane przez samych użytkowników forum. Poprzednie zbiórki pieniędzy można zobaczyć tutaj: [Zbiórki](/atopedia/:kategoria:Zbiórki "wikilink")
+Nasz serwis utrzymuje się niezależnie - nie mamy żadnego patronatu. Domeny są opłacane przez samych użytkowników forum. Poprzednie zbiórki pieniędzy można zobaczyć tutaj: Zbiórki
 
 Musimy zebrać 730 złotych na przedłużenie domen "atopowe.pl" i "atopowe-zapalenie.pl" (na 3 lata). Wielkość wpłaty zależy od Was - proponujemy 10, 20 lub 30 zł, wedle chęci i możliwości. O zbiórce rozmawiamy [w tym wątku](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=9&t=6702), tam też podany jest numer konta.
 

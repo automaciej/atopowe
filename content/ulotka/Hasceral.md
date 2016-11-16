@@ -15,7 +15,7 @@ Maść wykazuje działanie: Złuszczające i keratolityczne, zwiększające zdol
 Wskazania
 ---------
 
-Choroby przebiegające z zaburzeniem rogowacenia - nadmierne rogowacenie skóry stóp i dłoni, [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"), rogowacenie mieszkowe, łupież mieszkowy, [rybia łuska]({{< relref "atopedia/Rybia_łuska.md" >}} "wikilink"). Ponadto alergiczny i niealergiczny wyprysk dłoni, [neurodermit](/atopedia/neurodermitis "wikilink"), [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink") oraz stany nadmiernego wysuszenia skóry o różnej etiologii.
+Choroby przebiegające z zaburzeniem rogowacenia - nadmierne rogowacenie skóry stóp i dłoni, [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"), rogowacenie mieszkowe, łupież mieszkowy, [rybia łuska]({{< relref "atopedia/Rybia_łuska.md" >}} "wikilink"). Ponadto alergiczny i niealergiczny wyprysk dłoni, neurodermit, [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink") oraz stany nadmiernego wysuszenia skóry o różnej etiologii.
 
 Przeciwwskazania
 ----------------

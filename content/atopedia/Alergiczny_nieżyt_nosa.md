@@ -21,7 +21,7 @@ Dodatkowo mogą wystąpić:
 -   bóle głowy, zatok, u nasady czoła
 -   uczucie ucisku twarzy
 -   objawy zapalenia spojówek
--   [duszności](/atopedia/duszności "wikilink")
+-   duszności
 
 W sezonie wiosenno-letnim alergiczny nieżyt nosa i spojówek jest najczęściej spowodowany przez pyłki roślin i zarodniki grzybów, natomiast w okresie jesienno-zimowym głównymi sprawcami są [alergeny](/atopedia/Alergen "wikilink") zwierząt i [roztoczy kurzu domowego](/atopedia/Roztocze_kurzu_domowego "wikilink").
 

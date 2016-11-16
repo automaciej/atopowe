@@ -26,7 +26,7 @@ Leki antyhistaminowe doustne
 
 **II generacja:** Ebastyna *(Kestine)*, [Loratadyna](/atopedia/Loratadyna "wikilink") ([Aleric](/atopedia/Aleric "wikilink"), Clarinase, [Claritine](/atopedia/Claritine "wikilink"), Loratadyna, Loratin, Loratine, Nalergin, Rotadin, Flonidan), [Cetyryzyna](/atopedia/Cetyryzyna "wikilink") ([Zyrtec](/atopedia/Zyrtec "wikilink"), [Virlix](/atopedia/Virlix "wikilink"), [Amertil](/atopedia/Amertil "wikilink"), [Allertec](/atopedia/Allertec "wikilink"), Cet Alergin, Letizen), [Mizolastyna](/atopedia/Mizolastyna "wikilink") *(Mizollen)*
 
-**III generacja:** Feksofenadyna ([Telfast](/atopedia{{< relref "ulotka/Telfast.md" >}} "wikilink"), [Telfexo](/atopedia/Telfexo "wikilink")), Desloratadyna ([Aerius](/atopedia/Aerius "wikilink")), Levocetrizina ([Lirra Gem](/atopedia/Lirra_Gem "wikilink"), [Xyzal](/atopedia/Xyzal "wikilink")), Bilastyna ([Bilaxten](/atopedia/Bilaxten "wikilink"), [Clatra](/atopedia/Clatra "wikilink"))
+**III generacja:** Feksofenadyna ([Telfast](/atopedia{{< relref "ulotka/Telfast.md" >}} "wikilink"), [Telfexo](/atopedia/Telfexo "wikilink")), Desloratadyna (Aerius), Levocetrizina ([Lirra Gem](/atopedia/Lirra_Gem "wikilink"), [Xyzal](/atopedia/Xyzal "wikilink")), Bilastyna ([Bilaxten](/atopedia/Bilaxten "wikilink"), [Clatra](/atopedia/Clatra "wikilink"))
 
 Leki antyhistaminowe w zastrzykach
 ----------------------------------
@@ -46,7 +46,7 @@ Leki immunosupresyjne stosowane doustnie
 Kortykosterydy w maściach
 -------------------------
 
-[Hydrokortyzon](/atopedia/Hydrokortyzon "wikilink"), [Dexametazon](/atopedia/Dexametazon "wikilink") ([Piyan Ping](/atopedia/Piyan_Ping "wikilink") alias [Maść 999](/Maść_999 "wikilink")), [Mecortolon](/atopedia/Mecortolon "wikilink")
+[Hydrokortyzon](/atopedia/Hydrokortyzon "wikilink"), [Dexametazon](/atopedia/Dexametazon "wikilink") ([Piyan Ping](/atopedia/Piyan_Ping "wikilink") alias Maść 999), [Mecortolon](/atopedia/Mecortolon "wikilink")
 
 Kortykosterydy stosowane doustnie
 ---------------------------------

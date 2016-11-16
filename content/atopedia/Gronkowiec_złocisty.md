@@ -27,7 +27,7 @@ U znacznej większości chorych na AZS znajduje się przeciwciała [IgE](/atoped
 
 ### Terapia
 
-Promieniowanie [PUVA](/atopedia/PUVA "wikilink") oraz [UVB](/atopedia/UVB "wikilink") znacząco ogranicza rozwój gronkowców, w sposób proporcjonalny do zastosowanej dawki, co może być podstawą skuteczności [fototerapii](/atopedia/Światłoterapia "wikilink").
+Promieniowanie [PUVA](/atopedia/PUVA "wikilink") oraz [UVB](/atopedia/UVB "wikilink") znacząco ogranicza rozwój gronkowców, w sposób proporcjonalny do zastosowanej dawki, co może być podstawą skuteczności fototerapii.
 
 Efektywność [antybiotykoterapii](/atopedia/Antybiotyk "wikilink") u pacjentów bez oznak [infekcji bakteryjnych](/atopedia/Infekcja_skóry "wikilink") jest znikoma. Jeżeli oznaki infekcji są widoczne, terapia [antybiotykowa](/atopedia/Antybiotyk "wikilink") jest zwykle wysoko skuteczna; niemniej jednak częste lub/i długotrwałe stosowanie tych samych preparatów może być przyczyną wytworzenia się odpornych szczepów gronkowca.
 

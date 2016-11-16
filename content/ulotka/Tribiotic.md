@@ -20,7 +20,7 @@ Skład:
 Działanie
 ---------
 
-Preparat wykorzystujący synergizm działania 3 antybiotyków bakteriobójczych. Bacytracyna jest antybiotykiem polipeptydowym, działającym głównie na bakterie Gram-dodatnie (m.in. *Streptococcus spp.*). Neomycyna - antybiotyk aminoglikozydowy - działa m.in. na *Enterobacteriaceae* (zwłaszcza *Proteus* indolo-dodatni i *Klebsiella spp.*) oraz *[Staphylococcus aureus](/atopedia/Staphylococcus_aureus "wikilink")*. Polimiksyna B działa głównie na bakterie Gram-ujemne, zwłaszcza *Pseudomonas aeruginosa* i pałeczki *Enterobacteriaceae*.
+Preparat wykorzystujący synergizm działania 3 antybiotyków bakteriobójczych. Bacytracyna jest antybiotykiem polipeptydowym, działającym głównie na bakterie Gram-dodatnie (m.in. *Streptococcus spp.*). Neomycyna - antybiotyk aminoglikozydowy - działa m.in. na *Enterobacteriaceae* (zwłaszcza *Proteus* indolo-dodatni i *Klebsiella spp.*) oraz *Staphylococcus aureus*. Polimiksyna B działa głównie na bakterie Gram-ujemne, zwłaszcza *Pseudomonas aeruginosa* i pałeczki *Enterobacteriaceae*.
 
 Wskazania
 ---------
@@ -55,7 +55,7 @@ Działania niepożądane:
 
 Jak każdy lek, może powodować działania niepożądane, chociaż u nie każdego one wystąpią.
 
-Lek może uszkadzać słuch, powodować wystąpienie ogólnych objawów nadwrażliwości i miejscowych, jak [wysypka](/atopedia/wysypka "wikilink"), [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink"), objawy podrażnienia oraz zakażeń opornymi szczepami bakterii lub grzybów (drożdżaki). Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek niewymienione powyżej objawy niepożądane, należy powiadomić lekarza lub farmaceutę.
+Lek może uszkadzać słuch, powodować wystąpienie ogólnych objawów nadwrażliwości i miejscowych, jak wysypka, [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink"), objawy podrażnienia oraz zakażeń opornymi szczepami bakterii lub grzybów (drożdżaki). Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek niewymienione powyżej objawy niepożądane, należy powiadomić lekarza lub farmaceutę.
 
 Uwagi:
 ------

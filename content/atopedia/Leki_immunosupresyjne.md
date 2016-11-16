@@ -14,7 +14,7 @@ W przypadku chorób alergicznych, problemem jest silna i niewłaściwie skierowa
 Skuteczność leków immonusupresyjnych
 ------------------------------------
 
-Liczne testy kliniczne na całym świecie potwierdziły wysoką skuteczność maści opartych na [tacrolimusie](/atopedia/tacrolimus "wikilink"), przy wysokim bezpieczeństwie przewlekłego stosowania. Obecnie maści [Protopic](/atopedia/Protopic "wikilink") i [Elidel](/atopedia/Elidel "wikilink") są dostępne w sprzedaży w Europie i USA. Pośród wielu lekarzy pojawia się pogląd, że w niedalekiej przyszłości nastąpi zmierzch ery [kortykosterydów](/atopedia/Kortykosterydy "wikilink"), w leczeniu atopowego zapalenia skóry, na rzecz Protopiku i innych leków z tej grupy. Silne sterydy będą zaś zarezerwowane tylko dla bardzo ostrych stanów atopowego zapalenia skóry.
+Liczne testy kliniczne na całym świecie potwierdziły wysoką skuteczność maści opartych na tacrolimusie, przy wysokim bezpieczeństwie przewlekłego stosowania. Obecnie maści [Protopic](/atopedia/Protopic "wikilink") i [Elidel](/atopedia/Elidel "wikilink") są dostępne w sprzedaży w Europie i USA. Pośród wielu lekarzy pojawia się pogląd, że w niedalekiej przyszłości nastąpi zmierzch ery [kortykosterydów](/atopedia/Kortykosterydy "wikilink"), w leczeniu atopowego zapalenia skóry, na rzecz Protopiku i innych leków z tej grupy. Silne sterydy będą zaś zarezerwowane tylko dla bardzo ostrych stanów atopowego zapalenia skóry.
 
 Dla większości pacjentów dotkniętych atopowym zapaleniem skóry, tak korzystna zmiana będzie możliwa dopiero, gdy leki te nie będą tak drogie jak obecnie. Przemawiają za tym również doniesienia o skuteczności Protopiku w leczeniu wielu innych chorób skóry o podłożu autoimmunologicznym jak toczeń rumieniowaty, bielactwo i inne.
 

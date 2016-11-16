@@ -6,7 +6,7 @@ kategorie = [ "ciało człowieka",]
 
 +++
 
-**Płaszcz lipidowy** jest zbiorem substancji pokrywających [naskórek](/atopedia/naskórek "wikilink"), chroniących warstwę rogową przed utratą wilgotności.
+**Płaszcz lipidowy** jest zbiorem substancji pokrywających naskórek, chroniących warstwę rogową przed utratą wilgotności.
 
 Grubość płaszcza:
 

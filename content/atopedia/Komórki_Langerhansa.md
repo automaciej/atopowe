@@ -14,7 +14,7 @@ Komórki te posiadają na swojej powierzchni receptory o dużym powinowactwie do
 
 W wyniku prezentacji antygenu, wydzielone zostają limfocyty Th1 (pomagające w odpowiedzi typu komórkowego) i Th2 (pomagające w odpowiedzi humoralnej). Zaburzenie równowagi pomiędzy nimi wiąże się z nieprawidłowym funkcjonowaniem [układu immunologicznego](/atopedia/Układ_immunologiczny "wikilink").
 
-U osób z [AZS](/atopedia/Atopowe_zapalenie_skóry "wikilink") stwierdza się zwiększoną obecność komórek Langerhansa w [naskórku]({{< relref "atopedia/Skóra.md" >}} "wikilink") zmienionym chorobowo, co świadczy o miejscowej nadmiernej odporności skóry. [Kortykosterydy]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink"), maść [Protopic](/atopedia/Protopic "wikilink"), a także promieniowanie UV, miejscowo upośledzają aktywność komórek Langerhansa ([działanie immunosupresyjne](/atopedia/immunosupresja_miejscowa "wikilink")).
+U osób z [AZS](/atopedia/Atopowe_zapalenie_skóry "wikilink") stwierdza się zwiększoną obecność komórek Langerhansa w [naskórku]({{< relref "atopedia/Skóra.md" >}} "wikilink") zmienionym chorobowo, co świadczy o miejscowej nadmiernej odporności skóry. [Kortykosterydy]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink"), maść [Protopic](/atopedia/Protopic "wikilink"), a także promieniowanie UV, miejscowo upośledzają aktywność komórek Langerhansa (działanie immunosupresyjne).
 
 **Zobacz też**
 

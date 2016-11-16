@@ -22,8 +22,8 @@ Ciekawe jest, że subiektywna częstość występowania objawów AP wśród chor
 ### Zobacz też
 
 -   [Dieta eliminacyjna](/atopedia/Dieta_eliminacyjna "wikilink")
--   [Dieta antyhistaminowa](/atopedia/Dieta_antyhistaminowa "wikilink")
--   [Przepisy](/atopedia/:Kategoria:Przepisy "wikilink")
+-   Dieta antyhistaminowa
+-   Przepisy
 -   [Alergia](/atopedia/Alergia "wikilink")
 -   [<http://www.epacjent.pl/artykul.php?idartykul=99&poddzial=Zdradliwa>% Kody składników produktów żywnościowych E-100 - E-400] na www.epacjent.pl
 

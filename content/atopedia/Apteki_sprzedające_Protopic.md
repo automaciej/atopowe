@@ -8,7 +8,7 @@ kategorie = [ "leki immunosupresyjne",]
 
 Poniższa tabela zawiera dane aptek, które sprzedają [Protopic](/atopedia/Protopic "wikilink").'''
 
-'''Zobacz również: ''' [Gdzie kupić Protopic](/atopedia/Gdzie_kupić_Protopic "wikilink")
+'''Zobacz również: ''' Gdzie kupić Protopic
 
 Lista aptek
 -----------

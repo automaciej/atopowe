@@ -13,7 +13,7 @@ title = "Pielęgnacja"
 
 **Zobacz też**
 
--   **[Kosmetyki](/atopedia/:kategoria:kosmetyki "wikilink")**
+-   **Kosmetyki**
 -   [Pielęgnacja dłoni](/atopedia/Pielęgnacja_dłoni "wikilink")
 
-[\*](/atopedia/kategoria:Pielęgnacja "wikilink")
+\*

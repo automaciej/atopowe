@@ -26,7 +26,7 @@ Leczenie i profilaktyka przewlekłego i sezonowego [alergicznego nieżytu nosa](
 
 **Przeciwwskazania:**
 
-Nadwrażliwość na którykolwiek składnik preparatu lub [hydroksyzynę](/atopedia/hydroksyzyna "wikilink"). Należy zachować ostrożność u chorych z niewydolnością nerek lub wątroby.
+Nadwrażliwość na którykolwiek składnik preparatu lub hydroksyzynę. Należy zachować ostrożność u chorych z niewydolnością nerek lub wątroby.
 
 **Interakcje:**
 

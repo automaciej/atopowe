@@ -5,4 +5,4 @@ title = "Kremy"
 
 +++
 
-1.  redirect [:kategoria:Kremy](/atopedia/:kategoria:Kremy "wikilink")
+1.  redirect :kategoria:Kremy

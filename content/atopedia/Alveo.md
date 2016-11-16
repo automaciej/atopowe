@@ -13,7 +13,7 @@ Według opisów, Alveo oscyluje pomiędzy suplementem codziennej diety i panaceu
 
 Opisy działania Alveo ograniczają się do ogólnych stwierdzeń typu „[Alveo] normalizuje pracę kosmków jelitowych i reguluje pracę jelit.” Nigdzie nie jest wytłumaczone, na czym ta normalizacja miałaby polegać, ani w jaki sposób miałaby być korzystna dla zdrowia.
 
-Alveo, według opisów, jest preparatem immunostymulującym, czyli podnoszącym aktywność układu odpornościowego. Immunostymulację można określić jako przeciwieństwo [immunosupresji](/atopedia/immunosupresja "wikilink"), którą stosuje się w przypadku AZS. Jeżeli immunosupresja jest metodą walki z AZS, to można mieć wątpliwości co do tego, czy stosowanie preparatu działającego (o ile on w ogóle działa) w przeciwnym kierunku, jest działaniem na korzyść chorego.
+Alveo, według opisów, jest preparatem immunostymulującym, czyli podnoszącym aktywność układu odpornościowego. Immunostymulację można określić jako przeciwieństwo immunosupresji, którą stosuje się w przypadku AZS. Jeżeli immunosupresja jest metodą walki z AZS, to można mieć wątpliwości co do tego, czy stosowanie preparatu działającego (o ile on w ogóle działa) w przeciwnym kierunku, jest działaniem na korzyść chorego.
 
 Skuteczność Alveo nie ma potwierdzenia klinicznego. Strony internetowe dotyczące Alveo podają, że preparat był testowany klinicznie w Canadian College Of Holistic Health w Ontario. Brakuje jednak precyzyjnych informacji: kiedy badanie było prowadzone, jaka była metodologia, oraz jakie były wyniki.
 

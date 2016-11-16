@@ -24,7 +24,7 @@ Oprócz silnej [reakcji alergicznej](/atopedia/Reakcja_alergiczna "wikilink"), w
 Zestaw do reanimacji
 --------------------
 
-Ampułki z adrenaliną i [hydrokortyzonem](/atopedia/hydrokortyzon "wikilink"), strzykawki i igły, silne środków rozkurczowe (np.: wziewne).
+Ampułki z adrenaliną i hydrokortyzonem, strzykawki i igły, silne środków rozkurczowe (np.: wziewne).
 
 
 Komentarz: ''Adrenalina i hydrokortyzon nie są stosowane zamiennie. Adrenalina jest lekiem stosowanym w reanimacji i jest lekiem 1-szego rzutu we [wstrząsie anafilaktycznym]({{< relref "atopedia/Wstrząs_anafilaktyczny.md" >}} "wikilink"). [Hydrokortyzon](/atopedia/Hydrokortyzon "wikilink") nie jest stosowany w reanimacji, może pomóc przy obrzęku dróg oddechowych na tle zapalnym lub alergicznym i przy skurczu oskrzeli. ''

@@ -10,4 +10,4 @@ Zdrowy rozsądek nakazuje wielką ostrożność w leczeniu [alergii]({{< relref 
 
 ### Aloes
 
-*Zobacz artykuł [Aloes](/atopedia/Aloes "wikilink").*
+*Zobacz artykuł Aloes.*

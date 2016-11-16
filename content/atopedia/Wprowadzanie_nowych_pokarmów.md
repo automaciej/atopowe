@@ -12,7 +12,7 @@ Niestety, rozpoznanie, czy nowe jedzenie uczula ([reakcja alergiczna]({{< relref
 
 Jedyną metodą jest obserwacja. Jeśli [dziecko]({{< relref "atopedia/Dziecko.md" >}} "wikilink") ma już zmiany na skórze, to określenie czy dany pokarm uczulił jest wyjątkowo trudne, ale nie niemożliwe. Wysypka nasila się, zmiany stają się bardziej czerwone, zlewają się w plamy, mogą pojawić się wysięki. Wprawne oko matki wychwyci różnicę! Poza tym dziecko drapie się, marudzi, źle śpi, w kupkach może pojawić się śluz. Czasem w określeniu [alergenu]({{< relref "atopedia/Alergen.md" >}} "wikilink") pomoże samo dziecko – wyjątkowa niechęć do danego pokarmu może świadczyć o tym, że jedzenie „nie służy”. Nie wmuszajmy więc dzieciom czegoś, co naprawdę im nie smakuje.
 
-Pamiętajcie: Wasze [dzieci](/atopedia/dzieci "wikilink") nie muszą jeść wszystkiego! Jeśli dobrze się rozwijają, nie mają anemii i innych niedoborów, ich gospodarka mineralna jest prawidłowa to znaczy, że otrzymują z pożywieniem wszystko, czego potrzebują (alergicy, którzy jedzą dużo, w tym pokarmy uczulające, mają paradoksalnie słabą morfologię!). Zapewnijcie im optymalne warunki do rozwoju, a przede wszystkim spokojny dom z codziennymi rytuałami – zróbcie wszystko, by były szczęśliwe.
+Pamiętajcie: Wasze dzieci nie muszą jeść wszystkiego! Jeśli dobrze się rozwijają, nie mają anemii i innych niedoborów, ich gospodarka mineralna jest prawidłowa to znaczy, że otrzymują z pożywieniem wszystko, czego potrzebują (alergicy, którzy jedzą dużo, w tym pokarmy uczulające, mają paradoksalnie słabą morfologię!). Zapewnijcie im optymalne warunki do rozwoju, a przede wszystkim spokojny dom z codziennymi rytuałami – zróbcie wszystko, by były szczęśliwe.
 
 Zobacz także
 ------------

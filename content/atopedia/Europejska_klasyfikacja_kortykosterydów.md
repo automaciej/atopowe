@@ -76,7 +76,7 @@ Od najsilniejszych do najsłabszych
 
 Grupa I : [Dermovate](/atopedia/Dermovate "wikilink"), [Diprolene](/atopedia/Diprolene "wikilink") maść, [Bedicort](/atopedia/Bedicort "wikilink"), [Diprosalic](/atopedia/Diprosalic "wikilink")
 Grupa II : [Diprosone](/atopedia/Diprosone "wikilink"), [Elocom](/atopedia/Elocom "wikilink") maść
-Grupa III : [Cutivate](/atopedia/Cutivate "wikilink") maść, [Kuterid](/atopedia/Kuterid "wikilink"), [Advantan](/atopedia/Advantan "wikilink") krem
+Grupa III : [Cutivate](/atopedia/Cutivate "wikilink") maść, [Kuterid](/atopedia/Kuterid "wikilink"), Advantan krem
 Grupa IV : [Polcortolon](/atopedia/Polcortolon "wikilink") maść, [Elocom](/atopedia/Elocom "wikilink") krem, lotio, [Flucinar](/atopedia/Flucinar "wikilink") maść
 Grupa V : Cutivate krem, [Laticort](/atopedia/Laticort "wikilink") maść, [Locoid](/atopedia/Locoid "wikilink"), [Flucinar](/atopedia/Flucinar "wikilink") krem, [Lorinden](/atopedia/Lorinden "wikilink") maść
 Grupa VI : [Polcortolon](/atopedia/Polcortolon "wikilink") krem, [Laticort](/atopedia/Laticort "wikilink") krem, [Lorinden](/atopedia/Lorinden "wikilink") krem

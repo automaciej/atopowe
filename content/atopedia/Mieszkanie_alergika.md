@@ -29,7 +29,7 @@ Częstym wyposażeniem domów są teraz komputery. Komputerowi towarzyszy zawsze
 
 ### Odkurzacz wodny
 
-Sprzątanie powinno odbywać się poprzez odkurzanie [odkurzaczem wodnym](/atopedia/Odkurzacz_wodny "wikilink"). Tradycyjne odkurzacze są szkodliwe, ponieważ powodują wzbijanie [kurzu](/atopedia/Kurz "wikilink") w powietrze, co dla osoby z [astmą oskrzelową](/atopedia/Astma_oskrzelowa "wikilink") może skończyć się np. atakiem [duszności](/atopedia/duszności "wikilink").
+Sprzątanie powinno odbywać się poprzez odkurzanie [odkurzaczem wodnym](/atopedia/Odkurzacz_wodny "wikilink"). Tradycyjne odkurzacze są szkodliwe, ponieważ powodują wzbijanie [kurzu](/atopedia/Kurz "wikilink") w powietrze, co dla osoby z [astmą oskrzelową](/atopedia/Astma_oskrzelowa "wikilink") może skończyć się np. atakiem duszności.
 
 ### Zobacz też
 

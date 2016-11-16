@@ -7,4 +7,4 @@ aliases = [ "/atopedia/Neurodermatitis/", "/atopedia/Neurodermitis/",]
 
 +++
 
-**Neurodermia** (ang. *[neurodermatitis](/atopedia/neurodermatitis "wikilink")*, niem. *neurodermitis*) - nazwa [psychosomatycznej choroby](/atopedia/Choroba_psychosomatyczna "wikilink") skóry, najprawdopodobniej tożsamej z [atopowym zapaleniem skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink").
+**Neurodermia** (ang. *neurodermatitis*, niem. *neurodermitis*) - nazwa [psychosomatycznej choroby](/atopedia/Choroba_psychosomatyczna "wikilink") skóry, najprawdopodobniej tożsamej z [atopowym zapaleniem skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink").

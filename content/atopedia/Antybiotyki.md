@@ -28,5 +28,5 @@ Antybiotyki w maściach:
 
 **Zobacz również:**
 
--   [Lista antybiotyków](/atopedia/:kategoria:Antybiotyki "wikilink") w Atopedii
+-   Lista antybiotyków w Atopedii
 -   Artykuł w Wikipedii: Antybiotyk

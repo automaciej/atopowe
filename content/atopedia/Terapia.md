@@ -24,7 +24,7 @@ Trwają prace nad nowymi metodami leczenia, do obiecujących należą [leki biol
 
 **Zobacz też**
 
--   Strony w **[kategorii terapia](/atopedia/:Kategoria:Terapia "wikilink")**
+-   Strony w **kategorii terapia**
 -   [Algorytm leczenia AZS](/atopedia/Algorytm_leczenia_AZS "wikilink")
 -   [Leki](/atopedia/Leki "wikilink")
 -   [Preparaty, kremy, maści wspomagające (emolienty)](/atopedia/Emolienty "wikilink")

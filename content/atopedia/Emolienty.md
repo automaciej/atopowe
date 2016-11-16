@@ -6,4 +6,4 @@ kategorie = [ "podstawowe wiadomości",]
 
 +++
 
-1.  Redirect [:kategoria:emolienty](/atopedia/:kategoria:emolienty "wikilink")
+1.  Redirect :kategoria:emolienty

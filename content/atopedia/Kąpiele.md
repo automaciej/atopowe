@@ -47,7 +47,7 @@ Kąpiel w siemieniu lnianym: pół szklanki siemienia wrzucić do dużego garnka
 
 <!-- -->
 
-Olejek do kąpieli [Emolium](/atopedia/Emolium "wikilink") : działa wielopłaszczyznowo: natłuszcza, nawilża, dostarcza lipidów międzykomórkowych i łagodzi świąd. Zawiera m.in. wyciąg z ogórecznika, mocznik, hialuronian sodu i parafinę. Olejek nie pozostawia tłustego osadu na wannie.
+Olejek do kąpieli Emolium : działa wielopłaszczyznowo: natłuszcza, nawilża, dostarcza lipidów międzykomórkowych i łagodzi świąd. Zawiera m.in. wyciąg z ogórecznika, mocznik, hialuronian sodu i parafinę. Olejek nie pozostawia tłustego osadu na wannie.
 
 <!-- -->
 
@@ -61,7 +61,7 @@ Krochmal : łagodzi wypryski, podrażnienia i odparzenia. Zmniejsza też świąd
 
 Owies : Płatki owsiane dzięki zawartości krzemionki świetnie nawilżają suchą, swędzącą skórę. Płócienny woreczek zawierający płatki owsiane (około szklanki) zanurz na 15 minut w litrze letniej wody, a następnie zagotuj. Ostudzony płyn wklep w skórę dziecka i pozostaw do wchłonięcia. Możesz także przyrządzić kąpiel z owsianką, wsyp do woreczka ok. 1/2 kg płatków owsianych i zagotuj w 3 litrach wody. Odwar wlej do kąpieli. Można także zmielić płatki owsiane w młynku do kawy, następnie zagotować tak powstały puder, a otrzymany gęsty płyn wlać do kąpieli.
 
-**Zobacz również:** [Szampony](/atopedia/:kategoria:szampony "wikilink")
+**Zobacz również:** Szampony
 
 Zbyt częste kąpiele
 -------------------

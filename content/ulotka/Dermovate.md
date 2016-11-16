@@ -177,7 +177,7 @@ Długotrwałe leczenie oraz stosowanie produktu leczniczego w dużych dawkach mo
 
 -   Nadwrażliwość.
 
-Miejscowe reakcje nadwrażliwości, takie jak rumień (zaczerwienienie), [wysypka](/atopedia/wysypka "wikilink"), [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink"), [pokrzywka]({{< relref "atopedia/Pokrzywka.md" >}} "wikilink"), miejscowe [pieczenie]({{< relref "atopedia/Pieczenie.md" >}} "wikilink") skóry i alergiczne kontaktowe zapalenie skóry mogą wystąpić w miejscu stosowania leku i mogą być podobne do objawów leczonej choroby.
+Miejscowe reakcje nadwrażliwości, takie jak rumień (zaczerwienienie), wysypka, [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink"), [pokrzywka]({{< relref "atopedia/Pokrzywka.md" >}} "wikilink"), miejscowe [pieczenie]({{< relref "atopedia/Pieczenie.md" >}} "wikilink") skóry i alergiczne kontaktowe zapalenie skóry mogą wystąpić w miejscu stosowania leku i mogą być podobne do objawów leczonej choroby.
 
 Jeżeli wystąpią objawy nadwrażliwości, należy natychmiast skontaktować się z lekarzem, gdyż konieczne jest przerwanie leczenia lekiem.
 

@@ -5,4 +5,4 @@ title = "Pokój na polczacie"
 
 +++
 
-1.  redirect [Pokoje na czacie](/atopedia/Pokoje_na_czacie "wikilink")
+1.  redirect Pokoje na czacie

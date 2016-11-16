@@ -14,13 +14,13 @@ W przypadku stosowania [Protopicu](/atopedia/Protopic "wikilink") i [Elidelu](/a
 
 **Zakażenia skóry**
 
-Działanie tych maści jest [immunosupresyjne](/atopedia/immunosupresja "wikilink") i polega na miejscowym obniżeniu nadwrażliwości immunologicznej skóry, a więc obniżeniu jej zdolności do wytworzenia [reakcji alergicznej]({{< relref "atopedia/Reakcja_alergiczna.md" >}} "wikilink") na substancję ([alergen]({{< relref "atopedia/Alergen.md" >}} "wikilink")), który przedostał się przez skórę wywołując [stan zapalny]({{< relref "atopedia/Stan_zapalny_skóry.md" >}} "wikilink"). W czasie używania tych maści zwiększa się ryzyko [infekcji]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink") wirusowych czasami bakteryjnych w obrębie leczonej skóry.
+Działanie tych maści jest immunosupresyjne i polega na miejscowym obniżeniu nadwrażliwości immunologicznej skóry, a więc obniżeniu jej zdolności do wytworzenia [reakcji alergicznej]({{< relref "atopedia/Reakcja_alergiczna.md" >}} "wikilink") na substancję ([alergen]({{< relref "atopedia/Alergen.md" >}} "wikilink")), który przedostał się przez skórę wywołując [stan zapalny]({{< relref "atopedia/Stan_zapalny_skóry.md" >}} "wikilink"). W czasie używania tych maści zwiększa się ryzyko [infekcji]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink") wirusowych czasami bakteryjnych w obrębie leczonej skóry.
 
 Na obecność infekcji wskazują na przykład widoczne [sączące]({{< relref "atopedia/Wysięk.md" >}} "wikilink") rany – zastosowanie w takiej sytuacji np.: Protopicu, a nawet słabszego Elidelu może spowodować nasilenie zmian skórnych, zwiększenie [świądu]({{< relref "atopedia/Świąd.md" >}} "wikilink") i pogłębienie się [infekcji]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink").
 
 Ważne, aby przed wprowadzeniem do leczenia tych preparatów stwierdzić, czy, lub w jakim stopniu skóra objęta jest wtórną [infekcją](/atopedia/Infekcja_skóry "wikilink") bakteryjną – i w razie potrzeby zastosować [antybiotyki]({{< relref "atopedia/Antybiotyki.md" >}} "wikilink") lub leki przeciwgrzybiczne. Po zaleczeniu wtórnych infekcji bakteryjnych skuteczność Protopicu oraz Elidelu jest zwykle bardzo wysoka.
 
-Najczęściej występującą bezobjawową infekcją bakteryjną u osób chorych na AZS jest zakażenie bakteriami [Staphylococus aureus](/atopedia/Staphylococus_aureus "wikilink"), w przypadku leku [Protopic](/atopedia/Protopic "wikilink") dowiedziono, że stosowanie tej maści powoduje szybkie ograniczenie kolonizacji skóry przez te bakterie – jest to ważne, ponieważ wytwarzane przez ten szczep [antygeny]({{< relref "atopedia/Antygen.md" >}} "wikilink") powodują nasilenie [stanu zapalnego]({{< relref "atopedia/Stan_zapalny_skóry.md" >}} "wikilink") u osób cierpiących na AZS.
+Najczęściej występującą bezobjawową infekcją bakteryjną u osób chorych na AZS jest zakażenie bakteriami Staphylococus aureus, w przypadku leku [Protopic](/atopedia/Protopic "wikilink") dowiedziono, że stosowanie tej maści powoduje szybkie ograniczenie kolonizacji skóry przez te bakterie – jest to ważne, ponieważ wytwarzane przez ten szczep [antygeny]({{< relref "atopedia/Antygen.md" >}} "wikilink") powodują nasilenie [stanu zapalnego]({{< relref "atopedia/Stan_zapalny_skóry.md" >}} "wikilink") u osób cierpiących na AZS.
 
 W przypadku wystąpienia zakażenia wirusem opryszczki należy przerwać leczenie jedynie obszaru, którego dotyczy zakażenie, stosować leki przeciwwirusowe np. Zowirax a po ustąpieniu zmian kontynuować leczenie maścią.
 
@@ -38,7 +38,7 @@ Zjawisko to zachodzi poprzez oddziaływanie na receptor waniloidowy (VR1). Pobud
 
 ### Inne problemy
 
-Protopic ([tacrolimus](/atopedia/tacrolimus "wikilink")) i [Elidel](/atopedia/Elidel "wikilink") nie powinny być stosowane w czasie ciąży i karmienia piersią.
+Protopic (tacrolimus) i [Elidel](/atopedia/Elidel "wikilink") nie powinny być stosowane w czasie ciąży i karmienia piersią.
 
 W Polsce preparaty te są zarejestrowane od 2. roku życia - w wielu krajach jest jednak dopuszczone ich używanie już u niemowląt od 3. miesiąca życia.
 

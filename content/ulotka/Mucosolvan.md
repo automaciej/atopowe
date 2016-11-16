@@ -79,7 +79,7 @@ Brak doniesień dotyczących objawów przedawkowania u ludzi. Jeżeli jednak wys
 
 **Działania niepożądane**
 
-Łagodne zaburzenia ze strony górnego odcinka przewodu pokarmowego( zwłaszcza zgaga i dyspepsja oraz sporadycznie nudności i wymioty); zaparcia, trudności w oddawaniu moczu. Rzadko [reakcje alergiczne]({{< relref "atopedia/Reakcja_alergiczna.md" >}} "wikilink"), przeważnie [wysypki](/atopedia/wysypka "wikilink") skórne. Wyjątkowo sporadycznie notowano przypadki ciężkich [reakcji typu anafilaktycznego]({{< relref "atopedia/Wstrząs_anafilaktyczny.md" >}} "wikilink"), a ich związek z przyjmowaniem ambroksolu nie jest dowiedziony.
+Łagodne zaburzenia ze strony górnego odcinka przewodu pokarmowego( zwłaszcza zgaga i dyspepsja oraz sporadycznie nudności i wymioty); zaparcia, trudności w oddawaniu moczu. Rzadko [reakcje alergiczne]({{< relref "atopedia/Reakcja_alergiczna.md" >}} "wikilink"), przeważnie wysypki skórne. Wyjątkowo sporadycznie notowano przypadki ciężkich [reakcji typu anafilaktycznego]({{< relref "atopedia/Wstrząs_anafilaktyczny.md" >}} "wikilink"), a ich związek z przyjmowaniem ambroksolu nie jest dowiedziony.
 
 **Przechowywanie**
 

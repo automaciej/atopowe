@@ -12,7 +12,7 @@ Sekwencję tę nazywa się **marszem alergicznym**.
 
 Przebieg chorób alergicznych charakteryzuje się typową kolejnością - często choroby alergiczne z wiekiem przechodzą z jednej w drugą. U 50% dzieci AZS przechodzi w astmę oskrzelową[2].
 
-Niektóre z leków mogą być stosowane jako próba farmakologicznej interwencji w naturalny przebieg marszu alergicznego. Wiadomo, że [cetyryzyna](/atopedia/cetyryzyna "wikilink") zmniejsza ryzyko rozwoju astmy u dzieci chorych na AZS uczulonych na alergeny powietrznopochodne[3].
+Niektóre z leków mogą być stosowane jako próba farmakologicznej interwencji w naturalny przebieg marszu alergicznego. Wiadomo, że cetyryzyna zmniejsza ryzyko rozwoju astmy u dzieci chorych na AZS uczulonych na alergeny powietrznopochodne[3].
 
 <references />
   

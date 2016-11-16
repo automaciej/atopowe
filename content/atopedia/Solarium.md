@@ -19,5 +19,5 @@ Krótkie wizyty w solarium bywają polecane przez dermatologów osobom chorym na
 
 **Zobacz też**
 
--   [Światłoterapia](/atopedia/Światłoterapia "wikilink")
+-   Światłoterapia
 -   [PUVA](/atopedia/PUVA "wikilink")

@@ -20,7 +20,7 @@ Przede wszystkim:
 -   [reakcja alergiczna]({{< relref "atopedia/Reakcja_alergiczna.md" >}} "wikilink") objawiająca się pod różnymi postaciami
 -   [zaczerwienienie skóry]({{< relref "atopedia/Zaczerwienienie_skóry.md" >}} "wikilink")
 -   plamy
--   [wysypka](/atopedia/wysypka "wikilink")
+-   wysypka
 -   pęcherze z wodnistą wydzieliną (osocze)
 
 Dodatkowo

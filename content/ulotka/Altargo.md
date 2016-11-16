@@ -208,7 +208,7 @@ Krótkotrwałe leczenie następujących powierzchniowych zakażeń skórnych:
 -   Liszajec.
 -   Zakażone niewielkie rany szarpane, otarcia lub rany szyte.
 
-W punktach 2.4.4 i 2.5.1 znajdują się ważne informacje dotyczące klinicznego działania retapamuliny przeciwko różnym rodzajom *[Staphylococcus aureus](/atopedia/Staphylococcus_aureus "wikilink")*.
+W punktach 2.4.4 i 2.5.1 znajdują się ważne informacje dotyczące klinicznego działania retapamuliny przeciwko różnym rodzajom *Staphylococcus aureus*.
 
 Należy wziąć pod uwagę oficjalne wytyczne dotyczące właściwego stosowania środków przeciwbakteryjnych.
 

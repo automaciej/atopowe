@@ -6,7 +6,7 @@ kategorie = [ "leki immunosupresyjne", "maści",]
 
 +++
 
-[Maść Protopic, opakowanie 30g](/Image:Protopic.jpg "wikilink") **Protopic** - [maść]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink") o działaniu immunomodulującym ([lek immunosupresyjny](/atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") [miejscowy](/atopedia/immunosupresja_miejscowa "wikilink")).
+[Maść Protopic, opakowanie 30g](/Image:Protopic.jpg "wikilink") **Protopic** - [maść]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink") o działaniu immunomodulującym ([lek immunosupresyjny](/atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") miejscowy).
 
 Protopic
 ========
@@ -31,7 +31,7 @@ Zobacz też
 -   [Protopic (ulotka)]({{< relref "ulotka/Protopic_(ulotka).md" >}} "wikilink")
 -   [Jak stosować Protopic i Elidel](/atopedia/Jak_stosować_Protopic_i_Elidel "wikilink")
 -   [Refundacja maści Protopic](/atopedia/Refundacja_maści_Protopic "wikilink")
--   [Gdzie kupić Protopic](/atopedia/Gdzie_kupić_Protopic "wikilink")
+-   Gdzie kupić Protopic
 -   [Apteki sprzedające Protopic](/atopedia/Apteki_sprzedające_Protopic "wikilink")
 -   [Elidel](/atopedia/Elidel "wikilink")
 

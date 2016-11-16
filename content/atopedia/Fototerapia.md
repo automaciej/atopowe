@@ -6,4 +6,4 @@ kategorie = [ "terapia",]
 
 +++
 
-1.  Redirect [Światłoterapia](/atopedia/Światłoterapia "wikilink")
+1.  Redirect Światłoterapia

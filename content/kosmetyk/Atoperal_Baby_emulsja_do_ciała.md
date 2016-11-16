@@ -10,7 +10,7 @@ PIELĘGNACJA SKÓRY DZIECI I NIEMOWLĄT
 
 /SKÓRA ATOPOWA, SUCHA, WRAŻLIWA/
 
-Natłuszczająca emulsja w/o przeznaczona do codziennej pielęgnacji [skóry atopowej]({{< relref "atopedia/Skóra.md" >}}_atopowa "wikilink"), [suchej](/atopedia/sucha_skóra "wikilink") i wrażliwej dzieci i niemowląt powyżej 1 miesiąca życia. Emulsja do ciała zawiera w składzie m.in. polidokanol, który działa przeciwświądowo i jest rekomendowany w produktach do pielęgnacji skóry atopowej.
+Natłuszczająca emulsja w/o przeznaczona do codziennej pielęgnacji [skóry atopowej]({{< relref "atopedia/Skóra.md" >}}_atopowa "wikilink"), suchej i wrażliwej dzieci i niemowląt powyżej 1 miesiąca życia. Emulsja do ciała zawiera w składzie m.in. polidokanol, który działa przeciwświądowo i jest rekomendowany w produktach do pielęgnacji skóry atopowej.
 
 Atoperal Baby emulsja do ciała przeznaczona jest do codziennej pielęgnacji skóry atopowej, suchej, wrażliwej dzieci i niemowląt powyżej 1 miesiąca życia. Starannie wyselekcjonowane składniki zapewniają profesjonalną pielęgnację skóry dziecka.
 
@@ -22,7 +22,7 @@ Atoperal Baby emulsja do ciała przeznaczona jest do codziennej pielęgnacji sk�
 Sposób stosowania:
 ------------------
 
-Atoperal Baby emulsję do ciała należy stosować 1-2 razy dziennie na dokładnie oczyszczoną i osuszoną skórę. Nanieść cienką warstwę emulsji i rozprowadzić dłonią do całkowitego wchłonięcia. Zaleca się stosowanie emulsji do ciała z preparatami myjącymi z [linii atoperal Baby](/atopedia/atoperal "wikilink"): pianką do mycia ciała oraz emulsją do kąpieli.
+Atoperal Baby emulsję do ciała należy stosować 1-2 razy dziennie na dokładnie oczyszczoną i osuszoną skórę. Nanieść cienką warstwę emulsji i rozprowadzić dłonią do całkowitego wchłonięcia. Zaleca się stosowanie emulsji do ciała z preparatami myjącymi z linii atoperal Baby: pianką do mycia ciała oraz emulsją do kąpieli.
 
 Przechowywanie:
 ---------------

@@ -13,13 +13,13 @@ Głównymi narzędziami w badaniach klinicznych są [podwójnie ślepa próba]({
 
 -   [kortykosterydy]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink") (maści, kremy, zastrzyki, tabletki)
 -   leczenie immunosupresyjne systemowe (doustnie, np. [cyklosporyna]({{< relref "atopedia/Cyklosporyna.md" >}} "wikilink"))
--   leczenie immunosupresyjne miejscowe, [tacrolimus](/atopedia/tacrolimus "wikilink") (maść [Protopic](/atopedia/Protopic "wikilink")) lub [pimekrolimus]({{< relref "atopedia/Pimekrolimus.md" >}} "wikilink") (krem [Elidel](/atopedia/Elidel "wikilink"))
+-   leczenie immunosupresyjne miejscowe, tacrolimus (maść [Protopic](/atopedia/Protopic "wikilink")) lub [pimekrolimus]({{< relref "atopedia/Pimekrolimus.md" >}} "wikilink") (krem [Elidel](/atopedia/Elidel "wikilink"))
 -   [leki antyhistaminowe]({{< relref "atopedia/Leki.md" >}}_antyhistaminowe "wikilink")
 -   [leki sedatywne]({{< relref "atopedia/Leki.md" >}}_sedatywne "wikilink"), uspokajające (w tym o działaniu antyhistaminowym)
--   fototerapia (lampy [PUVA](/atopedia/Światłoterapia "wikilink"))
--   fotochemoterapia (lampy [PUVA](/atopedia/Światłoterapia "wikilink") + leki wspomagające)
+-   fototerapia (lampy PUVA)
+-   fotochemoterapia (lampy PUVA + leki wspomagające)
 -   leczenie preparatami taropochodnymi (na bazie smoły) – np. maść [Delatar](/atopedia/Delatar "wikilink") i inne
--   [odczulanie](/atopedia/odczulanie "wikilink") przy użyciu szczepionek (przede wszystkim na alergeny wziewne, tzw. powietrznopochodne)
+-   odczulanie przy użyciu szczepionek (przede wszystkim na alergeny wziewne, tzw. powietrznopochodne)
 -   [emolienty]({{< relref "atopedia/Emolienty.md" >}} "wikilink")
 -   [antybiotyki]({{< relref "atopedia/Antybiotyki.md" >}} "wikilink") w leczeniu AZS
 -   stosowanie niesterydowych leków przeciwzapalnych - [Parfenac](/atopedia/Parfenac "wikilink") (Bufexamac); preparaty na bazie rumianku; ichtiol

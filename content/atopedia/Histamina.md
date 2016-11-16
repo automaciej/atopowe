@@ -31,7 +31,7 @@ wynikiem jest rozszerzenie naczyń krwionośnych, zwiększenie ich
 przepuszczalności co, prowadzi do wysięków krwi do organizmu.  Ponadto aktywacja
 receptora H1 powoduje skurcz mięśni gładkich oskrzeli, a także pobudzenie
 zakończeń nerwów czuciowych, co prowadzi do ataków
-[duszności](/atopedia/duszności "wikilink") czy obrzęków płuc i tchawicy. Stąd
+duszności czy obrzęków płuc i tchawicy. Stąd
 ataki bezdechu u alergików.
 
 Histamina w czasie alarmu powoduje wzmożone wydzielanie soków trawiennych i
@@ -58,7 +58,7 @@ danego receptora. Dlatego ważne jest stałe i regularne stosowanie leków.
 **Zobacz również:**
 
 -   [Leki antyhistaminowe]({{< relref "atopedia/Leki_antyhistaminowe.md" >}} "wikilink")
--   [Dieta antyhistaminowa](/atopedia/Dieta_antyhistaminowa "wikilink")
+-   Dieta antyhistaminowa
 -   [Histamina i alergia](http://www.przychodnia.pl/alergia/index6.php3?s=3&d=5&t=6&p1=0)
 
 [^1]: Lewandowska-Polak A, Kowalski ML - **Leki antyhistaminowe w chorobach alergicznych** - *Przegl Alergol 2004*, 2: 42-47

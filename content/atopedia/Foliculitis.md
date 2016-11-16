@@ -8,7 +8,7 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 
 **Foliculitis** - to stan zapalny mieszków włosowych, objawiający się tworzeniem na skórze krostek z ropną wydzieliną. Zwykle są one dokuczliwie [piekące]({{< relref "atopedia/Pieczenie.md" >}} "wikilink") i [swędzace]({{< relref "atopedia/Świąd.md" >}} "wikilink"), pobudzają więc do [drapania]({{< relref "atopedia/Drapanie.md" >}} "wikilink"), a rozdrapywane - mogą wywołać lub przyspieszyć nawrót [infekcji bakteryjnej na skórze]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink").
 
-*Foliculitis* jest częstym objawem w AZS, powstaje w wyniku zatkania porów skóry, najczęściej mieszków włosowych - między innymi w wyniku używania tłustych maści i zbyt silnego ich wcierania (tzw. zalanie mieszków włosowych). Powodować go mogą również maści [sterydowe]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink") i [tacrolimus](/atopedia/tacrolimus "wikilink") - bowiem obniżają miejscowo odporność skóry.
+*Foliculitis* jest częstym objawem w AZS, powstaje w wyniku zatkania porów skóry, najczęściej mieszków włosowych - między innymi w wyniku używania tłustych maści i zbyt silnego ich wcierania (tzw. zalanie mieszków włosowych). Powodować go mogą również maści [sterydowe]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink") i tacrolimus - bowiem obniżają miejscowo odporność skóry.
 
 ### Jak przeciwdziałać foliculitis?
 

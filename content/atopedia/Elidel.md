@@ -13,7 +13,7 @@ Substancję czynną maści Elidel 0,03% stanowi [pimekrolimus]({{< relref "atope
 Elidel u niemowląt i dzieci
 ---------------------------
 
-Wiele matek pisze, że jak tylko przestaną smarować dziecko kremem Elidel, to zmiany na skórze wracają. Jest to normalne, bo jest to [lek immunosupresyjny]({{< relref "atopedia/Leki_immunosupresyjne.md" >}}), który obniża miejscowo odporność skóry, więc po odstawieniu kremu ta nadmierna odporność wraca, a z nią wraca [wysypka](/atopedia/wysypka "wikilink"). Jednak Elidel to lek stosunkowo bezpieczny (żaden lek nie jest bezpieczny w 100%) i w przeciwieństwie do sterydów może być stosowany przewlekle, może być stosowany na twarz, a nawet powieki. Jedyny problem to odporność: trzeba uważać na wtórne [infekcje skóry]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink"). Infekcje wdają się przeważnie wtedy, gdy [skóra]({{< relref "atopedia/Skóra.md" >}} "wikilink") jest regularnie [rozdrapywana]({{< relref "atopedia/Drapanie.md" >}} "wikilink").
+Wiele matek pisze, że jak tylko przestaną smarować dziecko kremem Elidel, to zmiany na skórze wracają. Jest to normalne, bo jest to [lek immunosupresyjny]({{< relref "atopedia/Leki_immunosupresyjne.md" >}}), który obniża miejscowo odporność skóry, więc po odstawieniu kremu ta nadmierna odporność wraca, a z nią wraca wysypka. Jednak Elidel to lek stosunkowo bezpieczny (żaden lek nie jest bezpieczny w 100%) i w przeciwieństwie do sterydów może być stosowany przewlekle, może być stosowany na twarz, a nawet powieki. Jedyny problem to odporność: trzeba uważać na wtórne [infekcje skóry]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink"). Infekcje wdają się przeważnie wtedy, gdy [skóra]({{< relref "atopedia/Skóra.md" >}} "wikilink") jest regularnie [rozdrapywana]({{< relref "atopedia/Drapanie.md" >}} "wikilink").
 
 Jak stosować maść Elidel
 ------------------------
@@ -23,6 +23,6 @@ Jak stosować maść Elidel
 Zobacz też
 ----------
 
--   [Gdzie kupić Elidel](/atopedia/Gdzie_kupić_Elidel "wikilink")
+-   Gdzie kupić Elidel
 -   [Elidel (ulotka)]({{< relref "ulotka/Elidel_(ulotka).md" >}} "wikilink")
 -   [Protopic](/atopedia/Protopic "wikilink")

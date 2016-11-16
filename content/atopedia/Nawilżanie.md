@@ -14,7 +14,7 @@ Znana powszechnie historyjka o więdnącym i marszczącym się jabłku bez wątp
 
 ### Nawilżamy od zewnątrz
 
-Wpływ wody na skórę nie jest jednak wcale jednoznacznie pozytywny. Gdyby [skóra]({{< relref "atopedia/Skóra.md" >}} "wikilink") mogła czerpać wodę z zewnątrz, poziom jej nawilżenia wzrastałby po każdym umyciu. Jednak skóra przy dłuższym kontakcie z wodą ulega wysuszeniu i traci naturalną [barierę lipidową]({{< relref "atopedia/Płaszcz_lipidowy.md" >}} "wikilink"). Działanie kremu nawilżającego polega na dostarczeniu skórze substancji, które wiążą wodę w [naskórku](/atopedia/naskórek "wikilink") i zapobiegają jej nadmiernemu odparowywaniu z tkanek poprzez uszczelnianie warstwy rogowej skóry. Owszem, kremy najnowszej generacji transportują wodę w głąb naskórka, jednak znajdująca się tam woda pochodzi w większości ze skóry właściwej, gdzie trafia za pośrednictwem naczyń krwionośnych.
+Wpływ wody na skórę nie jest jednak wcale jednoznacznie pozytywny. Gdyby [skóra]({{< relref "atopedia/Skóra.md" >}} "wikilink") mogła czerpać wodę z zewnątrz, poziom jej nawilżenia wzrastałby po każdym umyciu. Jednak skóra przy dłuższym kontakcie z wodą ulega wysuszeniu i traci naturalną [barierę lipidową]({{< relref "atopedia/Płaszcz_lipidowy.md" >}} "wikilink"). Działanie kremu nawilżającego polega na dostarczeniu skórze substancji, które wiążą wodę w naskórku i zapobiegają jej nadmiernemu odparowywaniu z tkanek poprzez uszczelnianie warstwy rogowej skóry. Owszem, kremy najnowszej generacji transportują wodę w głąb naskórka, jednak znajdująca się tam woda pochodzi w większości ze skóry właściwej, gdzie trafia za pośrednictwem naczyń krwionośnych.
 
 Nowoczesną substancją stosowaną w kremach, balsamach lub żelach, niezbędną dla prawidłowego nawilżenia skóry jest [mocznik]({{< relref "atopedia/Mocznik.md" >}} "wikilink"). Występuje on naturalnie w skórze, a jego deficyt powoduje odwodnienie z objawami silnego przesuszenia i rogowacenia. Dodatkową zaletą mocznika jest brak właściwości drażniących i alergizujących, co zapewnia pełne bezpieczeństwo jego stosowania.
 
@@ -26,8 +26,8 @@ Do zachowania odpowiedniego poziomu nawilżania potrzebne jest więc nie tylko d
 
 -   Skóra najczęściej wysusza się w ekstremalnych warunkach klimatycznych - na mrozie, wietrze, słońcu, podczas wizyty w [solarium]({{< relref "atopedia/Solarium.md" >}} "wikilink").
 -   Zaburzenia równowagi lipidowej powodują, że [warstwa ochronna]({{< relref "atopedia/Płaszcz_lipidowy.md" >}} "wikilink") przestaje być szczelna i skóra zbyt szybko traci wodę.
--   Zbyt [sucha skóra](/atopedia/sucha_skóra "wikilink") powoduje znaczny dyskomfort, łuszczy się, piecze, ponadto pojawiają się na niej zmarszczki powierzchniowe.
--   Sama woda to dla przesuszonej skóry zbyt mało. By odzyskała równowagę hydrolipidową należy dostarczyć jej substancji wiążących i zatrzymujących wodę w [naskórku](/atopedia/naskórek "wikilink") np. [mocznik]({{< relref "atopedia/Mocznik.md" >}} "wikilink").
+-   Zbyt sucha skóra powoduje znaczny dyskomfort, łuszczy się, piecze, ponadto pojawiają się na niej zmarszczki powierzchniowe.
+-   Sama woda to dla przesuszonej skóry zbyt mało. By odzyskała równowagę hydrolipidową należy dostarczyć jej substancji wiążących i zatrzymujących wodę w naskórku np. [mocznik]({{< relref "atopedia/Mocznik.md" >}} "wikilink").
 
 **Zobacz też**
 

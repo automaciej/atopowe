@@ -37,7 +37,7 @@ Atoperal szampon:
 Sposób stosowania:
 ------------------
 
-Niewielką ilość szamponu nanieść na mokre włosy i delikatnie wmasować. Po 2 minutach dokładnie spłukać. Zaleca się stosowanie szamponu wraz z innymi preparatami z linii Atoperal: [żelem do mycia ciała](/atopedia/Atoperal_żel_do_mycia_ciała "wikilink"), [kremem](/atopedia/Atoperal_krem "wikilink") oraz [emulsją](/atopedia/Atoperal_emulsja_do_ciała "wikilink").
+Niewielką ilość szamponu nanieść na mokre włosy i delikatnie wmasować. Po 2 minutach dokładnie spłukać. Zaleca się stosowanie szamponu wraz z innymi preparatami z linii Atoperal: żelem do mycia ciała, kremem oraz emulsją.
 
 Przeciwwskazania:
 -----------------

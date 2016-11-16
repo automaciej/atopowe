@@ -10,5 +10,5 @@ Substancja zwiększająca wrażliwość skóry na działanie promieniowania sło
 
 Do popularnych leków z grupy psolarenów należą:
 
--   [Oxsolaren](/atopedia/Oxsolaren "wikilink")
+-   Oxsolaren
 -   [Geralen](/atopedia/Geralen "wikilink")

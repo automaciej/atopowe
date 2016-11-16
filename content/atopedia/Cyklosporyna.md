@@ -19,7 +19,7 @@ Po zaprzestaniu leczenia występują nawroty choroby - po dwóch tygodniach u 50
 -   Łagodzi [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink"), bo działa na interleukinę 2.
 -   Wytępia [limfocyty T]({{< relref "atopedia/Limfocyty_T.md" >}} "wikilink"), która są podłożem reakcji IV typu, opóźnionych.
 -   Hamuje apoptozę i aktywację keratynocytów w naskórku, czyli działa na całe ciało.
--   Szybciej działa od bezpieczniejszych immunosupresantów, którymi za granicą leczono dzieci: [cellceptu](/atopedia/cellcept "wikilink") i [imuranu](/atopedia/imuran "wikilink").
+-   Szybciej działa od bezpieczniejszych immunosupresantów, którymi za granicą leczono dzieci: cellceptu i imuranu.
 -   Skutki uboczne dotyczą generalnie brania jej przez całe życie... jako leku zapobiegającemu odrzuceniu przeszczepów, chyba tylko nefrotoksyczność czy hepatoksyczność może ujawnić się w pierwszych 12 tygodniach, ale na to są badania.
 
 ### Skutki uboczne:

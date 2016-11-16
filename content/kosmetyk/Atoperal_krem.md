@@ -44,7 +44,7 @@ Atoperal krem:
 Sposób stosowania:
 ------------------
 
-Atoperal krem należy stosować 2-3 razy dziennie na dokładnie oczyszczoną i osuszoną skórę. Niewielką ilość kremu rozprowadzić dłonią do całkowitego wchłonięcia. Zaleca się stosowanie kremu wraz z preparatami myjącymi z linii Atoperal: [żelem do mycia ciała](/atopedia/Atoperal_żel_do_mycia_ciała "wikilink") i [szamponem](/atopedia/Atoperal_szampon "wikilink").
+Atoperal krem należy stosować 2-3 razy dziennie na dokładnie oczyszczoną i osuszoną skórę. Niewielką ilość kremu rozprowadzić dłonią do całkowitego wchłonięcia. Zaleca się stosowanie kremu wraz z preparatami myjącymi z linii Atoperal: żelem do mycia ciała i szamponem.
 
 Przeciwwskazania:
 -----------------

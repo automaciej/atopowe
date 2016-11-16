@@ -6,7 +6,7 @@ kategorie = [ "terapia",]
 
 +++
 
-Terapia polegająca na jednoczesnym naświetlaniu promieniowaniem ultrafioletowym UVA oraz przyjmowaniu leków z grupy psolarenów (np. [oxsolaren](/atopedia/oxsolaren "wikilink"), [geralen](/atopedia/geralen "wikilink")), zwiększających wytwarzanie pigmentu (melaniny) w skórze po wystawieniu jej na działanie promieni ultrafioletowych. Terapia PUVA powoduje blokowanie receptorów [komórek Langerhansa]({{< relref "atopedia/Komórki_Langerhansa.md" >}} "wikilink") oraz eliminuje bakterie i niektóre wirusy obecne na skórze, co zmniejsza ryzyko [infekcji]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink").
+Terapia polegająca na jednoczesnym naświetlaniu promieniowaniem ultrafioletowym UVA oraz przyjmowaniu leków z grupy psolarenów (np. oxsolaren, geralen), zwiększających wytwarzanie pigmentu (melaniny) w skórze po wystawieniu jej na działanie promieni ultrafioletowych. Terapia PUVA powoduje blokowanie receptorów [komórek Langerhansa]({{< relref "atopedia/Komórki_Langerhansa.md" >}} "wikilink") oraz eliminuje bakterie i niektóre wirusy obecne na skórze, co zmniejsza ryzyko [infekcji]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink").
 
 ### Badania przed leczeniem PUVA
 
@@ -38,5 +38,5 @@ Dla dzieci i dorosłych:
 
 **Zobacz też**
 
--   [Światłoterapia](/atopedia/Światłoterapia "wikilink")
+-   Światłoterapia
 -   [Gronkowiec złocisty](/atopedia/Gronkowiec_złocisty "wikilink")

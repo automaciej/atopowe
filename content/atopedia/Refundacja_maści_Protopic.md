@@ -59,15 +59,15 @@ Jak pomóc
 **Jeśli chorujesz na średnio lub mocno nasilone AZS, podejmij następujące kroki:**
 
 1.  Poproś swojego lekarza o **opinię specjalistyczną**
-    na temat leku [Protopic](/atopedia/Protopic "wikilink"). Jeżeli chcesz zrobić to na piśmie (np. wysłać email lub zwykły list, prośba pisemna jest zawsze bardziej skuteczna niż ustna), możesz posłużyć się [wzorem prośby o napisanie opinii specjalistycznej](/atopedia/Wzór_listu_z_prośbą_o_napisanie_opinii_specjalistycznej "wikilink"). Napisaną prośbę [prześlij do nas](/atopedia/Przesyłanie_dokumentów "wikilink").
+    na temat leku [Protopic](/atopedia/Protopic "wikilink"). Jeżeli chcesz zrobić to na piśmie (np. wysłać email lub zwykły list, prośba pisemna jest zawsze bardziej skuteczna niż ustna), możesz posłużyć się [wzorem prośby o napisanie opinii specjalistycznej](/atopedia/Wzór_listu_z_prośbą_o_napisanie_opinii_specjalistycznej "wikilink"). Napisaną prośbę prześlij do nas.
 2.  Napisz **historię swojej choroby**,
-     przebiegu leczenia (przebyte rodzaje [terapii](/atopedia/Terapia "wikilink")) oraz rokowanie na przyszłość. Przygotowaliśmy [wzór historii choroby](/atopedia/Wzór_historii_choroby "wikilink"). [Prześlij nam](/atopedia/Przesyłanie_dokumentów "wikilink") historię swojej choroby.
-3.  Przejrzyj **[Pismo do Ministra Zdrowia](/atopedia/Pismo_do_Ministra_Zdrowia "wikilink")** oraz **[Pismo do NFZ](/atopedia/Pismo_do_NFZ "wikilink")**.
+     przebiegu leczenia (przebyte rodzaje [terapii](/atopedia/Terapia "wikilink")) oraz rokowanie na przyszłość. Przygotowaliśmy [wzór historii choroby](/atopedia/Wzór_historii_choroby "wikilink"). Prześlij nam historię swojej choroby.
+3.  Przejrzyj **[Pismo do Ministra Zdrowia](/atopedia/Pismo_do_Ministra_Zdrowia "wikilink")** oraz **Pismo do NFZ**.
      Wyślemy je razem z kopiami zebranych opinii oraz historiami choroby, które nadeślecie do nas. Taki sam komplet dokumentów (jw), zamierzamy przekazać prasie z branży medycznej oraz firmie Astellas.
 
 Niech sprawa nabierze impetu!!
 
-Przeczytaj informacje o tym, jak [przesyłać do nas dokumenty](/atopedia/Przesyłanie_dokumentów "wikilink").
+Przeczytaj informacje o tym, jak przesyłać do nas dokumenty.
 
 Cena
 ====
