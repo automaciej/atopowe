@@ -29,7 +29,7 @@ Nikt nie potwierdził diagnostycznego znaczenia i leczniczej skuteczności dzia�
 
 [1] <http://www.psychomanipulacja.pl/tem/biorezonans.htm>
 
-[2] [wikipedia:Biorezonans](/atopedia/wikipedia:Biorezonans "wikilink")
+[2] wikipedia:Biorezonans
 
 [3] Kruszewski J. Ogólne zasady diagnostyki chorób alergicznych, *Alergia Astma Immunologia 2006 11(1): 1-10*
 

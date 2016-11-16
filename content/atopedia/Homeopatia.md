@@ -25,7 +25,7 @@ Polskie Towarzystwo Alergologiczne powołało ekspercką Komisję d/s Weryfikacj
 -   [Koniec homeopatii?](http://blog.atopowe.pl/2007/11/23/koniec-homeopatii/) ― artykuł Bena Goldacre z BadScience
 -   [Koniec homeopatii](http://www.gazetawyborcza.pl/1,75248,2893093.html) ― artykuł w Gazecie Wyborczej
 -   [Centrum Przeciwdziałania Psychomanipulacji](http://www.psychomanipulacja.pl/tem/homeopatia.htm)
--   [Homeopatia w Polskiej Wikipedii](/atopedia/wikipedia:Homeopatia "wikilink")
+-   Homeopatia w Polskiej Wikipedii
 
 
 

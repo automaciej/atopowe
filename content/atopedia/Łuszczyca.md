@@ -8,7 +8,7 @@ kategorie = [ "inne choroby skóry",]
 
 **Łuszczyca** (*psoriasis*) - jest inną jednostką chorobową niż [atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink"). Bywa często mylona z AZS. Cechy wspólne łuszczycy i AZS to nieznane przyczyny oraz nawrotowy charakter. W przeciwieństwie do AZS, łuszczyca nie jest związana z [alergią]({{< relref "atopedia/Alergia.md" >}} "wikilink"), choć mówi się o jej związkach z układem odpornościowym.
 
-Istnieje również [przyłuszczyca](/atopedia/wikipedia:PLEVA "wikilink").
+Istnieje również przyłuszczyca.
 
 **Linki zewnętrzne**
 

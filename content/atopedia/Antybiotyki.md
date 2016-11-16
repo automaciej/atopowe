@@ -29,4 +29,4 @@ Antybiotyki w maściach:
 **Zobacz również:**
 
 -   [Lista antybiotyków](/atopedia/:kategoria:Antybiotyki "wikilink") w Atopedii
--   Artykuł w Wikipedii: [Antybiotyk](/atopedia/wikipedia:Antybiotyk "wikilink")
+-   Artykuł w Wikipedii: Antybiotyk

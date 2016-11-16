@@ -51,7 +51,7 @@ Film od +18.
 
 ##### Nick Vujicic
 
-Nick Vujici - kaznodzieja, mówca motywacyjny i dyrektor Life Without Limbs. Więcej na Wikipedii - [Nick Vujicic](/atopedia/wikipedia:en:Nick_Vujicic "wikilink")
+Nick Vujici - kaznodzieja, mówca motywacyjny i dyrektor Life Without Limbs. Więcej na Wikipedii - Nick Vujicic
 
 Inspirujące fragmenty z filmu o Nicku Vujicicu i jego przemówień: <http://www.youtube.com/watch?v=KIprMBXRz0Q>
 

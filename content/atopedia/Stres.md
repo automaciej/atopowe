@@ -18,4 +18,4 @@ Stres jest czynnikiem, którego zadaniem jest mobilizacja organizmu do działani
 
 **Linki zewnętrzne**
 
--   [Stres w polskiej Wikipedii](/atopedia/wikipedia:Stres "wikilink")
+-   Stres w polskiej Wikipedii

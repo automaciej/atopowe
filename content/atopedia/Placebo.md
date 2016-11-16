@@ -23,6 +23,6 @@ Pomiędzy fizjologicznym, obiektywnym stanem pacjenta a liczbami w protokole bad
 
 ### Linki zewnętrzne
 
--   [Placebo](/atopedia/wikipedia:Placebo "wikilink") w polskiej Wikipedii
+-   Placebo w polskiej Wikipedii
 -   [Koniec homeopatii?](http://blog.atopowe.pl/2007/11/23/koniec-homeopatii/) - wpis na blogu atopowym
 -   [Homeopatia i efekt nocebo](http://blog.atopowe.pl/2009/12/02/homeopatia-i-efekt-nocebo/) - wpis na blogu atopowym

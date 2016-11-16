@@ -23,6 +23,6 @@ Warto dodać, że przypadki [reakcji alergicznych]({{< relref "atopedia/Reakcja_
 
 -   [Alergia kontaktowa](/atopedia/Alergia_kontaktowa "wikilink")
 -   [Alergia pokarmowa](/atopedia/Alergia_pokarmowa "wikilink")
--   [Alergia](/atopedia/wikipedia:Alergia "wikilink") - w polskiej Wikipedii
+-   Alergia - w polskiej Wikipedii
 
 [\*](/atopedia/Kategoria:Alergia "wikilink")

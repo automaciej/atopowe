@@ -19,7 +19,7 @@ Przykłady maści z dziegciem sosnowym, stosowanej w leczeniu łuszczycy:
 `              Vaselini flavi   ad 100,0`
 `           M.f. Ung.`
 
-(źródło: Wikipedia, [Dziegieć](/atopedia/wikipedia:Dziegieć "wikilink"))
+(źródło: Wikipedia, Dziegieć)
 
 **Zobacz też**
 

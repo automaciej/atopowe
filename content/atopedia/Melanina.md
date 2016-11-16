@@ -10,4 +10,4 @@ kategorie = [ "ciało człowieka",]
 
 **Sprawdź hasło w wikipedii:**
 
--   [Melanina](/atopedia/wikipedia:Melanina "wikilink")
+-   Melanina
