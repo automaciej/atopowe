@@ -27,7 +27,7 @@ Lek Afloderm w kremie zawiera substancję czynną alklometazonu dipropionian. Al
 Wskazania
 ---------
 
-Afloderm w kremie wskazany jest w leczeniu miejscowym zapalnych i przebiegających ze [świądem](/atopedia/świąd "wikilink") chorób skóry, reagujących na leczenie kortykosteroidami, w tym atopowego zapalenia skóry, kontaktowego zapalenia skóry, łuszczycy.
+Afloderm w kremie wskazany jest w leczeniu miejscowym zapalnych i przebiegających ze [świądem]({{< relref "atopedia/Świąd.md" >}} "wikilink") chorób skóry, reagujących na leczenie kortykosteroidami, w tym atopowego zapalenia skóry, kontaktowego zapalenia skóry, łuszczycy.
 
 Informacje ważne przed zastosowaniem leku Afloderm
 ==================================================

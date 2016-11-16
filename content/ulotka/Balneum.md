@@ -97,7 +97,7 @@ Po kąpieli skórę lekko osuszyć ręcznikiem. Silne wycieranie i tarcie ręczn
 Działania niepożądane
 ---------------------
 
-W czasie stosowania Balneum Hermal® może wystąpić, w pojedynczych przypadkach, zaczerwienienie, [świąd](/atopedia/świąd "wikilink") i [pieczenie]({{< relref "atopedia/Pieczenie.md" >}} "wikilink") skóry.
+W czasie stosowania Balneum Hermal® może wystąpić, w pojedynczych przypadkach, zaczerwienienie, [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink") i [pieczenie]({{< relref "atopedia/Pieczenie.md" >}} "wikilink") skóry.
 
 Przed zastosowaniem leku należy sprawdzić datę ważności podaną na opakowaniu, nie stosować leku po terminie ważności.
 

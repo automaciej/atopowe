@@ -15,7 +15,7 @@ aliases = [ "/atopedia/Pimafucort/",]
 
 **Działanie**
 
-Preparat złożony do stosowania miejscowego. Hydrokortyzon jest słabo działającym miejscowo kortykosteroidem o działaniu przeciwzapalnym, obkurczającym naczynia krwionośne i łagodzącym [świąd](/atopedia/świąd "wikilink").
+Preparat złożony do stosowania miejscowego. Hydrokortyzon jest słabo działającym miejscowo kortykosteroidem o działaniu przeciwzapalnym, obkurczającym naczynia krwionośne i łagodzącym [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink").
 
 Neomycyna - antybiotyk aminoglikozydowy - działa bakteriobójczo na *Staphylococcus spp.*, pałeczki *Enterobacteriaceae* (zwłaszcza *Klebsiella spp.*, *Proteus spp.*, *Escherichia coli*); nie działa na *Pseudomonas aeruginosa*. Natamycyna jest miejscowo działającym antybiotykiem polienowym, aktywnym zwłaszcza wobec Candida spp.
 

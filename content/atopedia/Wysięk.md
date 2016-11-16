@@ -6,7 +6,7 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
-**Wysięk** jest jednym z objawów ciężkiego stanu [atopowego zapalenia skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink"). Obszar skóry objęty wysiękiem jest cały czas mokry i wycieka z niego przezroczysta, biaława lub żółtawa wydzielina. Obszar objęty wysiękiem potrafi również [swędzieć](/atopedia/świąd "wikilink").
+**Wysięk** jest jednym z objawów ciężkiego stanu [atopowego zapalenia skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink"). Obszar skóry objęty wysiękiem jest cały czas mokry i wycieka z niego przezroczysta, biaława lub żółtawa wydzielina. Obszar objęty wysiękiem potrafi również [swędzieć]({{< relref "atopedia/Świąd.md" >}} "wikilink").
 
 Wysiękowi może towarzyszyć równieć [puchnięcie]({{< relref "atopedia/Puchnięcie.md" >}} "wikilink").
 

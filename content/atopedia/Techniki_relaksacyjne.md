@@ -8,7 +8,7 @@ kategorie = [ "Psychika",]
 
 ![](/images/relaks.png "right")
 
-Podstawowym celem **technik relaksacyjnych** jest obniżenie napięcia mięśni. Napięcie takie może być nieświadomie utrzymywane na bardzo wysokim poziomie. W przypadku [atopowego zapalenia skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink") rozluźnienie może być bardzo trudne, ze względu na [świąd](/atopedia/świąd "wikilink").
+Podstawowym celem **technik relaksacyjnych** jest obniżenie napięcia mięśni. Napięcie takie może być nieświadomie utrzymywane na bardzo wysokim poziomie. W przypadku [atopowego zapalenia skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink") rozluźnienie może być bardzo trudne, ze względu na [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink").
 
 Napięcie samo w sobie nie jest niczym złym. Człowiek, aby wykonywać różne czynności, musi napinać mięśnie i jest to normalny stan rzeczy. Problemy zaczynają się, kiedy zostaje zaburzony naturalny cykl napinania i rozluźniania. Długo utrzymujące się napięcie szkodzi zdrowiu na wielu płaszczyznach. Relaks służy temu, aby organizm nauczył się rozluźniania i mógł pracować w naturalnym cyklu: napięcie - rozluźnienie - napięcie - rozluźnienie.
 

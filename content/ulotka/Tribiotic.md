@@ -55,7 +55,7 @@ Działania niepożądane:
 
 Jak każdy lek, może powodować działania niepożądane, chociaż u nie każdego one wystąpią.
 
-Lek może uszkadzać słuch, powodować wystąpienie ogólnych objawów nadwrażliwości i miejscowych, jak [wysypka](/atopedia/wysypka "wikilink"), [świąd](/atopedia/świąd "wikilink"), objawy podrażnienia oraz zakażeń opornymi szczepami bakterii lub grzybów (drożdżaki). Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek niewymienione powyżej objawy niepożądane, należy powiadomić lekarza lub farmaceutę.
+Lek może uszkadzać słuch, powodować wystąpienie ogólnych objawów nadwrażliwości i miejscowych, jak [wysypka](/atopedia/wysypka "wikilink"), [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink"), objawy podrażnienia oraz zakażeń opornymi szczepami bakterii lub grzybów (drożdżaki). Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek niewymienione powyżej objawy niepożądane, należy powiadomić lekarza lub farmaceutę.
 
 Uwagi:
 ------

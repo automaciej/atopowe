@@ -19,7 +19,7 @@ Do leczenia stanów zapalnych i alergicznych skóry. Do stosowania na skórę,
 
 ### Właściwości
 
-Preparat Elocom wywiera działanie przeciwzapalne i przeciwalergiczne oraz łagodzi takie dolegliwości jak: [swędzenie](/atopedia/świąd "wikilink"), [pieczenie]({{< relref "atopedia/Pieczenie.md" >}} "wikilink") lub ból.
+Preparat Elocom wywiera działanie przeciwzapalne i przeciwalergiczne oraz łagodzi takie dolegliwości jak: [swędzenie]({{< relref "atopedia/Świąd.md" >}} "wikilink"), [pieczenie]({{< relref "atopedia/Pieczenie.md" >}} "wikilink") lub ból.
 
 ### Wskazania
 

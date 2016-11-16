@@ -9,7 +9,7 @@ kategorie = [ "kremy",]
 Opis
 ----
 
-Epikrem przeznaczony jest do skóry skłonnej do świądu, nadmiernie wysuszonego, rogowaciejącego naskórka. Zmniejsza [świąd](/atopedia/świąd "wikilink") wywołany detergentami, likwiduje uczucie nadmiernej suchości i szorstkości naskórka, zimniejsza jego skłonność do złuszczania. Dobrze natłuszcza skórę, zmniejsza jej szorstkość poprawiając wygląd.
+Epikrem przeznaczony jest do skóry skłonnej do świądu, nadmiernie wysuszonego, rogowaciejącego naskórka. Zmniejsza [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink") wywołany detergentami, likwiduje uczucie nadmiernej suchości i szorstkości naskórka, zimniejsza jego skłonność do złuszczania. Dobrze natłuszcza skórę, zmniejsza jej szorstkość poprawiając wygląd.
 
 Wskazania
 ---------

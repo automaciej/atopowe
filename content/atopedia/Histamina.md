@@ -51,7 +51,7 @@ konieczność leczenia antyhistaminowego.
 zadanie blokowanie tych receptorów, które odpowiedzialne są za produkcję
 histaminy. Ma to powstrzymać pojawianie się efektów alergicznych typu kichanie,
 [wyprysk]({{< relref "atopedia/Wyprysk.md" >}} "wikilink"), łzawienie oczu. Zostaje też zablokowane
-powstawanie [swędzenia](/atopedia/świąd "wikilink"). Jednak nawet najlepsze leki
+powstawanie [swędzenia]({{< relref "atopedia/Świąd.md" >}} "wikilink"). Jednak nawet najlepsze leki
 antyhistaminowe nie są w stanie całkowicie usunąć histaminy przypisanej do
 danego receptora. Dlatego ważne jest stałe i regularne stosowanie leków.
 

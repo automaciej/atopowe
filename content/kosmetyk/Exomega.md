@@ -20,7 +20,7 @@ Krem nawilżająco-zmiękczający
 
 Do stosowania w czasie zaostrzeń i remisji AZS
 
--   skutecznie zmniejsza [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink"), [świąd](/atopedia/świąd "wikilink") i zaczerwienienie
+-   skutecznie zmniejsza [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink"), [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink") i zaczerwienienie
 -   odtwarza barierę hydrolipidową skóry
 -   zmniejsza reakcję alergiczną skóry
 -   zapewnia bardzo wysoką tolerancję poprzez brak konserwantów, barwników i protein (białek)

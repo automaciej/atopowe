@@ -6,12 +6,12 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
-**Drapanie** - reakcja na [świąd](/atopedia/świąd "wikilink"), bardzo trudna lub niemożliwa do powstrzymania. Powoduje powstawanie [przeczosów]({{< relref "atopedia/Przeczosy.md" >}} "wikilink") i ran, ułatwia powstawanie [infekcji skóry](/atopedia/Infekcja_skóry "wikilink"). Drapanie jest jednym z elementów [błędnego koła](/atopedia/Efekt_błędnego_koła "wikilink").
+**Drapanie** - reakcja na [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink"), bardzo trudna lub niemożliwa do powstrzymania. Powoduje powstawanie [przeczosów]({{< relref "atopedia/Przeczosy.md" >}} "wikilink") i ran, ułatwia powstawanie [infekcji skóry](/atopedia/Infekcja_skóry "wikilink"). Drapanie jest jednym z elementów [błędnego koła](/atopedia/Efekt_błędnego_koła "wikilink").
 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ludzie z zewnątrz, patrząc na drapiącą się osobę z AZS, mówią *Nie drap się*, nie zdając sobie sprawy, że tylko przyczyniają się do pogłębienia frustracji tej osoby i pogorszenia jej [samopoczucia](/atopedia/Poprawa_samopoczucia "wikilink"). |
 
-Dlaczego tak jest? Otóż przy silnym [świądzie](/atopedia/świąd "wikilink") skóry, powstrzymanie się od drapania jest niemożliwe. Nawet jeżeli osoba powstrzyma się od drapania przez cały dzień, to i tak podrapie się w nocy.
+Dlaczego tak jest? Otóż przy silnym [świądzie]({{< relref "atopedia/Świąd.md" >}} "wikilink") skóry, powstrzymanie się od drapania jest niemożliwe. Nawet jeżeli osoba powstrzyma się od drapania przez cały dzień, to i tak podrapie się w nocy.
 
 Innymi słowy, drapanie jest poza kontrolą osoby z AZS. Mówiąc *Nie drap się* wydajemy polecenie niemożliwe do zrealizowania na dłuższą metę! Dodatkowo sugerujemy, że drapanie się jest czymś niewłaściwym lub złym. W ten sposób tworzymy sytuację, w której osoba z AZS będzie chować się i drapać w samotności, mając jednocześnie poczucie, że robi coś złego, co będzie powodować wzrost [stresu]({{< relref "atopedia/Stres.md" >}} "wikilink") i wpędzać ją w [błędne koło]({{< relref "atopedia/Efekt_błędnego_koła.md" >}} "wikilink").
 

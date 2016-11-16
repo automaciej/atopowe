@@ -21,7 +21,7 @@ Działanie
 
 Szampon Ocerin PTZ zawiera w składzie trzy synergicznie działające składniki: pyrytion cynku, mocznik oraz pochodną kwasu undecylenowego. Dzięki tak dobranym składnikom wykazuje działanie przeciwłupieżowe poprzez ograniczenie rozwoju grzyba *Pityrosporum ovale* (*Malasezia furfur*) - bezpośrednia przyczyna łupieżu. Za profil działania przeciwgrzybiczego i przeciwbakteryjnego odpowiedzialne są: pyrytion cynku oraz pochodna kwasu undecylenowego. Dodatkowo pyrytion cyku wykazuje działanie keratolityczne, podobnie jak mocznik obecny w szamponie.
 
-Poza działaniem przeciwłupieżowym, badania aplikacyjne wykazały, że systematyczne stosowanie szamponu Ocerin PTZ zapewnia efekt zmniejszonego wydzielania łoju, a także ustąpienie [świądu](/atopedia/świąd "wikilink") owłosionej skóry głowy.
+Poza działaniem przeciwłupieżowym, badania aplikacyjne wykazały, że systematyczne stosowanie szamponu Ocerin PTZ zapewnia efekt zmniejszonego wydzielania łoju, a także ustąpienie [świądu]({{< relref "atopedia/Świąd.md" >}} "wikilink") owłosionej skóry głowy.
 
 Skład
 -----

@@ -6,7 +6,7 @@ kategorie = [ "podstawowe wiadomości",]
 
 +++
 
-Jednym z głównych problemów w AZS jest [świąd](/atopedia/świąd "wikilink") skóry. [Reakcja alergiczna](/atopedia/Reakcja_alergiczna "wikilink") nie jest jedynym powodem dla którego skóra swędzi; może ona swędzieć na przykład z powodu kontkatu z szorstkimi ubraniami lub chemikaliami. [Skóra atopowa](/atopedia/Skóra_atopowa "wikilink") jest bardziej wrażliwa niż skóra zdrowa. Jest bardziej podatna na uszkodzenia mechaniczne takie jak obtarcia albo skaleczenia. Na przykład otarcie skórą o kant mebla, które zdrowej skórze niczego nie zrobiło, w przypadku skóry atopowej może spowodować skaleczenie.
+Jednym z głównych problemów w AZS jest [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink") skóry. [Reakcja alergiczna](/atopedia/Reakcja_alergiczna "wikilink") nie jest jedynym powodem dla którego skóra swędzi; może ona swędzieć na przykład z powodu kontkatu z szorstkimi ubraniami lub chemikaliami. [Skóra atopowa](/atopedia/Skóra_atopowa "wikilink") jest bardziej wrażliwa niż skóra zdrowa. Jest bardziej podatna na uszkodzenia mechaniczne takie jak obtarcia albo skaleczenia. Na przykład otarcie skórą o kant mebla, które zdrowej skórze niczego nie zrobiło, w przypadku skóry atopowej może spowodować skaleczenie.
 
 Dodatkowym problemem jest temperatura: skóra rozgrzana ma większą tendencję do świądu niż chłodna. Warto uważać na ubrania które są „ciepłe” „miejscowo”. Typowym przykładem może być noszenie swetra zawiązanego na biodrach. On grzeje tylko tam gdzie jest zawiązany; chory może się spocić właśnie na biodrach i tam właśnie może pojawić się świąd.
 

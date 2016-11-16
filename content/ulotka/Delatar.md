@@ -11,7 +11,7 @@ aliases = [ "/atopedia/Delatar/",]
 
 **Działanie**
 
-Mechanizm działania smoły węglowej nie jest znany. Smoła węglowa słabo drażni skórę. Działa odkażająco i keratoplastycznie oraz łagodzi [świąd](/atopedia/świąd "wikilink"). W małym stężeniu smoła węglowa jest praktycznie nieszkodliwa. Smoły zwiększają wrażliwość skóry na promienie słoneczne. Dzięki temu działaniu od wielu lat są stosowane ze słonecznymi lub nadfioletowymi promieniami w metodzie Goeckermans'a leczenia łuszczycy.
+Mechanizm działania smoły węglowej nie jest znany. Smoła węglowa słabo drażni skórę. Działa odkażająco i keratoplastycznie oraz łagodzi [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink"). W małym stężeniu smoła węglowa jest praktycznie nieszkodliwa. Smoły zwiększają wrażliwość skóry na promienie słoneczne. Dzięki temu działaniu od wielu lat są stosowane ze słonecznymi lub nadfioletowymi promieniami w metodzie Goeckermans'a leczenia łuszczycy.
 
 **Wskazania**
 

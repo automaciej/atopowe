@@ -69,7 +69,7 @@ Linola® dodatek do kąpieli leczniczej
 
 **WSKAZANIA**
 
-Leczenie wspomagające chorób skóry, w przebiegu których pojawia się [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink") i [świąd](/atopedia/świąd "wikilink") ([atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink"), [wyprysk]({{< relref "atopedia/Wyprysk.md" >}} "wikilink") przewlekły, [rybia łuska]({{< relref "atopedia/Rybia_łuska.md" >}} "wikilink")). Leczenie wspomagające [łuszczycy]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"). Pielęgnowanie skóry suchej i wrażliwej.
+Leczenie wspomagające chorób skóry, w przebiegu których pojawia się [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink") i [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink") ([atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink"), [wyprysk]({{< relref "atopedia/Wyprysk.md" >}} "wikilink") przewlekły, [rybia łuska]({{< relref "atopedia/Rybia_łuska.md" >}} "wikilink")). Leczenie wspomagające [łuszczycy]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"). Pielęgnowanie skóry suchej i wrażliwej.
 
 **OPIS DZIAŁANIA**
 

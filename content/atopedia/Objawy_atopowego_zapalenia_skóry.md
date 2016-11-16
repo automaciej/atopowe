@@ -13,7 +13,7 @@ Objawy choroby mogą być bardzo różne u różnych osób, jednak do najczęsts
 
 Przede wszystkim:
 
--   **[świąd](/atopedia/świąd "wikilink")**
+-   **[świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink")**
 -   [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink") (utrata [lipidowej bariery ochronnej](/atopedia/Płaszcz_lipidowy "wikilink"))
 -   [wysięk]({{< relref "atopedia/Wysięk.md" >}} "wikilink") ([infekcja skóry]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink"))
 -   [puchnięcie]({{< relref "atopedia/Puchnięcie.md" >}} "wikilink")

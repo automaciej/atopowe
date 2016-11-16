@@ -84,7 +84,7 @@ W badaniu pacjentów z ciężką astmą alergiczną, choć nie zaobserwowano ró
 Jakie ryzyko wiąże się ze stosowaniem preparatu Xolair?
 -------------------------------------------------------
 
-Najczęstszymi działaniami niepożądanymi związanymi z leczeniem preparatem Xolair (obserwowanym u 1 do 10 pacjentów na 100) są: bóle głowy oraz reakcje w miejscu wstrzyknięcia, w tym ból, obrzęk, rumień (zaczerwienienie) i [świąd](/atopedia/świąd "wikilink") (swędzenie). Pełny wykaz działań niepożądanych zgłaszanych po podaniu preparatu Xolair znajduje się w ulotce dla pacjenta.
+Najczęstszymi działaniami niepożądanymi związanymi z leczeniem preparatem Xolair (obserwowanym u 1 do 10 pacjentów na 100) są: bóle głowy oraz reakcje w miejscu wstrzyknięcia, w tym ból, obrzęk, rumień (zaczerwienienie) i [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink") (swędzenie). Pełny wykaz działań niepożądanych zgłaszanych po podaniu preparatu Xolair znajduje się w ulotce dla pacjenta.
 
 Preparatu Xolair nie należy podawać osobom, u których może występować nadwrażliwość (uczulenie) na omalizumab lub którykolwiek składnik preparatu.
 

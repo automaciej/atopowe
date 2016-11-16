@@ -151,7 +151,7 @@ Możliwe działania niepożądane
 
 Jak każdy lek, Diprosone krem może powodować działania niepożądane.
 
-Podczas stosowania leku Diprosone krem mogą wystąpić następujące działąnia niepożądane: [pieczenie]({{< relref "atopedia/Pieczenie.md" >}} "wikilink"), [swędzenie](/atopedia/świąd "wikilink"), podrażnienie, wysuszenie skóry, zapalenie mieszków włosowych, nadmierne owłosienie, zmiany trądzikopodobne, zanik barwnika skóry, zapalenie skóry wokół ust, alergiczne kontaktowe zapalenie skóry, maceracja skóry, wtórne zakażenia, atrofia skóry, rozstępy skóry i potówki.
+Podczas stosowania leku Diprosone krem mogą wystąpić następujące działąnia niepożądane: [pieczenie]({{< relref "atopedia/Pieczenie.md" >}} "wikilink"), [swędzenie]({{< relref "atopedia/Świąd.md" >}} "wikilink"), podrażnienie, wysuszenie skóry, zapalenie mieszków włosowych, nadmierne owłosienie, zmiany trądzikopodobne, zanik barwnika skóry, zapalenie skóry wokół ust, alergiczne kontaktowe zapalenie skóry, maceracja skóry, wtórne zakażenia, atrofia skóry, rozstępy skóry i potówki.
 
 W wyniku wchłaniania substancji czynnych do krwi mogą również wystąpić ogólnie działania niepożądane betametazonu, charakterystyczne dla kortykosteroidów.
 

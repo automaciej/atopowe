@@ -42,7 +42,7 @@ __TOC__
 Co to jest lek Rotadin i w jakim celu się go stosuje
 ====================================================
 
-Loratadyna, substancja czynna leku Rotadin jest długodziałającym lekiem przeciwhistaminowym nowej generacji o właściwościach przeciwalergicznych. Usuwa lub łagodzi objawy alergicznego nieżytu nosa (kichanie, swędzenie, wyciek z nosa, [świąd](/atopedia/świąd "wikilink") i pieczenie oczu). Działanie leku zaczyna się już po 30 minutach (maksimum po 4-6 godzinach) i utrzymuje się co najmniej 24 godziny.
+Loratadyna, substancja czynna leku Rotadin jest długodziałającym lekiem przeciwhistaminowym nowej generacji o właściwościach przeciwalergicznych. Usuwa lub łagodzi objawy alergicznego nieżytu nosa (kichanie, swędzenie, wyciek z nosa, [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink") i pieczenie oczu). Działanie leku zaczyna się już po 30 minutach (maksimum po 4-6 godzinach) i utrzymuje się co najmniej 24 godziny.
 
 **Lek Rotadin stosuje się w:** leczeniu objawów sezonowego i człorocznego alergicznego nieżytu nosa i przewlekłej pokrzywki idiopatycznej.
 
