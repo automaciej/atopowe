@@ -23,7 +23,7 @@ Autorką pracy jest Johanna Mandelin. Przedstawię tutaj podsumowanie i wnioski 
 
 [Cała praca][1]
   
-Hasła na Atopedii:[Takrolimus][2], Protopic</url></p>
+Hasła na Atopedii: [Takrolimus][2], Protopic
 
  [1]: https://oa.doria.fi/bitstream/handle/10024/59444/tacrolim.pdf
- [2]: http://www.atopowe-zapalenie.pl/atopedia{{< relref "atopedia/Takrolimus.md" >}}
+ [2]: {{< relref "atopedia/Takrolimus.md" >}}

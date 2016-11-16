@@ -18,7 +18,7 @@ Trwają prace nad nowymi metodami leczenia, do obiecujących należą [leki biol
 </div>
 **Podstawowe objawy i metody leczenia:**
 
--   [Reakcja alergiczna](/atopedia/Reakcja_alergiczna "wikilink") -- [leki antyhistaminowe]({{< relref "atopedia/Leki.md" >}}_antyhistaminowe "wikilink") i [leki immunosupresyjne]({{< relref "atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}}.md" >}} "wikilink")
+-   [Reakcja alergiczna](/atopedia/Reakcja_alergiczna "wikilink") -- [leki antyhistaminowe]({{< relref "atopedia/Leki.md" >}}_antyhistaminowe "wikilink") i [leki immunosupresyjne]({{< relref "atopedia/Leki_immunosupresyjne.md" >}})
 -   [Stan zapalny skóry](/atopedia/Stan_zapalny_skóry "wikilink") -- [kortykosterydy]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink")
 -   [Infekcja skóry](/atopedia/Infekcja_skóry "wikilink") -- [antybiotyki]({{< relref "atopedia/Antybiotyki.md" >}} "wikilink")
 
@@ -31,7 +31,3 @@ Trwają prace nad nowymi metodami leczenia, do obiecujących należą [leki biol
 -   [Kliniki dermatologii i alergologii](/atopedia/Kliniki_dermatologii_i_alergologii "wikilink")
 -   [Polecani lekarze](/atopedia/Polecani_lekarze "wikilink")
 -   [Znachorstwo](/atopedia/Znachorstwo "wikilink")
-
-**Linki zewnętrzne**
-
--   -
