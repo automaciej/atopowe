@@ -5,8 +5,11 @@ title = "Reorganizacja serwisu atopowe.pl"
 description = """
 W kwietniu 2016 r. stare forum zostanie wyłączone, a treść przeniesiona \
 w nowe miejsca, które nie będą od nas wymagały aktywnego utrzymywania."""
+image = "/images/archive.jpg"
 
 +++
+
+![](/images/archive.jpg "Archive, Carolina Prysyazhnyuk, source: https://flic.kr/p/qBVcyE")
 
 [Przenosimy treść serwisu w inne miejsca][reddit-opis], które mają już
 istniejącą infrastrukturę i nie będą wymagały od nas wysiłku przy utrzymywaniu.
