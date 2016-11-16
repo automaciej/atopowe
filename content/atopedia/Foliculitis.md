@@ -6,16 +6,16 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
-**Foliculitis** - to stan zapalny mieszków włosowych, objawiający się tworzeniem na skórze krostek z ropną wydzieliną. Zwykle są one dokuczliwie [piekące](/atopedia/pieczenie "wikilink") i [swędzace](/atopedia/świąd "wikilink"), pobudzają więc do [drapania](/atopedia/drapanie "wikilink"), a rozdrapywane - mogą wywołać lub przyspieszyć nawrót [infekcji bakteryjnej na skórze](/atopedia/infekcja_skóry "wikilink").
+**Foliculitis** - to stan zapalny mieszków włosowych, objawiający się tworzeniem na skórze krostek z ropną wydzieliną. Zwykle są one dokuczliwie [piekące]({{< relref "atopedia/Pieczenie.md" >}} "wikilink") i [swędzace](/atopedia/świąd "wikilink"), pobudzają więc do [drapania]({{< relref "atopedia/Drapanie.md" >}} "wikilink"), a rozdrapywane - mogą wywołać lub przyspieszyć nawrót [infekcji bakteryjnej na skórze]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink").
 
-*Foliculitis* jest częstym objawem w AZS, powstaje w wyniku zatkania porów skóry, najczęściej mieszków włosowych - między innymi w wyniku używania tłustych maści i zbyt silnego ich wcierania (tzw. zalanie mieszków włosowych). Powodować go mogą również maści [sterydowe](/atopedia/kortykosterydy "wikilink") i [tacrolimus](/atopedia/tacrolimus "wikilink") - bowiem obniżają miejscowo odporność skóry.
+*Foliculitis* jest częstym objawem w AZS, powstaje w wyniku zatkania porów skóry, najczęściej mieszków włosowych - między innymi w wyniku używania tłustych maści i zbyt silnego ich wcierania (tzw. zalanie mieszków włosowych). Powodować go mogą również maści [sterydowe]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink") i [tacrolimus](/atopedia/tacrolimus "wikilink") - bowiem obniżają miejscowo odporność skóry.
 
 ### Jak przeciwdziałać foliculitis?
 
 W celu przeciwdziałania powstawaniu **foliculitis**, należy:
 
 -   regularnie myć skórę (ciepła kąpiel)
--   smarować skórę cieńszą warstwą kremów lub [maści](/atopedia/Maść "wikilink"), unikać wcierania
+-   smarować skórę cieńszą warstwą kremów lub [maści]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink"), unikać wcierania
 -   miejscowo odkażać skórę wypróbowanymi preparatami (skuteczny jest spirytus salicylowy, ale podrażnia, wysusza i powoduje [pieczenie](/atopedia/Pieczenie "wikilink"); względnie skuteczne moga być toniki bezalkoholowe o działaniu przeciwbakteryjnym i przeciwtrądzikowym np.: Benzacne)
 
 **Zobacz również:**

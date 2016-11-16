@@ -50,7 +50,7 @@ U dorosłych i dzieci powyżej 12 roku życia stosuje sie zwykle 10 mg (1 tablet
 Nawet znaczne zwiększenie zalecanych dawek nie powoduje wystąpienia specyficznych objawów działania toksycznego. Objawem przedawkowania u dorosłych może być senność. Przedawkowanie u dzieci może wywołać pobudzenie. Jednak w przypadku podejrzenia o zatrucie cetyryzyną należy możliwie szybko sprowokować wymioty i zastosować płukanie żołądka oraz niezwłocznie skontaktować się z lekarzem.
 
 **Działanie niepożądane:**
-Cetyryzyna podawana w zalecanych dawkach leczniczych zasadniczo nie wywołuje objawów niepożądanych. U osób szczególnie wrażliwych mogą niekiedy wystąpić niewielkie zaburzenia funkcji przewodu pokarmowego, suchość w ustach, senność lub pobudzenie, ból i zawroty głowy. U niektórych osób mogą wystąpić objawy skórne i [obrzęk naczynioruchowy](/atopedia/obrzęk_naczynioruchowy "wikilink") jako objawy nadwrażliwości na lek.
+Cetyryzyna podawana w zalecanych dawkach leczniczych zasadniczo nie wywołuje objawów niepożądanych. U osób szczególnie wrażliwych mogą niekiedy wystąpić niewielkie zaburzenia funkcji przewodu pokarmowego, suchość w ustach, senność lub pobudzenie, ból i zawroty głowy. U niektórych osób mogą wystąpić objawy skórne i [obrzęk naczynioruchowy]({{< relref "atopedia/Obrzęk_naczynioruchowy.md" >}} "wikilink") jako objawy nadwrażliwości na lek.
 
 Przed zastosowaniem leku należy sprawdzić termin ważności podany na opakowaniu.
 

@@ -10,7 +10,7 @@ PIELĘGNACJA SKÓRY DZIECI I NIEMOWLĄT
 
 /SKÓRA ATOPOWA, SUCHA, WRAŻLIWA/
 
-Natłuszczająca emulsja w/o przeznaczona do codziennej pielęgnacji [skóry atopowej](/atopedia/skóra_atopowa "wikilink"), [suchej](/atopedia/sucha_skóra "wikilink") i wrażliwej dzieci i niemowląt powyżej 1 miesiąca życia. Emulsja do ciała zawiera w składzie m.in. polidokanol, który działa przeciwświądowo i jest rekomendowany w produktach do pielęgnacji skóry atopowej.
+Natłuszczająca emulsja w/o przeznaczona do codziennej pielęgnacji [skóry atopowej]({{< relref "atopedia/Skóra.md" >}}_atopowa "wikilink"), [suchej](/atopedia/sucha_skóra "wikilink") i wrażliwej dzieci i niemowląt powyżej 1 miesiąca życia. Emulsja do ciała zawiera w składzie m.in. polidokanol, który działa przeciwświądowo i jest rekomendowany w produktach do pielęgnacji skóry atopowej.
 
 Atoperal Baby emulsja do ciała przeznaczona jest do codziennej pielęgnacji skóry atopowej, suchej, wrażliwej dzieci i niemowląt powyżej 1 miesiąca życia. Starannie wyselekcjonowane składniki zapewniają profesjonalną pielęgnację skóry dziecka.
 

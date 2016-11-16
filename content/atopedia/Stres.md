@@ -8,7 +8,7 @@ kategorie = [ "Psychika", "Przyczyny atopowego zapalenia skóry",]
 
 ![](/images/Stres.png "left")
 
-Stres jest czynnikiem, którego zadaniem jest mobilizacja organizmu do działania. Należy uważać aby nie mylić stresu z [psychiką](/atopedia/psychika "wikilink"). Nadmiar stresu jest szkodliwy, nie tylko dla człowieka, ale dla każdego żywego organizmu, na przykład psa, czy nawet roślin oraz bakterii. Organizmy te nie posiadają psychiki, ale reagują na stres.
+Stres jest czynnikiem, którego zadaniem jest mobilizacja organizmu do działania. Należy uważać aby nie mylić stresu z [psychiką]({{< relref "atopedia/Psychika.md" >}} "wikilink"). Nadmiar stresu jest szkodliwy, nie tylko dla człowieka, ale dla każdego żywego organizmu, na przykład psa, czy nawet roślin oraz bakterii. Organizmy te nie posiadają psychiki, ale reagują na stres.
 
 **Zobacz też**
 

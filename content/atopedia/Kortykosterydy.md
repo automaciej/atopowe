@@ -32,7 +32,7 @@ Gdy decydujemy się lub musimy użyć maści (kremów) kortykosterydowych, nale�
 2.  używaj maści sterydowych na jak najmniejsze powierzchnie skóry; wybieraj
     najbardziej zmienione chorobowo miejsca, smaruj „punktowo”, unikając
     rozsmarowywania na dużych powierzchniach (o ile jest to możliwe)
-3.  unikaj używania sterydów na [błony śluzowe](/atopedia/błona_śluzowa)
+3.  unikaj używania sterydów na [błony śluzowe]({{< relref "atopedia/Błona_śluzowa.md" >}})
     (okolice oczu, ust, narządów płciowych)
 4.  **maści sterydowych nie wolno stosować na twarz**
 
@@ -68,7 +68,7 @@ wiele miesięcy, nawet lat. Wiadomo, że z czasem skóra przestaje, albo znaczni
 słabiej reaguje na dane stężenie sterydu. Poza tym obniża się jej odporność na
 infekcje bakteryjne. Przy długim stosowaniu 0,1%
 [hydrocortisonu](/atopedia/hydrokortyzon) na obojętnej bazie zaczyna z reguły
-doskwierać [foliculitis](/atopedia/foliculitis).
+doskwierać [foliculitis]({{< relref "atopedia/Foliculitis.md" >}}).
 
 Inną możliwością jest zastosowanie od razu odpowiednio silnego stężenia,
 następnie zejście do mniejszego, lub w celu podtrzymania dobrego stanu skóry -
@@ -78,7 +78,7 @@ tygodniu.
 
 Należy pamiętać, że w powyższej terapii bardzo dużo zależy od dyscypliny
 pacjenta - nadużywanie kortykosterydu poza wyznaczonymi dniami, zbyt rzadkie
-stosowanie [emolientów](/atopedia/emolienty) powodują nieskuteczność leczenia
+stosowanie [emolientów]({{< relref "atopedia/Emolienty.md" >}}) powodują nieskuteczność leczenia
 (statystyki dowodzą, że pacjenci z reguły stosują ilościowo 7-krotnie za mało
 emolientów!!).
 
@@ -92,7 +92,7 @@ Oczywiście wybrana strategia zależy od stanu skóry i zaawansowania zmian.
 
 ### Zobacz również
 
--   [Europejska klasyfikacja kortykosterydów](/atopedia/Europejska_klasyfikacja_kortykosterydów)
+-   [Europejska klasyfikacja kortykosterydów](/atopedia{{< relref "atopedia/Europejska_klasyfikacja_kortykosterydów.md" >}})
 -   [Skutki uboczne kortykosterydów](/atopedia/Skutki_uboczne_kortykosterydów)
 -   [Posterydowe zapalenie skóry](/atopedia/Posterydowe_zapalenie_skóry)
 -   [Silny kortykosteryd 3 razy w tygodniu, a słabszy stosowany przez cały tydzień](http://www.mp.pl/artykuly/?aid=13078)

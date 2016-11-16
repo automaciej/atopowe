@@ -112,7 +112,7 @@ Elidel można stosować na skórę całego ciała, w tym także na skórę głow
 Krem należy stosować dwa razy na dobę, np. rano i wieczorem. Środki nawilżające (preparaty zmiękczające skórę) można nakładać bezpośrednio po zastosowaniu kremu Elidel. Skóra pacjentów z atopowym zapaleniem skóry może być bardzo sucha.
 Z tego względu należy przedyskutować z lekarzem sposób pielęgnacji skóry, aby zapewnić odpowiedni stopień nawilżenia.
 
-Ze względu na możliwość zmycia kremu nie należy stosować kremu Elidel bezpośrednio przed [kąpielą](/atopedia/Kąpiele "wikilink") lub prysznicem.
+Ze względu na możliwość zmycia kremu nie należy stosować kremu Elidel bezpośrednio przed [kąpielą](/atopedia{{< relref "atopedia/Zbyt_częste_kąpiele.md" >}} "wikilink") lub prysznicem.
 
 **Jak długo stosować Elidel**
 Krem należy stosować tak długo jak długo lekarz uzna to za konieczne. W przypadku braku poprawy po 6 tygodniach stosowania leku lub w przypadku, gdy wystąpi zaostrzenie choroby, należy skontaktować sie z lekarzem. W przypadku długotrwałego leczenia egzemy terapię kremem Elidel należy rozpocząć natychmiast po zaobserwowaniu pierwszych [objawów](/atopedia/Charakterystyczne_objawy "wikilink"). Zapobiega to występowaniu objawów związanych z zaostrzeniem lub nawrotem choroby.
@@ -137,9 +137,9 @@ Do najczęstszych skutków ubocznych preparatu Elidel krem 10 mg/g należy uczuc
 Inne częste działania niepożądane to: podrażnienie, [swędzenie](/atopedia/Świąd "wikilink") i zaczerwienienie skóry w miejscu zastosowania kremu.
 Do częstych działań niepożądanych należą także infekcje skóry, takie jak [zapalenie mieszków włosowych](/atopedia/Foliculitis "wikilink") (może być przyczyną powstawania krost).
 
-W rzadkich przypadkach w miejscu zastosowania preparatu mogą wystąpić następujące działania niepożądane: [wysypka](/atopedia/wysypka "wikilink"), ból, uczucie kłucia, niewielkie [łuszczenie](/atopedia/łuszczenie "wikilink") się skóry, [suchość skóry](/atopedia/suchość_skóry "wikilink") oraz obrzęk. Wymienione wyżej skutki uboczne mają zwykle charakter łagodny do umiarkowanego, przemijający i najczęściej występują na początku leczenia.
+W rzadkich przypadkach w miejscu zastosowania preparatu mogą wystąpić następujące działania niepożądane: [wysypka](/atopedia/wysypka "wikilink"), ból, uczucie kłucia, niewielkie [łuszczenie]({{< relref "atopedia/Łuszczenie.md" >}} "wikilink") się skóry, [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink") oraz obrzęk. Wymienione wyżej skutki uboczne mają zwykle charakter łagodny do umiarkowanego, przemijający i najczęściej występują na początku leczenia.
 
-W rzadkich przypadkach może dojść do zaostrzenia leczonej choroby lub do wystąpienia infekcji skórnej, np. liszajca, opryszczki, opryszczkowego zapalenia skóry, [mięczaka zakaźnego](/atopedia/mięczak_zakaźny "wikilink"), brodawek i czyraków.
+W rzadkich przypadkach może dojść do zaostrzenia leczonej choroby lub do wystąpienia infekcji skórnej, np. liszajca, opryszczki, opryszczkowego zapalenia skóry, [mięczaka zakaźnego]({{< relref "atopedia/Mięczak_zakaźny.md" >}} "wikilink"), brodawek i czyraków.
 
 W przypadku wystąpienia innych działań niepożądanych, nie wymienionych w tej ulotce, należy poinformować o nich lekarza.
 

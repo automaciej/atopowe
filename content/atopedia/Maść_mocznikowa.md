@@ -6,7 +6,7 @@ kategorie = [ "Maści", "preparaty zawierające mocznik", "Przepisy na maści ro
 
 +++
 
-[Maść mocznikowa](/atopedia/Maść_mocznikowa "wikilink") **(Urea)**
+[Maść mocznikowa]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}}_mocznikowa "wikilink") **(Urea)**
 
 Stosowana do codziennej pielęgnacji skóry suchej - opakowanie 100g kosztuje 5 zł w aptece na receptę (wg. stanu na 07.03.2010 r).
 

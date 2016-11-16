@@ -9,6 +9,6 @@ title = "Substancje aktywne"
 
 **Zobacz też**
 
--   [:Kategoria:Substancje aktywne](/atopedia/:Kategoria:Substancje_aktywne "wikilink")
+-   [:Kategoria:Substancje aktywne]({{< relref "atopedia/Substancje_aktywne.md" >}} "wikilink")
 
-[\*](/atopedia/kategoria:Substancje_aktywne "wikilink")
+[\*]({{< relref "atopedia/Substancje_aktywne.md" >}} "wikilink")

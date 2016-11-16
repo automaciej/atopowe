@@ -7,4 +7,4 @@ aliases = [ "/atopedia/Regividerm/",]
 
 +++
 
-1.  Redirect [Mavena B12](/Mavena_B12 "wikilink")
+1.  Redirect [Mavena B12]({{< relref "ulotka/Mavena_B12.md" >}} "wikilink")

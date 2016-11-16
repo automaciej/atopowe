@@ -11,4 +11,4 @@ kategorie = [ "ciało człowieka",]
 **Zobacz też**
 
 -   [Skóra](/atopedia/Skóra "wikilink")
--   [Błona śluzowa](/atopedia/wikipedia:Błona_śluzowa "wikilink") w Wikipedii
+-   [Błona śluzowa]({{< relref "atopedia/Błona_śluzowa.md" >}} "wikilink") w Wikipedii

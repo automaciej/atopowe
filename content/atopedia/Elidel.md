@@ -6,14 +6,14 @@ kategorie = [ "kremy", "leki immunosupresyjne",]
 
 +++
 
-**Elidel** jest kremem immunosupresyjnym, czyli działającym poprzez obniżenie aktywności systemu immunologicznego. Nie jest to lek [sterydowy](/atopedia/kortykosterydy "wikilink") i można stosować go przez długi okres.
+**Elidel** jest kremem immunosupresyjnym, czyli działającym poprzez obniżenie aktywności systemu immunologicznego. Nie jest to lek [sterydowy]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink") i można stosować go przez długi okres.
 
-Substancję czynną maści Elidel 0,03% stanowi [pimekrolimus]({{< relref "atopedia/Pimekrolimus.md" >}} "wikilink"). Do tej samej grupy należy [takrolimus](/atopedia/takrolimus "wikilink"), składnik czynny leku [Protopic](/atopedia/Protopic "wikilink").
+Substancję czynną maści Elidel 0,03% stanowi [pimekrolimus]({{< relref "atopedia/Pimekrolimus.md" >}} "wikilink"). Do tej samej grupy należy [takrolimus]({{< relref "atopedia/Takrolimus.md" >}} "wikilink"), składnik czynny leku [Protopic](/atopedia/Protopic "wikilink").
 
 Elidel u niemowląt i dzieci
 ---------------------------
 
-Wiele matek pisze, że jak tylko przestaną smarować dziecko kremem Elidel, to zmiany na skórze wracają. Jest to normalne, bo jest to [lek immunosupresyjny](/atopedia/leki_immunosupresyjne "wikilink"), który obniża miejscowo odporność skóry, więc po odstawieniu kremu ta nadmierna odporność wraca, a z nią wraca [wysypka](/atopedia/wysypka "wikilink"). Jednak Elidel to lek stosunkowo bezpieczny (żaden lek nie jest bezpieczny w 100%) i w przeciwieństwie do sterydów może być stosowany przewlekle, może być stosowany na twarz, a nawet powieki. Jedyny problem to odporność: trzeba uważać na wtórne [infekcje skóry](/atopedia/infekcja_skóry "wikilink"). Infekcje wdają się przeważnie wtedy, gdy [skóra](/atopedia/skóra "wikilink") jest regularnie [rozdrapywana](/atopedia/drapanie "wikilink").
+Wiele matek pisze, że jak tylko przestaną smarować dziecko kremem Elidel, to zmiany na skórze wracają. Jest to normalne, bo jest to [lek immunosupresyjny]({{< relref "atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}}.md" >}} "wikilink"), który obniża miejscowo odporność skóry, więc po odstawieniu kremu ta nadmierna odporność wraca, a z nią wraca [wysypka](/atopedia/wysypka "wikilink"). Jednak Elidel to lek stosunkowo bezpieczny (żaden lek nie jest bezpieczny w 100%) i w przeciwieństwie do sterydów może być stosowany przewlekle, może być stosowany na twarz, a nawet powieki. Jedyny problem to odporność: trzeba uważać na wtórne [infekcje skóry]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink"). Infekcje wdają się przeważnie wtedy, gdy [skóra]({{< relref "atopedia/Skóra.md" >}} "wikilink") jest regularnie [rozdrapywana]({{< relref "atopedia/Drapanie.md" >}} "wikilink").
 
 Jak stosować maść Elidel
 ------------------------
@@ -24,5 +24,5 @@ Zobacz też
 ----------
 
 -   [Gdzie kupić Elidel](/atopedia/Gdzie_kupić_Elidel "wikilink")
--   [Elidel (ulotka)](/Elidel_(ulotka) "wikilink")
+-   [Elidel (ulotka)]({{< relref "ulotka/Elidel_(ulotka).md" >}} "wikilink")
 -   [Protopic](/atopedia/Protopic "wikilink")

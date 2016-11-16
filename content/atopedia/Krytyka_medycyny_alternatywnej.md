@@ -285,7 +285,7 @@ skuteczność homeopatii w leczeniu AZS.[6]
 
 Efekty leczenia alternatywnego wymykają się szkiełku i oku : W przypadku AZS
 objawy są bardzo łatwe do zauważenia: czerwona,
-[łuszcząca](/atopedia/łuszczenie) się skóra oraz [świąd](/atopedia/świąd).
+[łuszcząca]({{< relref "atopedia/Łuszczenie.md" >}}) się skóra oraz [świąd](/atopedia/świąd).
 Rozmawiamy tu konkretnie o metodach leczenia AZS. Ogólna „poprawa zdrowia” nie
 ma sensu, jeżeli koniec końców nie ustąpią objawy choroby.
 

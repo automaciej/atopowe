@@ -23,7 +23,7 @@ Moim celem jest przedstawienie zasadniczych zagadnień związanych z chorobami a
 
 Niestety, układ odpornościowy to jest bardzo skomplikowana dziedzina i bardzo skomplikowany układ, który składa się z wielu, wielu części, które między sobą współpracują.
 
-Można od razu powiedzieć, że [atopia](/atopedia/atopia "wikilink") jako taka jest generalnie defektem limfocytu. I to jest pierwsza cecha, która ją wyróżnia wśród innych chorób. Atopia jest funkcją, jest właściwie defektem limfocytu.
+Można od razu powiedzieć, że [atopia]({{< relref "atopedia/Atopia.md" >}} "wikilink") jako taka jest generalnie defektem limfocytu. I to jest pierwsza cecha, która ją wyróżnia wśród innych chorób. Atopia jest funkcją, jest właściwie defektem limfocytu.
 
 Aby powiedzieć, co to jest atopia, trzeba znać przynajmniej podstawowe pojęcia z dziedziny immunologii i dlatego pierwszą częścią tego wykładu będzie wprowadzenie Państwa w podstawowe pojęcia dotyczące funkcjonowania i struktury układu odpornościowego.
 
@@ -57,7 +57,7 @@ Neutrofile mają funkcje fagocytalne i bójcze (?). Ich jest najwięcej we krwi 
 
 Potem mamy bazofile, które są właściwie nieobecne we krwi. To jest specjalny rodzaj leukocytów, który się barwi barwnikami zasadochłonnymi. I eozynofile. Dlaczego te bazofile i eozynofile są tutaj ważne dla nas? Bo oba typy tych komórek – bazofile i eozynofile - pełnią bardzo ważną funkcję w chorobach atopowych, czyli w alergii atopowej.
 
-Następnym elementem tego układu są limfocyty. Widzimy tutaj [limfocyty T](/atopedia/limfocyty_T "wikilink"), [limfocyty B](/atopedia/limfocyty_B "wikilink") i limfocyty NK.
+Następnym elementem tego układu są limfocyty. Widzimy tutaj [limfocyty T]({{< relref "atopedia/Limfocyty_T.md" >}} "wikilink"), [limfocyty B]({{< relref "atopedia/Limfocyty_B.md" >}} "wikilink") i limfocyty NK.
 
 Co to są limfocyty T?
 ---------------------
@@ -214,7 +214,7 @@ II typ to jest typ reaktywności cytotoksycznej, gdzie mamy typ przeciwciał IgG
 
 Potem mamy III typ nadwrażliwości, tzw. nadwrażliwość typu kompleksów immunologicznych, gdzie obecność kompleksów immunologicznych indukuje reakcje odpornościowe, które charakteryzują się różnymi postaciami zapaleń, m.in. chorobę posurowiczą, reakcję Arthusa, np. toczniem układowym, w reumatoidalnym zapaleniu stawów itd.
 
-I w końcu mamy IV typ nadwrażliwości, typu komórkowego. I w tym typie nadwrażliwości typu komórkowego mamy aktywowane limfocyty T, które indukują różne reaktywności odpornościowe, m.in. np. cukrzycę typu I, tak, gdzie mamy [komórki Langerhansa](/atopedia/komórki_Langerhansa "wikilink") trzustki są eliminowane przez limfocyty cytotoksyczne, które eliminują te komórki. Na drodze właśnie tego mechanizmu cytotoksycznego, w zależności, który jest spowodowany indukcją limfocytów T przez antygeny, trzustki w tym momencie.
+I w końcu mamy IV typ nadwrażliwości, typu komórkowego. I w tym typie nadwrażliwości typu komórkowego mamy aktywowane limfocyty T, które indukują różne reaktywności odpornościowe, m.in. np. cukrzycę typu I, tak, gdzie mamy [komórki Langerhansa]({{< relref "atopedia/Komórki_Langerhansa.md" >}} "wikilink") trzustki są eliminowane przez limfocyty cytotoksyczne, które eliminują te komórki. Na drodze właśnie tego mechanizmu cytotoksycznego, w zależności, który jest spowodowany indukcją limfocytów T przez antygeny, trzustki w tym momencie.
 
 Bardzo proszę, jeżeli są jakieś pytania, to bardzo proszę o pytania. Jeżeli nie, to możemy przejść do właściwego wykładu.
 
@@ -226,7 +226,7 @@ Tu jest definicja atopii podana na tym przezroczu, że jest to pewna choroba, je
 
 W normalnych warunkach, kiedy człowiek jest zdrowy i rodzi się że tak powiem bez tego pecha, że ma atopię. Powiedzmy sobie tak, jak weźmiemy jego limfocyty, tego człowieka, który jest zdrowy i włożymy je do probówki (tu mamy limfocyty człowieka zdrowego, a tu mamy limfocyty człowieka chorego atopowego, tu jest A – atopowy człowiek) i do hodowli limfocytów człowieka zdrowego dodamy alergen, czyli czynnik wyizolowany na przykład z pyłków traw, alergen o znanej strukturze, dodamy tu alergen.
 
-Alergen. Co to jest [alergen](/atopedia/alergen "wikilink")? Kto wie? No. Kto wie, co to jest alergen? Wie ktoś, czy nie? Jaka jest definicja alergenu? Kto wie? Definicja alergenu jest następująca (z tego, co mówiłem): Alergen jest to antygen, który selektywnie indukuje limfocyty Th2.
+Alergen. Co to jest [alergen]({{< relref "atopedia/Alergen.md" >}} "wikilink")? Kto wie? No. Kto wie, co to jest alergen? Wie ktoś, czy nie? Jaka jest definicja alergenu? Kto wie? Definicja alergenu jest następująca (z tego, co mówiłem): Alergen jest to antygen, który selektywnie indukuje limfocyty Th2.
 
 Proszę to sobie zapamiętać. Alergen jest to antygen, który selektywnie indukuje limfocyty Th2.
 

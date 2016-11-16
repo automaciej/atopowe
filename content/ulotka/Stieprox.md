@@ -24,7 +24,7 @@ Co to jest lek Stieprox i w jakim celu się go stosuje
 
 Lek Stieprox jest szamponem leczniczym, który zawiera substancję czynną cyklopiroks z olaminą o działaniu przeciwgrzybiczym. Cyklopiroks z olaminą działa na grzyby w rodzaju *Pityrosporum* (zwane również *Mallassezia* spp.), które są główną przyczyną takich chorób jak łupież i łojotokowe zapalenie skóry. Ponadto cyklopiroks z olaminą w wyniku zahamowania syntezy prostaglandyn i leukotrienów wykazuje działanie przeciwzapalne.
 
-Lek Stieprox jest wskazany w miejscowym leczeniu i łagodzeniu objawów chorób owłosionej skóry głowy, takich jak łupież i [łojotokowe zapalenie skóry](/atopedia/łojotokowe_zapalenie_skóry "wikilink").
+Lek Stieprox jest wskazany w miejscowym leczeniu i łagodzeniu objawów chorób owłosionej skóry głowy, takich jak łupież i [łojotokowe zapalenie skóry]({{< relref "atopedia/Łojotokowe_zapalenie_skóry.md" >}} "wikilink").
 
 Informacje ważne przed zastosowaniem leku Stieprox
 ==================================================

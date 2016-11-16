@@ -70,7 +70,7 @@ Powiadom lekarza, jeśli jesteś lub przypuszczasz, że możesz być w ciąży, 
 
 Powiadom lekarza o innych lekach, które aktualnie zażywasz.
 
-W czasie stosowania leku unikaj przyjmowania: [napojów alkoholowych](/atopedia/alkohol "wikilink"), leków z grupy salicylanów, tzn. Aspiryny, Polopiryny itp.
+W czasie stosowania leku unikaj przyjmowania: [napojów alkoholowych]({{< relref "atopedia/Alkohol.md" >}} "wikilink"), leków z grupy salicylanów, tzn. Aspiryny, Polopiryny itp.
 
 Zapytaj lekarza, jak stosować lek, gdy przyjmujesz jednocześnie: Fenytoinę, Luminal.
 

@@ -93,7 +93,7 @@ Specyficzna odtrutka nie jest znana.
 Cetyryzyna nie jest skutecznie usuwana metodą hemodializy.
 
 **DZIAŁANIA NIEPOŻĄDANE**
-Niekiedy mogą wystąpić łagodne i przemijające objawy niepożądane, takie jak: bóge głowy i zawroty głowy, senność, pobudzenie, suchość w jamie ustnej oraz lekkie zaburzenia ze strony przewodu pokarmowego. U niektórych osób mogą wystąpić odczyny skórne i [obrzęk naczynioruchowy](/atopedia/obrzęk_naczynioruchowy "wikilink") jako objawy nadwrażliwości.
+Niekiedy mogą wystąpić łagodne i przemijające objawy niepożądane, takie jak: bóge głowy i zawroty głowy, senność, pobudzenie, suchość w jamie ustnej oraz lekkie zaburzenia ze strony przewodu pokarmowego. U niektórych osób mogą wystąpić odczyny skórne i [obrzęk naczynioruchowy]({{< relref "atopedia/Obrzęk_naczynioruchowy.md" >}} "wikilink") jako objawy nadwrażliwości.
 U dzieci preparat może wywołać uczucie zmęczenia. Może również wystąpić reakcja paradoksalna w postaci nadmiernego pobudzenia.
  Przed zastosowaniem leku należy sprawdzić termin ważności podany na opakowaniu. Nie należy stosować leku po terminie ważności.
 

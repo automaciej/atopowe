@@ -15,14 +15,14 @@ Wyniki badań wykazują znaczącą skuteczność stosowanego miejscowo pimekroli
 
 Pimekrolimus ma działanie zbliżone do [tacrolimusu](/atopedia/Tacrolimus "wikilink") z tą różnicą, że pimekrolimus nie upośledza działania [komórek Langerhansa](/atopedia/Komórki_Langerhansa "wikilink"). Z tego powodu jest uznawany za jeszcze bezpieczniejszy w użyciu (w mniejszym stopniu obniża miejscową odporność skóry). Ma silniejsze działanie przeciwświądowe, jest szczególnie skuteczny w początkowej fazie AZS, oraz przy słabo i średnio nasilonym AZS. Budowa cząsteczki leku różni się od budowy cząsteczki takrolimusu dwoma podstawnikami: metylowym w miejscu etylowego i chlorowym w miejscu hydroksylowego.
 
-Z uwagi na swą większą lipofilność pimekrolimus wykazuje większe powinowactwo do skóry, słabiej przenika przez skórę do krwiobiegu oraz wykazuje słabsze działanie ogólnoustrojowe na układ immunologiczny, niezależnie od czasu trwania kuracji i wieku leczonego chorego. Działając wybiórczo na [limfocyty](/atopedia/Limfocyty_B "wikilink") i [komórki tuczne](/atopedia/komórki_tuczne "wikilink"), pimekrolimus nie powoduje powstawania zaników skórnych i rozszerzenia naczyń krwionośnych skóry.
+Z uwagi na swą większą lipofilność pimekrolimus wykazuje większe powinowactwo do skóry, słabiej przenika przez skórę do krwiobiegu oraz wykazuje słabsze działanie ogólnoustrojowe na układ immunologiczny, niezależnie od czasu trwania kuracji i wieku leczonego chorego. Działając wybiórczo na [limfocyty](/atopedia/Limfocyty_B "wikilink") i [komórki tuczne]({{< relref "atopedia/Komórki_tuczne.md" >}} "wikilink"), pimekrolimus nie powoduje powstawania zaników skórnych i rozszerzenia naczyń krwionośnych skóry.
 
 ### Bibiografia
 
 <references />
 ### Zobacz też
 
--   [Takrolimus](/atopedia/Takrolimus "wikilink")
+-   [Takrolimus](/atopedia{{< relref "atopedia/Takrolimus.md" >}} "wikilink")
 -   [Elidel](/atopedia/Elidel "wikilink")
 -   [Protopic](/atopedia/Protopic "wikilink")
 -   [Pimekrolimus w Wikipedii](/atopedia/wikipedia:Pimekrolimus "wikilink")

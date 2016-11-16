@@ -14,7 +14,7 @@ aliases = [ "/atopedia/Kuterid/",]
 Sposób działania
 ----------------
 
-Kuterid jest silnie działającym preparatem kortyzonowym, który przeciwdziała stanom zapalnym, uśmierza świąd, likwiduje [wysięki](/atopedia/wysięk "wikilink") i obrzmienia. Działanie leku występuje szybko i utrzymuje się długo.
+Kuterid jest silnie działającym preparatem kortyzonowym, który przeciwdziała stanom zapalnym, uśmierza świąd, likwiduje [wysięki]({{< relref "atopedia/Wysięk.md" >}} "wikilink") i obrzmienia. Działanie leku występuje szybko i utrzymuje się długo.
 
 Zastosowanie
 ------------

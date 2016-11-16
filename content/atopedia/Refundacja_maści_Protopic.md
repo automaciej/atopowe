@@ -74,7 +74,7 @@ Cena
 
 Jak wiadomo, **cena** [Protopiku](/atopedia/Protopic "wikilink") jest zabójcza, w większości aptek wynosi 230-250 za tubkę 30g - to bardzo drogo - kto może sobie pozwolić na regularne leczenie się tak drogim lekiem? Przeciez AZS jest chorobą przewlekłą!
 
-Policzyliśmy, że gdyby dorosła osoba z ciężkim AZS chciała leczyć się Protopikiem, to przy zajęciu zmianami 70-90% powierzchni skóry, dużym nasileniu, współwystępującej [erytrodermii](/atopedia/Erytrodermia "wikilink") - osoba taka musiałaby wydawać miesięcznie 2160zł - to bardzo oszczędna wersja - 3 tubki 30g na tydzień po 180zł, podczas gdy w większości aptek, jak sie okazuje cena przekracza 200 pln (mimo zapewnień ze strony Fujisawy, że cena nie przekroczy 200 pln). Jeśli chciałaby się solidnie posmarować - tak jak zaleca firma Astellas w [ulotce leku](/Protopic_(ulotka) "wikilink") i w swoich programach medycznych - to potrzebne są 4 tubki na tydzień (przynajmniej na początku leczenia), co daje 2880zł - to absurdalnie wysoka cena za leczenie!!! Absurdalnie wysoka, realna, miesięczna cena za zdrowie dla osoby dotkniętej ostrym [atopowym zapaleniem skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink").
+Policzyliśmy, że gdyby dorosła osoba z ciężkim AZS chciała leczyć się Protopikiem, to przy zajęciu zmianami 70-90% powierzchni skóry, dużym nasileniu, współwystępującej [erytrodermii](/atopedia/Erytrodermia "wikilink") - osoba taka musiałaby wydawać miesięcznie 2160zł - to bardzo oszczędna wersja - 3 tubki 30g na tydzień po 180zł, podczas gdy w większości aptek, jak sie okazuje cena przekracza 200 pln (mimo zapewnień ze strony Fujisawy, że cena nie przekroczy 200 pln). Jeśli chciałaby się solidnie posmarować - tak jak zaleca firma Astellas w [ulotce leku]({{< relref "ulotka/Protopic_(ulotka).md" >}} "wikilink") i w swoich programach medycznych - to potrzebne są 4 tubki na tydzień (przynajmniej na początku leczenia), co daje 2880zł - to absurdalnie wysoka cena za leczenie!!! Absurdalnie wysoka, realna, miesięczna cena za zdrowie dla osoby dotkniętej ostrym [atopowym zapaleniem skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink").
 
 Szwecja dopłaca swoim obywatelom do leczenia tym lekiem i to proporcjonalnie do ilości w jakiej go potrzebują. W Niemczech [Protopic](/atopedia/Protopic "wikilink") również jest refundowany, Niemiec płaci ok. 5 euro za tubę 50g! - to jest 25-30 pln, (przy 4-ro krotnie większych zarobkach niż w Polsce);
 
@@ -99,6 +99,6 @@ Pozwolić sobie na niego mogą Ci, którzy teoretycznie są w stanie się bez ni
 
 -   [Korespondencja z NFZ](/atopedia/Korespondencja_z_NFZ "wikilink")
 -   [Wątek o refundacji na Forum](https://www.atopowe.pl/forum/viewtopic.php?f=14&t=418)
--   [Protopic (ulotka)](/Protopic_(ulotka) "wikilink")
+-   [Protopic (ulotka)]({{< relref "ulotka/Protopic_(ulotka).md" >}} "wikilink")
 -   <http://www.protopic.com> (w Polsce nie można rejestrować domeny będącej nazwą leku)
 -   [Wpis na blogu o refundacji protopiku w Senacie](http://blog.atopowe.pl/2010/04/08/o-refundacji-protopiku-i-dlaczego-jej-nie-bedzie/)

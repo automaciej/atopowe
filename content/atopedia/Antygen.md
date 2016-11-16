@@ -15,7 +15,7 @@ Gdy antygen zostaje wprowadzony do ustroju człowieka (także wyższych zwierzą
 
 Prawidłowa odpowiedź immunologiczna organizmu zostaje skierowania wyłącznie przeciwko antygenom nie będącym składnikami strukturalnymi jego tkanek.
 
-Istotną rolę w przebiegu opisanej reakcji stanowią [limfocyty T](/atopedia/limfocyty_T "wikilink"). Antygeny, by wzbudzić odpowiedź immunologiczną organizmu potrzebują ich udziału (antygeny grasicozależne) lub nie (antygeny grasiconiezależne).
+Istotną rolę w przebiegu opisanej reakcji stanowią [limfocyty T]({{< relref "atopedia/Limfocyty_T.md" >}} "wikilink"). Antygeny, by wzbudzić odpowiedź immunologiczną organizmu potrzebują ich udziału (antygeny grasicozależne) lub nie (antygeny grasiconiezależne).
 
 Warto wspomnieć o zjawisku konkurencji antygenowej. Jest to sytuacja, w której odpowiedź odpornościowa na dany antygen może ulegać przemianom za sprawą obecności innego antygenu.
 

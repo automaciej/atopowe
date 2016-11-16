@@ -17,12 +17,12 @@ Stosowane leki można podzielić na kilka kategorii (ze względu na sposób dzia
 -   [Leki antyhistaminowe](/atopedia/Leki_antyhistaminowe "wikilink") (blokujące wydzielanie [histaminy](/atopedia/Histamina "wikilink"))
 -   [Leki sedatywne](/atopedia/Leki_sedatywne "wikilink") (działające uspokajająco, otępiająco)
 -   [Kortykosterydy](/atopedia/Kortykosterydy "wikilink") (działające przeciwzapalnie)
--   [Leki immunosupresyjne](/atopedia/Leki_immunosupresyjne "wikilink") (obniżające odporność)
+-   [Leki immunosupresyjne](/atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") (obniżające odporność)
 
 oraz preparaty wspomagające leczenie:
 
 -   [Emolienty](/atopedia/Emolienty "wikilink") (natłuszczające oraz nawilżające skórę)
--   [Maści](/atopedia/Maść "wikilink") robione na zamówienie w aptekach
+-   [Maści]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink") robione na zamówienie w aptekach
 
 **Zobacz też**
 

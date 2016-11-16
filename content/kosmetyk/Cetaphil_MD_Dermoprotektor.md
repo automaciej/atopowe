@@ -14,8 +14,8 @@ Wskazania i działanie
 -   Preparat jest przeznaczony do skóry twarzy i całego ciała.
 -   Cetaphil MD to preparat przebadany dermatologicznie i polecany przez dermatologów.
 -   Ułatwia wchłanianie leków miejscowych, głęboko nawilża, jest bardzo dobrze tolerowany.
--   Przyśpiesza leczenie ułatwiając wchłanianie leków stosowanych w następujących chorobach: [atopowe zapalenie skóry](/atopedia/atopowe_zapalenie_skóry "wikilink"), [łuszczyca](/atopedia/łuszczyca "wikilink"), rogowacenie przymieszkowe, [wyprysk](/atopedia/wyprysk "wikilink"), sucha, wrażliwa skóra.
--   Głęboko nawilża skórę i chroni jej naturalny [płaszcz lipidowy](/atopedia/płaszcz_lipidowy "wikilink").
+-   Przyśpiesza leczenie ułatwiając wchłanianie leków stosowanych w następujących chorobach: [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink"), [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"), rogowacenie przymieszkowe, [wyprysk]({{< relref "atopedia/Wyprysk.md" >}} "wikilink"), sucha, wrażliwa skóra.
+-   Głęboko nawilża skórę i chroni jej naturalny [płaszcz lipidowy]({{< relref "atopedia/Płaszcz_lipidowy.md" >}} "wikilink").
 -   Stosowany systematycznie zapobiega powstawaniu nowych podrażnień.
 
 Dawkowanie

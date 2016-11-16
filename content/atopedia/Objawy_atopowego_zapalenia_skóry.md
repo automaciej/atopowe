@@ -14,28 +14,28 @@ Objawy choroby mogą być bardzo różne u różnych osób, jednak do najczęsts
 Przede wszystkim:
 
 -   **[świąd](/atopedia/świąd "wikilink")**
--   [suchość skóry](/atopedia/suchość_skóry "wikilink") (utrata [lipidowej bariery ochronnej](/atopedia/Płaszcz_lipidowy "wikilink"))
--   [wysięk](/atopedia/wysięk "wikilink") ([infekcja skóry](/atopedia/infekcja_skóry "wikilink"))
--   [puchnięcie](/atopedia/puchnięcie "wikilink")
--   [reakcja alergiczna](/atopedia/reakcja_alergiczna "wikilink") objawiająca się pod różnymi postaciami
--   [zaczerwienienie skóry](/atopedia/zaczerwienienie_skóry "wikilink")
+-   [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink") (utrata [lipidowej bariery ochronnej](/atopedia/Płaszcz_lipidowy "wikilink"))
+-   [wysięk]({{< relref "atopedia/Wysięk.md" >}} "wikilink") ([infekcja skóry]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink"))
+-   [puchnięcie]({{< relref "atopedia/Puchnięcie.md" >}} "wikilink")
+-   [reakcja alergiczna]({{< relref "atopedia/Reakcja_alergiczna.md" >}} "wikilink") objawiająca się pod różnymi postaciami
+-   [zaczerwienienie skóry]({{< relref "atopedia/Zaczerwienienie_skóry.md" >}} "wikilink")
 -   plamy
 -   [wysypka](/atopedia/wysypka "wikilink")
 -   pęcherze z wodnistą wydzieliną (osocze)
 
 Dodatkowo
 
--   nieswoisty wyprysk rąk i stóp (wyprysk z [podrażnienia](/atopedia/podrażnienie "wikilink"))
+-   nieswoisty wyprysk rąk i stóp (wyprysk z [podrażnienia]({{< relref "atopedia/Podrażnienie.md" >}} "wikilink"))
 -   świąd po spoceniu
--   zaostrzenie zmian po emocjach (patrz: [choroba psychosomatyczna](/atopedia/choroba_psychosomatyczna "wikilink"))
+-   zaostrzenie zmian po emocjach (patrz: [choroba psychosomatyczna]({{< relref "atopedia/Choroba_psychosomatyczna.md" >}} "wikilink"))
 -   nietolerancja niektórych pokarmów
--   wrażliwość [skóry](/atopedia/skóra "wikilink") na bodźce mechaniczne i [materiały drażniące](/atopedia/Podrażnienie "wikilink") (wełna)
--   powiększone [węzły chłonne](/atopedia/węzły_chłonne "wikilink")
+-   wrażliwość [skóry]({{< relref "atopedia/Skóra.md" >}} "wikilink") na bodźce mechaniczne i [materiały drażniące](/atopedia/Podrażnienie "wikilink") (wełna)
+-   powiększone [węzły chłonne]({{< relref "atopedia/Węzły_chłonne.md" >}} "wikilink")
 
 a ponadto u starszych pacjentów:
 
--   [lichenizacja](/atopedia/lichenizacja "wikilink")
--   [biały dermografizm](/atopedia/biały_dermografizm "wikilink")
+-   [lichenizacja]({{< relref "atopedia/Lichenizacja.md" >}} "wikilink")
+-   [biały dermografizm]({{< relref "atopedia/Biały_dermografizm.md" >}} "wikilink")
 
 oraz dodatkowe cechy AZS, które występują od początku lub pojawić się mogą w różnym czasie w zależności od nasilenia choroby
 

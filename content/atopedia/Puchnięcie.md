@@ -16,7 +16,7 @@ Puchnięcie może pojawiać się na twarzy. Jego przyczyną może być np.: zjed
 Puchnięcie związane z infekcją bakteryjną
 -----------------------------------------
 
-Puchnięcie zdaje się być związane z [infekcjami](/atopedia/Infekcja_skóry "wikilink"), ponieważ często ustępuje po podaniu [antybiotyku](/atopedia/antybiotyki "wikilink") (miejscowo w [maści](/atopedia/maść "wikilink") lub doustnie).
+Puchnięcie zdaje się być związane z [infekcjami](/atopedia/Infekcja_skóry "wikilink"), ponieważ często ustępuje po podaniu [antybiotyku]({{< relref "atopedia/Antybiotyki.md" >}} "wikilink") (miejscowo w [maści]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink") lub doustnie).
 
 **Zobacz też**
 

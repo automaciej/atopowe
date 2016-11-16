@@ -25,7 +25,7 @@ Mycie, pielęgnacja i ochrona włosów oraz skóry głowy u osób z wywiadem ato
 Opis działania:
 ---------------
 
-Formuła szamponu opracowana została w celu zapewnienia intensywnej pielęgnacji i aktywnej ochrony [skóry atopowej](/atopedia/skóra_atopowa "wikilink"). [Mocznik](/atopedia/Mocznik "wikilink") działa nawilżająco i przeciwświądowo. Aktywny kompleks α-hydroksykwasu (Lactic Acid) i L-Argininy poprawia ukrwienie skóry głowy, stymulując wzrost włosów i wzmacniając ich strukturę. Dodatkowo, AHA zapewnia świeży wygląd włosów (fresh-feeling), a L-Arginina odżywia i pielęgnuje włosy oraz ułatwia ich układanie. Dzięki zastosowaniu substancji o właściwościach nawilżających, kojących i antyoksydacyjnych, Atoperal szampon wyraźnie zwiększa komfort i poprawia efekty codziennej pielęgnacji skóry wrażliwej.
+Formuła szamponu opracowana została w celu zapewnienia intensywnej pielęgnacji i aktywnej ochrony [skóry atopowej]({{< relref "atopedia/Skóra.md" >}}_atopowa "wikilink"). [Mocznik](/atopedia/Mocznik "wikilink") działa nawilżająco i przeciwświądowo. Aktywny kompleks α-hydroksykwasu (Lactic Acid) i L-Argininy poprawia ukrwienie skóry głowy, stymulując wzrost włosów i wzmacniając ich strukturę. Dodatkowo, AHA zapewnia świeży wygląd włosów (fresh-feeling), a L-Arginina odżywia i pielęgnuje włosy oraz ułatwia ich układanie. Dzięki zastosowaniu substancji o właściwościach nawilżających, kojących i antyoksydacyjnych, Atoperal szampon wyraźnie zwiększa komfort i poprawia efekty codziennej pielęgnacji skóry wrażliwej.
 
 Atoperal szampon:
 

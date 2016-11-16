@@ -5,4 +5,4 @@ title = "Glikokortykosterydy"
 
 +++
 
-1.  Redirect [kortykosterydy](/atopedia/kortykosterydy "wikilink")
+1.  Redirect [kortykosterydy]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink")

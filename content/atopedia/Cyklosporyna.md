@@ -7,7 +7,7 @@ aliases = [ "/atopedia/Ciclosporinum/",]
 
 +++
 
-[Lek immunosupresyjny](/atopedia/Leki_immunosupresyjne "wikilink") stosowany w ciężkim atopowym zapaleniu skóry. W przeciwieństwie do leków stosowanych miejscowo, cyklosporyna działa systemowo, czyli na cały organizm. Działa hamująco na uwalnianie prozapalnych [cytokin](/atopedia/cytokiny "wikilink") IL-1, IL-2, IFN-gamma.
+[Lek immunosupresyjny](/atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") stosowany w ciężkim atopowym zapaleniu skóry. W przeciwieństwie do leków stosowanych miejscowo, cyklosporyna działa systemowo, czyli na cały organizm. Działa hamująco na uwalnianie prozapalnych [cytokin]({{< relref "atopedia/Cytokiny.md" >}} "wikilink") IL-1, IL-2, IFN-gamma.
 
 Dawkowanie: początkowo 3–5 mg/kg masy ciała na dobę, po uzyskaniu poprawy dawkę redukuje się do 1,5–2 mg/kg masy ciała na dobę. Leczenie zwykle trwa od 4 do 8 tyg.[1]
 
@@ -17,7 +17,7 @@ Po zaprzestaniu leczenia występują nawroty choroby - po dwóch tygodniach u 50
 
 -   Można ją brać i tak dłużej niż sterydy.
 -   Łagodzi [świąd](/atopedia/świąd "wikilink"), bo działa na interleukinę 2.
--   Wytępia [limfocyty T](/atopedia/limfocyty_T "wikilink"), która są podłożem reakcji IV typu, opóźnionych.
+-   Wytępia [limfocyty T]({{< relref "atopedia/Limfocyty_T.md" >}} "wikilink"), która są podłożem reakcji IV typu, opóźnionych.
 -   Hamuje apoptozę i aktywację keratynocytów w naskórku, czyli działa na całe ciało.
 -   Szybciej działa od bezpieczniejszych immunosupresantów, którymi za granicą leczono dzieci: [cellceptu](/atopedia/cellcept "wikilink") i [imuranu](/atopedia/imuran "wikilink").
 -   Skutki uboczne dotyczą generalnie brania jej przez całe życie... jako leku zapobiegającemu odrzuceniu przeszczepów, chyba tylko nefrotoksyczność czy hepatoksyczność może ujawnić się w pierwszych 12 tygodniach, ale na to są badania.

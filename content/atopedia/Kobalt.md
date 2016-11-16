@@ -6,7 +6,7 @@ kategorie = [ "substancje chemiczne", "alergeny",]
 
 +++
 
-Zwykle uczulenie na kobalt współistnieje z uczuleniem na chrom lub [nikiel](/atopedia/nikiel "wikilink"), co wynika ze wspólnych źródeł tych alergenów. Stosuje się też podobne postępowanie w unikaniu alergenów i leczeniu.
+Zwykle uczulenie na kobalt współistnieje z uczuleniem na chrom lub [nikiel]({{< relref "atopedia/Nikiel.md" >}} "wikilink"), co wynika ze wspólnych źródeł tych alergenów. Stosuje się też podobne postępowanie w unikaniu alergenów i leczeniu.
 
 **Występuje w:**
 

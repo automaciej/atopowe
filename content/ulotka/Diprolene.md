@@ -60,7 +60,7 @@ Przeciwwskazania
 Działania niepożądane
 ---------------------
 
--   [zespół Cushinga](/atopedia/zespół_Cushinga "wikilink")
+-   [zespół Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}} "wikilink")
 -   zmniejszenie wydzielania hormonów kory nadnerczy
 -   nadmierne owłosienie
 -   trądzik posterydowy

@@ -6,4 +6,4 @@ kategorie = [ "leki",]
 
 +++
 
-1.  Redirect [:Kategoria:Leki przeciwgrzybicze](/atopedia/:Kategoria:Leki_przeciwgrzybicze "wikilink")
+1.  Redirect [:Kategoria:Leki przeciwgrzybicze]({{< relref "atopedia/Leki_przeciwgrzybicze.md" >}} "wikilink")

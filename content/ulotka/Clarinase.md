@@ -11,9 +11,9 @@ Clarinase
 
 **Skład leku:**
 
-1 tabletka zawiera 120 mg siarczanu pseudoefedryny i 5 mg [loratadyny](/atopedia/loratadyna "wikilink")
+1 tabletka zawiera 120 mg siarczanu pseudoefedryny i 5 mg [loratadyny]({{< relref "atopedia/Loratadyna.md" >}} "wikilink")
 
-**Opis działania :** [Loratadyna](/atopedia/Loratadyna "wikilink") jest lekiem przeciwhistaminowym o długim działaniu (wynoszącym ok. 12 godz.po dawce 5 mg.) selektywnie blokującym receptory H1. Łagodzi objawy [alergicznego nieżytu nosa](/atopedia/alergiczny_nieżyt_nosa "wikilink").
+**Opis działania :** [Loratadyna](/atopedia/Loratadyna "wikilink") jest lekiem przeciwhistaminowym o długim działaniu (wynoszącym ok. 12 godz.po dawce 5 mg.) selektywnie blokującym receptory H1. Łagodzi objawy [alergicznego nieżytu nosa]({{< relref "atopedia/Alergiczny_nieżyt_nosa.md" >}} "wikilink").
 
 Siarczan pseudefedryny jest krótko działającym (4-6 godz.) lekiem sympatykomimetycznym, który powoduje skurcz naczyń, znosząc w ten sposób obrzęk śluzówki. Forma preparatu umożliwia równie długie działanie obu składników.
 

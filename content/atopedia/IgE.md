@@ -44,7 +44,7 @@ Norma zależy od wieku, u niemowląt wynosi do 20 IU/ml, u nastolatków już naw
 
 #### IgE swoiste
 
-W surowicy krwi, poziom przeciwciał odpowiedzialnych za specyficzną [reakcję alergiczną](/atopedia/reakcja_alergiczna "wikilink") – np. uczulenie na [roztocza kurzu domowego](/atopedia/roztocze_kurzu_domowego "wikilink").
+W surowicy krwi, poziom przeciwciał odpowiedzialnych za specyficzną [reakcję alergiczną]({{< relref "atopedia/Reakcja_alergiczna.md" >}} "wikilink") – np. uczulenie na [roztocza kurzu domowego]({{< relref "atopedia/Roztocze_kurzu_domowego.md" >}} "wikilink").
 
 #### Uwaga
 

@@ -16,7 +16,7 @@ kategorie = [ "Spotkania",]
 18 marca 2006
 -------------
 
-To było chyba pierwsze spotkanie większej grupy ludzi z tego [forum](/atopedia/forum_dyskusyjne "wikilink") w realnym świecie. Rozmowa oczywiście była o [drapaniu](/atopedia/drapanie "wikilink"), kremach, [schizach](/atopedia/psychika "wikilink") związanych z [AZS](/atopedia/AZS "wikilink") i wielu innych rzeczach, których nie sposób przytoczyć. :-?
+To było chyba pierwsze spotkanie większej grupy ludzi z tego [forum]({{< relref "atopedia/forum-dyskusyjne.md" >}} "wikilink") w realnym świecie. Rozmowa oczywiście była o [drapaniu]({{< relref "atopedia/Drapanie.md" >}} "wikilink"), kremach, [schizach]({{< relref "atopedia/Psychika.md" >}} "wikilink") związanych z [AZS](/atopedia/AZS "wikilink") i wielu innych rzeczach, których nie sposób przytoczyć. :-?
 
 Zrobiliśmy nawet zdjęcie, ale bez Zuby, która mi tego chyba nie przebaczy.
 

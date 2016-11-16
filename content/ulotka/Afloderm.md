@@ -70,7 +70,7 @@ Stosowanie leku u dzieci
 
 Należy zachować szczególna ostrożność podczas stosowania leku u dzieci, gdyż istnieje ryzyko ogólnoustrojowego działania kortykosteroidu.
 
-U dzieci, ze względu na większy niż u dorosłych stosunek powierzchni ciała do masy ciała, ryzyko ogólnoustrojowego działania kortykosteroidów (w tym zaburzeń czynności osi podwzgórzowo-przysadkowo-nadnerczowej, [zespołu Cushinga](/atopedia/zespół_Cushinga "wikilink"), zwiększenia ciśnienia wewnątrzczaszkowego) jest większe niż u dorosłych. Długotrwałe stosowanie kortykosteroidów może również zaburzać wzrost i rozwój dzieci.
+U dzieci, ze względu na większy niż u dorosłych stosunek powierzchni ciała do masy ciała, ryzyko ogólnoustrojowego działania kortykosteroidów (w tym zaburzeń czynności osi podwzgórzowo-przysadkowo-nadnerczowej, [zespołu Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}} "wikilink"), zwiększenia ciśnienia wewnątrzczaszkowego) jest większe niż u dorosłych. Długotrwałe stosowanie kortykosteroidów może również zaburzać wzrost i rozwój dzieci.
 
 Stosowanie leku Afloderm z innymi lekami
 ----------------------------------------

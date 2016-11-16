@@ -14,4 +14,4 @@ Ufff&#8230;. skończyłem ![][1]. 14 stron A4, ale warto było. [Ten wykład][2]
 Dla osób ze słabym łączem jest również dostępna mp-trójka z samym dźwiękiem z wykładu.
 
  [1]: http://www.atopowe-zapalenie.pl/forum/images/smiles/icon_smile.gif
- [2]: http://www.atopowe-zapalenie.pl/atopedia/Wykład_dr_Ireny_Grzesiak
+ [2]: http://www.atopowe-zapalenie.pl/atopedia{{< relref "atopedia/Wykład_dr_Ireny_Grzesiak.md" >}}

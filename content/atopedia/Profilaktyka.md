@@ -23,10 +23,10 @@ Przeciwdziałanie świądowi i powstawaniu nowych zmian
 Najbardziej znienawidzonym odczuciem i największym wrogiem osoby chorej na AZS jest [świąd](/atopedia/Świąd "wikilink"), uporczywe swędzenie skóry, która w wyniku drapania popada w coraz silniejszy wtórny [stan zapalny](/atopedia/Stan_zapalny_skóry "wikilink"), dlatego bardzo ważne jest przeciwdziałanie świądowi. Najważniejsza jest profilaktyka, która polega przede wszystkim na:
 
 -   prawidłowej i regularnej pielęgnacji skóry atopowej:
-    -   [kąpielach](/atopedia/kąpiele "wikilink")
-    -   [natłuszczaniu](/atopedia/natłuszczanie "wikilink")
--   unikaniu i wczesnym zaleczaniu [infekcji bakteryjnych skóry](/atopedia/infekcja_skóry "wikilink")
--   unikaniu ekspozycji na [alergeny](/atopedia/alergen "wikilink")
--   unikanie [stresu](/atopedia/stres "wikilink")
+    -   [kąpielach]({{< relref "atopedia{{< relref "atopedia/Zbyt_częste_kąpiele.md" >}}.md" >}} "wikilink")
+    -   [natłuszczaniu]({{< relref "atopedia/Natłuszczanie.md" >}} "wikilink")
+-   unikaniu i wczesnym zaleczaniu [infekcji bakteryjnych skóry]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink")
+-   unikaniu ekspozycji na [alergeny]({{< relref "atopedia/Alergen.md" >}} "wikilink")
+-   unikanie [stresu]({{< relref "atopedia/Stres.md" >}} "wikilink")
 -   unikaniu i wczesnym leczeniu wszelkich zakażeń bakteryjnych w organizmie (np.: stan zapalny zęba, przeziębienie, stan zapalny zatok)
 -   unikanie pocenia - chorej skórze sprzyja wietrzenie, noszenie luźnych ubrań

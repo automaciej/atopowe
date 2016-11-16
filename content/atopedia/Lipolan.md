@@ -12,7 +12,7 @@ kategorie = [ "emolienty",]
 
 **LIPOLAN** idealny emolient dla:
 
-osób chorych na [atopowe zapalenie skóry](/atopedia/atopowe_zapalenie_skóry "wikilink") i [łuszczycę](/atopedia/łuszczyca "wikilink"), do pielęgnacji dłoni i stóp, zwłaszcza w zimie, dla osób uprawiających sporty zimowe, jako doskonałe zabezpieczenie twarzy przed mrozem.
+osób chorych na [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink") i [łuszczycę]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"), do pielęgnacji dłoni i stóp, zwłaszcza w zimie, dla osób uprawiających sporty zimowe, jako doskonałe zabezpieczenie twarzy przed mrozem.
 
 **Składniki:**
 

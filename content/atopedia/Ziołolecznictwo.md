@@ -6,7 +6,7 @@ kategorie = [ "niekonwencjonalne metody leczenia", "wpadki",]
 
 +++
 
-Zdrowy rozsądek nakazuje wielką ostrożność w leczeniu [alergii](/atopedia/alergia "wikilink") za pomocą ziół – istnieje możliwość silnych [uczuleń](/atopedia/Reakcja_alergiczna "wikilink"). Zanim zastosujesz jakąkolwiek mieszankę ziołową, bądź [terapię](/atopedia/terapia "wikilink") opartą na ziołach, dowiedz się o niej jak najwięcej, skonsultuj z kilkoma [lekarzami](/atopedia/lekarze "wikilink") jej potencjalne działanie, również uboczne.
+Zdrowy rozsądek nakazuje wielką ostrożność w leczeniu [alergii]({{< relref "atopedia/Alergia.md" >}} "wikilink") za pomocą ziół – istnieje możliwość silnych [uczuleń](/atopedia/Reakcja_alergiczna "wikilink"). Zanim zastosujesz jakąkolwiek mieszankę ziołową, bądź [terapię]({{< relref "atopedia/Terapia.md" >}} "wikilink") opartą na ziołach, dowiedz się o niej jak najwięcej, skonsultuj z kilkoma [lekarzami]({{< relref "atopedia/Lekarze.md" >}} "wikilink") jej potencjalne działanie, również uboczne.
 
 ### Aloes
 

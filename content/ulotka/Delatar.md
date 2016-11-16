@@ -15,7 +15,7 @@ Mechanizm działania smoły węglowej nie jest znany. Smoła węglowa słabo dra
 
 **Wskazania**
 
--   [łuszczyca](/atopedia/łuszczyca "wikilink"),
+-   [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"),
 -   wyprysk,
 -   łojotok,
 -   przyłuszczyca,

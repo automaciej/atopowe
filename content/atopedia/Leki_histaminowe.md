@@ -6,4 +6,4 @@ kategorie = [ "terapia", "leki",]
 
 +++
 
-1.  Redirect [:Kategoria:Leki antyhistaminowe](/atopedia/:Kategoria:Leki_antyhistaminowe "wikilink")
+1.  Redirect [:Kategoria:Leki antyhistaminowe]({{< relref "atopedia/Leki_antyhistaminowe.md" >}} "wikilink")

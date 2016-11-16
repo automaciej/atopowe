@@ -11,7 +11,7 @@ kategorie = [ "Zbiórki",]
 |------------------|
 | **102%** z 725zł |
 
-Nasz serwis utrzymuje się niezależnie - nie mamy żadnego patronatu. Domeny i hosting są opłacane przez samych użytkowników forum. Poprzednie zbiórki pieniędzy można zobaczyć tutaj: [na domeny w 2005 roku](/Zbiórka_pieniędzy_na_domenę_(2005) "wikilink") i [hosting w 2006](/Zbiórka_pieniędzy_na_hosting_(2006) "wikilink").
+Nasz serwis utrzymuje się niezależnie - nie mamy żadnego patronatu. Domeny i hosting są opłacane przez samych użytkowników forum. Poprzednie zbiórki pieniędzy można zobaczyć tutaj: [na domeny w 2005 roku]({{< relref "atopedia/Zbiórka_pieniędzy_na_domenę_(2005).md" >}} "wikilink") i [hosting w 2006]({{< relref "atopedia/Zbiórka_pieniędzy_na_hosting_(2006).md" >}} "wikilink").
 
 Musimy zebrać **725 złotych** na przedłużenie domen "atopowe.pl" i "atopowe-zapalenie.pl" (na 3 lata). Wielkość wpłaty zależy od Was - proponujemy 10, 20 lub 30 zł, wedle chęci i możliwości. O zbiórce rozmawiamy [w tym wątku](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?p=79812&f=9#p79812).
 

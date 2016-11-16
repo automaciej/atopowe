@@ -9,8 +9,8 @@ aliases = [ "/atopedia/Błędne_koło" ]
 
 Osoby chore na AZS często wpadają w sytuację, w której następuje dodatnie
 sprzężenie zwrotne pomiędzy
-[objawami](/atopedia/objawy_atopowego_zapalenia_skóry "wikilink") i
-[przyczynami](/atopedia/przyczyny_atopowego_zapalenia_skóry "wikilink").
+[objawami]({{< relref "atopedia/Objawy_atopowego_zapalenia_skóry.md" >}} "wikilink") i
+[przyczynami]({{< relref "atopedia/Przyczyny_atopowego_zapalenia_skóry.md" >}} "wikilink").
 
 ![Świąd powoduje drapanie, drapanie powoduje infekcje i podrażnienia. Podrażnienia i infekcje powodują drapanie.](/images/BledneKoloAZS.png "Efekt błędnego koła")
 
@@ -29,4 +29,4 @@ krótkotrwałe zastosowanie [sterydów](/atopedia/Kortykosterydy "wikilink") i
 [infekcji](/atopedia/Infekcja_skóry "wikilink") i poprzez
 [natłuszczanie](/atopedia/Natłuszczanie "wikilink") oraz
 [pielęgnację](/atopedia/Pielęgnacja "wikilink") skóry w celu zniwelowania
-[podrażnienia](/atopedia/podrażnienie "wikilink").
+[podrażnienia]({{< relref "atopedia/Podrażnienie.md" >}} "wikilink").

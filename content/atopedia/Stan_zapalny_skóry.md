@@ -6,7 +6,7 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
-**Stan zapalny skóry** może powstawać na skutek [infekcji](/atopedia/infekcja_skóry "wikilink"), podrażnienia lub [reakcji alergicznej](/atopedia/reakcja_alergiczna "wikilink").
+**Stan zapalny skóry** może powstawać na skutek [infekcji]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink"), podrażnienia lub [reakcji alergicznej]({{< relref "atopedia/Reakcja_alergiczna.md" >}} "wikilink").
 
 **Zobacz też**
 

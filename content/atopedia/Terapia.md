@@ -8,19 +8,19 @@ aliases = [ "/atopedia/Leczenie/",]
 
 ![](/images/Atopowe-diagram.png "thumb|Zjawiska towarzyszące AZS i podstawowe metody leczenia|left")
 
-**Terapia** - w przypadku [atopowego zapalenia skóry](/atopedia/atopowe_zapalenie_skóry "wikilink") terapia polega głównie na leczeniu objawowym (patrz: [objawy atopowego zapalenia skóry](/atopedia/objawy_atopowego_zapalenia_skóry "wikilink")), tzw. zaleczaniu.
+**Terapia** - w przypadku [atopowego zapalenia skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink") terapia polega głównie na leczeniu objawowym (patrz: [objawy atopowego zapalenia skóry]({{< relref "atopedia/Objawy_atopowego_zapalenia_skóry.md" >}} "wikilink")), tzw. zaleczaniu.
 
-Jeżeli jest możliwe zidentyfikowanie [alergenów](/atopedia/alergen "wikilink") i unikanie ich, wtedy dobre efekty można uzyskać eliminując kontakt chorego z alergenami. Niestety bardzo często jest to niemożliwe, z różnych przyczyn: nie można zidentyfikować alergenów, nie można ich unikać, chory uczula się na nowe substancje.
+Jeżeli jest możliwe zidentyfikowanie [alergenów]({{< relref "atopedia/Alergen.md" >}} "wikilink") i unikanie ich, wtedy dobre efekty można uzyskać eliminując kontakt chorego z alergenami. Niestety bardzo często jest to niemożliwe, z różnych przyczyn: nie można zidentyfikować alergenów, nie można ich unikać, chory uczula się na nowe substancje.
 
-Trwają prace nad nowymi metodami leczenia, do obiecujących należą [leki biologiczne](/atopedia/leki_biologiczne "wikilink"), badania nad genem filagryny oraz [terapia genowa](/atopedia/terapia_genowa "wikilink").
+Trwają prace nad nowymi metodami leczenia, do obiecujących należą [leki biologiczne]({{< relref "atopedia/Leki.md" >}}_biologiczne "wikilink"), badania nad genem filagryny oraz [terapia genowa]({{< relref "atopedia/Terapia.md" >}}_genowa "wikilink").
 
 <div style="clear: left;">
 </div>
 **Podstawowe objawy i metody leczenia:**
 
--   [Reakcja alergiczna](/atopedia/Reakcja_alergiczna "wikilink") -- [leki antyhistaminowe](/atopedia/leki_antyhistaminowe "wikilink") i [leki immunosupresyjne](/atopedia/leki_immunosupresyjne "wikilink")
--   [Stan zapalny skóry](/atopedia/Stan_zapalny_skóry "wikilink") -- [kortykosterydy](/atopedia/kortykosterydy "wikilink")
--   [Infekcja skóry](/atopedia/Infekcja_skóry "wikilink") -- [antybiotyki](/atopedia/antybiotyki "wikilink")
+-   [Reakcja alergiczna](/atopedia/Reakcja_alergiczna "wikilink") -- [leki antyhistaminowe]({{< relref "atopedia/Leki.md" >}}_antyhistaminowe "wikilink") i [leki immunosupresyjne]({{< relref "atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}}.md" >}} "wikilink")
+-   [Stan zapalny skóry](/atopedia/Stan_zapalny_skóry "wikilink") -- [kortykosterydy]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink")
+-   [Infekcja skóry](/atopedia/Infekcja_skóry "wikilink") -- [antybiotyki]({{< relref "atopedia/Antybiotyki.md" >}} "wikilink")
 
 **Zobacz też**
 

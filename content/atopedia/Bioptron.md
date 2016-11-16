@@ -6,13 +6,13 @@ kategorie = [ "Niekonwencjonalne metody leczenia",]
 
 +++
 
-**Bioptron** - lampa firmy Zepter. Terapia światłem spolaryzowanym. Według producenta, ma ona działanie bakteriobójcze i powoduje szybszą regenerację tkanek. Stosuje się w połączeniu z [ultradźwiękami](/atopedia/ultradźwięki "wikilink").
+**Bioptron** - lampa firmy Zepter. Terapia światłem spolaryzowanym. Według producenta, ma ona działanie bakteriobójcze i powoduje szybszą regenerację tkanek. Stosuje się w połączeniu z [ultradźwiękami]({{< relref "atopedia/Ultradźwięki.md" >}} "wikilink").
 
 Jej skuteczność jest wątpliwa.
 
 **Patrz też:**
 
--   [Dr Grzesiak o wpływie promieniowania słonecznego](/Wykład_dr_Ireny_Grzesiak#Wp.C5.82yw_promieniowania_s.C5.82onecznego "wikilink").
+-   [Dr Grzesiak o wpływie promieniowania słonecznego]({{< relref "atopedia/Wykład_dr_Ireny_Grzesiak.md" >}}#Wp.C5.82yw_promieniowania_s.C5.82onecznego "wikilink").
 
 <!-- -->
 

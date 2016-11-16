@@ -42,10 +42,10 @@ Profilaktyka
 
 W leczeniu astmy bardzo ważna jest profilaktyka:
 
--   unikanie [alergenów](/atopedia/alergen "wikilink")
+-   unikanie [alergenów]({{< relref "atopedia/Alergen.md" >}} "wikilink")
 -   unikanie wszelkich niealergicznych czynników prowokujących do skurczu oskrzeli (zimne powietrze, [dym papierosowy](/atopedia/Papierosy "wikilink"), infekcje dróg oddechowych i inne)
--   przeciwdziałanie [stresowi](/atopedia/stres "wikilink")
--   warto jest rozważyć [immunoterapię](/atopedia/immunoterapia "wikilink"), czyli (odczulanie) na [alergeny](/atopedia/alergen "wikilink") wziewne
+-   przeciwdziałanie [stresowi]({{< relref "atopedia/Stres.md" >}} "wikilink")
+-   warto jest rozważyć [immunoterapię]({{< relref "atopedia/Immunoterapia.md" >}} "wikilink"), czyli (odczulanie) na [alergeny]({{< relref "atopedia/Alergen.md" >}} "wikilink") wziewne
 
 Pomocne mogą być również wykłady, podczas których omawiane są najnowsze metody leczenia i rehabilitacji.
 

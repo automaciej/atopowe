@@ -8,13 +8,13 @@ kategorie = [ "Emolienty",]
 
 **CERALAN - emolient półtłusty**
 
-CERALAN zachowuje dużą wchłanialność i dobrze się rozsmarowuje. Zawiera występujące w zdrowym naskórku ceramidy, które wiążą ze sobą komórki naskórka. Zmniejsza złuszczanie, będące skutkiem niedostatecznej łączności komórek naskórka. Rola ceramidów polega też na zatrzymywaniu wody w naskórku. Tym samym pośrednio wpływają one na zwiększenie elastyczności skóry. Ceralan zmniejsza złuszczanie i [świąd](/atopedia/świąd "wikilink") skóry zmienionej chorobowo. Jest doskonały jako krem po [kąpielach](/atopedia/kąpiele "wikilink") (także leczniczych) i po naświetlaniach UV.
+CERALAN zachowuje dużą wchłanialność i dobrze się rozsmarowuje. Zawiera występujące w zdrowym naskórku ceramidy, które wiążą ze sobą komórki naskórka. Zmniejsza złuszczanie, będące skutkiem niedostatecznej łączności komórek naskórka. Rola ceramidów polega też na zatrzymywaniu wody w naskórku. Tym samym pośrednio wpływają one na zwiększenie elastyczności skóry. Ceralan zmniejsza złuszczanie i [świąd](/atopedia/świąd "wikilink") skóry zmienionej chorobowo. Jest doskonały jako krem po [kąpielach]({{< relref "atopedia{{< relref "atopedia/Zbyt_częste_kąpiele.md" >}}.md" >}} "wikilink") (także leczniczych) i po naświetlaniach UV.
 
 CERALAN idealny emolient dla:
 
 -   osób o szczególnie wrażliwej skórze
--   osób chorych na [atopowe zapalenie skóry](/atopedia/atopowe_zapalenie_skóry "wikilink") i [łuszczycę](/atopedia/łuszczyca "wikilink")
--   wszystkich osób skarżących się na [suchość skóry](/atopedia/suchość_skóry "wikilink") przez cały rok.
+-   osób chorych na [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink") i [łuszczycę]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink")
+-   wszystkich osób skarżących się na [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink") przez cały rok.
 
 **Składniki:**
 

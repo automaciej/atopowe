@@ -49,7 +49,7 @@ IV. Bardzo silne kortykosterydy
 Przenikanie
 -----------
 
-[Kortykosterydy](/atopedia/Kortykosterydy "wikilink") dobrze przenikają do [skóry](/atopedia/skóra "wikilink"). Intensywność przenikania jest ściśle związana z budową skóry w poszczególnych partiach ciała. Zwiększone przenikanie dotyczy całego ciała niemowląt i małych dzieci (słabiej wykształcona warstwa rogowa naskórka).
+[Kortykosterydy](/atopedia/Kortykosterydy "wikilink") dobrze przenikają do [skóry]({{< relref "atopedia/Skóra.md" >}} "wikilink"). Intensywność przenikania jest ściśle związana z budową skóry w poszczególnych partiach ciała. Zwiększone przenikanie dotyczy całego ciała niemowląt i małych dzieci (słabiej wykształcona warstwa rogowa naskórka).
 
 Stopień absorpcji preparatów kortykosterydowych
 -----------------------------------------------

@@ -6,7 +6,7 @@ kategorie = [ "przyczyny atopowego zapalenia skóry",]
 
 +++
 
-W chorobach alergicznych ([atopowych](/atopedia/atopia "wikilink")) dziedziczona jest nie dana choroba, a skłonność [układu immunologicznego](/atopedia/układ_immunologiczny "wikilink") do [reakcji alergicznych](/atopedia/reakcja_alergiczna "wikilink"), czyli [atopia](/atopedia/Atopia "wikilink"). Genetyczne podłoże tej choroby stwierdza się zazwyczaj w wywiadzie lekarskim.
+W chorobach alergicznych ([atopowych]({{< relref "atopedia/Atopia.md" >}} "wikilink")) dziedziczona jest nie dana choroba, a skłonność [układu immunologicznego]({{< relref "atopedia/Układ_immunologiczny.md" >}} "wikilink") do [reakcji alergicznych]({{< relref "atopedia/Reakcja_alergiczna.md" >}} "wikilink"), czyli [atopia](/atopedia/Atopia "wikilink"). Genetyczne podłoże tej choroby stwierdza się zazwyczaj w wywiadzie lekarskim.
 
 Ryzyko wystąpienia alergii u dziecka pod dowolna postacią, w przypadku gdy jedno z rodziców ma atopię wynosi 30%, w przypadku gdy oboje rodzice są alergikami ryzyko wzrasta do 75%. Atopia może jednak „przeczekać” i ujawnić się w następnym pokoleniu.
 

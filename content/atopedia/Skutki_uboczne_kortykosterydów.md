@@ -9,7 +9,7 @@ kategorie = [ "terapia", "Sterydy",]
 Sterydy stosowane zewnętrznie
 -----------------------------
 
-Częściej używane i mniej szkodliwe są sterydy stosowane zewnętrznie – [maści](/atopedia/Maść "wikilink"), kremy, fluidy. Mogą one wywoływać takie skutki uboczne jak:
+Częściej używane i mniej szkodliwe są sterydy stosowane zewnętrznie – [maści]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink"), kremy, fluidy. Mogą one wywoływać takie skutki uboczne jak:
 
 -   miejscowe ścieńczenie naskórka i skóry właściwej
 -   rozstępy skórne
@@ -42,10 +42,10 @@ Długotrwałe stosowanie sterydów zewnętrznie wiąże się jednak z szeregiem 
 
 -   teleangiektazje, czyli rozszerzenie kapilarnych naczyń krwionośnych skóry
 -   rozstępy skórne
--   zmiany w pigmentacji skóry ([biały dermografizm](/atopedia/biały_dermografizm "wikilink"))
+-   zmiany w pigmentacji skóry ([biały dermografizm]({{< relref "atopedia/Biały_dermografizm.md" >}} "wikilink"))
 -   ścieńczenie skóry właściwej
--   [alergia kontaktowa](/atopedia/alergia_kontaktowa "wikilink") na sterydy
--   większa podatność skóry na [infekcje](/atopedia/infekcja_skóry "wikilink")
+-   [alergia kontaktowa]({{< relref "atopedia/Alergia.md" >}}_kontaktowa "wikilink") na sterydy
+-   większa podatność skóry na [infekcje]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink")
 
 Jak tego uniknąć?
 -----------------
@@ -62,7 +62,7 @@ Zobacz również
 
 -   [Zespół Cushinga](/atopedia/Zespół_Cushinga "wikilink")
 -   [Posterydowe zapalenie skóry](/atopedia/Posterydowe_zapalenie_skóry "wikilink")
--   [Europejska klasyfikacja kortykosterydów](/atopedia/Europejska_klasyfikacja_kortykosterydów "wikilink")
+-   [Europejska klasyfikacja kortykosterydów](/atopedia{{< relref "atopedia/Europejska_klasyfikacja_kortykosterydów.md" >}} "wikilink")
 -   [Konsekwencje korzystania z maści sterydowych](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=10&t=161) - wątek na Forum
 -   [Silny kortykosteryd 3 razy w tygodniu, a słabszy stosowany przez cały tydzień](http://www.mp.pl/artykuly/?aid=13078)
 

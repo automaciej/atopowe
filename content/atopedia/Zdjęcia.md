@@ -40,7 +40,7 @@ Obecnie Krzyś ma 3 latka, plamki zniknęły. Ma od czasu do czasu małe czerwon
 
 ### Osoba dorosła
 
-Poniżej umiarkowane zmiany atopowe u osoby dorosłej. Alergen nieznany - nie wystąpiła żadna zmiana diety czy otoczenia. Leczenie wewnętrzne: [leki przeciwhistaminowe](/atopedia/Leki_antyhistaminowe "wikilink"). Leczenie zewnętrzne: maść cholesterolowa z hydrokortyzonem, krem na lekobazie z acidi borici, [emolienty](/atopedia/emolienty "wikilink"), sterydy ([Elosone](/atopedia/Elosone "wikilink"), [Elocom](/atopedia/Elocom "wikilink"), [Laticort](/atopedia/Laticort "wikilink")), [Elidel](/atopedia/Elidel "wikilink"). Zmiany częściowo zaleczone.
+Poniżej umiarkowane zmiany atopowe u osoby dorosłej. Alergen nieznany - nie wystąpiła żadna zmiana diety czy otoczenia. Leczenie wewnętrzne: [leki przeciwhistaminowe](/atopedia/Leki_antyhistaminowe "wikilink"). Leczenie zewnętrzne: maść cholesterolowa z hydrokortyzonem, krem na lekobazie z acidi borici, [emolienty]({{< relref "atopedia/Emolienty.md" >}} "wikilink"), sterydy ([Elosone](/atopedia/Elosone "wikilink"), [Elocom](/atopedia/Elocom "wikilink"), [Laticort](/atopedia/Laticort "wikilink")), [Elidel](/atopedia/Elidel "wikilink"). Zmiany częściowo zaleczone.
 
 ![](/images/szyja.jpg) ![](/images/Szyja_1.JPG) ![](/images/Szyja_2.JPG) ![](/images/Kciuk2.JPG) ![](/images/Zgięcie2.JPG|Zgięcie) łokcia ![](/images/Dłoń_coś_tam_widać.JPG) ![](/images/Dłoń12.JPG) ![](/images/Dłoń22.JPG) ![](/images/Dłoń32.JPG)
 

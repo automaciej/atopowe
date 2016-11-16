@@ -149,7 +149,7 @@ W wyniku wchłaniania substancji czynnych do krwi mogą również wystąpić og�
 
 Występują one przede wszystkim w przypadku długotrwałego stosowania leku, stosowania go na dużą powierzchnię skóry, pod opatrunkiem okluzyjnym lub w przypadku stosowania u dzieci.
 
-Ogólnoustrojowe objawy niepożądane klobetazolu propionianu charakterystyczne dla kortykosteroidów, to m.in. zahamowanie czynności osi podwzgórze–przysadka–nadnercza, [zespół Cushinga](/atopedia/zespół_Cushinga "wikilink"), hamowanie wzrostu i rozwoju u dzieci, nadmierne stężenie cukru we krwi, cukromocz, obrzęki, nadciśnienie tętnicze, zmniejszenie odporności.
+Ogólnoustrojowe objawy niepożądane klobetazolu propionianu charakterystyczne dla kortykosteroidów, to m.in. zahamowanie czynności osi podwzgórze–przysadka–nadnercza, [zespół Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}} "wikilink"), hamowanie wzrostu i rozwoju u dzieci, nadmierne stężenie cukru we krwi, cukromocz, obrzęki, nadciśnienie tętnicze, zmniejszenie odporności.
 
 Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane nie wymienione w ulotce, należy powiadomić lekarza lub farmaceutę.
 

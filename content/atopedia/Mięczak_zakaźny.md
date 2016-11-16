@@ -17,4 +17,4 @@ Po jakimś czasie organizm chorego wytwarza przeciwciała i sam zwalcza wirusa.
 **Zobacz też**
 
 -   [Mięczak zakaźny](http://www.maluchy.pl/artykul/85) na maluchy.pl
--   [Mięczak zakaźny](/atopedia/wikipedia:Mięczak_zakaźny "wikilink") w Wikipedii (zdjęcia)
+-   [Mięczak zakaźny]({{< relref "atopedia/Mięczak_zakaźny.md" >}} "wikilink") w Wikipedii (zdjęcia)

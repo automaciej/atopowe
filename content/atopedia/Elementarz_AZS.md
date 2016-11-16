@@ -18,22 +18,22 @@ Przepisy ogólne
 ---------------
 
 1.  [AZS](/atopedia/AZS "wikilink") jest chorobą nieuleczalną, którą można kontrolować. Służą temu [Protopic](/atopedia/Protopic "wikilink"), [Elidel](/atopedia/Elidel "wikilink") i [Sandimmun Neoral](/atopedia/Sandimmun_Neoral "wikilink") (w Polsce).
-2.  [Sterydami](/atopedia/Sterydy "wikilink") nie wolno kontrolować AZS, są tylko na zaostrzenia. Klasyką AZS jest posterydowy *rebound effect*. Im rzadziej się po nie sięga, tym lepiej. Trudno rozpoznać ich skutki uboczne. [Immunosupresanty](/atopedia/Leki_immunosupresyjne "wikilink") z pkt 1 są bezpieczniejsze i można je dłużej stosować.
+2.  [Sterydami](/atopedia/Sterydy "wikilink") nie wolno kontrolować AZS, są tylko na zaostrzenia. Klasyką AZS jest posterydowy *rebound effect*. Im rzadziej się po nie sięga, tym lepiej. Trudno rozpoznać ich skutki uboczne. [Immunosupresanty](/atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") z pkt 1 są bezpieczniejsze i można je dłużej stosować.
 3.  [Leki antyhistaminowe](/atopedia/Leki_antyhistaminowe "wikilink") odgrywają trzecioplanową rolę w leczeniu AZS. Łagodzą tylko objawy alergii sezonowych, w zasadzie nie mają wpływu na skórę. Działają przeciwświądowo. Najczęściej sięga się po [atarax](/atopedia/atarax "wikilink") (hydroksyzynę), ale być może najsilniejszy jest [peritol](/atopedia/peritol "wikilink") (cyproheptadyna). Jak ktoś uczy się albo prowadzi samochód, to najlepszy jest [telfast](/atopedia/telfast "wikilink") (fexofenadyna) i prawdopodobnie [rupafin](/atopedia/rupafin "wikilink") (rupatadyna, która działa najszybciej, bo ma najkrótszy okres półtrwania). Nie uzależniają, ale rozwija się w organizmie tolerancja wobec nich.
 4.  Bez znaczenia jest, czy ktoś ma azs ciężkie, umiarkowane czy minimalne. Wszystkie punkty również jego dotyczą.
 5.  Każdy człowiek może poddać się psychoterapii, żeby "przepracować" swoje problemy (nawet psychoterapeuci są superwizowani). Bez względu na kondycję psychiczną każdy może chodzić do psychologa. Nie ma psychologów wyspecjalizowanych w [psychodermatologii](/atopedia/Wykład:_Opieka_psychodermatologiczna "wikilink").
 6.  Sposoby niemedyczne (domowe lub pseudonaukowe) na AZS są zbędne; nikt nie wie, dlaczego mają działać akurat na AZS. Oczywiście co nieco wiadomo o ogólnych przyczynach ich skuteczności.
 7.  Najważniejsze kryteria remisji AZS to: obniżenie poziomów [IgE](/atopedia/IgE "wikilink") całkowitego, interleukiny 2, interleukiny 5, tnf alfa, interferonu gamma, eozynofilii (kolejność dowolna).
-8.  Za granicą niewiele lepiej jest leczone AZS niż w Polsce. W UK zlecają azatioprynę. Za to USA przoduje w eksperymentalnym leczeniu AZS. Sporna jest rola leków biologicznych. Spośród nich tylko [omalizumab](/atopedia/omalizumab "wikilink") może obniżyć IgE całkowite o prawie 100 %, co stanowi koronny dowód na to, że atopia jest uleczalna.
+8.  Za granicą niewiele lepiej jest leczone AZS niż w Polsce. W UK zlecają azatioprynę. Za to USA przoduje w eksperymentalnym leczeniu AZS. Sporna jest rola leków biologicznych. Spośród nich tylko [omalizumab]({{< relref "atopedia/Omalizumab.md" >}} "wikilink") może obniżyć IgE całkowite o prawie 100 %, co stanowi koronny dowód na to, że atopia jest uleczalna.
 
 Przepisy szczególne
 -------------------
 
-1.  [Świąd](/atopedia/Świąd "wikilink") to jeden z najtrudniejszych do leczenia objawów. Najistotniejsze jest to, żeby nie było [stanu zapalnego](/atopedia/stan_zapalny_skóry "wikilink") pod skórą, który objawia się zaczerwienieniem i przyczynia do suchości skóry. Charakterystyczny jest świąd psychogenny.
+1.  [Świąd](/atopedia/Świąd "wikilink") to jeden z najtrudniejszych do leczenia objawów. Najistotniejsze jest to, żeby nie było [stanu zapalnego]({{< relref "atopedia/Stan_zapalny_skóry.md" >}} "wikilink") pod skórą, który objawia się zaczerwienieniem i przyczynia do suchości skóry. Charakterystyczny jest świąd psychogenny.
 2.  Myśli samobójczych nie wolno ignorować. Psychiatra może przepisać leki skuteczne w leczeniu objawów AZS: pregabalinę (na świąd), doksepinę (56 razy mocniejszą od hydroksyzyny, w USA dostępną w kremie oraz jako najnowszy lek na sen, który nie uzależnia ), bupropion (przypuszczalnie obniża tnf alfa, co może doprowadzić do remisji AZS), paroksetynę, fluwoksaminę i escitalopram (mogą również wywołać remisję) oraz zaleplon (lek na sen, który można przyjmować w środku nocy). Nawet schizofrenicy przyjmują neuroleptyki blokujące histaminę: asenapinę, kwetiapinę, olanzapinę i klozapinę.
-3.  AZS obejmuje objawy wynikające z nadwrażliwości typu 1 i nadwrażliwości typu 4. Typ 1 (reakcje natychmiastowe) dotyczący m. in. [astmy](/atopedia/astma "wikilink") można rozpoznać w razie m. in. [wstrząsu anafilaktycznego](/atopedia/wstrząs_anafilaktyczny "wikilink"), [zaczerwienienia](/atopedia/zaczerwienienie "wikilink") i świądu. Typ 4 (reakcje opóźnione) związany z alergią kontaktową objawia się m. in. sączącymi się ranami, po których zostają strupki, którym towarzyszy świąd i ból. Immunosupresją w formie doustnej nie da się wyleczyć typu I. Podobno Protopic nie działa na typ I.
-4.  Nie da się zdefiniować [remisji](/atopedia/remisja "wikilink") AZS. Pożądana byłaby długotrwała kontrola AZS za pomocą immunosupresji, która może przyczynić się albo do tego, że znikną zmiany skórne, a zostaną sucha skóra i ślady po zaostrzeniach albo do normalnego wyglądu skóry przypominającej skórę zdrowego człowieka. Niezależnie od immunosupresji, zostaje alergia zależna od IgE (atopia według jednej z definicji). Na szczęście i ona jest przypuszczalnie uleczalna dzięki [omalizumabowi](/atopedia/omalizumab "wikilink") i odczulaniu podjęzykowemu.
-5.  Codzienna [pielęgnacja skóry](/atopedia/pielęgnacja "wikilink") jest obowiązkiem każdego człowieka chcącego czuć się młodo i atrakcyjnie, nie tylko chorego na azs. Przyczynia się do regeneracji skóry atopowej, ale nie leczy. Natłuszczona skóra jest znacznie mniej swędząca. Najlepsze kosmetyki to te, które uzupełniają ceramidy w nieszczelnym płaszczu lipidowym atopowej skóry.
+3.  AZS obejmuje objawy wynikające z nadwrażliwości typu 1 i nadwrażliwości typu 4. Typ 1 (reakcje natychmiastowe) dotyczący m. in. [astmy]({{< relref "atopedia/Astma_oskrzelowa.md" >}} "wikilink") można rozpoznać w razie m. in. [wstrząsu anafilaktycznego]({{< relref "atopedia/Wstrząs_anafilaktyczny.md" >}} "wikilink"), [zaczerwienienia](/atopedia/zaczerwienienie "wikilink") i świądu. Typ 4 (reakcje opóźnione) związany z alergią kontaktową objawia się m. in. sączącymi się ranami, po których zostają strupki, którym towarzyszy świąd i ból. Immunosupresją w formie doustnej nie da się wyleczyć typu I. Podobno Protopic nie działa na typ I.
+4.  Nie da się zdefiniować [remisji](/atopedia/remisja "wikilink") AZS. Pożądana byłaby długotrwała kontrola AZS za pomocą immunosupresji, która może przyczynić się albo do tego, że znikną zmiany skórne, a zostaną sucha skóra i ślady po zaostrzeniach albo do normalnego wyglądu skóry przypominającej skórę zdrowego człowieka. Niezależnie od immunosupresji, zostaje alergia zależna od IgE (atopia według jednej z definicji). Na szczęście i ona jest przypuszczalnie uleczalna dzięki [omalizumabowi]({{< relref "atopedia/Omalizumab.md" >}} "wikilink") i odczulaniu podjęzykowemu.
+5.  Codzienna [pielęgnacja skóry]({{< relref "atopedia/Pielęgnacja.md" >}} "wikilink") jest obowiązkiem każdego człowieka chcącego czuć się młodo i atrakcyjnie, nie tylko chorego na azs. Przyczynia się do regeneracji skóry atopowej, ale nie leczy. Natłuszczona skóra jest znacznie mniej swędząca. Najlepsze kosmetyki to te, które uzupełniają ceramidy w nieszczelnym płaszczu lipidowym atopowej skóry.
 6.  Świąd przy braku zmian skórnych i stale powiększone węzły chłonne to objawy nie tylko AZS, ale i nowotworu układu limfatycznego.
 7.  [Algorytm leczenia AZS](/atopedia/Algorytm_leczenia_AZS "wikilink"), który sugeruje leczenie cyklosporyną tylko ciężkich postaci azs, jest niesłuszny.
 8.  Nie ma znaczenia, czy azs leczy alergolog czy dermatolog. Powinien być jednak doświadczony; nie każdy dermatolog przepisze cyklosporynę, nie każdy alergolog podejmie próbę odczulenia (tylko podjęzykowe wchodzi w grę).
@@ -49,16 +49,16 @@ Przepisy szczególne
 18. Senność, osłabienie pamięci krótkotrwałej, dezorientacja, wyciszenie, problemy z załatwianiem i wypróżnianiem po lekach antyhistaminowych pierwszej generacji to ich skutki uboczne cholinergiczne, czyli wynikające z powinowactwa do receptorów muskarynowych.
 19. Leki na azs, co do zasady, nie szkodzą funkcjom seksualnym.
 20. Zdaniem Zeldy leki na astmę, montelukast i zafirlukast, nie łagodzą objawów AZS. Alergolodzy mogą je przepisać off-label.
-21. W USA spekulowano, czy [alergia pokarmowa](/atopedia/alergia_pokarmowa "wikilink") jest przyczyną czy skutkiem AZS u dzieci.
-22. Rola [alergenów](/atopedia/alergen "wikilink") powietrznopochodnych w patogenezie AZS nie jest dogłębnie zbadana.
+21. W USA spekulowano, czy [alergia pokarmowa]({{< relref "atopedia/Alergia.md" >}}_pokarmowa "wikilink") jest przyczyną czy skutkiem AZS u dzieci.
+22. Rola [alergenów]({{< relref "atopedia/Alergen.md" >}} "wikilink") powietrznopochodnych w patogenezie AZS nie jest dogłębnie zbadana.
 23. Polscy lekarze raczej nie przepisują leków off-label. To nie ich wina, że opinie prawne są kontradyktoryjne, a argumentacja w nich przedstawiona - karkołomna.
-24. Jeśli ktoś chory na AZS cierpi na inną chorobę i przyjmuje: [mykofenolat mofetylu](/atopedia/mykofenolat_mofetylu "wikilink"), azatioprynę, metotrekstat, ewerolimus, leflunomid, [omalizumab](/atopedia/omalizumab "wikilink"), rytuksymab, bazyliksymab, [efalizumab](/atopedia/efalizumab "wikilink"), interferon gamma, dożylne immunoglobuliny, to ma szczęście! Tak eksperymentalnie leczą AZS za granicą.
+24. Jeśli ktoś chory na AZS cierpi na inną chorobę i przyjmuje: [mykofenolat mofetylu]({{< relref "atopedia/Mykofenolat_mofetylu.md" >}} "wikilink"), azatioprynę, metotrekstat, ewerolimus, leflunomid, [omalizumab]({{< relref "atopedia/Omalizumab.md" >}} "wikilink"), rytuksymab, bazyliksymab, [efalizumab](/atopedia/efalizumab "wikilink"), interferon gamma, dożylne immunoglobuliny, to ma szczęście! Tak eksperymentalnie leczą AZS za granicą.
 25. Świąd w nocy był przedmiotem badań lekarzy specjalizujących się w medycynie snu: doszli do wniosków, że pojawia się w każdej fazie snu i że powodują go wzrost temperatury ciała i transepidermalna utrata wody związane z rytmem okołodobowym.
 26. Warto dowiedzieć się, czy w poradniach fizjoterapii stosują [naświetlania UV](/atopedia/światłoterapia "wikilink"). Pomagają, ale pod ścisłą kontrolą doświadczonego dermatologa.
 27. Protopic i Elidel są na alergię kontaktową. Zeldzie doradził alergolog, że w razie alergii kontaktowej trzeba po prostu unikać alergenu.
 28. Czasem dzieli się atopic dermatitis na intrinsic (bez podwyższonego IgE całkowitego) i extrinsic (z podwyższonym IgE).
-29. Każdy powinien znać [reakcje krzyżowe](/atopedia/alergeny_krzyżowe "wikilink").
-30. W razie [wstrząsu anafilaktycznego](/atopedia/wstrząs_anafilaktyczny "wikilink") należy mieć ze sobą zastrzyki z epinefryny, od alergologa.
+29. Każdy powinien znać [reakcje krzyżowe]({{< relref "atopedia/Alergen.md" >}}y_krzyżowe "wikilink").
+30. W razie [wstrząsu anafilaktycznego]({{< relref "atopedia/Wstrząs_anafilaktyczny.md" >}} "wikilink") należy mieć ze sobą zastrzyki z epinefryny, od alergologa.
 31. AZS jest przeciwskazaniem do laserowej korekty wzroku z obawy przed DLK (diffuse lamellar keratitis).
 32. Niedobór witamin A, B, D i E oraz kwasów tłuszczowych prowadzi do suchości skóry.
 33. Warto sprawdzić, jak skóra reaguje na ubrania z akrylu.
@@ -70,8 +70,8 @@ Przepisy szczególne
 39. W czasie ciąży najlepszą terapią na AZS są naświetlania [UVB](/atopedia/UVB "wikilink").
 40. Do najczęstszych alergenów pokarmowych należą: mleko (nabiał), jaja, owoce morza, ryby i orzechy.
 41. Każdy leczony długotrwale sterydami powinien mieć oznaczony poziom kortyzolu i ACTH.
-42. 90 % chorych na AZS ma skórę skażoną [gronkowcem złocistym](/atopedia/gronkowiec_złocisty "wikilink"). Nie zawsze jest widoczny. Należy pamiętać o błędnym kole: gronkowiec - egzotoksyny - limfocyty T - interleukina 4 - limfocyty B - IgE - komórki tuczne - stan zapalny - wyprysk - gronkowiec.
-43. Zaostrzenie AZS objawiające się zaczerwienioną, łuszczącą się skórą na niemal całym ciele to [erytrodermia](/atopedia/erytrodermia "wikilink").
+42. 90 % chorych na AZS ma skórę skażoną [gronkowcem złocistym]({{< relref "atopedia/Gronkowiec_złocisty.md" >}} "wikilink"). Nie zawsze jest widoczny. Należy pamiętać o błędnym kole: gronkowiec - egzotoksyny - limfocyty T - interleukina 4 - limfocyty B - IgE - komórki tuczne - stan zapalny - wyprysk - gronkowiec.
+43. Zaostrzenie AZS objawiające się zaczerwienioną, łuszczącą się skórą na niemal całym ciele to [erytrodermia]({{< relref "atopedia/Erytrodermia.md" >}} "wikilink").
 44. Chory na AZS powinien mieć oznaczone IgE całkowite i zrobione testy alergiczne na: brzozę, trawy, bylicę, ambrozję, roztocze kurzu domowego i pleśnie.
 45. Nie budzi wątpliwości aspekt psychosomatyczny AZS. Trzeba jednak odróżnić stres od lęku i smutku. Wywołują one przede wszystkim świąd.
 46. Nie ma sensu analizować statystyk na temat AZS. Każdy przypadek jest inny.
@@ -80,11 +80,11 @@ Przepisy szczególne
 Przepisy karne:
 ---------------
 
-1.  Nie wolno pić [alkoholu](/atopedia/alkohol "wikilink") po posmarowaniu się [Protopikiem](/atopedia/Protopic "wikilink") lub [Elidelem](/atopedia/Elidel "wikilink").
-2.  Nie wolno [drapać się](/atopedia/drapanie "wikilink") mając nieobcięte paznokcie.
+1.  Nie wolno pić [alkoholu]({{< relref "atopedia/Alkohol.md" >}} "wikilink") po posmarowaniu się [Protopikiem](/atopedia/Protopic "wikilink") lub [Elidelem](/atopedia/Elidel "wikilink").
+2.  Nie wolno [drapać się]({{< relref "atopedia/Drapanie.md" >}} "wikilink") mając nieobcięte paznokcie.
 3.  Nie wolno zwiększać zaordynowanej dawki [hydroksyzyny](/atopedia/hydroksyzyna "wikilink").
 4.  Nie wolno przyjmować benzodiazepin i niebenzodiazepin dłużej niż 2 tygodnie, ponieważ mogą wywołać zespół odstawienny, a w konsekwencji świąd.
-5.  Nie wolno demonizować [cyklosporyny](/atopedia/cyklosporyna "wikilink") na forum. Jej zalety to:
+5.  Nie wolno demonizować [cyklosporyny]({{< relref "atopedia/Cyklosporyna.md" >}} "wikilink") na forum. Jej zalety to:
     -   Można leczyć się nią dłużej niż sterydami.
     -   Łagodzi świąd, ponieważ hamuje transkrypcję interleukiny 2.
     -   Zwalcza limfocyty T, które są podłożem reakcji IV typu, opóźnionych.

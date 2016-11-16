@@ -30,4 +30,4 @@ W jaki sposób „doinformować” układ odpornościowy, tego chyba za dobrze n
 
 Trzeba uważać mówiąc o wzmacnianiu układu odpornościowego, bo w przypadku alergii wygląda to inaczej niż w przypadku zwykłych chorób wywoływanych przez zarazki.
 
- [1]: http://www.atopowe-zapalenie.pl/atopedia/Leki_immunosupresyjne
+ [1]: http://www.atopowe-zapalenie.pl/atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}}

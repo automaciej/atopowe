@@ -62,7 +62,7 @@ Balsam do ciała XERIAL 500
 
 Dostępne w aptekach i na str <http://www.bio-med.pl/cenniksvr.html>
 
-Seria zawiera syntetyczny [mocznik](/atopedia/mocznik "wikilink") nawilżający i redukujący nadmierne rogowacenie skóry.
+Seria zawiera syntetyczny [mocznik]({{< relref "atopedia/Mocznik.md" >}} "wikilink") nawilżający i redukujący nadmierne rogowacenie skóry.
 
 Krem CERKODERM 15
 -----------------

@@ -10,7 +10,7 @@ rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna plus 
 
 -   200 g pieczarek
 -   2 pory
--   masło lub [margaryna bezmleczna](/atopedia/margaryna_bezmleczna "wikilink")
+-   masło lub [margaryna bezmleczna]({{< relref "atopedia/Margaryna_bezmleczna.md" >}} "wikilink")
 -   sól
 -   tosty (p. Uwagi)
 -   1 jabłko

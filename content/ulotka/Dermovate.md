@@ -66,7 +66,7 @@ Substancją czynną leku Dermovate w postaci maści jest klobetazolu propionan, 
 
 Dermovate maść jest wskazany do krótkotrwałego leczenia miejscowego chorób skóry reagujących na leczenie kortykosteroidami, takich jak:
 
--   [łuszczyca](/atopedia/łuszczyca "wikilink") (z wyłączeniem zmian uogólnionych),
+-   [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink") (z wyłączeniem zmian uogólnionych),
 -   liszaj płaski,
 -   toczeń rumieniowaty (DLE),
 -   nawracający wyprysk,
@@ -177,11 +177,11 @@ Długotrwałe leczenie oraz stosowanie produktu leczniczego w dużych dawkach mo
 
 -   Nadwrażliwość.
 
-Miejscowe reakcje nadwrażliwości, takie jak rumień (zaczerwienienie), [wysypka](/atopedia/wysypka "wikilink"), [świąd](/atopedia/świąd "wikilink"), [pokrzywka](/atopedia/pokrzywka "wikilink"), miejscowe [pieczenie](/atopedia/pieczenie "wikilink") skóry i alergiczne kontaktowe zapalenie skóry mogą wystąpić w miejscu stosowania leku i mogą być podobne do objawów leczonej choroby.
+Miejscowe reakcje nadwrażliwości, takie jak rumień (zaczerwienienie), [wysypka](/atopedia/wysypka "wikilink"), [świąd](/atopedia/świąd "wikilink"), [pokrzywka]({{< relref "atopedia/Pokrzywka.md" >}} "wikilink"), miejscowe [pieczenie]({{< relref "atopedia/Pieczenie.md" >}} "wikilink") skóry i alergiczne kontaktowe zapalenie skóry mogą wystąpić w miejscu stosowania leku i mogą być podobne do objawów leczonej choroby.
 
 Jeżeli wystąpią objawy nadwrażliwości, należy natychmiast skontaktować się z lekarzem, gdyż konieczne jest przerwanie leczenia lekiem.
 
--   Objaw hiperkortyzolizmu ([zespół Cushinga](/atopedia/zespół_Cushinga "wikilink") z charakterystycznym zaokrągleniem twarzy - kształt księżycowaty).
+-   Objaw hiperkortyzolizmu ([zespół Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}} "wikilink") z charakterystycznym zaokrągleniem twarzy - kształt księżycowaty).
 
 Długotrwałe stosowanie leku, stosowanie w dużych dawkach lub stosowanie leku na duże powierzchnie skóry może prowadzić do wystąpienia ogólnoustrojowych objawów niepożądanych kortykosteroidów i zahamowania czynności nadnerczy. Wystąpienie tych objawów jest bardziej prawdopodobne u dzieci, oraz po zastosowaniu opatrunków okluzyjnych (patrz punkt 6.2 *Zachować szczególną ostrożność stosując lek Dermovate maść*).
 

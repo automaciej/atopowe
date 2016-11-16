@@ -10,7 +10,7 @@ aliases = [ "/atopedia/Kąpiel/",]
 Kąpiele i mycie skóry atopowej
 ------------------------------
 
-W powszechnym mniemaniu i pośród wielu dermatologów pokutuje pogląd, że skoro jednym z poważniejszych problemów w AZS jest tendencja do nadmiernego wysuszania oraz duża [suchość skóry](/atopedia/suchość_skóry "wikilink"), należy myć skórę np.: raz na 3 dni.
+W powszechnym mniemaniu i pośród wielu dermatologów pokutuje pogląd, że skoro jednym z poważniejszych problemów w AZS jest tendencja do nadmiernego wysuszania oraz duża [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink"), należy myć skórę np.: raz na 3 dni.
 
 Taka metoda sprawdzałaby się w przypadku, gdyby skóra w ogóle się nie pociła, a naskórek nie złuszczał. Skóry nie wysusza sama kąpiel, ale odparowywanie wody z rogowej warstwy skóry w ciągu pierwszych kilku minut po kąpieli – woda nadmiernie odparowuje z powodu naruszonego i zniszczonego [płaszcza lipidowego](/atopedia/Płaszcz_lipidowy "wikilink") skóry atopowej.
 
@@ -66,7 +66,7 @@ Owies : Płatki owsiane dzięki zawartości krzemionki świetnie nawilżają suc
 Zbyt częste kąpiele
 -------------------
 
-O ile kąpiele są dobrym sposobem na [pielęgnację](/atopedia/pielęgnacja "wikilink") skóry, to należy uważać aby nie robić ich zbyt często. Chlorowana [woda](/atopedia/woda "wikilink") w dużych miastach szczególnie źle wpływa na [skórę atopową](/atopedia/skóra_atopowa "wikilink"). Woda do kąpieli powinna mieć niezbyt wysoką temperaturę.
+O ile kąpiele są dobrym sposobem na [pielęgnację]({{< relref "atopedia/Pielęgnacja.md" >}} "wikilink") skóry, to należy uważać aby nie robić ich zbyt często. Chlorowana [woda]({{< relref "atopedia/Woda.md" >}} "wikilink") w dużych miastach szczególnie źle wpływa na [skórę atopową]({{< relref "atopedia/Skóra.md" >}}_atopowa "wikilink"). Woda do kąpieli powinna mieć niezbyt wysoką temperaturę.
 
 Można do wody dodać naturalny olejek (np. herbaciany), albo płyn do kąpieli dla skóry suchej lub bardzo suchej, albo sól do kąpieli przeznaczoną do pielęgnacji skóry z problemami (np. Bocheńska, z Morza Martwego). Sól po kąpieli należy spłukać. Można też kąpać się w leciutkim roztworze nadmanganianu potasu.
 
@@ -74,4 +74,4 @@ Po kąpieli nie należy skóry energicznie wycierać, a jedynie lekko osuszyć.
 
 Chory na AZS może wpaść w błędne koło kąpieli: [skóra](/atopedia/Skóra "wikilink") mu dokucza, więc idzie się kąpać, po kąpieli przez chwilę jest lepiej, po czym pomimo natłuszczania skóra staje się bardziej sucha niż była przed kąpielą. Jest to sprawa indywidualna, ale może być tak, że codzienne kąpiele mogą doprowadzić do objawów takich jak np. ból dużych powierzchni skóry.
 
-Należy pamiętać też, że po kąpielach bardzo ważne jest [natłuszczanie](/atopedia/natłuszczanie "wikilink") skóry, najlepiej jeszcze lekko wilgotnej.
+Należy pamiętać też, że po kąpielach bardzo ważne jest [natłuszczanie]({{< relref "atopedia/Natłuszczanie.md" >}} "wikilink") skóry, najlepiej jeszcze lekko wilgotnej.

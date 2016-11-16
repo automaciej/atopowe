@@ -14,7 +14,7 @@ Xerialine 500
 **Skład:**
 
 -   Balsam O/W
--   3% [mocznika](/atopedia/mocznik "wikilink")
+-   3% [mocznika]({{< relref "atopedia/Mocznik.md" >}} "wikilink")
 -   3% masła karite
 
 **Zastosowanie:**

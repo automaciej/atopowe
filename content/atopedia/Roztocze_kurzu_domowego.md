@@ -14,7 +14,7 @@ Szczególnie często i w dużych ilościach obecny w pościeli, tapicerowanych m
 
 **Inne strony o roztoczach**
 
--   [Roztocze](/atopedia/wikipedia:Roztocze_kurzu_domowego "wikilink") - z Wikipedii
+-   [Roztocze]({{< relref "atopedia/Roztocze_kurzu_domowego.md" >}} "wikilink") - z Wikipedii
 -   [O roztoczach na alergen.info.pl](http://www.alergen.info.pl/Alergeny/Roztocze_kurzu_domowego)
 -   [Eksterminacja roztoczy](http://www.alertex.pl/main.php)
 -   [Epidemiologia uczulenia na roztocze - częstość występowania, obraz kliniczny, sezonowość objawów](http://www.alergia.org.pl/lek.arch1/archiwum/99_03/epidemiologia.html) - prof. dr hab. n. med. Bolesław Samoliński

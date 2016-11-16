@@ -6,4 +6,4 @@ kategorie = [ "Maści",]
 
 +++
 
-1.  redirect [:Kategoria:Maści z dziegciem](/atopedia/:Kategoria:Maści_z_dziegciem "wikilink")
+1.  redirect [:Kategoria:Maści z dziegciem]({{< relref "atopedia/Maści_z_dziegciem.md" >}} "wikilink")

@@ -9,7 +9,7 @@ kategorie = [ "substancje chemiczne",]
 Nasz organizm jest stale zagrożony na ataki zarazków, grzybów, pyłków,
 alergenów. W organizmie znajdują się receptory, które odpowiedzialne są za
 zniszczenie innociał. Zdarza się jednak, że atakujący
-[alergen](/atopedia/alergen "wikilink") jest odporny i wtedy zaczynają działać
+[alergen]({{< relref "atopedia/Alergen.md" >}} "wikilink") jest odporny i wtedy zaczynają działać
 komórki zwane tucznymi. Pobudzają one jeden z głównych składników, zwany
 histaminą. Uwalnia się ona, gdy na organizm zadziała jakiś alergen.
 
@@ -36,7 +36,7 @@ ataki bezdechu u alergików.
 
 Histamina w czasie alarmu powoduje wzmożone wydzielanie soków trawiennych i
 skurcze mięśni, co prowadzi do biegunki i tzw. [alergii
-pokarmowej](/atopedia/alergia_pokarmowa "wikilink").
+pokarmowej]({{< relref "atopedia/Alergia.md" >}}_pokarmowa "wikilink").
 
 Receptory H3 modulują syntezę histaminy i jej uwalnianie w ośrodkowym układzie
 nerwowym i mogą obniżać jej uwalnianie z komórek tucznych i hamować uwalnianie
@@ -50,14 +50,14 @@ konieczność leczenia antyhistaminowego.
 [Leki antyhistaminowe](/atopedia/Leki_antyhistaminowe "wikilink") mają za
 zadanie blokowanie tych receptorów, które odpowiedzialne są za produkcję
 histaminy. Ma to powstrzymać pojawianie się efektów alergicznych typu kichanie,
-[wyprysk](/atopedia/wyprysk "wikilink"), łzawienie oczu. Zostaje też zablokowane
+[wyprysk]({{< relref "atopedia/Wyprysk.md" >}} "wikilink"), łzawienie oczu. Zostaje też zablokowane
 powstawanie [swędzenia](/atopedia/świąd "wikilink"). Jednak nawet najlepsze leki
 antyhistaminowe nie są w stanie całkowicie usunąć histaminy przypisanej do
 danego receptora. Dlatego ważne jest stałe i regularne stosowanie leków.
 
 **Zobacz również:**
 
--   [Leki antyhistaminowe](/atopedia/:kategoria:Leki_antyhistaminowe "wikilink")
+-   [Leki antyhistaminowe]({{< relref "atopedia/Leki_antyhistaminowe.md" >}} "wikilink")
 -   [Dieta antyhistaminowa](/atopedia/Dieta_antyhistaminowa "wikilink")
 -   [Histamina i alergia](http://www.przychodnia.pl/alergia/index6.php3?s=3&d=5&t=6&p1=0)
 

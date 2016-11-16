@@ -6,6 +6,6 @@ kategorie = [ "maści",]
 
 +++
 
-**Uierzalf** jest [maścią](/atopedia/maść "wikilink") przeznaczoną do pielęgnacji krowich wymion. Co ciekawe, można ją dostać w niektórych sklepach kosmetycznych.
+**Uierzalf** jest [maścią]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink") przeznaczoną do pielęgnacji krowich wymion. Co ciekawe, można ją dostać w niektórych sklepach kosmetycznych.
 
 Jest to jedna z najcięższych, tj. najbardziej tłustych maści jakie można dostać. Nie zawiera żadnych substancji aktywnych.

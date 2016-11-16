@@ -6,7 +6,7 @@ kategorie = [ "Terapia",]
 
 +++
 
-Skóra pacjentów z atopowym zapaleniem skóry często jest skolonizowana przez bakterie z gatunku *Staphylococcus aureus* ([gronkowiec złocisty](/atopedia/gronkowiec_złocisty "wikilink")). Jego obecność stwierdza się zarówno w obrębie zmian, jak na zdrowej skórze. Według ostatnich badań nie ma jednak uzasadnienia stosowanie miejscowego leczenia przeciwbakteryjnego/antyseptycznego w atopowym zapaleniu skóry[1].
+Skóra pacjentów z atopowym zapaleniem skóry często jest skolonizowana przez bakterie z gatunku *Staphylococcus aureus* ([gronkowiec złocisty]({{< relref "atopedia/Gronkowiec_złocisty.md" >}} "wikilink")). Jego obecność stwierdza się zarówno w obrębie zmian, jak na zdrowej skórze. Według ostatnich badań nie ma jednak uzasadnienia stosowanie miejscowego leczenia przeciwbakteryjnego/antyseptycznego w atopowym zapaleniu skóry[1].
 
 ### Bibliografia
 

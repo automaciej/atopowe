@@ -6,7 +6,7 @@ kategorie = [ "leki",]
 
 +++
 
-**Omalizumab (Xolair)** - preparat monoklonalnych, humanizowanych przeciwciał obniżający poziom IgE całkowitego, stosowany w leczeniu [astmy oskrzelowej](/atopedia/Astma_oskrzelowa "wikilink") oraz [alergicznego nieżytu nosa](/atopedia/Alergiczny_nieżyt_nosa "wikilink"). Jego mechanizm działania polega na blokowaniu wiązania się immunoglobuliny E z powierzchnią komórek uwalniających [histaminę](/atopedia/histamina "wikilink") i inne mediatory zapalenia w przebiegu astmy. Dzięki temu pozwala na zmniejszenie zaostrzeń astmy i złagodzenie jej przebiegu. Podawany jest w postaci zastrzyku podskórnego.
+**Omalizumab (Xolair)** - preparat monoklonalnych, humanizowanych przeciwciał obniżający poziom IgE całkowitego, stosowany w leczeniu [astmy oskrzelowej](/atopedia/Astma_oskrzelowa "wikilink") oraz [alergicznego nieżytu nosa](/atopedia/Alergiczny_nieżyt_nosa "wikilink"). Jego mechanizm działania polega na blokowaniu wiązania się immunoglobuliny E z powierzchnią komórek uwalniających [histaminę]({{< relref "atopedia/Histamina.md" >}} "wikilink") i inne mediatory zapalenia w przebiegu astmy. Dzięki temu pozwala na zmniejszenie zaostrzeń astmy i złagodzenie jej przebiegu. Podawany jest w postaci zastrzyku podskórnego.
 
 Lek nie jest zarejestrowany w Polsce. Terapia jest kosztowna.
 

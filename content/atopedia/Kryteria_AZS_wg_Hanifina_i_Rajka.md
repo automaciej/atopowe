@@ -15,7 +15,7 @@ Kryteria AZS wg Hanifina i Rajka
 -   [Świąd](/atopedia/Świąd "wikilink")
 -   Przewlekły i nawrotowy przebieg
 -   Charakterystyczna morfologia zmian i ich lokalizacja
--   Osobniczy lub [rodzinny](/atopedia/obciążenie_genetyczne "wikilink") wywiad atopowy
+-   Osobniczy lub [rodzinny]({{< relref "atopedia/Obciążenie_genetyczne.md" >}} "wikilink") wywiad atopowy
 
 ### Objawy mniejsze AZS
 
@@ -24,7 +24,7 @@ Kryteria AZS wg Hanifina i Rajka
 -   Natychmiastowe reakcje skórne
 -   Podwyższony poziom [IgE](/atopedia/IgE "wikilink")
 -   Wczesny wiek wystąpienia zmian
--   Skłonność do nawrotowych [zakażeń skóry](/atopedia/infekcja_skóry "wikilink")
+-   Skłonność do nawrotowych [zakażeń skóry]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink")
 -   Nieswoisty wyprysk rąk i/lub stóp
 -   Wyprysk sutków
 -   Zapalenie czerwieni warg
@@ -38,7 +38,7 @@ Kryteria AZS wg Hanifina i Rajka
 -   Świąd po spoceniu
 -   Nietolerancja pokarmów
 -   Nietolerancja wełny
--   Zaostrzenie [po zdenerwowaniu](/atopedia/stres "wikilink")
+-   Zaostrzenie [po zdenerwowaniu]({{< relref "atopedia/Stres.md" >}} "wikilink")
 -   [Biały dermografizm](/atopedia/Biały_dermografizm "wikilink")
 -   Rumień twarzy
 -   Akcentacja mieszków włosowych
@@ -46,4 +46,4 @@ Kryteria AZS wg Hanifina i Rajka
 Zobacz również
 --------------
 
-Opis kryteriów w [wykładzie dr Grzesiak](/Wykład_dr_Ireny_Grzesiak#Dodatkowe_kryteria "wikilink")
+Opis kryteriów w [wykładzie dr Grzesiak]({{< relref "atopedia/Wykład_dr_Ireny_Grzesiak.md" >}}#Dodatkowe_kryteria "wikilink")

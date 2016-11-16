@@ -8,4 +8,4 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 
 Chyba każda osoba chora na [atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink") zgodzi się, że **pieczenie** jest przyjemniejsze niż [swędzenie](/atopedia/Świąd "wikilink").
 
-Pieczenie pojawia się najczęściej po smarowaniu [maściami](/atopedia/Maść "wikilink") takimi jak [maści z dziegciem](/atopedia/Maści_z_dziegciem "wikilink"). Pieczenie też może pojawiać się u niektórych osób w początkowej fazie terapii maścią [Protopic](/atopedia/Protopic "wikilink") (ale można go uniknąć).
+Pieczenie pojawia się najczęściej po smarowaniu [maściami]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink") takimi jak [maści z dziegciem](/atopedia/Maści_z_dziegciem "wikilink"). Pieczenie też może pojawiać się u niektórych osób w początkowej fazie terapii maścią [Protopic](/atopedia/Protopic "wikilink") (ale można go uniknąć).

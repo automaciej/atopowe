@@ -71,7 +71,7 @@ działają na zupełnie innej zasadzie niż sterydy. Są znane mniej więcej od
 początku lat 90-tych. Można stosować je przez długi okres czasu. Są niestety
 [bardzo drogie]({{< relref "Refundacja_maści_Protopic.md" >}}).  Istnieje też
 kontrowersja dotycząca [rakotwórczości leków
-immunosupresyjnych](/Takrolimus#Obawy_co_do_rakotw.C3.B3rczo.C5.9Bci), ale można
+immunosupresyjnych]({{< relref "atopedia/Takrolimus.md" >}}#Obawy_co_do_rakotw.C3.B3rczo.C5.9Bci), ale można
 przypuszczać, że jest nakręcana przez producentów leków sterydowych.
 
 ## Jeżeli masz łagodne, miejscowe objawy

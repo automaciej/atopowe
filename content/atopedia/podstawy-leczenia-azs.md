@@ -18,7 +18,7 @@ aliases = [ "/atopedia/Algorytm_leczenia_AZS/" ]
 - Emolienty 2x dziennie
 - Unikanie czynników zaostrzających
 - [mGKS][mgks] o małej sile działania
-- [mIK][mik] alternatywnie ± [leki przeciwhistaminowe](/atopedia/leki_przeciwhistaminowe "wikilink")
+- [mIK][mik] alternatywnie ± [leki przeciwhistaminowe]({{< relref "atopedia/Leki_przeciwhistaminowe.md" >}} "wikilink")
 
 ### Stopień III
 
@@ -46,7 +46,7 @@ powyżej I stopnia.
 - Unikanie czynników zaostrzających
 - mGKS o średniej lub większej sile działania
 - mIK stosowane długotrwale w terapii przerywanej ± leki przeciwhistaminowe
-- W razie objawów zakażenia - [antybiotyk](/atopedia/antybiotyk "wikilink")
+- W razie objawów zakażenia - [antybiotyk]({{< relref "atopedia/Antybiotyk.md" >}} "wikilink")
 
 ### Stopień IV
 
@@ -77,7 +77,7 @@ W razie zaostrzenia przejść na wyższy stopień, po uzyskaniu remisji przejś�
 
 - Emolienty 2x dziennie
 - Unikanie czynników zaostrzających
-- [Fototerapia](/atopedia/Fototerapia "wikilink") lub [leczenie systemowe](/Leki_immunosupresyjne#Systemowe "wikilink")
+- [Fototerapia](/atopedia/Fototerapia "wikilink") lub [leczenie systemowe]({{< relref "atopedia/Leki_immunosupresyjne.md" >}}#Systemowe "wikilink")
 - mIK stosowane długotrwale w terapii przerywanej ± leki przeciwhistaminowe
 - W razie objawów zakażenia - antybiotyk
 
@@ -90,5 +90,5 @@ stopnia V w razie potrzeby.
 **Żródło:** Wanat-Krzak M, Kurzawa R. Diagnostyka i leczenie wyprysku atopowego.
 *Alergia Astma Immunologia 2006, 11(1):11-21*
 
-[mgks]: /atopedia/glikokortykosterydy "miejscowe glikokortykosterydy"
+[mgks]: {{< relref "atopedia/Glikokortykosterydy.md" >}} "miejscowe glikokortykosterydy"
 [mik]: /atopedia/Inhibitory_kalcyneuryny "miejscowe Inhibitory kalcyneuryny, np. Elidel albo Protopic"

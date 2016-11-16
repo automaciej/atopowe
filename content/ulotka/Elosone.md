@@ -21,9 +21,9 @@ Pirośluzan mometazonu, [glikokortykosteroid](/atopedia/sterydy "wikilink") o ś
 
 ### Wskazania
 
--   [atopowe zapalenie skóry](/atopedia/atopowe_zapalenie_skóry "wikilink")
+-   [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink")
 -   neurodermit
--   [łuszczyca](/atopedia/łuszczyca "wikilink")
+-   [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink")
 
 ### Przeciwwskazania
 

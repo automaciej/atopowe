@@ -15,7 +15,7 @@ Fexofenadini hydrochloridum
 
 -   [Wątek na Forum](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=10&t=1244)
 -   [Telfexo](/atopedia/Telfexo "wikilink"), polski odpowiednik Telfastu
--   [Inne leki antyhistaminowe](/atopedia/:kategoria:leki_antyhistaminowe "wikilink")
+-   [Inne leki antyhistaminowe]({{< relref "atopedia/Leki_antyhistaminowe.md" >}} "wikilink")
 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
@@ -39,7 +39,7 @@ Informacje ważne przed zastosowaniem leku Telfast 180
 
 ### Kiedy nie należy stosować leku Telfast 180
 
--   jeśli u pacjenta stwierdzono uczulenie (nadwrażliwość) na feksofenadyny chlorowodorek lub którykolwiek z pozostałych składników leku Telfast 180 (pełna lista składników patrz [punkt 6.1](/Telfast#Co_zawiera_lek_Telfast_180 "wikilink")).
+-   jeśli u pacjenta stwierdzono uczulenie (nadwrażliwość) na feksofenadyny chlorowodorek lub którykolwiek z pozostałych składników leku Telfast 180 (pełna lista składników patrz [punkt 6.1]({{< relref "ulotka/Telfast.md" >}}#Co_zawiera_lek_Telfast_180 "wikilink")).
 
 ### Kiedy zachować szczególną ostrożność stosując lek Telfast 180
 

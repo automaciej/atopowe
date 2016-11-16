@@ -9,7 +9,7 @@ aliases = [ "/atopedia/Nova-baza/",]
 
 **Nova-baza**
 
-[Maść](/atopedia/maść "wikilink") intensywnie natłuszczająca
+[Maść]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink") intensywnie natłuszczająca
 
 **Skład:** petroleatum, propylene glycol, sorbitan sesquioleate.
 

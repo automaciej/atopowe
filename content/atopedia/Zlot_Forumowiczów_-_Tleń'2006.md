@@ -5,4 +5,4 @@ title = "Zlot Forumowiczów - Tleń'2006"
 
 +++
 
-1.  redirect [Tleń 2006](/Tleń_2006 "wikilink")
+1.  redirect [Tleń 2006]({{< relref "atopedia/Tleń_2006.md" >}} "wikilink")

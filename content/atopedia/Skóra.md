@@ -30,7 +30,7 @@ W [atopowym zapaleniu skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink") zmi
 
 Warstwa podstawna składa się ze ściśle do siebie przylegających żywych komórek cylindrycznych. Komórki te regularnie dzielą się mitotycznie na pół. Część dolna zostaje na swoim miejscu, górna przesuwa, wędruje na powierzchnię aby się złuszczyć – ten proces to **keratynizacja naskórka**. Komórki z czasem tracą jądro i przechodzą do warstwy rogowej. Proces ten w przypadku zdrowej skóry zajmuje około 28 - 30 dni.
 
-Warstwa podstawna zawiera również melanocyty, które produkują [melaninę](/atopedia/Melanina "wikilink"). Pomiędzy komórkami warstwy podstawnej znajdują się także [komórki Langerhansa](/atopedia/komórki_Langerhansa "wikilink") i komórki Merkla (receptory dotyku).
+Warstwa podstawna zawiera również melanocyty, które produkują [melaninę](/atopedia/Melanina "wikilink"). Pomiędzy komórkami warstwy podstawnej znajdują się także [komórki Langerhansa]({{< relref "atopedia/Komórki_Langerhansa.md" >}} "wikilink") i komórki Merkla (receptory dotyku).
 
 #### Warstwa rogowa
 

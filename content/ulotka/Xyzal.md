@@ -37,7 +37,7 @@ Zalecane środki ostrożności
 
 Leku Xyzal nie należy stosować:
 
--   w przypadku nadwrażliwości ([alergii](/atopedia/alergia "wikilink")) na dichlorowodorek lewocetyryzyny, na inne składniki leku lub na jakąkolwiek substancję o podobnej budowie chemicznej,
+-   w przypadku nadwrażliwości ([alergii]({{< relref "atopedia/Alergia.md" >}} "wikilink")) na dichlorowodorek lewocetyryzyny, na inne składniki leku lub na jakąkolwiek substancję o podobnej budowie chemicznej,
 -   u pacjentów z ciężką niewydolnością nerek,
 -   u pacjentów z zaburzeniami wrodzonymi takimi jak: nietolerancja galaktozy, niedobór Lapp laktazy lub złe wchłanianie glukozo-galaktozy.
 
