@@ -2,6 +2,8 @@
 author = "Wahwah"
 date = "2016-04-23T11:44:28+01:00"
 title = "Reorganizacja serwisu atopowe.pl"
+lastmod = "2016-11-17T08:15:25+00:00"
+
 description = """
 W kwietniu 2016 r. stare forum zostanie wyłączone, a treść przeniesiona \
 w nowe miejsca, które nie będą od nas wymagały aktywnego utrzymywania."""
