@@ -557,7 +557,7 @@ Powstańców Warszawy 2
 
 --------
 
-dr Alicja Bujakiewicz
+dr Alicja Bujakiewicz-Krześniak
 Alergolog
 ZOZ Wola
 
@@ -745,6 +745,26 @@ NZOZ Specjalistyczny Osrodek Dermatologiczny
 Białystok
 ul. Nowy Świat 17
 85 74 45 115
+
+--------
+
+Alergolog: dr med. Anna Maria Rogalewska  
+Lege Artis  
+ul. Młynowa 17  
+15-404 Białystok  
+telefon: 85 674 66 00
+
+Dermatolog: dr med. Piotr Porębski  
+Dermedica  
+ul. Legionowa 3  
+15-099 Białystok  
+(Piętro II)  
+tel.: +48 85 742 97 77
+
+Poradnia dermatologiczna  
+Białystok,  
+ul. Żurawia 14  
+Telefon: 85 74 09 582.
 
 ### Pomorskie
 
