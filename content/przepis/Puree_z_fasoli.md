@@ -6,7 +6,7 @@ rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "di
 
 +++
 
-![](/images/pasta_fasolowa.JPG "Grafika:pasta_fasolowa.JPG")
+![](/images/Pasta_fasolowa.JPG)
 
 **Składniki:**
 

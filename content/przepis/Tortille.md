@@ -8,7 +8,7 @@ rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "di
 
 12 sztuk (dla 3 osób)
 
-![](/images/tortilla.JPG "Grafika:tortilla.JPG")
+![](/images/Tortilla.JPG)
 
 **Składniki:**
 

@@ -30,7 +30,7 @@ Preparaty Emolium powstały w ścisłej współpracy z dermatologami i pediatram
 
 **Skład:** trójglicerydy kwasu kaprynowego i kaprylowego (4%), urea (3%), hialuronian sodu (1%), Fucogel® (3%), olej macadamia (3%), masło shea (4%), pantenol (1%), olej parafinowy (5%)
 
-**Krem specjalny** 75 ml ![](/images/kremspec.jpg "right") **Wskazania:** Codzienne odżywianie i pielęgnacja skóry:
+**Krem specjalny** 75 ml ![](/images/Kremspec.jpg "right") **Wskazania:** Codzienne odżywianie i pielęgnacja skóry:
 
 -   bardzo suchej
 -   szorstkiej i popękanej
@@ -41,7 +41,7 @@ Preparaty Emolium powstały w ścisłej współpracy z dermatologami i pediatram
 
 **Skład:** Arlasilk® Phospholipid GLA (2%), urea (5%), hialuronian sodu (2%), olej macadamia (3%), masło shea (6%), trójglicerydy oleju z kukurydzy (3%), olej parafinowy (8%)
 
-**Kremowy żel do mycia** 200 ml ![](/images/zel.jpg "right") **Wskazania** Codzienne odżywianie i higiena skóry:
+**Kremowy żel do mycia** 200 ml ![](/images/Zel.jpg "right") **Wskazania** Codzienne odżywianie i higiena skóry:
 
 -   w przebiegu atopowego zapalenia skóry
 -   w innych chorobach przebiegających z suchością skóry, m.in. rybia łuska, łuszczyca, wyprysk, liszaj płaski,
@@ -51,7 +51,7 @@ Preparaty Emolium powstały w ścisłej współpracy z dermatologami i pediatram
 
 **Skład:** Arlasilk® Phospholipid GLA (2,5%), hialuronian sodu (0,3%), olej macadamia (3%), masło shea (3%), trójglicerydy oleju z kukurydzy (0,5%), pantenol (1%), gliceryna (5%)
 
-**Olejek do kąpieli** 200 ml ![](/images/olejek.jpg "right") **Wskazania**
+**Olejek do kąpieli** 200 ml ![](/images/Olejek.jpg "right") **Wskazania**
 
 -   długotrwale natłuszcza skórę
 -   sprawia, że skóra staje się mniej podatna na podrażnienia i odczyny zapalne
@@ -62,7 +62,7 @@ Preparaty Emolium powstały w ścisłej współpracy z dermatologami i pediatram
 
 **Skład:** Arlasilk® Phospholipid GLA (2%), urea (5%), hialuronian sodu (0,5%), olej macadamia (3%), masło shea (2%), trójglicerydy oleju z kukurydzy (1%), alantoina (0,6%), olej parafinowy (10%), gliceryna (15%)
 
-**Emulsja do ciała** 200 ml i 400 ml ![](/images/emulsja.jpg "right") **Wskazania:** Codzienne odżywianie i pielęgnacja skóry:
+**Emulsja do ciała** 200 ml i 400 ml ![](/images/Emulsja.jpg "right") **Wskazania:** Codzienne odżywianie i pielęgnacja skóry:
 
 -   suchej i bardzo suchej
 -   podrażnionej i szorstkiej
@@ -71,7 +71,7 @@ Preparaty Emolium powstały w ścisłej współpracy z dermatologami i pediatram
 
 **Skład:** trójglicerydy kwasu kaprynowego i kaprylowego (4%), urea (3%), hialuronian sodu (1%), Fucogel® (3%), olej macadamia (3%), masło shea (4%), pantenol (1%), olej parafinowy (5%)
 
-**Krem barierowy** 40 ml ![](/images/krembar.jpg "right") **Wskazania:** Regeneracja, odżywianie i pielęgnacja skóry:
+**Krem barierowy** 40 ml ![](/images/Krembar.jpg "right") **Wskazania:** Regeneracja, odżywianie i pielęgnacja skóry:
 
 -   z alergicznymi i niealergicznymi zmianami kontaktowymi
 -   zniszczonej i popękanej
@@ -80,7 +80,7 @@ Ochrona skóry narażonej na działanie szkodliwych czynników zewnętrznych, ta
 
 **Skład:** Fomblin HC/R (4%), olej silikonowy (2%), polimer błonotwórczy (1,5%), Tephroline (2%), olej canola (1,5%), olej parafinowy (3%), alantoina (1%)
 
-**Szampon nawilżający** 200 ml ![](/images/szampon_emolium.jpg "right") **Wskazania:** Zalecany dla dzieci i dorosłych do codziennej pielęgnacji skóry głowy:
+**Szampon nawilżający** 200 ml ![](/images/Szampon_emolium.jpg "right") **Wskazania:** Zalecany dla dzieci i dorosłych do codziennej pielęgnacji skóry głowy:
 
 -   wrażliwej i swędzącej
 -   skłonnej do alergii i podrażnień

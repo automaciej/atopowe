@@ -22,7 +22,6 @@ Biblioteki należy umieścić w katalogu static, w podkatalogach:
 
 ## Istniejące problemy
 
--   Jest dużo (!) zepsutych / niedziałających linków.
 -   Na serwerze są pliki których nie ma tutaj w repozytorium. Potrzebne jest
     przejrzenie wszystkiego co jest na serwerze, dodanie do repozytorium tego co
     potrzebne, skasowanie reszty.

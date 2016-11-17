@@ -10,7 +10,7 @@ aliases = [ "/atopedia/Vitaminum_E_100/",]
 Treść na opakowaniu
 ===================
 
-![](/images/vitaminum_e_100.jpg "right")
+![](/images/Vitaminum_e_100.jpg)
 
 **Vitaminum E 100**
 (Tocopheroli acetas)

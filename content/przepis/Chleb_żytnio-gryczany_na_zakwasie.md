@@ -8,7 +8,7 @@ rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna",]
 
 Proporcje na 2 duże keksówki
 
-![](/images/zytnio-gryczany.JPG "Grafika:zytnio-gryczany.JPG")
+![](/images/Zytnio-gryczany.JPG)
 
 **Składniki:**
 
