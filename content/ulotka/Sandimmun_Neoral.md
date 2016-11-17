@@ -231,4 +231,4 @@ tel : +48 22 55 08 888
 **Zobacz też**
 
 -   [Cyklosporyna](/atopedia/Cyklosporyna "wikilink")
--   [Leki immunosupresyjne](/atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink")
+-   [Leki immunosupresyjne]({{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink")

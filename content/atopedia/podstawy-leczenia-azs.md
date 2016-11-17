@@ -77,7 +77,7 @@ W razie zaostrzenia przejść na wyższy stopień, po uzyskaniu remisji przejś�
 
 - Emolienty 2x dziennie
 - Unikanie czynników zaostrzających
-- [Fototerapia](/atopedia/Fototerapia "wikilink") lub [leczenie systemowe]({{< relref "atopedia/Leki_immunosupresyjne.md" >}}#Systemowe "wikilink")
+- [Fototerapia](/atopedia/Fototerapia "wikilink") lub [leczenie systemowe]({{< relref "atopedia/Leki_immunosupresyjne.md" >}})
 - mIK stosowane długotrwale w terapii przerywanej ± leki przeciwhistaminowe
 - W razie objawów zakażenia - antybiotyk
 

@@ -5,5 +5,5 @@ title = "Loratadyna"
 
 +++
 
--   [Loratadyna (substancja aktywna)](/Loratadyna_(substancja_aktywna) "wikilink")
+-   [Loratadyna (substancja aktywna)](/atopedia/Loratadyna_%28substancja_aktywna%29 "wikilink")
 -   [Loratadyna (lek)]({{< relref "ulotka/Loratadyna_(lek).md" >}} "wikilink")

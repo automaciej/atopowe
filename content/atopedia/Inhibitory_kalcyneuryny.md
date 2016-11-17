@@ -6,7 +6,7 @@ kategorie = [ "terapia",]
 
 +++
 
--   [Takrolimus](/atopedia{{< relref "atopedia/Takrolimus.md" >}} "wikilink") ([Protopic](/atopedia/Protopic "wikilink"))
+-   [Takrolimus]({{< relref "atopedia/Takrolimus.md" >}} "wikilink") ([Protopic](/atopedia/Protopic "wikilink"))
 -   [Pimecrolimus](/atopedia/Pimecrolimus "wikilink") ([Elidel](/atopedia/Elidel "wikilink"))
 -   [Cyklosporyna](/atopedia/Cyklosporyna "wikilink")
 
@@ -20,4 +20,4 @@ Kompleks lek-immunofilina blokuje kalcyneurynę i zapobiega defosforylacji NFATc
 
 #### Zobacz również:
 
--   [Leki immunosupresyjne](/atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink")
+-   [Leki immunosupresyjne]({{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink")

@@ -7,7 +7,7 @@ aliases = [ "/atopedia/Ciclosporinum/",]
 
 +++
 
-[Lek immunosupresyjny](/atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") stosowany w ciężkim atopowym zapaleniu skóry. W przeciwieństwie do leków stosowanych miejscowo, cyklosporyna działa systemowo, czyli na cały organizm. Działa hamująco na uwalnianie prozapalnych [cytokin]({{< relref "atopedia/Cytokiny.md" >}} "wikilink") IL-1, IL-2, IFN-gamma.
+[Lek immunosupresyjny]({{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") stosowany w ciężkim atopowym zapaleniu skóry. W przeciwieństwie do leków stosowanych miejscowo, cyklosporyna działa systemowo, czyli na cały organizm. Działa hamująco na uwalnianie prozapalnych [cytokin]({{< relref "atopedia/Cytokiny.md" >}} "wikilink") IL-1, IL-2, IFN-gamma.
 
 Dawkowanie: początkowo 3–5 mg/kg masy ciała na dobę, po uzyskaniu poprawy dawkę redukuje się do 1,5–2 mg/kg masy ciała na dobę. Leczenie zwykle trwa od 4 do 8 tyg.[1]
 

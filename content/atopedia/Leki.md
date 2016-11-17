@@ -17,7 +17,7 @@ Stosowane leki można podzielić na kilka kategorii (ze względu na sposób dzia
 -   [Leki antyhistaminowe](/atopedia/Leki_antyhistaminowe "wikilink") (blokujące wydzielanie [histaminy](/atopedia/Histamina "wikilink"))
 -   [Leki sedatywne](/atopedia/Leki_sedatywne "wikilink") (działające uspokajająco, otępiająco)
 -   [Kortykosterydy](/atopedia/Kortykosterydy "wikilink") (działające przeciwzapalnie)
--   [Leki immunosupresyjne](/atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") (obniżające odporność)
+-   [Leki immunosupresyjne]({{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") (obniżające odporność)
 
 oraz preparaty wspomagające leczenie:
 

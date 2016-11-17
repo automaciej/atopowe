@@ -41,7 +41,7 @@ Na slajdzie nr. 13 prezentacji[3] są pokazane wyniki badań. Ocenia się, że t
 <references/>
 **Zobacz też**
 
--   [Leki immunosupresyjne](/atopedia{{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink")
+-   [Leki immunosupresyjne]({{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink")
 -   [Protopic](/atopedia/Protopic "wikilink") (takrolimus)
 -   [Elidel](/atopedia/Elidel "wikilink") ([pimekrolimus]({{< relref "atopedia/Pimekrolimus.md" >}} "wikilink"))
 -   Takrolimus w polskiej Wikipedii
