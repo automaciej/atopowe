@@ -1,0 +1,4 @@
++++
+kategorie = [ "podstawowe wiadomości",]
+
++++
