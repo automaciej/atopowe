@@ -8,7 +8,7 @@ kategorie = [ "niekonwencjonalne metody leczenia",]
 
 **Akupunktura** - metoda lecznicza polegająca na nakłuwaniu specjalnymi igłami wybranych punktów na ciele człowieka. Pochodzi ze starożytnych Chin, ma ponad 2000 lat tradycji. Akupunktura posiada obecnie udokumentowane badania naukowe. Zaczyna być pełnoprawną, akceptowaną z punktu widzenia medycyny konwencjonalnej metodą leczenia – sprawdza się zwłaszcza w leczeniu bólu. Dowiedziono, że w czasie i po zabiegu w organizmie człowieka wzrasta poziom wydzielania neurohormonów, czyli hormonów wydzielanych przez komórki nerwowe - endorfin, enkefalin, odpowiedzialnych za odczuwanie bólu.
 
-![](/images/akupunktura.png "left")
+![](/images/Akupunktura.png "left")
 
 Nakłuwanie igłami pobudza układ współczulny i przywspółczulny. W ten sposób stymulowany jest układ nerwowy, który reguluje czynności narządów wewnętrznych.
 
