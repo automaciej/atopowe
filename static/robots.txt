@@ -17,7 +17,7 @@ Disallow: /forum/privmsg.php
 Disallow: /forum/profile.php
 Disallow: /forum/search.php
 Disallow: /forum/viewonline.php
+Disallow: /forum/ucp.php
 Disallow: /oldwiki/
 Disallow: /mediawiki/
 Disallow: /zapalenie/
-Sitemap: sitemap.xml
