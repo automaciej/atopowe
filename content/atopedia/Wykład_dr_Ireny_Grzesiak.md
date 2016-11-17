@@ -317,7 +317,7 @@ Dobrze się Pani spotkała, ponieważ alergik może być uczulony na wszystko. P
 
 Tylko że to też mogło się zbiec z okresem zaostrzenia, prawda? Mogło się tak wydarzyć, że środek ten był dobry, tylko akurat zbliżało się zaostrzenie choroby. czasem pacjenci mówią, że biorą leki i raz im pomaga, a raz nie. Akurat z tym konkretnym przypadkiem, jeżeli cały czas było dobrze, to może tak być, że po jakimś czasie następuje alergizacja na to. Że skóra neguje ten środek. Chociaż bardzo się to rzadko zdarza. W przypadku physiogelu nie spotkałam się z takim przypadkiem. Nigdy. To samo dotyczy maści cholesterolowej. Nigdy nie widziałam uczulonego pacjenta.
 
-*A czy pani doktor może skomentować 2 leki nowej generacji, [elidel]({{< relref "atopedia/Elidel.md" >}} "wikilink") i [protopic](/atopedia{{< relref "ulotka/Protopic_(ulotka).md" >}} "wikilink")?*
+*A czy pani doktor może skomentować 2 leki nowej generacji, [elidel]({{< relref "atopedia/Elidel.md" >}} "wikilink") i [protopic]({{< relref "ulotka/Protopic_(ulotka).md" >}} "wikilink")?*
 
 To są bardzo dobre preparaty. Nie mogę powiedzieć marnego słowa na ten temat. Stosowane po wyleczeniu dziecka, 2 razy w tygodniu, nie codziennie, na te zmiany skórne, na miejsca, gdzie się te zmiany pojawiają, potrafią zapobiec nowym wysiewom. Można je stosować na twarz, nie powodują zaników skóry. Natomiast jasno i wyraźnie jest powiedziane, że są to środki, które weszły na rynek niedawno. Czasem się okazywał lek genialny, który po pięciu latach dawał odległe, odległe skutki uboczne. My nie potrafimy powiedzieć, co się wydarzy u pacjenta, który będzie przez 5 lat stosował lek.
 

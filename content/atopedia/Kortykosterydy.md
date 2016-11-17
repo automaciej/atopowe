@@ -3,7 +3,13 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Kortykosterydy/"
 title = "Kortykosterydy"
 kategorie = [ "terapia", "Sterydy",]
-aliases = [ "/atopedia/Kortykosteryd/", "/atopedia/Kortykosteroidy/", "/atopedia/Sterydy/", "/atopedia/Steryd/",]
+aliases = [
+  "/atopedia/Kortykosteryd/",
+  "/atopedia/Kortykosteroidy/",
+  "/atopedia/Sterydy/",
+  "/atopedia/Steryd/",
+  "/atopedia/Glikokortykosterydy",
+]
 
 +++
 
@@ -23,7 +29,7 @@ W czasie używania leków kortykosterydowych należy ściśle przestrzegać zale
 
 Gdy decydujemy się lub musimy użyć maści (kremów) kortykosterydowych, należy pamiętać o kilku zasadach:
 
-![](/images/wrrr.png "right")
+![](/images/Wrrr.png "right")
 
 1.  zawsze ściśle stosuj się do zaleceń lekarza, zwłaszcza co do czasu używania
     danego preparatu – używaj tych maści jak najkrócej, z reguły nie powinno się

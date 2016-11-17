@@ -22,7 +22,7 @@ Z uwagi na swą większą lipofilność pimekrolimus wykazuje większe powinowac
 <references />
 ### Zobacz też
 
--   [Takrolimus](/atopedia{{< relref "atopedia/Takrolimus.md" >}} "wikilink")
+-   [Takrolimus]({{< relref "atopedia/Takrolimus.md" >}} "wikilink")
 -   [Elidel](/atopedia/Elidel "wikilink")
 -   [Protopic](/atopedia/Protopic "wikilink")
 -   Pimekrolimus w Wikipedii

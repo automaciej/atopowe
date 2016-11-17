@@ -133,7 +133,7 @@ Możliwe działania niepożądane
 
 Jak każdy lek, Dexapolcort może powodować działania niepożądane.
 
--   Deksametazon może powodować wystąpienie miejscowych objawów niepożądanych, takich jak: [[/pieczenie],_[[świąd|pieczenie], [świąd](świąd "wikilink"), podrażnienie w miejscu nałożenia leku, nadmierne wysuszenie, zmiany zanikowe skóry, zapalenie kontaktowe skóry, zapalenie skóry wokół ust, maceracja skóry, zmiany trądzikopodobne, rozstępy, potówki, wysypka, nadmierne owłosienie, odbarwienie skóry, wtórne zakażenia skórne i zapalenie mieszków włosowych.
+-   Deksametazon może powodować wystąpienie miejscowych objawów niepożądanych, takich jak: pieczenie, świąd, podrażnienie w miejscu nałożenia leku, nadmierne wysuszenie, zmiany zanikowe skóry, zapalenie kontaktowe skóry, zapalenie skóry wokół ust, maceracja skóry, zmiany trądzikopodobne, rozstępy, potówki, wysypka, nadmierne owłosienie, odbarwienie skóry, wtórne zakażenia skórne i zapalenie mieszków włosowych.
 
 
 Podczas długotrwałego stosowania leku lub na dużych powierzchniach skóry, deksametazon może wchłaniać się do krwi i wywoływać ogólnoustrojowe objawy niepożądane typowe dla kortykosteroidów. U dzieci i niemowląt mogą również wystąpić zaburzenia wzrostu i rozwoju.

@@ -24,7 +24,7 @@ Rodzaje leków immunosupresyjnych
 Miejscowe
 ---------
 
-Immunosupresja miejscowa to działanie obniżające aktywność układu immunologicznego lokalnie, w miejscu zastosowania leku. Jest to sposób działania preparatów takich jak [Protopic](/atopedia/Protopic "wikilink") oraz [Elidel](/atopedia/Elidel "wikilink"). Substancjami aktywnymi działającymi immunosupresyjnie miejscowo są [Pimekrolimus](/atopedia/Pimekrolimus "wikilink") i [Takrolimus](/atopedia{{< relref "atopedia/Takrolimus.md" >}} "wikilink"). W przypadku działania na skórę, leki immunosupresyjne są podawane w postaci kremów i maści.
+Immunosupresja miejscowa to działanie obniżające aktywność układu immunologicznego lokalnie, w miejscu zastosowania leku. Jest to sposób działania preparatów takich jak [Protopic](/atopedia/Protopic "wikilink") oraz [Elidel](/atopedia/Elidel "wikilink"). Substancjami aktywnymi działającymi immunosupresyjnie miejscowo są [Pimekrolimus](/atopedia/Pimekrolimus "wikilink") i [Takrolimus]({{< relref "atopedia/Takrolimus.md" >}} "wikilink"). W przypadku działania na skórę, leki immunosupresyjne są podawane w postaci kremów i maści.
 
 -   [Protopic](/atopedia/Protopic "wikilink")
 -   [Elidel](/atopedia/Elidel "wikilink")

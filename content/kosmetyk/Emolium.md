@@ -6,7 +6,7 @@ rodzajekosmetykow = [ "emolienty", "kosmetyki", "kremy", "preparaty zawierające
 
 +++
 
-[thumb|right|Emolium](/grafika:Emolium_grupa.jpg "wikilink") **Emolium** to linia nowoczesnych emolientów kompleksowo zwalczająca przyczyny i skutki suchej skóry. Emolium jest przeznaczone do profilaktycznej pielęgnacji skóry suchej oraz jako podstawa lub uzupełnienie leczenia dermatologicznego chorób przebiegających z suchością skóry – atopowego zapalenia skóry, rybiej łuski, łuszczycy, wyprysku i liszaju płaskiego. W linii znajdują się Krem, Krem Specjalny, Kremowy żel do mycia, Olejek do kąpieli, Emulsja do ciała, Krem barierowy oraz Szampon nawilżający. Dzięki bogatym formułom każdy z produktów działa na czterech płaszczyznach:
+![](/images/Emolium_grupa.jpg "Emolium") **Emolium** to linia nowoczesnych emolientów kompleksowo zwalczająca przyczyny i skutki suchej skóry. Emolium jest przeznaczone do profilaktycznej pielęgnacji skóry suchej oraz jako podstawa lub uzupełnienie leczenia dermatologicznego chorób przebiegających z suchością skóry – atopowego zapalenia skóry, rybiej łuski, łuszczycy, wyprysku i liszaju płaskiego. W linii znajdują się Krem, Krem Specjalny, Kremowy żel do mycia, Olejek do kąpieli, Emulsja do ciała, Krem barierowy oraz Szampon nawilżający. Dzięki bogatym formułom każdy z produktów działa na czterech płaszczyznach:
 
 -   natłuszcza skórę i regeneruje płaszcz hydrolipidowy,
 -   nawilża i wiąże wodę w skórze,
@@ -91,7 +91,7 @@ Ochrona skóry narażonej na działanie szkodliwych czynników zewnętrznych, ta
 
 **Nie zawiera soli i siarczanów**
 
-**Emulsja do kąpieli** 200 ml![](/images/Emulsjakap_butelka_small.jpg‎ "right") **Wskazania** Codzienne odżywianie i higiena skóry:
+**Emulsja do kąpieli** 200 ml![](/images/Emulsjakap_butelka_small.jpg) **Wskazania** Codzienne odżywianie i higiena skóry:
 
 -   atopowej
 -   w innych chorobach przebiegających z suchością skóry (m.in. rybia łuska, łuszczyca, wyprysk, liszaj płaski)

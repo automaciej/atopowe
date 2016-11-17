@@ -90,5 +90,5 @@ stopnia V w razie potrzeby.
 **Żródło:** Wanat-Krzak M, Kurzawa R. Diagnostyka i leczenie wyprysku atopowego.
 *Alergia Astma Immunologia 2006, 11(1):11-21*
 
-[mgks]: {{< relref "atopedia/Glikokortykosterydy.md" >}} "miejscowe glikokortykosterydy"
+[mgks]: {{< relref "atopedia/Kortykosterydy.md" >}} "miejscowe glikokortykosterydy"
 [mik]: /atopedia/Inhibitory_kalcyneuryny "miejscowe Inhibitory kalcyneuryny, np. Elidel albo Protopic"
