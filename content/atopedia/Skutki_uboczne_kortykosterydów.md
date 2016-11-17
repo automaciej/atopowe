@@ -50,7 +50,9 @@ Długotrwałe stosowanie sterydów zewnętrznie wiąże się jednak z szeregiem 
 Jak tego uniknąć?
 -----------------
 
-[frame|Miejscowe różnice grubości skóry człowieka[1]|link=](/Plik:Grubosc_Skory.png "wikilink")**Okolice bardzo delikatne, jak twarz (zwłaszcza powieki), szyja, są szczególnie podatne na uzależnienia.** Dlatego na ogół przestrzega się przed stosowaniem sterydów w tych okolicach. Niektórzy lekarze dopuszczają niezwykle ostrożną kurację słabymi sterydami.
+![](/images/Grubosc_Skory.png "Miejscowe różnice grubości skóry człowieka")
+
+**Okolice bardzo delikatne, jak twarz (zwłaszcza powieki), szyja, są szczególnie podatne na uzależnienia.** Dlatego na ogół przestrzega się przed stosowaniem sterydów w tych okolicach. Niektórzy lekarze dopuszczają niezwykle ostrożną kurację słabymi sterydami.
 
 **Terapia sterydami zawsze powinna przebiegać ściśle wg zaleceń lekarza dermatologa.** Jednak nie zawsze jest to gwarantem jej bezpieczeństwa. Posterydowe zapalenie skóry jest coraz częstszym problemem. Niektórzy lekarze nie informują pacjenta o tak ważnej rzeczy, jak maksymalna długość czasu stosowania sterydów. Inni w ogóle nie informują, że przepisany specyfik jest sterydem. Dlatego zawsze należy czytać ulotki maści i kremów.
 ==Nie wpędź się jednak w fobię kortykosteroidową==

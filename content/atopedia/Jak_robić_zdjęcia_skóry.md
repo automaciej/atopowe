@@ -49,7 +49,7 @@ Flash: skóra oświetlona na wprost, nie widać faktury, zdjęcie miejscami prze
 
 ### Czas naświetlania
 
-![](/images/Skinfoto-06-blur.jpg "440px|Za długi czas naświetlania, zdjęcie jest rozmazane (pomimo ostrości ustawionej na skórę).")
+![](/images/Skinfoto-06-blur.jpg "Za długi czas naświetlania, zdjęcie jest rozmazane, pomimo ostrości ustawionej na skórę.")
 
 Za długi czas naświetlania, zdjęcie jest rozmazane (pomimo ostrości ustawionej na skórę). Należy znaleźć miejsce, gdzie jest więcej światła.
 
