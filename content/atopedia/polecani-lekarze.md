@@ -1,13 +1,17 @@
 +++
 date = "2016-08-30T21:24:19+01:00"
 title = "Polecani lekarze"
-aliases = ["/atopedia/Dział_z_lekarzami", "/atopedia/Polecani_lekarze"]
+aliases = [
+  "/atopedia/Dział_z_lekarzami",
+  "/atopedia/Polecani_lekarze",
+]
+description = "Lista polecanych lekarzy, zebrana przez użytkowników atopowe.pl"
 
 +++
 
 Ta strona zawiera listę lekarzy zebraną przez użytkowników forum atopowe.pl.
 Gdyby zobaczyli tutaj państwo informacje błędne albo nieaktualne, prosimy o
-kontakt, np. zostawienie komentarza na dole.
+kontakt, np. zostawienie komentarza na dole, albo o poprawienie.
 
 ## Województwa
 
@@ -390,7 +394,7 @@ poradnia@bieganski.com.pl
 
 dr Jadwiga Kaczmarek
 Alergolog
-Szpitaj im Barlickiego
+Szpital im Barlickiego
 
 Łódź
 
