@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Książka", "Nauka"]
+kategorie = ["Książka", "Nauka"]
 date = "2010-05-09"
 layout = "post"
 tags = ["Robert M. Sapolsky"]

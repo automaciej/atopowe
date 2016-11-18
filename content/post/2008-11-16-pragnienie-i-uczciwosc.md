@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje"]
+kategorie = ["Kontrowersje"]
 date = "2008-11-16"
 layout = "post"
 title = "Pragnienie i uczciwość"

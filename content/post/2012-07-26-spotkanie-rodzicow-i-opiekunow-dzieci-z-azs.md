@@ -1,6 +1,6 @@
 +++
 author = "ewaela"
-categories = ["Wydarzenia"]
+kategorie = ["Wydarzenia"]
 date = "2012-07-26"
 layout = "post"
 tags = ["fundacja alabaster"]

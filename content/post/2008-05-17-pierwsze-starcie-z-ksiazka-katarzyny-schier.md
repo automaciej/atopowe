@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Książka", "Nauka"]
+kategorie = ["Kontrowersje", "Książka", "Nauka"]
 date = "2008-05-17"
 layout = "post"
 title = "Pierwsze starcie z książką Katarzyny Schier"

@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Książka", "Pielęgnacja"]
+kategorie = ["Książka", "Pielęgnacja"]
 date = "2010-04-23"
 layout = "post"
 tags = ["e-book"]

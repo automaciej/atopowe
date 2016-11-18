@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Portal", "Techniczne"]
+kategorie = ["Portal", "Techniczne"]
 date = "2007-04-20"
 layout = "post"
 title = "Aktualizacja oprogramowania Atopedii"

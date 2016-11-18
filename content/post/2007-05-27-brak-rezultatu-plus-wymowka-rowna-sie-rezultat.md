@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum", "Kontrowersje", "Objawy"]
+kategorie = ["Forum", "Kontrowersje", "Objawy"]
 date = "2007-05-27"
 layout = "post"
 tags = ["James Randi"]

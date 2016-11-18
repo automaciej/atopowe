@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "W społeczeństwie"]
+kategorie = ["Kontrowersje", "W społeczeństwie"]
 date = "2007-11-11"
 layout = "post"
 title = "Wegetarianizm"

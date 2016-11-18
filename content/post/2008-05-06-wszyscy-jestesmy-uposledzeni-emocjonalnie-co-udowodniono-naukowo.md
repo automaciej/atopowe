@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kontrowersje"]
+kategorie = ["Kontrowersje"]
 date = "2008-05-06"
 layout = "post"
 title = "Wszyscy mamy zaburzenia emocjonalne (co udowodniono naukowo)"

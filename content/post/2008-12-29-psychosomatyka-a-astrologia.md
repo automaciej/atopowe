@@ -1,6 +1,6 @@
 +++
 author = "aksamitka"
-categories = ["Kontrowersje", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Pseudomedycyna"]
 date = "2008-12-29"
 layout = "post"
 title = "Psychosomatyka a astrologia"

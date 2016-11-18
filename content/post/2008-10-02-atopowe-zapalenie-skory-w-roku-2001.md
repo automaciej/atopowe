@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum"]
+kategorie = ["Forum"]
 date = "2008-10-02"
 layout = "post"
 tags = ["google"]

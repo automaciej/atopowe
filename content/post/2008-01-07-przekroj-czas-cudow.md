@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Prasa", "Pseudomedycyna"]
+kategorie = ["Prasa", "Pseudomedycyna"]
 date = "2008-01-07"
 layout = "post"
 tags = ["Przekrój"]

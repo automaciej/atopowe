@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Pseudomedycyna"]
+kategorie = ["Pseudomedycyna"]
 date = "2013-06-02"
 layout = "post"
 tags = ["Homeopatia", "James Randi"]

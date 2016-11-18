@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Wydarzenia"]
+kategorie = ["Wydarzenia"]
 date = "2008-06-21"
 layout = "post"
 tags = ["Ben Goldacre"]

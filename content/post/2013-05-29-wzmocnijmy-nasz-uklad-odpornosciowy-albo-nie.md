@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Pseudomedycyna"]
+kategorie = ["Pseudomedycyna"]
 date = "2013-05-29"
 layout = "post"
 title = "Wzmocnijmy nasz układ odpornościowy (albo i nie)"

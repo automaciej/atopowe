@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kuchnia"]
+kategorie = ["Kuchnia"]
 date = "2010-04-24"
 layout = "post"
 title = "Placki bananowe"

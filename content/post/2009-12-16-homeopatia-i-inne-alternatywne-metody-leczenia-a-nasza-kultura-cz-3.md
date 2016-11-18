@@ -1,6 +1,6 @@
 +++
 author = "aksamitka"
-categories = ["Kontrowersje", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Pseudomedycyna"]
 date = "2009-12-16"
 layout = "post"
 tags = ["Homeopatia"]

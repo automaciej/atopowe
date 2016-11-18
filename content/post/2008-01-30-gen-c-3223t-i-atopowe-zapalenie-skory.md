@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Nauka"]
+kategorie = ["Nauka"]
 date = "2008-01-30"
 layout = "post"
 tags = ["Genetyka"]

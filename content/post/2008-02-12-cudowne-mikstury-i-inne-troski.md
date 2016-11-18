@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kontrowersje", "Książka", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Książka", "Pseudomedycyna"]
 date = "2008-02-12"
 layout = "post"
 tags = ["John Diamond"]

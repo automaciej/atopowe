@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Pseudomedycyna"]
 date = "2008-10-18"
 layout = "post"
 tags = ["Ben Goldacre", "Homeopatia"]

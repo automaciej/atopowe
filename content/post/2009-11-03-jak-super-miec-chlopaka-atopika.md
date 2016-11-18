@@ -1,6 +1,6 @@
 +++
 author = "Mirka"
-categories = ["W społeczeństwie"]
+kategorie = ["W społeczeństwie"]
 date = "2009-11-03"
 layout = "post"
 tags = ["życie"]

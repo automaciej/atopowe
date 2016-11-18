@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Techniczne"]
+kategorie = ["Techniczne"]
 date = "2008-09-14"
 layout = "post"
 tags = ["hosting"]

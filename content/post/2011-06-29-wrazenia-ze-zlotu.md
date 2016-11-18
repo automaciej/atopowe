@@ -1,6 +1,6 @@
 +++
 author = "mres"
-categories = ["W społeczeństwie", "Wydarzenia"]
+kategorie = ["W społeczeństwie", "Wydarzenia"]
 date = "2011-06-29"
 layout = "post"
 tags = ["zloty"]

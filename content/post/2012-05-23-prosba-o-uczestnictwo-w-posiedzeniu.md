@@ -1,6 +1,6 @@
 +++
 author = "ewaela"
-categories = ["Wydarzenia"]
+kategorie = ["Wydarzenia"]
 date = "2012-05-23"
 layout = "post"
 tags = ["fundacja alabaster", "sejm i senat"]

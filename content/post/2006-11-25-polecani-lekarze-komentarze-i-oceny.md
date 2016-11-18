@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum", "Portal"]
+kategorie = ["Forum", "Portal"]
 date = "2006-11-25"
 layout = "post"
 title = "Polecani lekarze: komentarze i oceny"

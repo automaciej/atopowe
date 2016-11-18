@@ -1,6 +1,6 @@
 +++
 author = "aksamitka"
-categories = ["W społeczeństwie"]
+kategorie = ["W społeczeństwie"]
 date = "2008-07-07"
 layout = "post"
 title = "Boimy się nieuleczalnego"

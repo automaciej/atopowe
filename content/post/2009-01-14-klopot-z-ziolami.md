@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kontrowersje", "Nauka", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Nauka", "Pseudomedycyna"]
 date = "2009-01-14"
 layout = "post"
 tags = ["Ben Goldacre", "chemia"]

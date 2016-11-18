@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Leczenie", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Leczenie", "Pseudomedycyna"]
 date = "2006-12-11"
 layout = "post"
 title = "Alveo ― przygoda z magiczną miksturą"

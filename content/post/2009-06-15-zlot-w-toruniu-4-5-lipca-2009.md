@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum", "Wydarzenia"]
+kategorie = ["Forum", "Wydarzenia"]
 date = "2009-06-15"
 layout = "post"
 tags = ["zloty"]

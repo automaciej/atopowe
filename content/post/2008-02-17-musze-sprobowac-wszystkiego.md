@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Leczenie", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Leczenie", "Pseudomedycyna"]
 date = "2008-02-17"
 layout = "post"
 title = "Muszę spróbować wszystkiego"

@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Nauka", "Pseudomedycyna"]
+kategorie = ["Nauka", "Pseudomedycyna"]
 date = "2008-08-29"
 layout = "post"
 title = "Może i nie pomoże, ale przynajmniej…"

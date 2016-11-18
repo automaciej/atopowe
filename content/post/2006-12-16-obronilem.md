@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Wydarzenia"]
+kategorie = ["Wydarzenia"]
 date = "2006-12-16"
 layout = "post"
 title = "Obroniłem!"

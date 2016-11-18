@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Nauka"]
+kategorie = ["Nauka"]
 date = "2008-02-21"
 layout = "post"
 tags = ["historia"]

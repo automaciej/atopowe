@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Leczenie", "Nauka"]
+kategorie = ["Leczenie", "Nauka"]
 date = "2007-10-03"
 layout = "post"
 tags = ["filagryna"]

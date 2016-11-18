@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum"]
+kategorie = ["Forum"]
 date = "2006-10-21"
 layout = "post"
 title = "Matka założycielka"

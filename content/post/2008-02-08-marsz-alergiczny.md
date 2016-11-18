@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Objawy"]
+kategorie = ["Objawy"]
 date = "2008-02-08"
 layout = "post"
 title = "Marsz alergiczny"

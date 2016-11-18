@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum"]
+kategorie = ["Forum"]
 date = "2006-08-06"
 layout = "post"
 title = "Łuszczyca w sieci"

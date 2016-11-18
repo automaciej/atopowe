@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Portal"]
+kategorie = ["Portal"]
 date = "2006-12-19"
 layout = "post"
 title = "Pamiętnik"

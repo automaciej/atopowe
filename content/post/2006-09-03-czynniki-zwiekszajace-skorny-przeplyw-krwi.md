@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Nauka"]
+kategorie = ["Kontrowersje", "Nauka"]
 date = "2006-09-03"
 layout = "post"
 title = "Czynniki zwiększające skórny przepływ krwi"

@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kontrowersje", "Prasa"]
+kategorie = ["Kontrowersje", "Prasa"]
 date = "2010-03-03"
 layout = "post"
 tags = ["Charaktery"]

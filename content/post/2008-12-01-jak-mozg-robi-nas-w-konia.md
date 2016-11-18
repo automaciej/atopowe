@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Film", "Nauka"]
+kategorie = ["Film", "Nauka"]
 date = "2008-12-01"
 enclosure = ["|\n    http://www.atopowe-zapalenie.pl/media/2008-11-15-Przybylek.avi\n    7204164\n    video/x-msvideo\n    \n"]
 layout = "post"

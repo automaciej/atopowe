@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Techniczne"]
+kategorie = ["Techniczne"]
 date = "2008-06-05"
 layout = "post"
 tags = ["django"]

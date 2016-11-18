@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Blog", "Techniczne"]
+kategorie = ["Blog", "Techniczne"]
 date = "2008-07-12"
 layout = "post"
 tags = ["Homeopatia", "James Randi"]

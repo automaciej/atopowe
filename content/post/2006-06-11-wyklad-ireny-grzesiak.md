@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Wydarzenia"]
+kategorie = ["Wydarzenia"]
 date = "2006-06-11"
 layout = "post"
 tags = ["Irena Grzesiak"]

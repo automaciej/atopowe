@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum"]
+kategorie = ["Forum"]
 date = "2006-09-11"
 layout = "post"
 title = "Walki ze spamem ciąg dalszy"

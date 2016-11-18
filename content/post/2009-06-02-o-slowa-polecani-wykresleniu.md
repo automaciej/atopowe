@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum", "Kontrowersje", "Portal"]
+kategorie = ["Forum", "Kontrowersje", "Portal"]
 date = "2009-06-02"
 layout = "post"
 title = "O słowa „polecani” wykreśleniu"

@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kontrowersje", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Pseudomedycyna"]
 date = "2008-04-08"
 layout = "post"
 title = "Imowin – energią życia"

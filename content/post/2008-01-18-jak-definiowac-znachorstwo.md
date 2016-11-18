@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Leczenie", "Nauka", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Leczenie", "Nauka", "Pseudomedycyna"]
 date = "2008-01-18"
 layout = "post"
 title = "Jak definiować znachorstwo"

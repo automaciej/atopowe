@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kontrowersje"]
+kategorie = ["Kontrowersje"]
 date = "2010-08-17"
 enclosure = ["|\n    http://www.radiomaryja.pl/dzwieki/2010/07/2010.07.17.lek.mp3\n    5944128\n    audio/mpeg\n    \n"]
 layout = "post"

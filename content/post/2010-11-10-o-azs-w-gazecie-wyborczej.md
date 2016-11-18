@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Prasa"]
+kategorie = ["Prasa"]
 date = "2010-11-10"
 layout = "post"
 title = "O AZS w Gazecie Wyborczej"

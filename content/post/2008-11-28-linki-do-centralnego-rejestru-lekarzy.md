@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Portal", "Techniczne"]
+kategorie = ["Portal", "Techniczne"]
 date = "2008-11-28"
 layout = "post"
 title = "Linki do Centralnego Rejestru Lekarzy"

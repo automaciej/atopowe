@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Nauka"]
+kategorie = ["Nauka"]
 date = "2006-06-08"
 layout = "post"
 title = "Astma i tasiemiec"

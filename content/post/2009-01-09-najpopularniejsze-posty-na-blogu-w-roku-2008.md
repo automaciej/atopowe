@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Blog"]
+kategorie = ["Blog"]
 date = "2009-01-09"
 layout = "post"
 title = "Najpopularniejsze posty na blogu w roku 2008"

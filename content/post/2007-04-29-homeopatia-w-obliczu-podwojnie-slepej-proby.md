@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Leczenie", "Nauka", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Leczenie", "Nauka", "Pseudomedycyna"]
 date = "2007-04-29"
 layout = "post"
 tags = ["Homeopatia", "James Randi"]

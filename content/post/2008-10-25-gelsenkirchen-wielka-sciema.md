@@ -1,6 +1,6 @@
 +++
 author = "aksamitka"
-categories = ["Forum", "Kontrowersje"]
+kategorie = ["Forum", "Kontrowersje"]
 date = "2008-10-25"
 layout = "post"
 title = "Gelsenkirchen – wielka ściema?"

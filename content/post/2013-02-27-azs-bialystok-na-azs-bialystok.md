@@ -1,6 +1,6 @@
 +++
 author = "mres"
-categories = ["Wydarzenia"]
+kategorie = ["Wydarzenia"]
 date = "2013-02-27"
 layout = "post"
 tags = ["fundacja alabaster"]

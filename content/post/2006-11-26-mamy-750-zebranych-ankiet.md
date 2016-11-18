@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Nauka"]
+kategorie = ["Nauka"]
 date = "2006-11-25"
 layout = "post"
 title = "Mamy 750 zebranych ankiet"

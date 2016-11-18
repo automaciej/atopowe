@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Środowisko"]
+kategorie = ["Środowisko"]
 date = "2007-11-10"
 layout = "post"
 tags = ["dieta", "przyczyny", "stres", "woda"]

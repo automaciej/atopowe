@@ -1,6 +1,6 @@
 +++
 author = "Orshi"
-categories = ["Pielęgnacja"]
+kategorie = ["Pielęgnacja"]
 date = "2006-06-23"
 layout = "post"
 tags = ["wakacje"]

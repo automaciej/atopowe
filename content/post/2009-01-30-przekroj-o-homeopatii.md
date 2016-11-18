@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Prasa", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Prasa", "Pseudomedycyna"]
 date = "2009-01-30"
 layout = "post"
 tags = ["Homeopatia", "Przekrój"]

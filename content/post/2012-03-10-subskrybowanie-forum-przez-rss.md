@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Portal"]
+kategorie = ["Portal"]
 date = "2012-03-10"
 google_plus_activity_id = ["z13btl0okuavz3fii04cj3ty5rz3xnq4wns0k"]
 layout = "post"

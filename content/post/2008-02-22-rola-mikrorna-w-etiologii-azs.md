@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Nauka"]
+kategorie = ["Nauka"]
 date = "2008-02-22"
 layout = "post"
 tags = ["Genetyka", "microRNA"]

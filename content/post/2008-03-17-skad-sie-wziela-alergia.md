@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Nauka"]
+kategorie = ["Nauka"]
 date = "2008-03-17"
 layout = "post"
 title = "Skąd się wzięła alergia?"

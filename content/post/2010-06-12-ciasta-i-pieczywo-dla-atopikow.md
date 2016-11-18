@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kuchnia"]
+kategorie = ["Kuchnia"]
 date = "2010-06-12"
 layout = "post"
 title = "Ciasta i pieczywo dla atopików"

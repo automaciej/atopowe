@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Objawy", "W społeczeństwie"]
+kategorie = ["Objawy", "W społeczeństwie"]
 date = "2006-11-10"
 layout = "post"
 title = "Pierwsze zajęcia Aikido"

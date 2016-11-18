@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Pielęgnacja"]
+kategorie = ["Pielęgnacja"]
 date = "2010-03-25"
 layout = "post"
 tags = ["emolienty"]

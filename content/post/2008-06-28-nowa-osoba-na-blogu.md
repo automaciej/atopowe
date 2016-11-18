@@ -1,6 +1,6 @@
 +++
 author = "aksamitka"
-categories = ["Blog"]
+kategorie = ["Blog"]
 date = "2008-06-28"
 layout = "post"
 title = "Nowa osoba na blogu"

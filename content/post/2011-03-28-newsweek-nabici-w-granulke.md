@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Prasa", "Pseudomedycyna"]
+kategorie = ["Prasa", "Pseudomedycyna"]
 date = "2011-03-28"
 layout = "post"
 tags = ["Homeopatia"]

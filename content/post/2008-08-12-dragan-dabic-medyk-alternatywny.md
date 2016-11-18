@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Wydarzenia"]
+kategorie = ["Wydarzenia"]
 date = "2008-08-11"
 layout = "post"
 title = "Dragan Dabić, medyk alternatywny"

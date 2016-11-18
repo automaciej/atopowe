@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Nauka"]
+kategorie = ["Nauka"]
 date = "2008-11-12"
 layout = "post"
 tags = ["humor"]

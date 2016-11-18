@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Nauka"]
+kategorie = ["Nauka"]
 date = "2009-04-11"
 layout = "post"
 title = "Zidentyfikowano nowy gen związany z ryzykiem AZS"

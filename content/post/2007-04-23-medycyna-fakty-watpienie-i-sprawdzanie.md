@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Leczenie", "Nauka", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Leczenie", "Nauka", "Pseudomedycyna"]
 date = "2007-04-22"
 layout = "post"
 title = "Medycyna, fakty, wątpienie i sprawdzanie"

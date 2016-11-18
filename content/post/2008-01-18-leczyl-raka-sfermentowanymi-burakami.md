@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Leczenie", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Leczenie", "Pseudomedycyna"]
 date = "2008-01-17"
 layout = "post"
 title = "Leczył raka sfermentowanymi burakami"

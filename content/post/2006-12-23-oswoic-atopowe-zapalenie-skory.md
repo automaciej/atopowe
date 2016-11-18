@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Książka", "Wydarzenia"]
+kategorie = ["Książka", "Wydarzenia"]
 date = "2006-12-23"
 layout = "post"
 tags = ["e-book"]

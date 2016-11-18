@@ -1,6 +1,6 @@
 +++
 author = "Kasia"
-categories = ["Wydarzenia"]
+kategorie = ["Wydarzenia"]
 date = "2012-10-15"
 layout = "post"
 tags = ["fundacja alabaster"]

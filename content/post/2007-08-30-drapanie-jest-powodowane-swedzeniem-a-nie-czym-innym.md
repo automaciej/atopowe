@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje"]
+kategorie = ["Kontrowersje"]
 date = "2007-08-30"
 layout = "post"
 tags = ["drapanie", "psychika i ciało"]

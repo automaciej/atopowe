@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kontrowersje"]
+kategorie = ["Kontrowersje"]
 date = "2008-11-13"
 layout = "post"
 tags = ["chemia"]

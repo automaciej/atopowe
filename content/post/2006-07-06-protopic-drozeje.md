@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Leczenie"]
+kategorie = ["Leczenie"]
 date = "2006-07-06"
 layout = "post"
 tags = ["Protopic"]

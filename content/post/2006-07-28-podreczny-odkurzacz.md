@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Dom"]
+kategorie = ["Dom"]
 date = "2006-07-28"
 layout = "post"
 title = "Podręczny odkurzacz"

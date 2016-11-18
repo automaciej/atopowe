@@ -1,6 +1,6 @@
 +++
 author = "mres"
-categories = ["Portal", "W społeczeństwie", "Wydarzenia"]
+kategorie = ["Portal", "W społeczeństwie", "Wydarzenia"]
 date = "2014-01-26"
 layout = "post"
 tags = ["atopowe", "e-wolontariat", "fundacja alabaster", "Gala", "spotkanie atopików", "warszawa"]

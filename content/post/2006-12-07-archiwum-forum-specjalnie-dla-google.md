@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum", "Portal", "Techniczne"]
+kategorie = ["Forum", "Portal", "Techniczne"]
 date = "2006-12-07"
 layout = "post"
 title = "Archiwum forum specjalnie dla Google"

@@ -1,6 +1,6 @@
 +++
 author = "aksamitka"
-categories = ["Kontrowersje", "Nauka", "Objawy", "Środowisko"]
+kategorie = ["Kontrowersje", "Nauka", "Objawy", "Środowisko"]
 date = "2008-12-10"
 layout = "post"
 title = "Miasto, roztocza a atopia"

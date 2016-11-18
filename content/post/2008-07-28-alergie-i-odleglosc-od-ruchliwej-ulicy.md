@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Nauka", "Środowisko"]
+kategorie = ["Nauka", "Środowisko"]
 date = "2008-07-28"
 layout = "post"
 tags = ["przyczyny"]

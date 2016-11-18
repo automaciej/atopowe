@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum", "Portal", "Techniczne"]
+kategorie = ["Forum", "Portal", "Techniczne"]
 date = "2006-12-04"
 layout = "post"
 title = "Ewolucja, nie rewolucja"

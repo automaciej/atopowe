@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum"]
+kategorie = ["Forum"]
 date = "2008-12-20"
 layout = "post"
 title = "Analiza PCA"

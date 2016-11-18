@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kontrowersje", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Pseudomedycyna"]
 date = "2008-08-19"
 layout = "post"
 title = "Holistyczna Agencja Detektywistyczna"

@@ -1,6 +1,6 @@
 +++
 author = "aksamitka"
-categories = ["Leczenie", "Nauka"]
+kategorie = ["Leczenie", "Nauka"]
 date = "2008-07-22"
 layout = "post"
 tags = ["historia"]

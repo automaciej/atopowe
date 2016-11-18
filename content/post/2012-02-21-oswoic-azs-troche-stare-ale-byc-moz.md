@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Książka"]
+kategorie = ["Książka"]
 date = "2012-02-21"
 google_plus_activity_id = ["z13fsvpromm2ujuql04cj3ty5rz3xnq4wns0k"]
 layout = "post"

@@ -1,6 +1,6 @@
 +++
 author = "Ashitaka"
-categories = ["Środowisko", "W społeczeństwie"]
+kategorie = ["Środowisko", "W społeczeństwie"]
 date = "2010-06-30"
 layout = "post"
 tags = ["dzieci", "życie"]

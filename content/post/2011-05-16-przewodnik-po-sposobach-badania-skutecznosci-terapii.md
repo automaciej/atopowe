@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Książka"]
+kategorie = ["Książka"]
 date = "2011-05-16"
 layout = "post"
 title = "Przewodnik po sposobach badania skuteczności terapii"

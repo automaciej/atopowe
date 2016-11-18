@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Nauka"]
+kategorie = ["Nauka"]
 date = "2008-12-30"
 layout = "post"
 title = "Webcast: Aktualne perspektywy w terapii AZS"

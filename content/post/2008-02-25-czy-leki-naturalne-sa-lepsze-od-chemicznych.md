@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kontrowersje", "Książka"]
+kategorie = ["Kontrowersje", "Książka"]
 date = "2008-02-25"
 layout = "post"
 tags = ["chemia", "John Diamond"]

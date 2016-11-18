@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Leczenie", "Nauka", "Środowisko"]
+kategorie = ["Leczenie", "Nauka", "Środowisko"]
 date = "2008-03-10"
 layout = "post"
 tags = ["astma"]

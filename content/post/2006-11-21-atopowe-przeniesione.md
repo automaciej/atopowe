@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum", "Techniczne"]
+kategorie = ["Forum", "Techniczne"]
 date = "2006-11-21"
 layout = "post"
 title = "Atopowe przeniesione"

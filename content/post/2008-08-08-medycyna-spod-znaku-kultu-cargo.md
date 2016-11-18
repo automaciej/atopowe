@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kontrowersje", "W społeczeństwie"]
+kategorie = ["Kontrowersje", "W społeczeństwie"]
 date = "2008-08-08"
 layout = "post"
 tags = ["Homeopatia"]

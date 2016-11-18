@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum"]
+kategorie = ["Forum"]
 date = "2006-11-10"
 layout = "post"
 title = "Zrzutka na hosting"

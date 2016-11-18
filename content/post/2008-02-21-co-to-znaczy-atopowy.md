@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Objawy"]
+kategorie = ["Objawy"]
 date = "2008-02-21"
 layout = "post"
 title = "Co to znaczy, „atopowy”?"

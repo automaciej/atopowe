@@ -1,6 +1,6 @@
 +++
 author = "Mirka"
-categories = ["W społeczeństwie", "Wydarzenia"]
+kategorie = ["W społeczeństwie", "Wydarzenia"]
 date = "2009-07-16"
 layout = "post"
 tags = ["zloty"]

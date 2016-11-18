@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Forum"]
+kategorie = ["Forum"]
 date = "2012-01-03"
 google_plus_activity_id = ["z12ied0y5sizjftgf04cj3ty5rz3xnq4wns0k"]
 layout = "post"

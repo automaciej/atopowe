@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Objawy"]
+kategorie = ["Objawy"]
 date = "2006-08-01"
 layout = "post"
 title = "Rozmazane litery na ekranie"

@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Leczenie"]
+kategorie = ["Leczenie"]
 date = "2007-05-02"
 layout = "post"
 title = "Sabarep, nowy lek niesterydowy"

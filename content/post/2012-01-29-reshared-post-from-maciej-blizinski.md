@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Pseudomedycyna"]
+kategorie = ["Pseudomedycyna"]
 date = "2012-01-29"
 google_plus_activity_id = ["z131ypdbgs3dxpkd223syjlhzszgxlb4y04"]
 layout = "post"

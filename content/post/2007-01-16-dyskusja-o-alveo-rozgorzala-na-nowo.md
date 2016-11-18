@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Pseudomedycyna"]
+kategorie = ["Kontrowersje", "Pseudomedycyna"]
 date = "2007-01-16"
 layout = "post"
 title = "Dyskusja o Alveo rozgorzała na nowo"

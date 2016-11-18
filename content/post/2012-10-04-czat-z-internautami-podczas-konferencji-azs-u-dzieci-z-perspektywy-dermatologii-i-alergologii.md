@@ -1,6 +1,6 @@
 +++
 author = "ewaela"
-categories = ["Leczenie", "Objawy", "Pielęgnacja", "Portal", "W społeczeństwie", "Wydarzenia"]
+kategorie = ["Leczenie", "Objawy", "Pielęgnacja", "Portal", "W społeczeństwie", "Wydarzenia"]
 date = "2012-10-04"
 layout = "post"
 tags = ["fundacja alabaster"]

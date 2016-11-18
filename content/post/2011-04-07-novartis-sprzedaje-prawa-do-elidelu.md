@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Wydarzenia"]
+kategorie = ["Wydarzenia"]
 date = "2011-04-07"
 layout = "post"
 tags = ["Elidel"]

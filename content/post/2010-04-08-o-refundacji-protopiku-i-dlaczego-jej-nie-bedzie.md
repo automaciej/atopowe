@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["W społeczeństwie"]
+kategorie = ["W społeczeństwie"]
 date = "2010-04-08"
 layout = "post"
 tags = ["Protopic", "sejm i senat"]

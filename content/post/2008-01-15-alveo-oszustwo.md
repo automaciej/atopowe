@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Leczenie", "Pseudomedycyna", "W społeczeństwie"]
+kategorie = ["Kontrowersje", "Leczenie", "Pseudomedycyna", "W społeczeństwie"]
 date = "2008-01-15"
 layout = "post"
 title = "Alveo oszustwo"

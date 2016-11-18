@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Pielęgnacja", "W społeczeństwie"]
+kategorie = ["Pielęgnacja", "W społeczeństwie"]
 date = "2006-08-25"
 layout = "post"
 tags = ["życie"]

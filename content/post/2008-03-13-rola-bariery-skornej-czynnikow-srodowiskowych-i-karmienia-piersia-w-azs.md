@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Leczenie", "Nauka", "Objawy", "Środowisko"]
+kategorie = ["Leczenie", "Nauka", "Objawy", "Środowisko"]
 date = "2008-03-13"
 layout = "post"
 tags = ["Karmienie piersią"]

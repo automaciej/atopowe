@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kontrowersje"]
+kategorie = ["Kontrowersje"]
 date = "2010-05-31"
 layout = "post"
 tags = ["Homeopatia"]

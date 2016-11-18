@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Pseudomedycyna"]
+kategorie = ["Pseudomedycyna"]
 date = "2012-03-19"
 google_plus_activity_id = ["z121vzjx2tv1gzz0p23syjlhzszgxlb4y04"]
 layout = "post"

@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Nauka", "Pseudomedycyna"]
+kategorie = ["Nauka", "Pseudomedycyna"]
 date = "2009-12-02"
 layout = "post"
 tags = ["Ben Goldacre", "Homeopatia"]

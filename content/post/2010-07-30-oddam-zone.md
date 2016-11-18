@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Film"]
+kategorie = ["Film"]
 date = "2010-07-30"
 layout = "post"
 tags = ["humor", "Tim Minchin"]

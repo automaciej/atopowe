@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Leczenie"]
+kategorie = ["Leczenie"]
 date = "2007-10-25"
 layout = "post"
 title = "Wzmacnianie układu odpornościowego"

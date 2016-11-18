@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Film"]
+kategorie = ["Film"]
 date = "2012-09-02"
 layout = "post"
 tags = ["Irena Grzesiak"]

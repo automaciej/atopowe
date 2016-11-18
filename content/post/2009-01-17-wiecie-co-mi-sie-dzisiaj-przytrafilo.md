@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Książka", "Nauka"]
+kategorie = ["Książka", "Nauka"]
 date = "2009-01-17"
 layout = "post"
 tags = ["Ben Goldacre", "Richard Feynman"]

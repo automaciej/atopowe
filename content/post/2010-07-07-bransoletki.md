@@ -1,6 +1,6 @@
 +++
 author = "Ashitaka"
-categories = ["Objawy"]
+kategorie = ["Objawy"]
 date = "2010-07-07"
 layout = "post"
 tags = ["życie"]

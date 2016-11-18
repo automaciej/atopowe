@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum", "Portal"]
+kategorie = ["Forum", "Portal"]
 date = "2006-11-22"
 layout = "post"
 title = "Ceny Protopiku oraz polecani lekarze"

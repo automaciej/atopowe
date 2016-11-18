@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum", "Portal"]
+kategorie = ["Forum", "Portal"]
 date = "2006-12-10"
 layout = "post"
 title = "Pomysł: wyszukiwarka"

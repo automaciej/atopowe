@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Dom", "Środowisko"]
+kategorie = ["Dom", "Środowisko"]
 date = "2006-09-15"
 layout = "post"
 title = "Chcę mieszkać nad morzem"

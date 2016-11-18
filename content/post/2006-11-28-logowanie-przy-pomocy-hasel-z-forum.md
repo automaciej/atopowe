@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Forum", "Portal", "Techniczne"]
+kategorie = ["Forum", "Portal", "Techniczne"]
 date = "2006-11-28"
 layout = "post"
 title = "Logowanie przy pomocy haseł z forum"

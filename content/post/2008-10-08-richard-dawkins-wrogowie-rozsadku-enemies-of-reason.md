@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Film", "Pseudomedycyna", "Wydarzenia"]
+kategorie = ["Film", "Pseudomedycyna", "Wydarzenia"]
 date = "2008-10-08"
 enclosure = ["|\n    http://www.atopowe-zapalenie.pl/media/Wrogowie%20rozsadku%5bnapisy%20PL%5d-big.avi\n    177742174\n    video/x-msvideo\n    \n"]
 layout = "post"

@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Nauka"]
+kategorie = ["Kontrowersje", "Nauka"]
 date = "2008-07-30"
 layout = "post"
 tags = ["eksperyment", "Homeopatia", "podwójnie ślepa próba"]

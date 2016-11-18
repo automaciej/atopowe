@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "W społeczeństwie"]
+kategorie = ["Kontrowersje", "W społeczeństwie"]
 date = "2006-12-22"
 layout = "post"
 title = "To AZS wpływa na zachowanie i osobowość, a nie odwrotnie"

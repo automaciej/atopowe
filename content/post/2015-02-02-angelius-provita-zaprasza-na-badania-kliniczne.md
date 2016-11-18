@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Leczenie"]
+kategorie = ["Leczenie"]
 date = "2015-02-02"
 layout = "post"
 tags = ["Leki biologiczne"]

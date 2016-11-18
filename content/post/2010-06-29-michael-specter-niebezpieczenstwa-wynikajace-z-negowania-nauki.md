@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Film", "Kontrowersje", "Nauka"]
+kategorie = ["Film", "Kontrowersje", "Nauka"]
 date = "2010-06-29"
 layout = "post"
 tags = ["Michael Specter"]

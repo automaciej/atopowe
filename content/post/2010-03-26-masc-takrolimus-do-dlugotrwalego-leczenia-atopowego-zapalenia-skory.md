@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Nauka", "Pielęgnacja", "Wydarzenia"]
+kategorie = ["Nauka", "Pielęgnacja", "Wydarzenia"]
 date = "2010-03-26"
 layout = "post"
 tags = ["Protopic"]

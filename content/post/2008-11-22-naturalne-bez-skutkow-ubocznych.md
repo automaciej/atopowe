@@ -1,6 +1,6 @@
 +++
 author = "aksamitka"
-categories = ["Kontrowersje", "Leczenie", "W społeczeństwie"]
+kategorie = ["Kontrowersje", "Leczenie", "W społeczeństwie"]
 date = "2008-11-22"
 layout = "post"
 tags = ["chemia"]

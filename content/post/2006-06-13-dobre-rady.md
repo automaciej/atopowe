@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "W społeczeństwie"]
+kategorie = ["Kontrowersje", "W społeczeństwie"]
 date = "2006-06-13"
 layout = "post"
 title = "Dobre rady"

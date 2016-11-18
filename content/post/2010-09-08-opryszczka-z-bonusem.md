@@ -1,6 +1,6 @@
 +++
 author = "Ashitaka"
-categories = ["Leczenie", "Objawy"]
+kategorie = ["Leczenie", "Objawy"]
 date = "2010-09-08"
 layout = "post"
 tags = ["psychika i ciało"]

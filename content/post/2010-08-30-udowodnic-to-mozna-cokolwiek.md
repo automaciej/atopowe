@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Nauka"]
+kategorie = ["Nauka"]
 date = "2010-08-30"
 layout = "post"
 tags = ["Ben Goldacre"]

@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kuchnia", "Objawy"]
+kategorie = ["Kuchnia", "Objawy"]
 date = "2007-07-12"
 layout = "post"
 title = "Grejpfrut i antyhistaminy"

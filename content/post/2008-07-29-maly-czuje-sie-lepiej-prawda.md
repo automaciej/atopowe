@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Film", "Nauka", "Objawy"]
+kategorie = ["Film", "Nauka", "Objawy"]
 date = "2008-07-29"
 layout = "post"
 tags = ["dzieci", "eksperyment", "podwójnie ślepa próba", "woda"]

@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Film", "Kontrowersje", "Leczenie", "Pseudomedycyna"]
+kategorie = ["Film", "Kontrowersje", "Leczenie", "Pseudomedycyna"]
 date = "2008-11-02"
 layout = "post"
 title = "Jesteśmy do siebie podobni"

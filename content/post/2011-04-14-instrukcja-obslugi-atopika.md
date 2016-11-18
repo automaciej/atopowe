@@ -1,6 +1,6 @@
 +++
 author = "magda2em"
-categories = ["Objawy", "W społeczeństwie"]
+kategorie = ["Objawy", "W społeczeństwie"]
 date = "2011-04-14"
 layout = "post"
 title = "Instrukcja obsługi atopika"

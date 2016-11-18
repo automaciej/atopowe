@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Leczenie", "Środowisko", "Wydarzenia"]
+kategorie = ["Leczenie", "Środowisko", "Wydarzenia"]
 date = "2007-11-06"
 layout = "post"
 tags = ["przyczyny"]

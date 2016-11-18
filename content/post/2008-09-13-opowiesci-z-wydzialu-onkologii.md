@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Pseudomedycyna"]
+kategorie = ["Pseudomedycyna"]
 date = "2008-09-13"
 layout = "post"
 title = "Opowieści z wydziału onkologii"

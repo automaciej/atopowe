@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Kontrowersje", "Pseudomedycyna", "W społeczeństwie"]
+kategorie = ["Kontrowersje", "Pseudomedycyna", "W społeczeństwie"]
 date = "2008-03-07"
 layout = "post"
 tags = ["Homeopatia"]

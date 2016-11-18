@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Portal"]
+kategorie = ["Portal"]
 date = "2006-11-29"
 layout = "post"
 tags = ["django"]

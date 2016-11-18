@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Leczenie", "W społeczeństwie", "Wydarzenia"]
+kategorie = ["Leczenie", "W społeczeństwie", "Wydarzenia"]
 date = "2008-12-20"
 layout = "post"
 tags = ["google"]

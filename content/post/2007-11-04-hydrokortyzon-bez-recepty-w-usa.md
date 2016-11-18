@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Leczenie"]
+kategorie = ["Leczenie"]
 date = "2007-11-04"
 layout = "post"
 title = "Hydrokortyzon bez recepty w USA"

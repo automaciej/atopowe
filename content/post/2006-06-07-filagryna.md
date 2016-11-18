@@ -1,6 +1,6 @@
 +++
 author = "Maja"
-categories = ["Nauka"]
+kategorie = ["Nauka"]
 date = "2006-06-07"
 layout = "post"
 tags = ["filagryna"]

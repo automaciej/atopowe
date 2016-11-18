@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Leczenie", "Portal"]
+kategorie = ["Leczenie", "Portal"]
 date = "2006-12-23"
 layout = "post"
 tags = ["Elidel", "Protopic"]

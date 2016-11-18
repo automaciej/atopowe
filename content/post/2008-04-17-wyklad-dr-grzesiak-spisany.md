@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Techniczne", "Wydarzenia"]
+kategorie = ["Techniczne", "Wydarzenia"]
 date = "2008-04-17"
 layout = "post"
 tags = ["Irena Grzesiak"]

@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Leczenie"]
+kategorie = ["Leczenie"]
 date = "2009-01-07"
 layout = "post"
 tags = ["dzieci", "probiotyki", "zapobieganie"]

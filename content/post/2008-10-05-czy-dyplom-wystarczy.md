@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje"]
+kategorie = ["Kontrowersje"]
 date = "2008-10-05"
 layout = "post"
 title = "Czy dyplom wystarczy"

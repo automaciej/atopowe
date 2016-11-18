@@ -1,6 +1,6 @@
 +++
 author = "aksamitka"
-categories = ["Kontrowersje"]
+kategorie = ["Kontrowersje"]
 date = "2008-08-03"
 layout = "post"
 title = "Jak naprawdę jest z „robakami”"

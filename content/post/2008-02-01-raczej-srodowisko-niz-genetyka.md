@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Nauka", "Środowisko"]
+kategorie = ["Kontrowersje", "Nauka", "Środowisko"]
 date = "2008-02-01"
 layout = "post"
 tags = ["Genetyka", "przyczyny"]

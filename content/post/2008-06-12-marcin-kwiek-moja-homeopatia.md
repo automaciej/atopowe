@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Pseudomedycyna"]
+kategorie = ["Pseudomedycyna"]
 date = "2008-06-12"
 layout = "post"
 tags = ["Homeopatia", "humor"]

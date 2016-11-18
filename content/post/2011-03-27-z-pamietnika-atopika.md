@@ -1,6 +1,6 @@
 +++
 author = "Ashitaka"
-categories = ["Leczenie", "Objawy", "W społeczeństwie"]
+kategorie = ["Leczenie", "Objawy", "W społeczeństwie"]
 date = "2011-03-27"
 layout = "post"
 tags = ["psychika i ciało", "życie"]

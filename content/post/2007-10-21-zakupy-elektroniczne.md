@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Kontrowersje", "Nauka"]
+kategorie = ["Kontrowersje", "Nauka"]
 date = "2007-10-21"
 layout = "post"
 title = "Zakupy elektroniczne"

@@ -1,6 +1,6 @@
 +++
 author = "Wahwah"
-categories = ["Objawy"]
+kategorie = ["Objawy"]
 date = "2006-09-02"
 layout = "post"
 title = "Zmiany skórne w okolicach stawów"

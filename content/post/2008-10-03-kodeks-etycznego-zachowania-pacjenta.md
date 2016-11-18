@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Leczenie"]
+kategorie = ["Leczenie"]
 date = "2008-10-03"
 layout = "post"
 tags = ["humor"]

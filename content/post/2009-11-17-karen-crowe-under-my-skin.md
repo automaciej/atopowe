@@ -1,6 +1,6 @@
 +++
 author = "dexter"
-categories = ["Książka"]
+kategorie = ["Książka"]
 date = "2009-11-17"
 layout = "post"
 tags = ["e-book", "Karen Crowe"]
