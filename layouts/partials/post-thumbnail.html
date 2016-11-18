@@ -1,0 +1,11 @@
+{{ if .Params.image }}
+<a href="{{ .RelPermalink }}">
+<img src="{{ .Params.image }}" class="img-responsive" />
+</a>
+{{ end }}
+<p class="text-center"><a href="{{ .RelPermalink }}" title="Poprzedni wpis: {{ .Title }}">{{ .Title }}</a></p>
+<p class="text-muted small">
+{{ with .Description }}
+  {{ . }}
+{{ end }}
+</p>

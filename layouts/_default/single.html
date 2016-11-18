@@ -50,6 +50,26 @@
               </div>
             </article>
           </main>
+        </div><!-- col-md-12 -->
+      </div><!-- row -->
+      <div class="row">
+        {{ with .PrevInSection }}
+        <div class="col-md-3 col-xs-6">
+          <div class="thumbnail">
+            {{ partial "post-thumbnail.html" . }}
+          </div><!-- thumbnail -->
+        </div><!-- col-md-6 -->
+        {{ end }}
+        {{ with .NextInSection }}
+        <div class="col-md-3 col-xs-6">
+          <div class="thumbnail">
+            {{ partial "post-thumbnail.html" . }}
+          </div><!-- thumbnail -->
+        </div><!-- col-md-6 -->
+        {{ end }}
+      </div><!-- row -->
+      <div class="row">
+        <div class="col-md-12">
           {{ partial "disqus-main.html" . }}
         </div><!-- col-md-12 -->
       </div><!-- row -->
