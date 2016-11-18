@@ -10,8 +10,7 @@ równi z medycyną. W rzeczywistości równości takiej nie ma. Ten artykuł opi
 różnice oraz pomaga zastanowić się, czym jest leczenie i jak ocenić jego
 skuteczność.
 
-Często zadawane pytania
------------------------
+## Często zadawane pytania
 
 ### Co to jest medycyna alternatywna?
 
@@ -255,10 +254,9 @@ Stoi za tym szereg mechanizmów społecznych i psychologicznych.
     maścią sterydową powoduje uszkodzenie jej aż do samego korzenia na wiele
     miesięcy” są nawet nie tyle przesadą, ile zwykłą nieprawdą.
 
-Często spotykane mity
----------------------
+## Mity
 
-### „Medycyna alternatywna uczyni mnie zdrowszym”
+### Mit „Medycyna alternatywna uczyni mnie zdrowszym”
 
 Chcesz być ogólnie zdrowszy, czy też pozbyć się bardzo konkretnych objawów,
 takich jak świąd i czerwona skóra? Bycie „ogólnie zdrowszym” to dobra rzecz,
@@ -269,7 +267,7 @@ Jeżeli skutkiem bycia ogólnie zdrowszymi pożegnamy się z objawami AZS, to
 świetnie. Ale jak można mówić wspaniałości bycia zdrowszym, kiedy człowiek
 drapie się jak szalony i nie może spać?
 
-### „Metod alternatywnych nie ma jak zweryfikować”
+### Mit „Metod alternatywnych nie ma jak zweryfikować”
 
 Objawy AZS są dobrze określone i łatwe do zaobserwowania. Wystarczy popatrzeć,
 jaki jest kolor skóry, czy skóra się łuszczy i czy jest podrapana. W leczeniu
@@ -277,39 +275,40 @@ AZS ostatecznie chodzi nam właśnie o te konkretne rzeczy.
 
 Najczęściej spotykane mity na temat testowania metod alternatywnych:
 
-Nie ma sensu badanie na dużej liczbie osób ponieważ w medycynie alternatywnej
-stosuje się indywidualne podejście do pacjenta : Wymówka najczęściej używana
-przez homeopatów. Indywidualne podejście nie jest przeszkodą w przetestowaniu,
-ponieważ zamiast konkretnego specyfiku homeopatycznego można testować po prostu
-skuteczność homeopatii w leczeniu AZS.[6]
+**„Nie ma sensu badanie na dużej liczbie osób ponieważ w medycynie alternatywnej
+stosuje się indywidualne podejście do pacjenta”** --- Jest to wymówka najczęściej
+używana przez homeopatów. Indywidualne podejście nie jest przeszkodą w
+przetestowaniu, ponieważ zamiast konkretnego specyfiku homeopatycznego można
+testować po prostu skuteczność homeopatii w leczeniu AZS.[6]
 
-Efekty leczenia alternatywnego wymykają się szkiełku i oku : W przypadku AZS
+**„Efekty leczenia alternatywnego wymykają się szkiełku i oku”** --- W przypadku AZS
 objawy są bardzo łatwe do zauważenia: czerwona,
-[łuszcząca]({{< relref "atopedia/Łuszczenie.md" >}}) się skóra oraz [świąd]({{< relref "atopedia/Świąd.md" >}}).
-Rozmawiamy tu konkretnie o metodach leczenia AZS. Ogólna „poprawa zdrowia” nie
-ma sensu, jeżeli koniec końców nie ustąpią objawy choroby.
+[łuszcząca]({{< relref "atopedia/Łuszczenie.md" >}}) się skóra oraz
+[świąd]({{< relref "atopedia/Świąd.md" >}}).
+Rozmawiamy tu konkretnie o metodach leczenia AZS.  Ogólna lecz nieokreślona
+„poprawa zdrowia” jest wartości, jeżeli koniec końców nie ustąpią objawy choroby.
 
-Efekt terapii alternatywnej może przyjść po dwóch tygodniach albo po dwóch
-miesiącach : Eksperymenty kliniczne mogą trwać tak długo jak potrzeba. Niektóre
+**„Efekt terapii alternatywnej może przyjść po dwóch tygodniach albo po dwóch
+miesiącach”** --- Eksperymenty kliniczne mogą trwać tak długo jak potrzeba. Niektóre
 badania trwają latami, a nawet dziesiątkami lat, jeżeli trzeba. Obserwacyjne
 badania rakotwórczości dymu tytoniowego trwały bardzo długo, i nie stanowiło to
 przeszkody w przeprowadzeniu ich. Wiemy już bez wątpienia, że dym nie jest
 obojętny dla zdrowia.
 
-Badania nad medycyną alternatywną nie są fundowane : Na świecie istnieją
+**„Badania nad medycyną alternatywną nie są fundowane”** --- Na świecie istnieją
 ośrodki medycyny alternatywnej, które mają fundusze i mogą przeprowadzać
 badania. Natomiast jeżeli chodzi o fundusze rządowe - nie przeznacza się ich na
 dogłębne badanie czegoś, co nie jest poparte rzetelnymi i obiecującymi
 badaniami wstępnymi.
 
-### „Nauka nie przyjmuje metod alternatywnych ponieważ naukowcy nie akceptują &lt;jakaś teoria&gt;”
+### Mit „Nauka nie przyjmuje metod alternatywnych ponieważ naukowcy nie akceptują &lt;jakaś teoria&gt;”
 
 Teorie mają drugorzędne znaczenie. W pierwszej kolejności liczy się namacalny
 efekt. Jeżeli leczenie działa, nie musimy wiedzieć, *jak* ono działa. Ważne
 jest to, *czy* ono działa. Istnieją leki, których mechanizm działania nie jest
 dobrze poznany, ale wiemy, że są skuteczne — wykazały to testy kliniczne.
 
-### „Medycyna konwencjonalna nie ma lekarstwa na AZS”
+### Mit „Medycyna konwencjonalna nie ma lekarstwa na AZS”
 
 Co prawda nie istnieje pastylka, po połknięciu której AZS odeszłoby niczym za
 dotknięciem czarodziejskiej różdżki, ale twierdzenia o „braku lekarstwa” są
@@ -319,7 +318,7 @@ immunosupresyjne i antybiotyki, umiejętnie zastosowane, pozwalają w przeciągu
 kilkunastu dni zaleczyć skórę nawet z poważnymi zmianami i infekcjami. Raz
 zaleczoną skórę można dalej kontrolować niedużymi dawkami leków.
 
-### „Medycyna konwencjonalna leczy wyłącznie objawowo”
+### Mit „Medycyna konwencjonalna leczy wyłącznie objawowo”
 
 Owszem, w dużej mierze, ale nie wyłącznie. W AZS mamy często do czynienia z
 [błędnym kołem](/atopedia/Błędne_koło), gdzie jeden problem powoduje powstanie
@@ -328,13 +327,13 @@ które zostało spowodowane drapaniem, które to drapanie zostało spowodowane
 świądem, to podanie leku przeciwświądowego jest leczeniem objawowym, czy
 przyczynowym?
 
-### „Medycyna konwencjonalna rozkłada ręce, nie mam wyboru, muszę stosować &lt;alternatywna praktyka Y&gt;”
+### Mit „Medycyna konwencjonalna rozkłada ręce, nie mam wyboru, muszę stosować &lt;alternatywna praktyka Y&gt;”
 
 Celem całego tego artykułu jest żeby pokazać, że to nie jest wybór pomiędzy
 równoważnymi możliwościami. Gdyby &lt;alternatywna praktyka Y&gt; była
 skuteczna, byłaby częścią medycyny.
 
-### „Lekarze rozkładają ręce”
+### Mit „Lekarze rozkładają ręce”
 
 To prawda, że medycyna nie zna odpowiedzi na wszystkie pytania. Choroby
 alergiczne są generalnie trudne w leczeniu, ale mimo to medycyna potrafi dużo
@@ -344,7 +343,7 @@ Proszę też rozważyć następującą rzecz: nie wszyscy lekarze są tak samo d
 Jeżeli jeden lekarz nie ma dobrego pomysłu na leczenie, może po prostu trzeba
 poszukać innego lekarza?
 
-### „Jeżeli ktoś jest sceptycznie nastawiony do &lt;alternatywna praktyka Y&gt;, sugestia nie występuje”
+### Mit „Jeżeli ktoś jest sceptycznie nastawiony do &lt;alternatywna praktyka Y&gt;, sugestia nie występuje”
 
 Nie ma żadnego powodu dla którego sugestia nie miała by wystąpić, nawet jeżeli
 ktoś jest sceptycznie nastawiony. Przykładem może być bioenergoterapia, podczas
@@ -354,7 +353,7 @@ doprowadzi do „faktycznie, chyba zaczynam coś czuć.” Razem z całą otoczk
 seansu bioenergoterapeutycznego, takie pytania mają mocne działanie sugestywne
 i hipnotyczne.
 
-### „Leki alternatywne może i nie są potwierdzone, ale przynajmniej nie szkodzą”
+### Mit „Leki alternatywne może i nie są potwierdzone, ale przynajmniej nie szkodzą”
 
 Mogą szkodzić! Właśnie dlatego, że nie są dobrze przebadane, nie wiemy tak
 naprawdę, jakie mają działanie na organizm człowieka. Badania kliniczne służą
@@ -365,7 +364,7 @@ Ping](/atopedia/Piyan_Ping) zawiera [steryd](/atopedia/Steryd) dexametazon.
 Inne są po prostu szkodliwe, na przykład niektóre leki ajurwedyczne zawierają
 ołów i inne metale ciężkie[7].
 
-### „Tak wiele osób mówi, że &lt;alternatywna praktyka Y&gt; im pomogła, że to nie może być przypadek.”
+### Mit „Tak wiele osób mówi, że &lt;alternatywna praktyka Y&gt; im pomogła, że to nie może być przypadek.”
 
 To rzeczywiście może nie być przypadek, ale powód może być inny niż faktyczna
 skuteczność &lt;alternatywna praktyka Y&gt;. Osoby które po spróbowaniu
@@ -374,7 +373,7 @@ znajomymi, więc ją opowiadają. Osoby które po zastosowaniu &lt;Y&gt; poprawy
 nie odczuły, nie mają czego opowiadać, więc milczą - historii niepowodzeń po
 prostu się nie słyszy.
 
-### „&lt;alternatywna praktyka Y&gt; jest akceptowana przez medycynę, ponieważ jest stosowana przez lekarzy.”
+### Mit „&lt;alternatywna praktyka Y&gt; jest akceptowana przez medycynę, ponieważ jest stosowana przez lekarzy.”
 
 Nie, nie jest to prawda żeby jakakolwiek praktyka alternatywna była
 zaakceptowana przez medycynę.
@@ -386,7 +385,6 @@ stosowane praktyki, w związku z czym osoby które stosują tego typu medody
 naczęściej uchodzą bezkarnie, pomimo że stanowisko Naczelnej Rady Lekarskiej w
 sprawie medycyny alternatywnej[8] jest jednoznaczne:
 
-
 Naczelna Rada Lekarska zwraca uwagę, że wykonywanie niesprawdzonych i
 niezalecanych praktyk, które są podstawą tzw. medycyny alternatywnej stoi w
 sprzeczności z art. 57 rozdziału IV Kodeksu Etyki Lekarskiej, który mówi:
@@ -394,8 +392,7 @@ sprzeczności z art. 57 rozdziału IV Kodeksu Etyki Lekarskiej, który mówi:
 bezwartościowe. Nie może także współdziałać z osobami zajmującymi się
 leczeniem, a nie posiadającymi do tego uprawnień”.
 
-Przypisy
---------
+## Przypisy
 
 * [STANOWISKO Nr 24-02-IV NACZELNEJ RADY LEKARSKIEJ z dnia 8 listopada 2002 r.
   w sprawie tzw. medycyny alternatywnej](http://www.racjonalista.pl/kk.php/s,5969)

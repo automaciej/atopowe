@@ -9,7 +9,7 @@ url = "/2008/07/30/indywidualne-podejscie-do-pacjenta/"
 
 +++
 
-Główny zarzut pod adresem medycyny alternatywnej to brak eksperymentalnego potwierdzenia skuteczności. Osoby broniące medycyny alternatywnej zazwyczaj odpowiadają, że metod alternatywnych nie da się przetestować, ponieważ stosuje się tam, uwaga, _indywidualne podejście do pacjenta._ W związku z tym indywidualnym podejściem nie można wziąć po prostu grupy pacjentów z AZS i podać im tego samego specyfiku.
+Główny zarzut pod adresem [medycyny alternatywnej]({{< relref "Krytyka_medycyny_alternatywnej.md" >}}) to brak eksperymentalnego potwierdzenia skuteczności. Osoby broniące medycyny alternatywnej zazwyczaj odpowiadają, że metod alternatywnych nie da się przetestować, ponieważ stosuje się tam, uwaga, _indywidualne podejście do pacjenta._ W związku z tym indywidualnym podejściem nie można wziąć po prostu grupy pacjentów z AZS i podać im tego samego specyfiku.
 
 Czy rzeczywiście z powodu indywidualnego podejścia nie można testować metod alternatywnych? Argument ten jest najczęściej używany przez homeopatów, więc skupię się na tym przykładzie.
 
@@ -17,7 +17,7 @@ Czy rzeczywiście z powodu indywidualnego podejścia nie można testować metod 
 
 Wyobraźmy sobie następujący eksperyment. Bierzemy grupę pacjentów ze zdiagnozowanym AZS. Wysyłamy ich do niezależnego lekarza który dokumentuje ich stan, to znaczy robi wywiad i fotografie, żeby było widać które obszary skóry są zmienione, czy są strupy od drapania, i tak dalej. Niezależność tego lekarza jest bardzo ważna. Najlepiej, żeby nie wiedział on nawet, jaka metoda jest testowana. Jego zadaniem jest tylko udokumentowanie stanu bieżącego.
 
-Następnie idziemy do homeopaty, który potwierdza że owszem, jest gotów leczyć tych oto pacjentów. Homeopata bierze każdego pacjenta do gabinetu, diagnozuje ile chce, i każdemu przepisuje <span style="font-style: italic;">indywidualne</span> leczenie.
+Następnie idziemy do homeopaty, który potwierdza że owszem, jest gotów leczyć tych oto pacjentów. Homeopata bierze każdego pacjenta do gabinetu, diagnozuje ile chce, i każdemu przepisuje *indywidualne* leczenie.
 
 Nie każdy pacjent dostanie przepisane preparaty. Niektórzy pacjenci dostaną placebo. Ważne jest, żeby [pacjenci nie wiedzieli][1], czy zostali przypisani do placebo, czy nie.
 
@@ -29,7 +29,7 @@ W takim eksperymencie homeopata nie musi trzymać się żadnych sztywnych reguł
 
 Koniec końców, ważne jest to, żeby skóra była mniej czerwona i żeby się mniej drapać, prawda? I to właśnie mierzymy. Jeżeli ktoś zna jakikolwiek powód, dla którego nie można w ten sposób testować medycyny alternatywnej &#8211; proszę, napiszcie, będę czytał z zapartym tchem.
 
-Natomiast jeżeli metody alternatywne „leczą AZS”, ale „akurat nie pomagają na czerwoną skórę ani na drapanie”, to&#8230; o co tam właściwie chodzi? Co mi z jakichś zapewnień że „coś jest lepiej”? Ja tylko chcę mieć normalną skórę i żeby mnie nie swędziało.
+Natomiast jeżeli metody alternatywne „leczą AZS”, ale „akurat nie pomagają na czerwoną skórę ani na drapanie”, to&#8230; jaka z nich korzyść? Co mi z jakichś zapewnień że „coś jest lepiej”? Ja tylko chcę mieć normalną skórę i żeby mnie nie swędziało.
 
- [1]: http://blog.atopowe.pl/2008/07/29/maly-czuje-sie-lepiej-prawda/
- [2]: http://blog.atopowe.pl/2007/11/23/koniec-homeopatii/
+ [1]: /2008/07/29/maly-czuje-sie-lepiej-prawda/
+ [2]: /2007/11/23/koniec-homeopatii/

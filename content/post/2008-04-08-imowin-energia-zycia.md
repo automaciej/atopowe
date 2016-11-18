@@ -23,5 +23,5 @@ Powyższy tekst widnieje na stronie producenta suplementu diety, który [zakupi�
 Tekst reklamy to oczywiście tylko bełkot nafaszerowany terminologią &#8222;naukową&#8221;. Jednak (jak widać) brzmi wystarczająco naukowo, żeby skołować ludzi tak zdesperowanych, że [spróbują wszystkiego][2]. Nie ma chyba granic ludzkiej łatwowierności. Półtora roku temu napisałem o działającej cuda [maści na krowie wymiona][3]. Wiele osób zrozumiało żart, ale też do dzisiaj dostaję na priva pytania od osób poważnie zainteresowanych leczeniem się u weterynarza&#8230;.
 
  [1]: http://www.atopowe-zapalenie.pl/forum/viewtopic.php?t=4363
- [2]: http://blog.atopowe.pl/2008/02/17/musze-sprobowac-wszystkiego/ "Muszę spróbować wszystkiego"
+ [2]: /2008/02/17/musze-sprobowac-wszystkiego/ "Muszę spróbować wszystkiego"
  [3]: http://www.atopowe-zapalenie.pl/forum/viewtopic.php?t=3173
