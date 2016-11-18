@@ -8,7 +8,7 @@ kategorie = [ "Emolienty",]
 
 **CERALAN - emolient półtłusty**
 
-CERALAN zachowuje dużą wchłanialność i dobrze się rozsmarowuje. Zawiera występujące w zdrowym naskórku ceramidy, które wiążą ze sobą komórki naskórka. Zmniejsza złuszczanie, będące skutkiem niedostatecznej łączności komórek naskórka. Rola ceramidów polega też na zatrzymywaniu wody w naskórku. Tym samym pośrednio wpływają one na zwiększenie elastyczności skóry. Ceralan zmniejsza złuszczanie i [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink") skóry zmienionej chorobowo. Jest doskonały jako krem po [kąpielach]({{< relref "atopedia/Zbyt_częste_kąpiele.md" >}}) (także leczniczych) i po naświetlaniach UV.
+CERALAN zachowuje dużą wchłanialność i dobrze się rozsmarowuje. Zawiera występujące w zdrowym naskórku ceramidy, które wiążą ze sobą komórki naskórka. Zmniejsza złuszczanie, będące skutkiem niedostatecznej łączności komórek naskórka. Rola ceramidów polega też na zatrzymywaniu wody w naskórku. Tym samym pośrednio wpływają one na zwiększenie elastyczności skóry. Ceralan zmniejsza złuszczanie i [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink") skóry zmienionej chorobowo. Jest doskonały jako krem po kąpielach (także leczniczych) i po naświetlaniach UV.
 
 CERALAN idealny emolient dla:
 

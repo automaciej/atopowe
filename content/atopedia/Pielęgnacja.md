@@ -9,7 +9,7 @@ title = "Pielęgnacja"
 
 -   [Natłuszczanie](/atopedia/Natłuszczanie "wikilink")
 -   [Nawilżanie](/atopedia/Nawilżanie "wikilink")
--   [Kąpiele]({{< relref "atopedia/Zbyt_częste_kąpiele.md" >}} "wikilink")
+-   Kąpiele
 
 **Zobacz też**
 

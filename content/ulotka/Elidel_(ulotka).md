@@ -112,7 +112,7 @@ Elidel można stosować na skórę całego ciała, w tym także na skórę głow
 Krem należy stosować dwa razy na dobę, np. rano i wieczorem. Środki nawilżające (preparaty zmiękczające skórę) można nakładać bezpośrednio po zastosowaniu kremu Elidel. Skóra pacjentów z atopowym zapaleniem skóry może być bardzo sucha.
 Z tego względu należy przedyskutować z lekarzem sposób pielęgnacji skóry, aby zapewnić odpowiedni stopień nawilżenia.
 
-Ze względu na możliwość zmycia kremu nie należy stosować kremu Elidel bezpośrednio przed [kąpielą]({{< relref "atopedia/Zbyt_częste_kąpiele.md" >}} "wikilink") lub prysznicem.
+Ze względu na możliwość zmycia kremu nie należy stosować kremu Elidel bezpośrednio przed kąpielą lub prysznicem.
 
 **Jak długo stosować Elidel**
 Krem należy stosować tak długo jak długo lekarz uzna to za konieczne. W przypadku braku poprawy po 6 tygodniach stosowania leku lub w przypadku, gdy wystąpi zaostrzenie choroby, należy skontaktować sie z lekarzem. W przypadku długotrwałego leczenia egzemy terapię kremem Elidel należy rozpocząć natychmiast po zaobserwowaniu pierwszych [objawów](/atopedia/Charakterystyczne_objawy "wikilink"). Zapobiega to występowaniu objawów związanych z zaostrzeniem lub nawrotem choroby.
