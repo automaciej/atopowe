@@ -6,6 +6,12 @@ layout = "post"
 tags = ["zloty"]
 title = "Wrażenia ze zlotu w Starych Jabłonkach"
 url = "/2011/06/29/wrazenia-ze-zlotu/"
+description = """
+Główną atrakcją spotkania byli przesympatyczni ludzie z którymi \
+od dłuższego czasu zamierzałam się spotkać i wymienić spostrzeżeniami na temat \
+azs, astmy i alergii: a byli to Anka lego, Dexter+ Mirka+ Ewa, Honda +Iza, \
+Dragon+ Adrianna, Brummig z rodzinką, Kumina i Romaneq."""
+image = "/wp-content/uploads/2011/06/SJ11.jpg"
 
 +++
 
@@ -17,13 +23,13 @@ Na zlot wyruszyłam z Krakowa o godzinie 21 w piątek, ale nie była to samotna 
 
 <!--more-->W Warszawie byliśmy o godzinie 5 rano, wypiłyśmy szybką kawę i pojechaliśmy do Olsztyna. W Olsztynie spotkaliśmy Dextera i Mirkę oraz Ewę- siostrę Dextera. Stamtąd dojechaliśmy do celu naszej podróży- Starych Jabłonek . Kiedy odebraliśmy klucze od przesympatycznego kierownika ośrodka „Elemis” natychmiast udaliśmy się do naszego domku, aby zostawic nasze bagaże, a wyglądał on tak:
 
-<img class="aligncenter size-full wp-image-2048" title="Nasz domek" src="http://blog.atopowe.pl/wp-content/uploads/2011/06/SJ2.jpg" alt="" srcset="http://blog.atopowe.pl/wp-content/uploads/2011/06/SJ2-300x169.jpg 300w, http://blog.atopowe.pl/wp-content/uploads/2011/06/SJ2.jpg 606w" sizes="(max-width: 606px) 100vw, 606px" />
+<img class="aligncenter size-full wp-image-2048" title="Nasz domek" src="/wp-content/uploads/2011/06/SJ2.jpg" alt="" srcset="/wp-content/uploads/2011/06/SJ2-300x169.jpg 300w, /wp-content/uploads/2011/06/SJ2.jpg 606w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Następnie poszliśmy pozwiedzać ośrodek- udaliśmy się nad jezioro Szeląg, gdzie natychmiast [wypożyczaliśmy sprzęt wodny][2].
 
 Między czasie dołączyli do nas: Adrianna i Dragon oraz [Honda i Iza][3].
 
-Oraz [Brumming z rodzinką][4] <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Oraz [Brumming z rodzinką][4] <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 I tak spędziliśmy pierwsze 2 godziny zlotu. Potem „zaatakował” nas deszcz i postanowiliśmy udać się do naszego domku.
   
@@ -31,13 +37,13 @@ Tam postanowiliśmy, że zjemy obiad w smażalni ryb. Więc udaliśmy się w to 
 
 Potem wróciliśmy do domku i poszliśmy jeszcze [popływać na sprzęcie wodnym][6].
 
-Między czasie pożegnaliśmy się z Kuminną i Dragonem+ Adrianną. (Szkoda ze nie zostaliście na grilu  <img src="http://blog.atopowe.pl/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />)
+Między czasie pożegnaliśmy się z Kuminną i Dragonem+ Adrianną. (Szkoda ze nie zostaliście na grilu  <img src="/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />)
 
 Po kolejnych szaleństwach nad wodą [poszliśmy na grilla][7]. Gdzie mistrzem grillowania okazała się Anka Lego.
 
 Z grilla kosztowaliśmy [karkówki, kiełbasy, cukinii, rybki][8] (piersi z kurczaka- wtajemniczeni widzą o co chodzi :D), a nawet chlebka.
   
-<img class="aligncenter size-full wp-image-2057" title="Mirka, Dexter, Iza i Honda (zmarzluchy!)" src="http://blog.atopowe.pl/wp-content/uploads/2011/06/SJ11.jpg" alt="" srcset="http://blog.atopowe.pl/wp-content/uploads/2011/06/SJ11-300x169.jpg 300w, http://blog.atopowe.pl/wp-content/uploads/2011/06/SJ11.jpg 609w" sizes="(max-width: 609px) 100vw, 609px" />
+<img class="aligncenter size-full wp-image-2057" title="Mirka, Dexter, Iza i Honda (zmarzluchy!)" src="/wp-content/uploads/2011/06/SJ11.jpg" alt="" srcset="/wp-content/uploads/2011/06/SJ11-300x169.jpg 300w, /wp-content/uploads/2011/06/SJ11.jpg 609w" sizes="(max-width: 609px) 100vw, 609px" />
 
 Po tak udanym wieczorze i pożegnaniu Brumming z rodziną. [Przenieśliśmy się do domku][9]. Gdzie posiedzieliśmy chwilkę, wykapaliśmy się i poszliśmy spać :).
 

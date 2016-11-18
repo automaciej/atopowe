@@ -5,6 +5,11 @@ date = "2013-05-29"
 layout = "post"
 title = "Wzmocnijmy nasz układ odpornościowy (albo i nie)"
 url = "/2013/05/29/wzmocnijmy-nasz-uklad-odpornosciowy-albo-nie/"
+image = "/wp-content/uploads/2013/05/huśtawka-1-300x199.jpg"
+description = """
+Opisy produktów zapewniają nas że „wzmocnią one nasz układ immunologiczny”. \
+Czy jest to możliwe, czy jest to dobry pomysł, i co to oznacza, wzmocnić \
+układ immunologiczny?"""
 
 +++
 
@@ -18,7 +23,7 @@ Dziś zwrócimy nasze sceptyczne oko na jeden z najpopularniejszych ostatnimi la
 
 Być może, ale jest to kompletnie chybiona analogia. Zdrowy układ immunologiczny można lepiej zobrazować poprzez zrównoważoną huśtawkę. Jeżeli nasz układ immunologiczny jest uszkodzony albo osłabiony w inny sposób, jedna strona huśtawki idzie w dół, i nasz organizm staje się łatwiejszym celem dla infekcji. Odwrotny scenariusz jest taki, że nasz układ immunologiczny jest nadpobudliwy, druga strona huśtawki idzie w dół, i nasz układ immunologiczny atakuje tkanki które są całkowicie zdrowe. Nazywa się to chorobą autoimmunologiczną. Choroby takie jak toczeń, reumatyczne zapalenie stawów, łuszczyca, stwardnienie rozsiane, są wszystkie autoimmunologiczne powodowane przez „wzmocniony”, lub nadpobudliwy układ immunologiczny. Jesteśmy najzdrowsi wtedy, kiedy huśtawka naszego układu immunologicznego jest stanie równowagi; jego aktywność nie jest ani zbyt mała, ani zbyt duża.
 
-[<img src="http://blog.atopowe.pl/wp-content/uploads/2013/05/huśtawka-1-300x199.jpg" alt="huśtawka-1" width="300" height="199" class="alignnone size-medium wp-image-3355" />][2]
+{{< figure src="/wp-content/uploads/2013/05/huśtawka-1-300x199.jpg" alt="Huśtawka, poprzeczna belka podparta pośrodku, z dwiema osobami po jednej z każdej ze stron. Każda z tych osób próbuje przeważyć belkę na swoją stronę." attr="fot. Mark Kriegsman" attrlink="https://flic.kr/p/32U6BW" >}}
 
 Gdybyśmy byli w stanie wzmocnić nasz układ odpornościowy, zaszkodziło by nam to automatycznie i natychmiastowo.
 
@@ -61,4 +66,3 @@ Istnieją prawdziwe choroby w których układ odpornościowy może zostać uszko
 Suplementy, soki i inne produkty mające „wzmocnić nasz system immunologiczny” są oszustwami. Celem ich jest zarabianie pieniędzy. Rozwiązują nieistniejący problem który został wymyślony przez sprytnych speców od marketingu żeby zastraszyć nas i zagonić do sklepu żebyśmy kupili ich produkt. Nie dajmy sobie wmówić, że kiedy wrzucimy worek z piaskiem na jeden z końców naszej huśtawki, będzie ona lepiej zrównoważona.
 
  [1]: http://skeptoid.com/episodes/4227 "Boost Your Immune System (or Not)"
- [2]: http://www.flickr.com/photos/kriegsman/1334194760/

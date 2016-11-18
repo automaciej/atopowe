@@ -6,6 +6,11 @@ layout = "post"
 tags = ["zloty"]
 title = "Ogólnopolski Zlot Atopików w Starych Jabłonkach"
 url = "/2011/06/30/stare-jablonki/"
+description = """
+Na pierwszy ogień poszły kiełbaski, po nich mięso i ryba przywiezione przez \
+mres, a na koniec cukinie. Przy pieczeniu chleba oddaliśmy się ożywionej \
+rozmowie, przez co musieliśmy potem szykować drugą, mniej zwęgloną partię."""
+image = "/wp-content/uploads/2011/06/SDC12322.jpg"
 
 +++
 
@@ -33,20 +38,20 @@ Kumina i Brummig przed drugim domkiem rozkoszowały się błogą atmosferą ośr
 
 Zrobiliśmy kilka pamiątkowych <a title="Mirka, dexter, Ewa, mres, Anka Lego, Dragon, Ada, Iza, Honda" href="https://picasaweb.google.com/lh/photo/rP0kbfIN4D5TK0QPn_iHE__R_iyZAL_wnPXqM1MLIOE?feat=directlink" target="_blank">zdjęć na schodach</a> i wróciliśmy do domku. Kto mógł, przebrał się w suche ubrania, a potem rozgrzewaliśmy się herbatą i ciepłą rozmową.
 
-[<img class="aligncenter size-medium wp-image-2089" src="http://blog.atopowe.pl/wp-content/uploads/2011/06/SDC12322-300x225.jpg" alt="" width="300" height="225" srcset="http://blog.atopowe.pl/wp-content/uploads/2011/06/SDC12322-300x225.jpg 300w, http://blog.atopowe.pl/wp-content/uploads/2011/06/SDC12322.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img class="aligncenter size-medium wp-image-2089" src="/wp-content/uploads/2011/06/SDC12322-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2011/06/SDC12322-300x225.jpg 300w, /wp-content/uploads/2011/06/SDC12322.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
 Niestety nadszedł czas pierwszych pożegnań. Najpierw odjechała kumina, a potem Dragon z Adą.
 
-Dla poprawienia humoru zaczęliśmy przygotowania do grilla. Mistrzem ceremonii została Anka Lego, która okazała się <a title="Anka Lego jako mistrz grillowani​a" href="https://picasaweb.google.com/lh/photo/qeTVmD_b9ZGt33AUNInhav_R_iyZAL_wnPXqM1MLIOE?feat=directlink" target="_blank">ekspertem w grillowaniu</a>.  <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />Na pierwszy ogień poszły kiełbaski, po nich mięso i ryba przywiezione przez mres, a na koniec cukinie. Przy pieczeniu chleba oddaliśmy się ożywionej rozmowie, przez co musieliśmy potem szykować drugą, mniej zwęgloną partię. 😉
+Dla poprawienia humoru zaczęliśmy przygotowania do grilla. Mistrzem ceremonii została Anka Lego, która okazała się <a title="Anka Lego jako mistrz grillowani​a" href="https://picasaweb.google.com/lh/photo/qeTVmD_b9ZGt33AUNInhav_R_iyZAL_wnPXqM1MLIOE?feat=directlink" target="_blank">ekspertem w grillowaniu</a>.  <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />Na pierwszy ogień poszły kiełbaski, po nich mięso i ryba przywiezione przez mres, a na koniec cukinie. Przy pieczeniu chleba oddaliśmy się ożywionej rozmowie, przez co musieliśmy potem szykować drugą, mniej zwęgloną partię. 😉
 
-W międzyczasie pożegnaliśmy Ewę. Na osłodę pozostały nam  urocze dzieciaki Brummig, które hasały radośnie po terenie. Wszyscy zachwycali się, jak Marcel pięknie opiekuje się młodszą siostrą.  <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />Podziwialiśmy również <a title="Różowy polarek" href="http://brummig.blox.pl/2011/04/Polar-ny-powiew-wiosna.html" target="_blank">polarek, który Brummig własnoręcznie uszyła dla córeczki</a>. <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+W międzyczasie pożegnaliśmy Ewę. Na osłodę pozostały nam  urocze dzieciaki Brummig, które hasały radośnie po terenie. Wszyscy zachwycali się, jak Marcel pięknie opiekuje się młodszą siostrą.  <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />Podziwialiśmy również <a title="Różowy polarek" href="http://brummig.blox.pl/2011/04/Polar-ny-powiew-wiosna.html" target="_blank">polarek, który Brummig własnoręcznie uszyła dla córeczki</a>. <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 Niestety nadszedł również czas ich odjazdu. Na placu boju pozostały już tylko osoby nocujące w ośrodku, czyli Anka Lego, mres, Honda, Iza, dexter i ja.
 
-Impreza przeniosła się do domku, bo zrobiło się zimno i nawet <a title="Mirka i dexter oraz Iza i Honda pod kocami" href="https://picasaweb.google.com/lh/photo/6GZpk2IRADTgnMvfSpf8pv_R_iyZAL_wnPXqM1MLIOE?feat=directlink" target="_blank">siedzenie pod kocami nie pomagało</a>. Dla rozgrzewki wypiliśmy napoje, które Brummig zabroniła nam pić przy dzieciach. 😉 Rozmowa toczyła się wartko, ale powoli zaczęła dopadać nas senność i po kolei zaczęliśmy wykruszać się z imprezy. Koło północy wszyscy już grzecznie spali. <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Impreza przeniosła się do domku, bo zrobiło się zimno i nawet <a title="Mirka i dexter oraz Iza i Honda pod kocami" href="https://picasaweb.google.com/lh/photo/6GZpk2IRADTgnMvfSpf8pv_R_iyZAL_wnPXqM1MLIOE?feat=directlink" target="_blank">siedzenie pod kocami nie pomagało</a>. Dla rozgrzewki wypiliśmy napoje, które Brummig zabroniła nam pić przy dzieciach. 😉 Rozmowa toczyła się wartko, ale powoli zaczęła dopadać nas senność i po kolei zaczęliśmy wykruszać się z imprezy. Koło północy wszyscy już grzecznie spali. <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 <a title="Do niedzieli dotrwali: Honda, Iza, mres, Anka Lego, dexter i Mirka" href="https://picasaweb.google.com/lh/photo/dL7TJM38mQcKInPcpd0fvv_R_iyZAL_wnPXqM1MLIOE?feat=directlink" target="_blank">W niedzielę rano </a>sprawnie się zebraliśmy i ruszyliśmy na dworzec, gdyż dexter i ja opuszczaliśmy Stare Jabłonki już o 11. Na dworcu nastąpiło czułe pożegnanie i odjechaliśmy, pozostawiając na peronie resztę towarzystwa, która miała w planach wyjazd dopiero po południu.
 
-Podsumowując: Zlot w Starych Jabłonkach trwał 2 dni, przy czym większość uczestników pojawiła się tylko w sobotę. Obecni byli: dexter, Ewa, Mirka, mres, Anka Lego, Brummig i Kris z dziećmi, Honda i Iza, Dragon i Ada oraz kumina z mężem. Spotkanie było udane i mam nadzieję, że wszyscy byli z niego tak samo zadowoleni jak ja. 😉 Pozdrawiam wszystkich obecnych i do zobaczenia na następnym zlocie. <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Podsumowując: Zlot w Starych Jabłonkach trwał 2 dni, przy czym większość uczestników pojawiła się tylko w sobotę. Obecni byli: dexter, Ewa, Mirka, mres, Anka Lego, Brummig i Kris z dziećmi, Honda i Iza, Dragon i Ada oraz kumina z mężem. Spotkanie było udane i mam nadzieję, że wszyscy byli z niego tak samo zadowoleni jak ja. 😉 Pozdrawiam wszystkich obecnych i do zobaczenia na następnym zlocie. <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
- [1]: http://blog.atopowe.pl/wp-content/uploads/2011/06/SDC12322.jpg "dexter, Ewa, Mirka, Ada, Dragon, Honda, Iza, mres"
+ [1]: /wp-content/uploads/2011/06/SDC12322.jpg "dexter, Ewa, Mirka, Ada, Dragon, Honda, Iza, mres"
