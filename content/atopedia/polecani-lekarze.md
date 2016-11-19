@@ -4,6 +4,7 @@ title = "Polecani lekarze"
 aliases = [
   "/atopedia/Dział_z_lekarzami",
   "/atopedia/Polecani_lekarze",
+  "/atopedia/Wojewódzki_Specjalistyczny_Szpital_im._dr_Wł._Biegańskiego_w_Łodzi/",
 ]
 description = "Lista polecanych lekarzy, zebrana przez użytkowników atopowe.pl"
 
@@ -402,15 +403,15 @@ T
 
 --------
 
-prof. Andrzej Kaszuba
-Dermatolog
-Wojewódzki Specjalistyczny Szpital im. dr Wł. Biegańskiego w Łodzi
-91-347
-Łódź 
+prof. Andrzej Kaszuba  
+Oddział Dermatologii i Wenerologii  
+Wojewódzki Specjalistyczny Szpital im. dr Wł. Biegańskiego w Łodzi  
+91-347 Łódź  
 ul. Kniaziewicza 1/5 
-0-42-2516092, 0-42-2516192
-T
+tel. +48-42-2516092, +48-42-2516192  
+T  
 http://www.lodzkie.pl/lodzkie/zdrowie/ZOZy/prezentacja_szpitali/jednostka_05/index.html
+
 
 --------
 
