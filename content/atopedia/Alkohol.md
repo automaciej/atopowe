@@ -11,10 +11,10 @@ działanie pogarszające stan skóry i sprzyjające zaostrzeniu. Nie jest jasne,
 winien jest sam alkohol, czy też inne składniki napojów alkoholowych, takich jak
 drożdże w piwie. Alkohol jest niewskazany podczas brania
 leków antyhistaminowych i
-[sedatywnych](/atopedia/Leki_sedatywne "wikilink"), takich jak np.
-[Atarax](/atopedia/Atarax "wikilink").
+[sedatywnych](/atopedia/Leki_sedatywne), takich jak np.
+[Atarax](/atopedia/Atarax).
 
-[](/images/Impreza.png "wikilink")
+[](/images/Impreza.png)
 
 **Zobacz również:**
 

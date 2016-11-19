@@ -33,4 +33,4 @@ ok 12 zł
 
 ## Zobacz też
 
--   [Hydroxizinum](/atopedia/Hydroxizinum "wikilink")
+-   [Hydroxizinum](/atopedia/Hydroxizinum)

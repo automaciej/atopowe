@@ -9,7 +9,7 @@ kategorie = [ "substancje chemiczne",]
 Nasz organizm jest stale zagrożony na ataki zarazków, grzybów, pyłków,
 alergenów. W organizmie znajdują się receptory, które odpowiedzialne są za
 zniszczenie innociał. Zdarza się jednak, że atakujący
-[alergen]({{< relref "atopedia/Alergen.md" >}} "wikilink") jest odporny i wtedy zaczynają działać
+[alergen]({{< relref "atopedia/Alergen.md" >}}) jest odporny i wtedy zaczynają działać
 komórki zwane tucznymi. Pobudzają one jeden z głównych składników, zwany
 histaminą. Uwalnia się ona, gdy na organizm zadziała jakiś alergen.
 
@@ -19,7 +19,7 @@ Histamina jest mediatorem świądu, towarzyszącym i nasilającym objawy stanu
 zapalnego skóry - alergii. Uwalnia się również pod wpływem czynników
 chemicznych, fizycznych i biochemicznych. Powstaje w wyniku dekarboksylacji
 histydyny i jest magazynowana w komórkach tucznych i bazofilach.  [Komórki
-tuczne](/atopedia/Komórki_tuczne "wikilink") występują w tkance łącznej, przede
+tuczne](/atopedia/Komórki_tuczne) występują w tkance łącznej, przede
 wszystkim w okolicy naczyń krwionośnych i limfatycznych oraz nerwów. Po
 degranulacji komórek tucznych histamina przenika do naczyń krwionośnych, poziom
 histaminy we krwi rośnie między 2.5 a 5 minutami i wraca do poziomu wyjściowego
@@ -36,7 +36,7 @@ ataki bezdechu u alergików.
 
 Histamina w czasie alarmu powoduje wzmożone wydzielanie soków trawiennych i
 skurcze mięśni, co prowadzi do biegunki i tzw. [alergii
-pokarmowej]({{< relref "atopedia/Alergia_pokarmowa.md" >}} "wikilink").
+pokarmowej]({{< relref "atopedia/Alergia_pokarmowa.md" >}}).
 
 Receptory H3 modulują syntezę histaminy i jej uwalnianie w ośrodkowym układzie
 nerwowym i mogą obniżać jej uwalnianie z komórek tucznych i hamować uwalnianie
@@ -50,8 +50,8 @@ konieczność leczenia antyhistaminowego.
 Leki antyhistaminowe mają za
 zadanie blokowanie tych receptorów, które odpowiedzialne są za produkcję
 histaminy. Ma to powstrzymać pojawianie się efektów alergicznych typu kichanie,
-[wyprysk]({{< relref "atopedia/Wyprysk.md" >}} "wikilink"), łzawienie oczu. Zostaje też zablokowane
-powstawanie [swędzenia]({{< relref "atopedia/Świąd.md" >}} "wikilink"). Jednak nawet najlepsze leki
+[wyprysk]({{< relref "atopedia/Wyprysk.md" >}}), łzawienie oczu. Zostaje też zablokowane
+powstawanie [swędzenia]({{< relref "atopedia/Świąd.md" >}}). Jednak nawet najlepsze leki
 antyhistaminowe nie są w stanie całkowicie usunąć histaminy przypisanej do
 danego receptora. Dlatego ważne jest stałe i regularne stosowanie leków.
 

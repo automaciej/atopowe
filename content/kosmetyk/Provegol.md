@@ -18,7 +18,7 @@ aliases = [ "/atopedia/Provegol/",]
 
 **Zastosowanie:**
 
-Żel bez mydła, tzw. [syndet](/atopedia/Syndety "wikilink"), do mycia całego ciała (włosy). Polecany dla całej rodziny. Ekonomiczne opakowanie z dozownikiem. Pojemność 500 ml
+Żel bez mydła, tzw. [syndet](/atopedia/Syndety), do mycia całego ciała (włosy). Polecany dla całej rodziny. Ekonomiczne opakowanie z dozownikiem. Pojemność 500 ml
 
 ### Tonik
 

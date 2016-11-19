@@ -6,7 +6,7 @@ kategorie = [ "wpadki",]
 
 +++
 
-Kora dębu ma pomagać na pęknięcia, odmrożenia, oparzenia [skóry]({{< relref "atopedia/Skóra.md" >}} "wikilink"). Przyjemna w użyciu i może nawet pomaga ale... bardzo farbuje. Ze zdrowej skóry ten kolor się zmywa, ale skóra atopika przybiera ciemnobrązowy kolor. Jest on tym trwalszy im bardziej zniszczona jest skóra. Wygląda to strasznie, uwidaczniają się wszelkie krostki, pęknięcia, pęcherzyki itp.
+Kora dębu ma pomagać na pęknięcia, odmrożenia, oparzenia [skóry]({{< relref "atopedia/Skóra.md" >}}). Przyjemna w użyciu i może nawet pomaga ale... bardzo farbuje. Ze zdrowej skóry ten kolor się zmywa, ale skóra atopika przybiera ciemnobrązowy kolor. Jest on tym trwalszy im bardziej zniszczona jest skóra. Wygląda to strasznie, uwidaczniają się wszelkie krostki, pęknięcia, pęcherzyki itp.
 
 **Zobacz także**
 

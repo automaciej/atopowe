@@ -29,7 +29,7 @@ Związki siarki wchodzące w skład proderminy potęgują jej działanie redukuj
 
 ### Wskazania
 
-[Łuszczyca](/atopedia/Łuszczyca "wikilink"), wyprysk, złuszczanie łuszczycowate, świerzbiączka, zapalenie łojotokowe skóry.
+[Łuszczyca](/atopedia/Łuszczyca), wyprysk, złuszczanie łuszczycowate, świerzbiączka, zapalenie łojotokowe skóry.
 
 ### Przeciwwskazania
 

@@ -25,5 +25,5 @@ Leczo nadaje się dla małych dzieci.
 
 **Uwagi:**
 
--   Nie doprawiona zupa ma dość mdły, dyniowy smak - ale małym [dzieciom]({{< relref "atopedia/Dziecko.md" >}} "wikilink") to smakuje.
+-   Nie doprawiona zupa ma dość mdły, dyniowy smak - ale małym [dzieciom]({{< relref "atopedia/Dziecko.md" >}}) to smakuje.
 -   Proporcje składników nie są specjalnie ważne, gotujesz tyle ile potrzebujesz.

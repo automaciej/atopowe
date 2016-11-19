@@ -6,13 +6,13 @@ kategorie = [ "Alergeny",]
 
 +++
 
-Zjawisko reaktywności krzyżowej alergenów pojawia się, gdy przeciwciała [IgE](/atopedia/IgE "wikilink") wytworzone pierwotnie w kierunku jednego alergenu wiążą lub rozpoznają podobne białko pochodzące z innego źródła.
+Zjawisko reaktywności krzyżowej alergenów pojawia się, gdy przeciwciała [IgE](/atopedia/IgE) wytworzone pierwotnie w kierunku jednego alergenu wiążą lub rozpoznają podobne białko pochodzące z innego źródła.
 
 ![](/images/AlergenyKrzyzowe.jpg "700px")
 
 **Zobacz też**
 
--   [Alergia](/atopedia/Alergia "wikilink")
+-   [Alergia](/atopedia/Alergia)
 
 **Linki zewnętrzne**
 

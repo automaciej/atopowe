@@ -22,33 +22,33 @@ Sposób działania:
 Leki antyhistaminowe doustne
 ----------------------------
 
-**I generacja:** Klemastyna ([Clemastin](/atopedia/Clemastin "wikilink"), Tavegyl), Dimetinden ([Fenistil](/atopedia/Fenistil "wikilink")), [Prometazyna](/atopedia/Prometazyna "wikilink") ([Diphergan](/atopedia/Diphergan "wikilink"), Phenergan, Phrotazin, Phrometazin), [Hydroksyzyna](/atopedia/Hydroksyzyna "wikilink") (Hydroxizinum, [Atarax](/atopedia/Atarax "wikilink")), Cyprohepatydyna (Peritol, Protadina), Ketotifen ([Zaditen](/atopedia/Zaditen "wikilink"), [Ketotifen](/atopedia/Ketotifen "wikilink"), [Pozitan](/atopedia/Pozitan "wikilink"))
+**I generacja:** Klemastyna ([Clemastin](/atopedia/Clemastin), Tavegyl), Dimetinden ([Fenistil](/atopedia/Fenistil)), [Prometazyna](/atopedia/Prometazyna) ([Diphergan](/atopedia/Diphergan), Phenergan, Phrotazin, Phrometazin), [Hydroksyzyna](/atopedia/Hydroksyzyna) (Hydroxizinum, [Atarax](/atopedia/Atarax)), Cyprohepatydyna (Peritol, Protadina), Ketotifen ([Zaditen](/atopedia/Zaditen), [Ketotifen](/atopedia/Ketotifen), [Pozitan](/atopedia/Pozitan))
 
-**II generacja:** Ebastyna *(Kestine)*, [Loratadyna](/atopedia/Loratadyna "wikilink") ([Aleric](/atopedia/Aleric "wikilink"), Clarinase, [Claritine](/atopedia/Claritine "wikilink"), Loratadyna, Loratin, Loratine, Nalergin, Rotadin, Flonidan), [Cetyryzyna](/atopedia/Cetyryzyna "wikilink") ([Zyrtec](/atopedia/Zyrtec "wikilink"), [Virlix](/atopedia/Virlix "wikilink"), [Amertil](/atopedia/Amertil "wikilink"), [Allertec](/atopedia/Allertec "wikilink"), Cet Alergin, Letizen), [Mizolastyna](/atopedia/Mizolastyna "wikilink") *(Mizollen)*
+**II generacja:** Ebastyna *(Kestine)*, [Loratadyna](/atopedia/Loratadyna) ([Aleric](/atopedia/Aleric), Clarinase, [Claritine](/atopedia/Claritine), Loratadyna, Loratin, Loratine, Nalergin, Rotadin, Flonidan), [Cetyryzyna](/atopedia/Cetyryzyna) ([Zyrtec](/atopedia/Zyrtec), [Virlix](/atopedia/Virlix), [Amertil](/atopedia/Amertil), [Allertec](/atopedia/Allertec), Cet Alergin, Letizen), [Mizolastyna](/atopedia/Mizolastyna) *(Mizollen)*
 
-**III generacja:** Feksofenadyna ([Telfast]({{< relref "ulotka/Telfast.md" >}} "wikilink"), [Telfexo](/atopedia/Telfexo "wikilink")), Desloratadyna (Aerius), Levocetrizina ([Lirra Gem](/atopedia/Lirra_Gem "wikilink"), [Xyzal](/atopedia/Xyzal "wikilink")), Bilastyna ([Bilaxten](/atopedia/Bilaxten "wikilink"), [Clatra](/atopedia/Clatra "wikilink"))
+**III generacja:** Feksofenadyna ([Telfast]({{< relref "ulotka/Telfast.md" >}}), [Telfexo](/atopedia/Telfexo)), Desloratadyna (Aerius), Levocetrizina ([Lirra Gem](/atopedia/Lirra_Gem), [Xyzal](/atopedia/Xyzal)), Bilastyna ([Bilaxten](/atopedia/Bilaxten), [Clatra](/atopedia/Clatra))
 
 Leki antyhistaminowe w zastrzykach
 ----------------------------------
 
-[Clemastin](/atopedia/Clemastin "wikilink"), [Diphergan](/atopedia/Diphergan "wikilink")
+[Clemastin](/atopedia/Clemastin), [Diphergan](/atopedia/Diphergan)
 
 Leki immunosupresyjne stosowane miejscowo
 -----------------------------------------
 
-[Protopic](/atopedia/Protopic "wikilink"), [Elidel](/atopedia/Elidel "wikilink"), Douglan
+[Protopic](/atopedia/Protopic), [Elidel](/atopedia/Elidel), Douglan
 
 Leki immunosupresyjne stosowane doustnie
 ----------------------------------------
 
-[Cyklosporyna](/atopedia/Cyklosporyna "wikilink") ([Sandimmun Neoral](/atopedia/Sandimmun_Neoral "wikilink"))
+[Cyklosporyna](/atopedia/Cyklosporyna) ([Sandimmun Neoral](/atopedia/Sandimmun_Neoral))
 
 Kortykosterydy w maściach
 -------------------------
 
-[Hydrokortyzon](/atopedia/Hydrokortyzon "wikilink"), [Dexametazon](/atopedia/Dexametazon "wikilink") ([Piyan Ping](/atopedia/Piyan_Ping "wikilink") alias Maść 999), [Mecortolon](/atopedia/Mecortolon "wikilink")
+[Hydrokortyzon](/atopedia/Hydrokortyzon), [Dexametazon](/atopedia/Dexametazon) ([Piyan Ping](/atopedia/Piyan_Ping) alias Maść 999), [Mecortolon](/atopedia/Mecortolon)
 
 Kortykosterydy stosowane doustnie
 ---------------------------------
 
-[Encorton](/atopedia/Encorton "wikilink")
+[Encorton](/atopedia/Encorton)

@@ -10,11 +10,11 @@ PIELĘGNACJA SKÓRY DZIECI I NIEMOWLĄT
 
 /SKÓRA ATOPOWA, SUCHA, WRAŻLIWA/
 
-Atoperal Baby krem przeznaczony jest do codziennej pielęgnacji [skóry atopowej]({{< relref "atopedia/Skóra_atopowa.md" >}} "wikilink"), suchej i wrażliwej dzieci i niemowląt powyżej 1 miesiąca życia. Starannie wyselekcjonowane składniki kremu zapewniają profesjonalną pielęgnację skóry dziecka.
+Atoperal Baby krem przeznaczony jest do codziennej pielęgnacji [skóry atopowej]({{< relref "atopedia/Skóra_atopowa.md" >}}), suchej i wrażliwej dzieci i niemowląt powyżej 1 miesiąca życia. Starannie wyselekcjonowane składniki kremu zapewniają profesjonalną pielęgnację skóry dziecka.
 
 -   Sepicalm S - wzmacnia naturalną barierę ochronną naskórka, wykazuje właściwości nawilżające, kojące, przeciwzapalne i antyoksydacyjne.
 -   Stimu-tex - zapewnia natychmiastowy i długotrwały efekt przeciwświądowy.
--   Sk-influx - dzięki połączeniu ceramidów, cholesterolu, wolnych kwasów tłuszczowych i fitosfingozyny tworzy unikalny kompleks odbudowujący prawidłową barierę naskórkową poprzez dostarczanie składników cementu międzykomórkowego, których niedobór wykazano u osób chorych na [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink").
+-   Sk-influx - dzięki połączeniu ceramidów, cholesterolu, wolnych kwasów tłuszczowych i fitosfingozyny tworzy unikalny kompleks odbudowujący prawidłową barierę naskórkową poprzez dostarczanie składników cementu międzykomórkowego, których niedobór wykazano u osób chorych na [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}}).
 
 Sposób stosowania:
 ------------------

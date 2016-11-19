@@ -6,10 +6,10 @@ kategorie = [ "wpadki",]
 
 +++
 
-Zaobserwowano, że ryzyko zachorowania na [AZS](/atopedia/Atopowe_zapalenie_skóry
-"wikilink") jest większe u dzieci, których matki były czynnymi lub biernymi
-palaczami w czasie ciąży[^1]. Unikanie ekspozycji na dym w ciąży jest zatem
-jednym z czynników, które mogą zmniejszyć rozwój AZS.
+Zaobserwowano, że ryzyko zachorowania na
+[AZS](/atopedia/Atopowe_zapalenie_skóry) jest większe u dzieci, których matki
+były czynnymi lub biernymi palaczami w czasie ciąży[^1]. Unikanie ekspozycji na
+dym w ciąży jest zatem jednym z czynników, które mogą zmniejszyć rozwój AZS.
 
 Także ryzyko rozwoju AZS w wieku dorosłym jest znacząco większe u osób palących
 długoterminowo[^2]. Wyniki te wskazują, że dorośli powinni być zniechęcani do

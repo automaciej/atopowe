@@ -6,7 +6,7 @@ kategorie = [ "wpadki",]
 
 +++
 
-Czasami [pranie](/atopedia/Pranie "wikilink") jest całe w czarnych kulkach z ciemnej mazi - coś jak bardzo miękka plastelina. Trudno się jest ich pozbyć, bo jest ich bardzo dużo i są wszędzie. Takie ubrania trzeba prać dwa razy: prać raz, trzepać z kulek, prać drugi raz.
+Czasami [pranie](/atopedia/Pranie) jest całe w czarnych kulkach z ciemnej mazi - coś jak bardzo miękka plastelina. Trudno się jest ich pozbyć, bo jest ich bardzo dużo i są wszędzie. Takie ubrania trzeba prać dwa razy: prać raz, trzepać z kulek, prać drugi raz.
 
 Kulki najprawdopodobniej tworzą się z cięższych frakcji emolientów którymi się smarujemy: ubrania są przesiąknięte, emolienty w praniu "wytapiają" się i formują w te czarne kulki. Kulki są czarne lub ciemnoszare, zabarwienie bierze się z połączenia emolientów i brudu.
 

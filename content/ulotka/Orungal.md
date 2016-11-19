@@ -119,7 +119,7 @@ Brak danych W przypadku przedawkowania należy zastosować środki zaradcze. Pł
 
 **Działania niepożądane**
 
-Mogą wystapić objawy ze strony układu pokarmowego takie jak: niestrawnośc, nudności,ból brzucha i zaparcia.Rzadziej bóle głowy, przejściowe zwiększenie aktywności enzymów wątrobowych, zaburzenia cyklu miesiączkowego,zawroty głowy i reakcje alergiczne (takie jak świąd, wysypka, pokrzywka, [obrzęk naczynioruchowy]({{< relref "atopedia/Obrzęk_naczynioruchowy.md" >}} "wikilink")).Odnotowano również odobonione przypadki neuropatii obwodowej i zespołu Stevens-Johnsona. Obserwowano działania niepożądane takie jak: hipokalemia, obrzęk,zapalenie wątroby i wypadanie włosów, głównie u pacjentów poddawanych długotrwałej( ok. 1 miesiąca) terapii ciagłej.
+Mogą wystapić objawy ze strony układu pokarmowego takie jak: niestrawnośc, nudności,ból brzucha i zaparcia.Rzadziej bóle głowy, przejściowe zwiększenie aktywności enzymów wątrobowych, zaburzenia cyklu miesiączkowego,zawroty głowy i reakcje alergiczne (takie jak świąd, wysypka, pokrzywka, [obrzęk naczynioruchowy]({{< relref "atopedia/Obrzęk_naczynioruchowy.md" >}})).Odnotowano również odobonione przypadki neuropatii obwodowej i zespołu Stevens-Johnsona. Obserwowano działania niepożądane takie jak: hipokalemia, obrzęk,zapalenie wątroby i wypadanie włosów, głównie u pacjentów poddawanych długotrwałej( ok. 1 miesiąca) terapii ciagłej.
 
 Wytwórca Janssen Pharmaceutica N.V. b-2340 Beerse, Belgia
 

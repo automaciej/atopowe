@@ -21,6 +21,6 @@ w łączeniu cech psychiki z objawami choroby.
 
 **Zobacz też**
 
--   [Choroba psychosomatyczna](/atopedia/Choroba_psychosomatyczna "wikilink")
+-   [Choroba psychosomatyczna](/atopedia/Choroba_psychosomatyczna)
 -   [Atopia jako metafora](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?t=1407)
 -   [Czy skóra ma duszę?](http://www.uroda.com.pl/index.php?option=com_content&task=view&id=140&Itemid=46)

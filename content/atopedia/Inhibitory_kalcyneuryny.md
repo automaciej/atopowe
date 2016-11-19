@@ -6,11 +6,11 @@ kategorie = [ "terapia",]
 
 +++
 
--   [Takrolimus]({{< relref "atopedia/Takrolimus.md" >}} "wikilink") ([Protopic](/atopedia/Protopic "wikilink"))
--   [Pimecrolimus](/atopedia/Pimecrolimus "wikilink") ([Elidel](/atopedia/Elidel "wikilink"))
--   [Cyklosporyna](/atopedia/Cyklosporyna "wikilink")
+-   [Takrolimus]({{< relref "atopedia/Takrolimus.md" >}}) ([Protopic](/atopedia/Protopic))
+-   [Pimecrolimus](/atopedia/Pimecrolimus) ([Elidel](/atopedia/Elidel))
+-   [Cyklosporyna](/atopedia/Cyklosporyna)
 
-Działanie IK polega na łączeniu się z białkami cytozolowymi (cyklofilina w przypadku cyklosporyny A oraz makrofilina-12 w przypadku takrolimusu i pimekrolimusu). Kompleks taki blokuje kalcyneurynę - fosfatazę seronowo-treoninową. Podczas reakcji antygen-przeciwciało dochodzi do wzrostu stężenia wolnego wapnia w komórce, który po związaniu z kalmoduliną aktywuje kalcyneurynę. Prowadzi to do defosforylacji cytoplazmatycznej podjednostki białka regulatorowego NFATc i jego przemieszczenie się do jądra komórkowego, gdzie dochodzi do połączenia się z jednostką jądrową NFATn. Tak powstały kompleks prowadzi do ekspresji genów dla [cytokin]({{< relref "atopedia/Cytokiny.md" >}} "wikilink") prozapalnych: IL-2, IL-3, IL-4, IL-5, IFNg, TNFα, GM-GSF.
+Działanie IK polega na łączeniu się z białkami cytozolowymi (cyklofilina w przypadku cyklosporyny A oraz makrofilina-12 w przypadku takrolimusu i pimekrolimusu). Kompleks taki blokuje kalcyneurynę - fosfatazę seronowo-treoninową. Podczas reakcji antygen-przeciwciało dochodzi do wzrostu stężenia wolnego wapnia w komórce, który po związaniu z kalmoduliną aktywuje kalcyneurynę. Prowadzi to do defosforylacji cytoplazmatycznej podjednostki białka regulatorowego NFATc i jego przemieszczenie się do jądra komórkowego, gdzie dochodzi do połączenia się z jednostką jądrową NFATn. Tak powstały kompleks prowadzi do ekspresji genów dla [cytokin]({{< relref "atopedia/Cytokiny.md" >}}) prozapalnych: IL-2, IL-3, IL-4, IL-5, IFNg, TNFα, GM-GSF.
 
 Kompleks lek-immunofilina blokuje kalcyneurynę i zapobiega defosforylacji NFATc, co uniemożliwia jego przeniknięcie do jądra komórkowego. W związku z tym nie dochodzi do transkrypcji mRNA dla wymienionych wyżej cytokin prozapalnych zarówno w zakresie Th1, jak i Th2. Inhibitory kalcyneuryny powodują również blokadę degranulacji mastocytów oraz ograniczają ekspresję genów zaangażowanych w produkcję genów zaangażowanych w produkcję leukotrienów.
 
@@ -20,4 +20,4 @@ Kompleks lek-immunofilina blokuje kalcyneurynę i zapobiega defosforylacji NFATc
 
 #### Zobacz również:
 
--   [Leki immunosupresyjne]({{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink")
+-   [Leki immunosupresyjne]({{< relref "atopedia/Leki_immunosupresyjne.md" >}})

@@ -8,9 +8,9 @@ kategorie = [ "podstawowe wiadomości",]
 +++
 
 **Atopowe zapalenie skóry** (ang. *atopic dermatitis*, wyprysk atopowy, kiedyś –
-[egzema](/atopedia/Egzema "wikilink"), [pokrzywka]({{< relref
-"atopedia/Pokrzywka.md" >}} "wikilink"), świerzbiączka) jest chorobą skóry,
-zaliczaną do chorób [atopowych]({{< relref "atopedia/Atopia.md" >}} "wikilink").
+[egzema](/atopedia/Egzema), [pokrzywka]({{< relref
+"atopedia/Pokrzywka.md" >}}), świerzbiączka) jest chorobą skóry,
+zaliczaną do chorób [atopowych]({{< relref "atopedia/Atopia.md" >}}).
 
 ## Przyczyny
 
@@ -18,7 +18,7 @@ Przyczynami atopowego zapalenia skóry są
 [reakcje alergiczne]({{< relref "atopedia/Reakcja_alergiczna.md" >}}). Jednak, kiedy choroba się
 rozwinie, zniknięcie pierwotnej przyczyny może nie wystarczyć do wyzdrowienia.
 
-*Przeczytaj osobny artykuł: [przyczyny atopowego zapalenia skóry](/atopedia/Przyczyny_atopowego_zapalenia_skóry "wikilink").*
+*Przeczytaj osobny artykuł: [przyczyny atopowego zapalenia skóry](/atopedia/Przyczyny_atopowego_zapalenia_skóry).*
 
 ![](/images/Atopowe-diagram.png "right|500px|Atopowe zapalenie skóry, zależności|link=")
 
@@ -46,14 +46,14 @@ posuwać naprzód.
 
 W przebiegu choroby znaczenie mają:
 
--   [czynniki genetyczne]({{< relref "atopedia/Obciążenie_genetyczne.md" >}} "wikilink")
+-   [czynniki genetyczne]({{< relref "atopedia/Obciążenie_genetyczne.md" >}})
 -   wpływ środowiska zewnętrznego
--   [alergeny]({{< relref "atopedia/Alergen.md" >}} "wikilink")
+-   [alergeny]({{< relref "atopedia/Alergen.md" >}})
     -   pokarmowe
     -   wziewne (powietrznopochodne)
 -   substancje drażniące (np.: wełna)
 -   hormony
--   mikroorganizmy, [roztocza]({{< relref "atopedia/Roztocze_kurzu_domowego.md" >}} "wikilink")
+-   mikroorganizmy, [roztocza]({{< relref "atopedia/Roztocze_kurzu_domowego.md" >}})
 -   czynniki klimatyczne
 
 ## Charakterystyczne objawy
@@ -62,7 +62,7 @@ Atopowe zapalenie skóry charakteryzuje się intensywnym świądem,
 [zaczerwienieniem]({{< relref "atopedia/Zaczerwienienie_skóry.md" >}}) i
 łuszczeniem się skóry.
 
-*Przeczytaj osobny artykuł: [objawy atopowego zapalenia skóry]({{< relref "atopedia/Objawy_atopowego_zapalenia_skóry.md" >}} "wikilink").*
+*Przeczytaj osobny artykuł: [objawy atopowego zapalenia skóry]({{< relref "atopedia/Objawy_atopowego_zapalenia_skóry.md" >}}).*
 
 ## Mechanizm powstawania zmian
 
@@ -70,13 +70,13 @@ Główna hipoteza zakłada, że przewlekły stan zapalny skóry jest spowodowany
 zaburzeniami immunologicznymi, spowodowanymi przez cechy genetyczne; te
 zaburzenia to przede wszystkim:
 
--   nadmierne wytwarzanie swoistych [IgE](/atopedia/IgE "wikilink") przeciwko
+-   nadmierne wytwarzanie swoistych [IgE](/atopedia/IgE) przeciwko
     alergenom pokarmowym i wziewnym (co określane jest mianem „astmy skórnej”);
-    ta [reakcja alergiczna](/atopedia/Reakcja_alergiczna "wikilink") prowadzi do
+    ta [reakcja alergiczna](/atopedia/Reakcja_alergiczna) prowadzi do
     nadmiernej produkcji różnych białek odpowiedzialnych za powstanie stanu
     zapalnego
 -   uwalniania z [komórek tucznych]({{< relref "atopedia/Komórki_tuczne.md" >}})
-    [histaminy]({{< relref "atopedia/Histamina.md" >}} "wikilink"),
+    [histaminy]({{< relref "atopedia/Histamina.md" >}}),
     oraz uwalnianie leukotrienów, prostaglandyn, proteaz (co daje objawy zapalne
     różnych narządów np.: skóra, oczy i układów np.: oddechowym, pokarmowym)
 -   nadmiernej produkcji i upośledzenia działania limfocytów T (upośledzenie
@@ -84,10 +84,10 @@ zaburzenia to przede wszystkim:
     udział w przebiegu procesu zapalnego
 
 Duże znaczenie w powstawaniu i utrzymywaniu się zmian skórnych w AZS ma tzw.:
-[defekt ektodermalny]({{< relref "atopedia/Defekt_ektodermalny.md" >}}
-"wikilink"); spowodowany jest prawdopodobnie zaburzeniami produkcji ceramidów i
-[lipidów]({{< relref "atopedia/Płaszcz_lipidowy.md" >}} "wikilink") w skórze, co
-objawia się nadmierną suchością i łatwemu powstawaniu podrażnień skóry.
+[defekt ektodermalny]({{< relref "atopedia/Defekt_ektodermalny.md" >}});
+spowodowany jest prawdopodobnie zaburzeniami produkcji ceramidów i [lipidów]({{<
+relref "atopedia/Płaszcz_lipidowy.md" >}}) w skórze, co objawia się nadmierną
+suchością i łatwemu powstawaniu podrażnień skóry.
 
 Istnieje również pogląd, że w patogenezie AZS rola atopii jest znikoma, a w
 niektórych przypadkach wręcz żadna i, że AZS nie jest objawem atopii jako takiej
@@ -100,12 +100,12 @@ skóry do świądu (jako defekt genetyczny).
 
 **Zobacz też**
 
--   [Profilaktyka](/atopedia/Profilaktyka "wikilink"), [Terapia](/atopedia/Terapia "wikilink"), [Pielęgnacja](/atopedia/Pielęgnacja "wikilink"), [Higiena](/atopedia/Higiena "wikilink")
--   [Efekt błędnego koła](/atopedia/Efekt_błędnego_koła "wikilink")
--   [Świąd](/atopedia/Świąd "wikilink"), [Podrażnienie](/atopedia/Podrażnienie "wikilink"), [Gojenie](/atopedia/Gojenie "wikilink")
--   [Mechanizm powstawania zmian](/atopedia/Mechanizm_powstawania_zmian "wikilink")
--   [Obciążenie genetyczne](/atopedia/Obciążenie_genetyczne "wikilink"), [Wyrastanie z AZS](/atopedia/Wyrastanie_z_AZS "wikilink")
--   [Papierosy](/atopedia/Papierosy "wikilink")
+-   [Profilaktyka](/atopedia/Profilaktyka), [Terapia](/atopedia/Terapia), [Pielęgnacja](/atopedia/Pielęgnacja), [Higiena](/atopedia/Higiena)
+-   [Efekt błędnego koła](/atopedia/Efekt_błędnego_koła)
+-   [Świąd](/atopedia/Świąd), [Podrażnienie](/atopedia/Podrażnienie), [Gojenie](/atopedia/Gojenie)
+-   [Mechanizm powstawania zmian](/atopedia/Mechanizm_powstawania_zmian)
+-   [Obciążenie genetyczne](/atopedia/Obciążenie_genetyczne), [Wyrastanie z AZS](/atopedia/Wyrastanie_z_AZS)
+-   [Papierosy](/atopedia/Papierosy)
 -   [Wykład dr Ireny Grzesiak]({{< relref "atopedia/Wykład_dr_Ireny_Grzesiak.md" >}})
 
 **Linki zewnętrzne**

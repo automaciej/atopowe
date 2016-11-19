@@ -6,7 +6,7 @@ kategorie = [ "podstawowe wiadomości", "alergia", "astma",]
 
 +++
 
-Badania epidemiologiczne oraz długofalowe obserwacje kliniczne wskazują na istnienie określonej sekwencji występowania schorzeń atopowych u danej osoby. Sekwencja ta kojarzy się z pojawianiem się i dynamiką zmienności swoistych [IgE](/atopedia/IgE "wikilink") przeciw alergenom pokarmowym i wziewnym.[1]
+Badania epidemiologiczne oraz długofalowe obserwacje kliniczne wskazują na istnienie określonej sekwencji występowania schorzeń atopowych u danej osoby. Sekwencja ta kojarzy się z pojawianiem się i dynamiką zmienności swoistych [IgE](/atopedia/IgE) przeciw alergenom pokarmowym i wziewnym.[1]
 
 Sekwencję tę nazywa się **marszem alergicznym**.
 

@@ -23,7 +23,7 @@ Zawarta w maści alantoina działa przeciwzapalnie i ściągająco. Przyspiesza 
 
 ### Wskazania do stosowania
 
-Maść stosuje się w leczeniu trudno gojących się ran, oparzeń (także słonecznych) oraz w przewlekłych stanach zapalnych skóry przebiegających z nadmiernym złuszczaniem i rogowaceniem ([atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink"), wyprysk, [łuszczyca](/atopedia/Łuszczyca "wikilink") i inne choroby skóry).
+Maść stosuje się w leczeniu trudno gojących się ran, oparzeń (także słonecznych) oraz w przewlekłych stanach zapalnych skóry przebiegających z nadmiernym złuszczaniem i rogowaceniem ([atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry), wyprysk, [łuszczyca](/atopedia/Łuszczyca) i inne choroby skóry).
 
 Wskazaniem do stosowania maści są płytkie owrzodzenia, ubytki skóry i błon śluzowych.
 

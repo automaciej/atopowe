@@ -24,7 +24,7 @@ aliases = [ "/atopedia/Equoral/",]
 
 ### Skład
 
-Jedna kapsułka preparatu EQUORAL zawiera jako substancję czynną – [cyklosporynę]({{< relref "atopedia/Cyklosporyna.md" >}} "wikilink"), w dawce odpowiednio 25 mg, 50 mg lub 100 mg.
+Jedna kapsułka preparatu EQUORAL zawiera jako substancję czynną – [cyklosporynę]({{< relref "atopedia/Cyklosporyna.md" >}}), w dawce odpowiednio 25 mg, 50 mg lub 100 mg.
 
 *Substancje pomocnicze*: etanol bezwodny, estry roślinnych nienasyconych kwasów tłuszczowych i poliglicerolu (n = 3), estry roślinnych nienasyconych kwasów tłuszczowych i poliglicerolu (n = 10), makrogologlicerolu stearynian uwodorniony, D,L-(alfa) tokoferol.
 
@@ -74,9 +74,9 @@ Zespół nerczycowy
 
 Reumatoidalne zapalenie stawów
 
-[Łuszczyca](/atopedia/Łuszczyca "wikilink")
+[Łuszczyca](/atopedia/Łuszczyca)
 
-[Atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink")
+[Atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry)
 
 Zanim zastosuje się lek EQUORAL
 -------------------------------

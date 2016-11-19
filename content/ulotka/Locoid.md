@@ -67,7 +67,7 @@ Zakażenia skóry:
 -   grzybicze i spowodowane drożdżakami
 -   pierwotniakowe
 
-Owrzodzenia skóry, rany, owrzodzenia podudzi, rany oparzeniowe. [Posterydowe zapalenie skóry](/atopedia/Posterydowe_zapalenie_skóry "wikilink") wokół ust, posterydowe rozstępy skórne. Rybia łuska, trądzik pospolity, trądzik różowały, łamliwość naczyń krwionośnych, zaniki skórne.
+Owrzodzenia skóry, rany, owrzodzenia podudzi, rany oparzeniowe. [Posterydowe zapalenie skóry](/atopedia/Posterydowe_zapalenie_skóry) wokół ust, posterydowe rozstępy skórne. Rybia łuska, trądzik pospolity, trądzik różowały, łamliwość naczyń krwionośnych, zaniki skórne.
 
 Nadwrażliwość na którykolwiek ze składników podłoża lub substancję czynną.
 

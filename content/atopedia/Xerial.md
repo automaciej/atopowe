@@ -62,7 +62,7 @@ Balsam do ciała XERIAL 500
 
 Dostępne w aptekach i na str <http://www.bio-med.pl/cenniksvr.html>
 
-Seria zawiera syntetyczny [mocznik]({{< relref "atopedia/Mocznik.md" >}} "wikilink") nawilżający i redukujący nadmierne rogowacenie skóry.
+Seria zawiera syntetyczny [mocznik]({{< relref "atopedia/Mocznik.md" >}}) nawilżający i redukujący nadmierne rogowacenie skóry.
 
 Krem CERKODERM 15
 -----------------
@@ -70,7 +70,7 @@ Krem CERKODERM 15
 -   Wskazania: dla szczególnie suchej skóry z tendencją do rogowacenia i łuszczenia, zwłaszcza stóp i łokci. Polecany przy takich chorobach jak łuszczyca, cukrzyca
 -   Działanie: intensywnie nawilża i zmiękcza
 -   Stosowanie: Miejsca zmienione chorobowo, nadmiernie zrogowaciałe (stopy, kolana, łokcie).
--   Skład: Aqua, Urea(15 %), Petrolate, Lactic Acid,Cetearyl Alkohol, Octyldodecanol, Glycerol, Polysorbate 40, Mineral Oil, Glyceryl Stearate, Sodium Hydroxide, [Metyloparaben](/atopedia/Metyloparaben "wikilink"), [Propyloparaben](/atopedia/Propyloparaben "wikilink")
+-   Skład: Aqua, Urea(15 %), Petrolate, Lactic Acid,Cetearyl Alkohol, Octyldodecanol, Glycerol, Polysorbate 40, Mineral Oil, Glyceryl Stearate, Sodium Hydroxide, [Metyloparaben](/atopedia/Metyloparaben), [Propyloparaben](/atopedia/Propyloparaben)
 
 <!-- -->
 
@@ -82,7 +82,7 @@ Krem KERATOLAN 3
 
 -   Bardzo tani i dobry krem z mocznikiem. Idealny jako zastepstwo drogiego Xerialu 10. Stężenie mocznika raczej niewielkie, ale wystarczajace by dobrze nawilżyć i trochę złuszczyć. Koszt za zwykłe, typowe okrągłe pudełko - ok 8 zł!!! więc prawdopodobnie jest to najtańszy dostępny krem z mocznikiem (ostanio jednak nieosiągalny) Wiem, że istnieje też Keratolan 1 i 2 o innym składzie, niestety nie znam.
 -   Skład: Emulsja W/O, 3% mocznika, 5% masła karite,
--   Skład wg.innego źródła: Aqua, Paraffinum Liquidum, Isopropyl Myristate, Cetearyl Alcohol (and) Ceteareth-20, Propylene Glycol, Vaseline White, Cetyl Alcohol, Urea, Salicylic Acid, [Metyloparaben](/atopedia/Metyloparaben "wikilink"), [Etyloparaben](/atopedia/Etyloparaben "wikilink"), [Propyloparaben](/atopedia/Propyloparaben "wikilink") , Fragrance.
+-   Skład wg.innego źródła: Aqua, Paraffinum Liquidum, Isopropyl Myristate, Cetearyl Alcohol (and) Ceteareth-20, Propylene Glycol, Vaseline White, Cetyl Alcohol, Urea, Salicylic Acid, [Metyloparaben](/atopedia/Metyloparaben), [Etyloparaben](/atopedia/Etyloparaben), [Propyloparaben](/atopedia/Propyloparaben) , Fragrance.
 -   Pojemność 100 ml.
 
 Krem KERMUREN 10

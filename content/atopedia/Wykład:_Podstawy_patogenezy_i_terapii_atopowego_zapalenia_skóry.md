@@ -19,11 +19,11 @@ __TOC__
 
 Witam wszystkich obecnych. Pracuję w Centrum Zdrowia Dziecka, ale również mam Zakład i Katedrę Immunologii w Bydgoszczy, gdzie prowadzę swoją działalność dydaktyczną i naukową. Bardzo miło mi Państwa powitać.
 
-Moim celem jest przedstawienie zasadniczych zagadnień związanych z chorobami atopowymi w sensie immunologicznym i później chciałbym trochę więcej powiedzieć o [atopowym zapaleniu skóry](/atopedia/AZS "wikilink") jako chorobie atopowej.
+Moim celem jest przedstawienie zasadniczych zagadnień związanych z chorobami atopowymi w sensie immunologicznym i później chciałbym trochę więcej powiedzieć o [atopowym zapaleniu skóry](/atopedia/AZS) jako chorobie atopowej.
 
 Niestety, układ odpornościowy to jest bardzo skomplikowana dziedzina i bardzo skomplikowany układ, który składa się z wielu, wielu części, które między sobą współpracują.
 
-Można od razu powiedzieć, że [atopia]({{< relref "atopedia/Atopia.md" >}} "wikilink") jako taka jest generalnie defektem limfocytu. I to jest pierwsza cecha, która ją wyróżnia wśród innych chorób. Atopia jest funkcją, jest właściwie defektem limfocytu.
+Można od razu powiedzieć, że [atopia]({{< relref "atopedia/Atopia.md" >}}) jako taka jest generalnie defektem limfocytu. I to jest pierwsza cecha, która ją wyróżnia wśród innych chorób. Atopia jest funkcją, jest właściwie defektem limfocytu.
 
 Aby powiedzieć, co to jest atopia, trzeba znać przynajmniej podstawowe pojęcia z dziedziny immunologii i dlatego pierwszą częścią tego wykładu będzie wprowadzenie Państwa w podstawowe pojęcia dotyczące funkcjonowania i struktury układu odpornościowego.
 
@@ -57,7 +57,7 @@ Neutrofile mają funkcje fagocytalne i bójcze (?). Ich jest najwięcej we krwi 
 
 Potem mamy bazofile, które są właściwie nieobecne we krwi. To jest specjalny rodzaj leukocytów, który się barwi barwnikami zasadochłonnymi. I eozynofile. Dlaczego te bazofile i eozynofile są tutaj ważne dla nas? Bo oba typy tych komórek – bazofile i eozynofile - pełnią bardzo ważną funkcję w chorobach atopowych, czyli w alergii atopowej.
 
-Następnym elementem tego układu są limfocyty. Widzimy tutaj [limfocyty T]({{< relref "atopedia/Limfocyty_T.md" >}} "wikilink"), limfocyty B i limfocyty NK.
+Następnym elementem tego układu są limfocyty. Widzimy tutaj [limfocyty T]({{< relref "atopedia/Limfocyty_T.md" >}}), limfocyty B i limfocyty NK.
 
 Co to są limfocyty T?
 ---------------------
@@ -78,7 +78,7 @@ Następną grupą limfocytów to są komórki B tzw. Komórki B to są limfocyty
 Co to są komórki plazmatyczne?
 ------------------------------
 
-Komórki plazmatyczne to jest grupa komórek, która się różnicuje z komórek B i te komórki plazmatyczne produkują immunoglobuliny. Immunoglobuliny dzielimy na kilka klas, podstawowych klas, pięć klas immunoglobulin: IgG, IgA, IgN, IgD i IgE. Dla nas tutaj szczególnie ważną immunoglobuliną będzie immunoglobulina [IgE](/atopedia/IgE "wikilink"), o której szerzej będziemy mówili w dalszym ciągu naszego spotkania.
+Komórki plazmatyczne to jest grupa komórek, która się różnicuje z komórek B i te komórki plazmatyczne produkują immunoglobuliny. Immunoglobuliny dzielimy na kilka klas, podstawowych klas, pięć klas immunoglobulin: IgG, IgA, IgN, IgD i IgE. Dla nas tutaj szczególnie ważną immunoglobuliną będzie immunoglobulina [IgE](/atopedia/IgE), o której szerzej będziemy mówili w dalszym ciągu naszego spotkania.
 
 Kolejną grupą komórką są tzw. limfocyty NK. Komórki NK to są *natural killers*. To są limfocyty nietypowe, które rozpoznają, że tak powiem, wiele swoistości w sposób niespecyficzny. Zabijają komórki nowotworowe i komórki zakażone wirusami i bakteriami, które się rozwijają wewnątrzkomórkowo.
 
@@ -120,7 +120,7 @@ Co to są komórki Th2 i Th1?
 
 Kolejnym osiągnięciem, kolejnym osiągnięciem immunologii w późnych latach 90-tych, może powiedzmy sobie szerzej, w latach 90-tych, było wykazanie, że limfocyty T CD4+, jak wychodzą z centrali narządów limfoidalnych czyli z grasicy, i wchodzą do obwodowego układu immunologicznego, pod wpływem różnych aktywacji się różnicują do komórek tzw. Th1 i Th2
 
-Czyli najpierw mamy komórkę o fenotypie tzw. Th0 i taka komórka Th0 jest zdolna do produkcji wielu cytokin. [Cytokiny](/atopedia/Cytokiny "wikilink") to są mediatory zapalenia, które ułatwiają komunikację międzykomórkową. Generalnie mamy wiele typów cytokin, ale można je czynnościowo podzielić na takie dwie części: cytokiny przeciwzapalne i cytokiny prozapalne. Albo takie, które ułatwiają cytotoksyczne reakcje komórkowe i takie, które raczej uczestniczą w syntezie przeciwciał. I okazuje się, że limfocyty Th0 się różnicują do komórek Th1 i do komórek Th2.
+Czyli najpierw mamy komórkę o fenotypie tzw. Th0 i taka komórka Th0 jest zdolna do produkcji wielu cytokin. [Cytokiny](/atopedia/Cytokiny) to są mediatory zapalenia, które ułatwiają komunikację międzykomórkową. Generalnie mamy wiele typów cytokin, ale można je czynnościowo podzielić na takie dwie części: cytokiny przeciwzapalne i cytokiny prozapalne. Albo takie, które ułatwiają cytotoksyczne reakcje komórkowe i takie, które raczej uczestniczą w syntezie przeciwciał. I okazuje się, że limfocyty Th0 się różnicują do komórek Th1 i do komórek Th2.
 
 I komórki Th1 produkują cytokiny, które nazywamy IL-2, gamma interferonem i czynnikiem wzrostu, czynnikiem TNF Alfa, to jest czynnik martwicy nowotworów alfa po polsku, czyli produkują IL-2, interferon gamma i TNF Alfa.
 
@@ -214,7 +214,7 @@ II typ to jest typ reaktywności cytotoksycznej, gdzie mamy typ przeciwciał IgG
 
 Potem mamy III typ nadwrażliwości, tzw. nadwrażliwość typu kompleksów immunologicznych, gdzie obecność kompleksów immunologicznych indukuje reakcje odpornościowe, które charakteryzują się różnymi postaciami zapaleń, m.in. chorobę posurowiczą, reakcję Arthusa, np. toczniem układowym, w reumatoidalnym zapaleniu stawów itd.
 
-I w końcu mamy IV typ nadwrażliwości, typu komórkowego. I w tym typie nadwrażliwości typu komórkowego mamy aktywowane limfocyty T, które indukują różne reaktywności odpornościowe, m.in. np. cukrzycę typu I, tak, gdzie mamy [komórki Langerhansa]({{< relref "atopedia/Komórki_Langerhansa.md" >}} "wikilink") trzustki są eliminowane przez limfocyty cytotoksyczne, które eliminują te komórki. Na drodze właśnie tego mechanizmu cytotoksycznego, w zależności, który jest spowodowany indukcją limfocytów T przez antygeny, trzustki w tym momencie.
+I w końcu mamy IV typ nadwrażliwości, typu komórkowego. I w tym typie nadwrażliwości typu komórkowego mamy aktywowane limfocyty T, które indukują różne reaktywności odpornościowe, m.in. np. cukrzycę typu I, tak, gdzie mamy [komórki Langerhansa]({{< relref "atopedia/Komórki_Langerhansa.md" >}}) trzustki są eliminowane przez limfocyty cytotoksyczne, które eliminują te komórki. Na drodze właśnie tego mechanizmu cytotoksycznego, w zależności, który jest spowodowany indukcją limfocytów T przez antygeny, trzustki w tym momencie.
 
 Bardzo proszę, jeżeli są jakieś pytania, to bardzo proszę o pytania. Jeżeli nie, to możemy przejść do właściwego wykładu.
 
@@ -226,7 +226,7 @@ Tu jest definicja atopii podana na tym przezroczu, że jest to pewna choroba, je
 
 W normalnych warunkach, kiedy człowiek jest zdrowy i rodzi się że tak powiem bez tego pecha, że ma atopię. Powiedzmy sobie tak, jak weźmiemy jego limfocyty, tego człowieka, który jest zdrowy i włożymy je do probówki (tu mamy limfocyty człowieka zdrowego, a tu mamy limfocyty człowieka chorego atopowego, tu jest A – atopowy człowiek) i do hodowli limfocytów człowieka zdrowego dodamy alergen, czyli czynnik wyizolowany na przykład z pyłków traw, alergen o znanej strukturze, dodamy tu alergen.
 
-Alergen. Co to jest [alergen]({{< relref "atopedia/Alergen.md" >}} "wikilink")? Kto wie? No. Kto wie, co to jest alergen? Wie ktoś, czy nie? Jaka jest definicja alergenu? Kto wie? Definicja alergenu jest następująca (z tego, co mówiłem): Alergen jest to antygen, który selektywnie indukuje limfocyty Th2.
+Alergen. Co to jest [alergen]({{< relref "atopedia/Alergen.md" >}})? Kto wie? No. Kto wie, co to jest alergen? Wie ktoś, czy nie? Jaka jest definicja alergenu? Kto wie? Definicja alergenu jest następująca (z tego, co mówiłem): Alergen jest to antygen, który selektywnie indukuje limfocyty Th2.
 
 Proszę to sobie zapamiętać. Alergen jest to antygen, który selektywnie indukuje limfocyty Th2.
 

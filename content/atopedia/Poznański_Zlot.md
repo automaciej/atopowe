@@ -16,18 +16,26 @@ kategorie = [ "Spotkania",]
 18 marca 2006
 -------------
 
-To było chyba pierwsze spotkanie większej grupy ludzi z tego [forum]({{< relref "atopedia/forum-dyskusyjne.md" >}} "wikilink") w realnym świecie. Rozmowa oczywiście była o [drapaniu]({{< relref "atopedia/Drapanie.md" >}} "wikilink"), kremach, [schizach]({{< relref "atopedia/Psychika.md" >}} "wikilink") związanych z [AZS](/atopedia/AZS "wikilink") i wielu innych rzeczach, których nie sposób przytoczyć. :-?
+To było chyba pierwsze spotkanie większej grupy ludzi z tego [forum]({{< relref "atopedia/forum-dyskusyjne.md" >}}) w realnym świecie. Rozmowa oczywiście była o [drapaniu]({{< relref "atopedia/Drapanie.md" >}}), kremach, [schizach]({{< relref "atopedia/Psychika.md" >}}) związanych z [AZS](/atopedia/AZS) i wielu innych rzeczach, których nie sposób przytoczyć. :-?
 
 Zrobiliśmy nawet zdjęcie, ale bez Zuby, która mi tego chyba nie przebaczy.
 
-![](/images/Poznan2.jpg "400px|thumb|left| Spotkanie z dnia 18 marca: Elemental, Maja, Basia, a z drugiej strony Zuba, Łuki i Ali782") ![](/images/Poznan4.jpg "wikilink" "400px|thumb|left| Elemental, Maja i Basia") [400px|thumb|left| Ali782, Łuki, Zuba :)](/Grafika:Poznan3.jpg "wikilink")
+![](/images/Poznan2.jpg "Spotkanie z dnia 18 marca: Elemental, Maja, Basia, a z drugiej strony Zuba, Łuki i Ali782")
+
+![](/images/Poznan4.jpg "Elemental, Maja i Basia")
+
+![](/Grafika:Poznan3.jpg "Ali782, Łuki, Zuba")
 
 <div style="clear: both">
 </div>
 30 września 2006
 ----------------
 
-![](/images/Poznan1.jpg "400px|thumb|left| Od lewej: Kufferka, Zuba, Ali, Kasia - dziewczyna Elementala") ![](/images/Poznan2_.jpg "wikilink" "400px|thumb|left| Zuba, Ali i talerze po serniku") [400px|thumb|left| Ali](/Grafika:Poznan3_.jpg "wikilink")
+![](/images/Poznan1.jpg "Od lewej: Kufferka, Zuba, Ali, Kasia - dziewczyna Elementala")
+
+![](/images/Poznan2_.jpg "Zuba, Ali i talerze po serniku")
+
+![](/Grafika:Poznan3_.jpg)
 
 <div style="clear: both">
 </div>

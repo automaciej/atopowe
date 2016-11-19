@@ -35,7 +35,7 @@ Atoperal żel do mycia ciała:
 ----------------------------
 
 -   bardzo dobrze usuwa naturalne zabrudzenia skóry oraz utrzymuje
--   właściwą [higienę]({{< relref "atopedia/Higiena.md" >}} "wikilink") ciała;
+-   właściwą [higienę]({{< relref "atopedia/Higiena.md" >}}) ciała;
 -   delikatnie oddziałuje nawet na najbardziej wrażliwą skórę, zapobiegając nadmiernemu wysuszeniu i złuszczaniu naskórka;
 -   zachowuje naturalną osłonę lipidową skóry;
 -   wyraźnie zmniejsza szorstkość i wygładza naskórek;

@@ -14,14 +14,14 @@ aliases = [ "/atopedia/Oceanic_Ocerin_PTZ/",]
 Przeznaczenie
 -------------
 
-W schorzeniach dermatologicznych przebiegających z nadmiernym złuszczaniem owłosionej skóry głowy ([łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"), złuszczanie łuszczycowate) stosowanie zabiegów pielęgnacyjnych z użyciem szamponu pozwala na szybką eliminację łuski, co wyraźnie wspomaga leczenie farmakologiczne. Efekt ten uzyskuje się dzięki zastosowaniu [mocznika]({{< relref "atopedia/Mocznik.md" >}} "wikilink") - substancja nie obca organizmowi, nietoksyczna o działaniu keratolotycznym, nawilżającym oraz łagodnie przeciwświądowym.
+W schorzeniach dermatologicznych przebiegających z nadmiernym złuszczaniem owłosionej skóry głowy ([łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}}), złuszczanie łuszczycowate) stosowanie zabiegów pielęgnacyjnych z użyciem szamponu pozwala na szybką eliminację łuski, co wyraźnie wspomaga leczenie farmakologiczne. Efekt ten uzyskuje się dzięki zastosowaniu [mocznika]({{< relref "atopedia/Mocznik.md" >}}) - substancja nie obca organizmowi, nietoksyczna o działaniu keratolotycznym, nawilżającym oraz łagodnie przeciwświądowym.
 
 Działanie
 ---------
 
 Szampon Ocerin PTZ zawiera w składzie trzy synergicznie działające składniki: pyrytion cynku, mocznik oraz pochodną kwasu undecylenowego. Dzięki tak dobranym składnikom wykazuje działanie przeciwłupieżowe poprzez ograniczenie rozwoju grzyba *Pityrosporum ovale* (*Malasezia furfur*) - bezpośrednia przyczyna łupieżu. Za profil działania przeciwgrzybiczego i przeciwbakteryjnego odpowiedzialne są: pyrytion cynku oraz pochodna kwasu undecylenowego. Dodatkowo pyrytion cyku wykazuje działanie keratolityczne, podobnie jak mocznik obecny w szamponie.
 
-Poza działaniem przeciwłupieżowym, badania aplikacyjne wykazały, że systematyczne stosowanie szamponu Ocerin PTZ zapewnia efekt zmniejszonego wydzielania łoju, a także ustąpienie [świądu]({{< relref "atopedia/Świąd.md" >}} "wikilink") owłosionej skóry głowy.
+Poza działaniem przeciwłupieżowym, badania aplikacyjne wykazały, że systematyczne stosowanie szamponu Ocerin PTZ zapewnia efekt zmniejszonego wydzielania łoju, a także ustąpienie [świądu]({{< relref "atopedia/Świąd.md" >}}) owłosionej skóry głowy.
 
 Skład
 -----

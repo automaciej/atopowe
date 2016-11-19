@@ -14,19 +14,19 @@ drażniącym w głąb skóry doprowadzając następnie do rozwoju stanu zapalneg
 skóry.
 
 W powstawaniu atopowego zapalenia skóry rolę odgrywają czynniki
-[genetyczne]({{< relref "atopedia/Obciążenie_genetyczne.md" >}} "wikilink"),
-[odpornościowe]({{< relref "atopedia/Układ_immunologiczny.md" >}} "wikilink") oraz
-[środowiskowe]({{< relref "atopedia/Środowisko.md" >}} "wikilink").
+[genetyczne]({{< relref "atopedia/Obciążenie_genetyczne.md" >}}),
+[odpornościowe]({{< relref "atopedia/Układ_immunologiczny.md" >}}) oraz
+[środowiskowe]({{< relref "atopedia/Środowisko.md" >}}).
 
-Pod wpływem [alergenów]({{< relref "atopedia/Alergen.md" >}} "wikilink") (niezależnie od drogi wniknięcia do organizmu) następuje [reakcja obronna]({{< relref "atopedia/Reakcja_alergiczna.md" >}} "wikilink") objawiająca się stanem zapalnym skóry. AZS często towarzyszą wtórne [infekcje bakteryjne]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink"), powodowane zazwyczaj przez [gronkowca złocistego]({{< relref "atopedia/Gronkowiec_złocisty.md" >}} "wikilink") oraz inne bakterie.
+Pod wpływem [alergenów]({{< relref "atopedia/Alergen.md" >}}) (niezależnie od drogi wniknięcia do organizmu) następuje [reakcja obronna]({{< relref "atopedia/Reakcja_alergiczna.md" >}}) objawiająca się stanem zapalnym skóry. AZS często towarzyszą wtórne [infekcje bakteryjne]({{< relref "atopedia/Infekcja_skóry.md" >}}), powodowane zazwyczaj przez [gronkowca złocistego]({{< relref "atopedia/Gronkowiec_złocisty.md" >}}) oraz inne bakterie.
 
-Ciężkie stany atopowego zapalenia skóry zazwyczaj występują na skutek złożenia kilku czynników naraz. Po przekroczeniu pewnej krytycznej granicy nasilenia AZS, następuje coś w rodzaju reakcji łańcuchowej, kiedy jedne problemy powodują powstawanie następnych problemów. Najczęściej są to: [infekcja skóry]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink") w wyniku [błędnego koła]({{< relref "atopedia/Efekt_błędnego_koła.md" >}} "wikilink") [świądu]({{< relref "atopedia/Świąd.md" >}} "wikilink"), [drapania]({{< relref "atopedia/Drapanie.md" >}} "wikilink") oraz [podrażnienia]({{< relref "atopedia/Podrażnienie.md" >}} "wikilink").
+Ciężkie stany atopowego zapalenia skóry zazwyczaj występują na skutek złożenia kilku czynników naraz. Po przekroczeniu pewnej krytycznej granicy nasilenia AZS, następuje coś w rodzaju reakcji łańcuchowej, kiedy jedne problemy powodują powstawanie następnych problemów. Najczęściej są to: [infekcja skóry]({{< relref "atopedia/Infekcja_skóry.md" >}}) w wyniku [błędnego koła]({{< relref "atopedia/Efekt_błędnego_koła.md" >}}) [świądu]({{< relref "atopedia/Świąd.md" >}}), [drapania]({{< relref "atopedia/Drapanie.md" >}}) oraz [podrażnienia]({{< relref "atopedia/Podrażnienie.md" >}}).
 
-Jednak podstawowym czynnikiem wyzwalającym chorobę, oraz nie dającym się opanować, jest [alergia]({{< relref "atopedia/Alergia.md" >}} "wikilink").
+Jednak podstawowym czynnikiem wyzwalającym chorobę, oraz nie dającym się opanować, jest [alergia]({{< relref "atopedia/Alergia.md" >}}).
 
 **Zobacz też**
 
--   [Obciążenie genetyczne](/atopedia/Obciążenie_genetyczne "wikilink")
--   [Efekt błędnego koła](/atopedia/Efekt_błędnego_koła "wikilink")
+-   [Obciążenie genetyczne](/atopedia/Obciążenie_genetyczne)
+-   [Efekt błędnego koła](/atopedia/Efekt_błędnego_koła)
 
-[\*]({{< relref "atopedia/Przyczyny_atopowego_zapalenia_skóry.md" >}} "wikilink")
+[\*]({{< relref "atopedia/Przyczyny_atopowego_zapalenia_skóry.md" >}})

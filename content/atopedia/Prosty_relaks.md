@@ -28,4 +28,4 @@ U różnych osób napięcie kumuluje się w różnych miejscach. Spróbuj odkry�
 
 **Zobacz też**
 
--   [Techniki relaksacyjne](/atopedia/Techniki_relaksacyjne "wikilink")
+-   [Techniki relaksacyjne](/atopedia/Techniki_relaksacyjne)

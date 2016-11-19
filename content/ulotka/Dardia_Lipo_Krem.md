@@ -31,5 +31,5 @@ Skład preparatu:
 
 Zobacz również:
 
--   [Dardia Lipo Maść](/atopedia/Dardia_Lipo_Maść "wikilink")
--   [Dardia Lipo Mleczko](/atopedia/Dardia_Lipo_Mleczko "wikilink")
+-   [Dardia Lipo Maść](/atopedia/Dardia_Lipo_Maść)
+-   [Dardia Lipo Mleczko](/atopedia/Dardia_Lipo_Mleczko)

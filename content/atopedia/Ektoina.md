@@ -20,7 +20,7 @@ Ektoina jest cząsteczką naturalną, pozyskiwaną na drodze fermentacji
 
 Ektoina jako substancja wykorzystywana do leczenia chorób alergicznych znalazła uznanie w środowisku wybitnych specjalistów w dziedzinie alergologii i dermatologii.
 
-**Wykład prof. Romana Nowickiego podczas XVIII Sympozjum Naukowo - Szkoleniowego "Postępy w Alergologii i Pneumunologii" na temat zastosowania ektoiny w leczeniu [AZS](/atopedia/AZS "wikilink"):**
+**Wykład prof. Romana Nowickiego podczas XVIII Sympozjum Naukowo - Szkoleniowego "Postępy w Alergologii i Pneumunologii" na temat zastosowania ektoiny w leczeniu [AZS](/atopedia/AZS):**
 {{< youtube f99hzNTCjbY >}}
 
 Linki zewnętrzne

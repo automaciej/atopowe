@@ -9,7 +9,7 @@ aliases = [ "/atopedia/Unibasis/",]
 
 **UNIBASIS** emulsja 130g
 
-Emulsja Unibasis stosowana jest wspomagająco w miejscowym leczeniu i łagodzeniu zmian skórnych na tle [atopowego zapalenia skóry](/atopedia/AZS "wikilink") ([wyprysk]({{< relref "atopedia/Wyprysk.md" >}} "wikilink"), świerzbiączka, [pokrzywka]({{< relref "atopedia/Pokrzywka.md" >}} "wikilink")). Łagodzenie świądu starczego. Pielęgnacja wszystkich rodzajów skóry (także skóry wrażliwej) oraz obszarów skóry po przebytym urazie lub zabiegu chirurgicznym.
+Emulsja Unibasis stosowana jest wspomagająco w miejscowym leczeniu i łagodzeniu zmian skórnych na tle [atopowego zapalenia skóry](/atopedia/AZS) ([wyprysk]({{< relref "atopedia/Wyprysk.md" >}}), świerzbiączka, [pokrzywka]({{< relref "atopedia/Pokrzywka.md" >}})). Łagodzenie świądu starczego. Pielęgnacja wszystkich rodzajów skóry (także skóry wrażliwej) oraz obszarów skóry po przebytym urazie lub zabiegu chirurgicznym.
 
 Skład
 -----
@@ -19,8 +19,8 @@ Aqua, Vaselinum Album, Cetearyl Alkohol, Polysorbate 60, Glycerin, Panthenol, Gl
 Działanie
 ---------
 
--   nawilża, uelastycznia, regeneruje [atopową, podrażnioną skórę]({{< relref "atopedia/Skóra_atopowa.md" >}} "wikilink"),
--   łagodzi napięcie, łuszczenie, [swędzenie]({{< relref "atopedia/Świąd.md" >}} "wikilink") i pękanie skóry wysuszonej wskutek starzenia lub pod wpływem czynników zewnętrznych (woda, słońce, suche powietrze, chemikalia itp.),
+-   nawilża, uelastycznia, regeneruje [atopową, podrażnioną skórę]({{< relref "atopedia/Skóra_atopowa.md" >}}),
+-   łagodzi napięcie, łuszczenie, [swędzenie]({{< relref "atopedia/Świąd.md" >}}) i pękanie skóry wysuszonej wskutek starzenia lub pod wpływem czynników zewnętrznych (woda, słońce, suche powietrze, chemikalia itp.),
 -   dzięki zawartości 5% panthenolu przynosi ulgę w odparzeniach i oparzeniach skóry (w tym słonecznych),
 -   przywraca naturalną warstwę ochronną, skóra staje się miękka, gładka, elastyczna.
 

@@ -169,4 +169,4 @@ Szpital na Lesznie przeniesiony jest do Międzylesia
 </div>
 **Zobacz też**
 
--   [Polecani lekarze](/atopedia/Polecani_lekarze "wikilink")
+-   [Polecani lekarze](/atopedia/Polecani_lekarze)

@@ -9,26 +9,26 @@ aliases = [ "/atopedia/Gojenie/",]
 
 ### Czy możecie przesłać mi na mejla co zrobić żeby wyglądać jak każdy normalny człowiek?
 
-Nie, nie możemy. [Atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink") to skomplikowane zagadnienie, nie istnieje jedna i właściwa droga [leczenia]({{< relref "atopedia/Leczenie_atopowego_zapalenia_skóry.md" >}} "wikilink"). Zachęcamy do wczytania się w Atopedię i [forum dyskusyjne]({{< relref "atopedia/forum-dyskusyjne.md" >}} "wikilink"). Proponujemy też przeczytanie krótkich [podstawowych wiadomości]({{< relref "atopedia/Podstawowe_wiadomości.md" >}} "wikilink").
+Nie, nie możemy. [Atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry) to skomplikowane zagadnienie, nie istnieje jedna i właściwa droga [leczenia]({{< relref "atopedia/Leczenie_atopowego_zapalenia_skóry.md" >}}). Zachęcamy do wczytania się w Atopedię i [forum dyskusyjne]({{< relref "atopedia/forum-dyskusyjne.md" >}}). Proponujemy też przeczytanie krótkich [podstawowych wiadomości]({{< relref "atopedia/Podstawowe_wiadomości.md" >}}).
 
 ### Czy X to maść sterydowa, jakie znacie maści niesterydowe które łagodzą podrażnienia?
 
-Leki które znamy są spisane w Atopedii. Patrz: [Leki](/atopedia/Leki "wikilink"), [Kortykosterydy](/atopedia/Kortykosterydy "wikilink"), Emolienty, [Przepisy na maści](/atopedia/Przepisy_na_maści "wikilink").
+Leki które znamy są spisane w Atopedii. Patrz: [Leki](/atopedia/Leki), [Kortykosterydy](/atopedia/Kortykosterydy), Emolienty, [Przepisy na maści](/atopedia/Przepisy_na_maści).
 
-### Czy [AZS](/atopedia/AZS "wikilink") można się zarazić?
+### Czy [AZS](/atopedia/AZS) można się zarazić?
 
-Nie, nie można. [AZS](/atopedia/AZS "wikilink") jest chorobą alergiczną, patrz [przyczyny atopowego zapalenia skóry]({{< relref "atopedia/Przyczyny_atopowego_zapalenia_skóry.md" >}} "wikilink").
+Nie, nie można. [AZS](/atopedia/AZS) jest chorobą alergiczną, patrz [przyczyny atopowego zapalenia skóry]({{< relref "atopedia/Przyczyny_atopowego_zapalenia_skóry.md" >}}).
 
 ### Czy osoby z AZS mogą oddawać krew?
 
-Nie, nie mogą. Patrz: [Oddawanie krwi](/atopedia/Oddawanie_krwi "wikilink").
+Nie, nie mogą. Patrz: [Oddawanie krwi](/atopedia/Oddawanie_krwi).
 
 ### Czy skóra i przewlekłe zmiany w AZS mogą przestać się goić?
 
 Nie ma takiego zagrożenia.
 
 W AZS ubytki skóry są powierzchowne i płytkie, mimo dużej niekiedy rozległości
-dotyczą [naskórka](/atopedia/Naskórek "wikilink"), a nie [skóry
-właściwej](/atopedia/Skóra_właściwa "wikilink"). Powstałe w ostrych stanach tzw.
+dotyczą [naskórka](/atopedia/Naskórek), a nie [skóry
+właściwej](/atopedia/Skóra_właściwa). Powstałe w ostrych stanach tzw.
 nadżerki i przeczosy (rany) w czasie poprawy stanu skóry goją się stosunkowo
 szybko i łatwo.

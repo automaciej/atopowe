@@ -31,11 +31,11 @@ kategorie = [ "emolienty",]
 -   GLYCERYL STEARATE STEARYNIAN GLICEROLU
 -   CETEARYL ALCOHOL ALKOHOL CETEARYLOWY
 -   PHENOXYETHANOL FENOKSYETANOL
--   METHYLPARABEN [Metyloparaben](/atopedia/Metyloparaben "wikilink")
--   ETHYLPARABEN [Etyloparaben](/atopedia/Etyloparaben "wikilink")
--   PROPYLPARABEN [Propyloparaben](/atopedia/Propyloparaben "wikilink")
--   BUTYLPARABEN [Butyloparaben](/atopedia/Butyloparaben "wikilink")
--   ISOBUTYLPARABEN [Izobutyloparaben](/atopedia/Izobutyloparaben "wikilink")
+-   METHYLPARABEN [Metyloparaben](/atopedia/Metyloparaben)
+-   ETHYLPARABEN [Etyloparaben](/atopedia/Etyloparaben)
+-   PROPYLPARABEN [Propyloparaben](/atopedia/Propyloparaben)
+-   BUTYLPARABEN [Butyloparaben](/atopedia/Butyloparaben)
+-   ISOBUTYLPARABEN [Izobutyloparaben](/atopedia/Izobutyloparaben)
 -   SODIUM CARBOMER KARBOMER SODU
 
 **Krem dostępny jest w opakowaniach:** 30 g (ok. 15 zł) i 100 g (ok. 27 zł). (stan na 23.04.2013)

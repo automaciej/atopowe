@@ -10,7 +10,7 @@ kategorie = [ "alergia",]
 
 **IgE** to przeciwciała (immunoglobuliny) klasy E
 
-Odpowiadają one za zjawisko nadwrażliwości typu wczesnego, występujące po kilku minutach po zetknięciu się z antygenem. W reakcji tej biorą udział komórki tuczne (mastocyty) i bazofile (leukocyty zasadochłonne), mające w błonie receptory wiążące IgE. Reakcja immunologiczna polega na związaniu się kompleksów IgE-antygen z komórkami tucznymi oraz bazofilami, co powoduje wydzielanie przez te ostatnie związków o charakterze prozapalnym m. in. histaminy, czego konsekwencją jest [reakcja alergiczna](/atopedia/Reakcja_alergiczna "wikilink").
+Odpowiadają one za zjawisko nadwrażliwości typu wczesnego, występujące po kilku minutach po zetknięciu się z antygenem. W reakcji tej biorą udział komórki tuczne (mastocyty) i bazofile (leukocyty zasadochłonne), mające w błonie receptory wiążące IgE. Reakcja immunologiczna polega na związaniu się kompleksów IgE-antygen z komórkami tucznymi oraz bazofilami, co powoduje wydzielanie przez te ostatnie związków o charakterze prozapalnym m. in. histaminy, czego konsekwencją jest [reakcja alergiczna](/atopedia/Reakcja_alergiczna).
 
 ### Badania poziomu IgE
 
@@ -29,7 +29,7 @@ Podwyższony całkowity poziom IgE nie musi jednak świadczyć o alergii[2] - wy
 -   chorobie Hodgkina
 -   chorobie Kawasaki
 
-Norma zależy od wieku, u niemowląt wynosi do 20 IU/ml, u nastolatków już nawet do 100 IU/ml. Wynik (tak jak w przypadku każdego badania laboratoryjnego) należy odnosić do zakresu normy podanego przez dane laboratorium, ponieważ normy mogą być różne także w zależności od metody badania. U chorych na [AZS](/atopedia/AZS "wikilink") IgE może iść w tysiące, a nawet dziesiątki tysięcy jednostek na ml.
+Norma zależy od wieku, u niemowląt wynosi do 20 IU/ml, u nastolatków już nawet do 100 IU/ml. Wynik (tak jak w przypadku każdego badania laboratoryjnego) należy odnosić do zakresu normy podanego przez dane laboratorium, ponieważ normy mogą być różne także w zależności od metody badania. U chorych na [AZS](/atopedia/AZS) IgE może iść w tysiące, a nawet dziesiątki tysięcy jednostek na ml.
 
 | Wiek            | Wartości IgE [IU/ml] |
 |-----------------|----------------------|
@@ -44,7 +44,7 @@ Norma zależy od wieku, u niemowląt wynosi do 20 IU/ml, u nastolatków już naw
 
 #### IgE swoiste
 
-W surowicy krwi, poziom przeciwciał odpowiedzialnych za specyficzną [reakcję alergiczną]({{< relref "atopedia/Reakcja_alergiczna.md" >}} "wikilink") – np. uczulenie na [roztocza kurzu domowego]({{< relref "atopedia/Roztocze_kurzu_domowego.md" >}} "wikilink").
+W surowicy krwi, poziom przeciwciał odpowiedzialnych za specyficzną [reakcję alergiczną]({{< relref "atopedia/Reakcja_alergiczna.md" >}}) – np. uczulenie na [roztocza kurzu domowego]({{< relref "atopedia/Roztocze_kurzu_domowego.md" >}}).
 
 #### Uwaga
 

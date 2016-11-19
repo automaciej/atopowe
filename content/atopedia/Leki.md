@@ -6,7 +6,7 @@ kategorie = [ "terapia", "leki",]
 
 +++
 
-W leczeniu [AZS](/atopedia/AZS "wikilink") stosuje się różne leki, które ze względu na sposób podawania można podzielić je na:
+W leczeniu [AZS](/atopedia/AZS) stosuje się różne leki, które ze względu na sposób podawania można podzielić je na:
 
 -   maści (działające miejscowo)
 -   leki doustne (działające systemowo, czyli na cały organizm)
@@ -14,10 +14,10 @@ W leczeniu [AZS](/atopedia/AZS "wikilink") stosuje się różne leki, które ze 
 
 Stosowane leki można podzielić na kilka kategorii (ze względu na sposób działania):
 
--   Leki antyhistaminowe (blokujące wydzielanie [histaminy](/atopedia/Histamina "wikilink"))
--   [Leki sedatywne](/atopedia/Leki_sedatywne "wikilink") (działające uspokajająco, otępiająco)
--   [Kortykosterydy](/atopedia/Kortykosterydy "wikilink") (działające przeciwzapalnie)
--   [Leki immunosupresyjne]({{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") (obniżające odporność)
+-   Leki antyhistaminowe (blokujące wydzielanie [histaminy](/atopedia/Histamina))
+-   [Leki sedatywne](/atopedia/Leki_sedatywne) (działające uspokajająco, otępiająco)
+-   [Kortykosterydy](/atopedia/Kortykosterydy) (działające przeciwzapalnie)
+-   [Leki immunosupresyjne]({{< relref "atopedia/Leki_immunosupresyjne.md" >}}) (obniżające odporność)
 
 oraz preparaty wspomagające leczenie:
 
@@ -26,4 +26,4 @@ oraz preparaty wspomagające leczenie:
 
 **Zobacz też**
 
-[Klasyfikacja leków](/atopedia/Klasyfikacja_leków "wikilink")
+[Klasyfikacja leków](/atopedia/Klasyfikacja_leków)

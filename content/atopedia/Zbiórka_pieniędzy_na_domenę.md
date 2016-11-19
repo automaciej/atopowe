@@ -6,6 +6,6 @@ kategorie = [ "Zbiórki",]
 
 +++
 
--   [Zbiórka pieniędzy na domenę (2011)]({{< relref "atopedia/Zbiórka_pieniędzy_na_domenę_(2011).md" >}} "wikilink")
--   [Zbiórka pieniędzy na domenę (2008)]({{< relref "atopedia/Zbiórka_pieniędzy_na_domenę_(2008).md" >}} "wikilink")
--   [Zbiórka pieniędzy na domenę (2005)]({{< relref "atopedia/Zbiórka_pieniędzy_na_domenę_(2005).md" >}} "wikilink")
+-   [Zbiórka pieniędzy na domenę (2011)]({{< relref "atopedia/Zbiórka_pieniędzy_na_domenę_(2011).md" >}})
+-   [Zbiórka pieniędzy na domenę (2008)]({{< relref "atopedia/Zbiórka_pieniędzy_na_domenę_(2008).md" >}})
+-   [Zbiórka pieniędzy na domenę (2005)]({{< relref "atopedia/Zbiórka_pieniędzy_na_domenę_(2005).md" >}})

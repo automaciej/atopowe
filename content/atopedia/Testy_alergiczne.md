@@ -14,13 +14,13 @@ Najmniej pewne są testy skórne – istnieje w nich największe ryzyko błędu,
 
 ### Testy z surowicy krwi
 
-Najbardziej pewną metodą są testy z surowicy krwi, gdzie określa się poziom [IgE](/atopedia/IgE "wikilink"), czyli poziom przeciwciał na dany [alergen](/atopedia/Alergen "wikilink").
+Najbardziej pewną metodą są testy z surowicy krwi, gdzie określa się poziom [IgE](/atopedia/IgE), czyli poziom przeciwciał na dany [alergen](/atopedia/Alergen).
 
 ### Testy na alergeny pokarmowe
 
-U dorosłych chorujących na AZS powtarzanie testów pokarmowych jest mało uzasadnione ze względu na przewagę alergenów wziewnych w [reakcjach alergicznych](/atopedia/Reakcja_alergiczna "wikilink").
+U dorosłych chorujących na AZS powtarzanie testów pokarmowych jest mało uzasadnione ze względu na przewagę alergenów wziewnych w [reakcjach alergicznych](/atopedia/Reakcja_alergiczna).
 
 **Zobacz też**
 
--   [Alergia](/atopedia/Alergia "wikilink")
--   [Alergologiczne badania dodatkowe](/atopedia/Alergologiczne_badania_dodatkowe "wikilink")
+-   [Alergia](/atopedia/Alergia)
+-   [Alergologiczne badania dodatkowe](/atopedia/Alergologiczne_badania_dodatkowe)

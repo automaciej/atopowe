@@ -10,7 +10,7 @@ kategorie = [ "niekonwencjonalne metody leczenia",]
 
 **Z wikipedii:**
 
-Nie istnieją dowody na skuteczność terapii biorezonansowej. Urządzenie wykorzystywane w terapii nie jest zdolne do pomiaru fal elektromagnetycznych. Postulowana przez zwolenników biorezonansu jego skuteczność w leczeniu [atopowego zapalenia skóry](/atopedia/AZS "wikilink") i innych schorzeń alergicznych nie znajduje potwierdzenia w badaniach naukowych.[2]
+Nie istnieją dowody na skuteczność terapii biorezonansowej. Urządzenie wykorzystywane w terapii nie jest zdolne do pomiaru fal elektromagnetycznych. Postulowana przez zwolenników biorezonansu jego skuteczność w leczeniu [atopowego zapalenia skóry](/atopedia/AZS) i innych schorzeń alergicznych nie znajduje potwierdzenia w badaniach naukowych.[2]
 
 **Prof. J. Kruszewski** – Konsultant Krajowy w dziedzinie Alergologii:
 

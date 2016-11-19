@@ -25,7 +25,7 @@ Każda metoda ma swoich przeciwników. Osoby przeciwne głodówkom zapraszamy do
 Doświadczenia
 -------------
 
-Osobiście przeprowadziłem sześciodniową głodówkę ścisłą (na samej wodzie). Miałem wtedy bardzo nasilone objawy AZS, wysięk w wielu miejscach i ogólnie czułem się fatalnie. Głodówka była dość ciężka, przyznaję, ale po tych 6 dniach [wysięk](/atopedia/Wysięk "wikilink") znikł, inne objawy też istotnie się zmniejszyły. Po powrocie do jedzenia objawy niestety wróciły. Nieodzowny był pobyt w szpitalu.
+Osobiście przeprowadziłem sześciodniową głodówkę ścisłą (na samej wodzie). Miałem wtedy bardzo nasilone objawy AZS, wysięk w wielu miejscach i ogólnie czułem się fatalnie. Głodówka była dość ciężka, przyznaję, ale po tych 6 dniach [wysięk](/atopedia/Wysięk) znikł, inne objawy też istotnie się zmniejszyły. Po powrocie do jedzenia objawy niestety wróciły. Nieodzowny był pobyt w szpitalu.
 
 Głodówka nie pozwoliła mi trwale wyjść z ciężkiego stanu, jednak zmniejszenie wysięków i ogólnych objawów w czasie jej przeprowadzania wskazuje na korelację pomiędzy dietą i stanem zdrowia.
 

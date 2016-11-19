@@ -6,9 +6,9 @@ kategorie = [ "Alergia", "Alergeny",]
 
 +++
 
-**Alergeny** są to wszystkie substancje, które wywołują stan nadmiernego pobudzenia [układu immunologicznego](/atopedia/Układ_immunologiczny "wikilink"), prowadzącego zazwyczaj do stanu zapalnego danej tkanki lub narządu.
+**Alergeny** są to wszystkie substancje, które wywołują stan nadmiernego pobudzenia [układu immunologicznego](/atopedia/Układ_immunologiczny), prowadzącego zazwyczaj do stanu zapalnego danej tkanki lub narządu.
 
-Najczęściej są to substancje, cząsteczki białkowe, zwykle mikroskopijnej wielkości. Mogą być pochodzenia roślinnego (pyłki roślin) lub zwierzęcego (sierść zwierząt) oraz kurz, [roztocza](/atopedia/Roztocze_kurzu_domowego "wikilink"), pleśnie, grzyby, pierze, pokarmy oraz wszelkiego rodzaju inne substancje. Silnym alergenem jest również [dym papierosowy](/atopedia/Papierosy "wikilink").
+Najczęściej są to substancje, cząsteczki białkowe, zwykle mikroskopijnej wielkości. Mogą być pochodzenia roślinnego (pyłki roślin) lub zwierzęcego (sierść zwierząt) oraz kurz, [roztocza](/atopedia/Roztocze_kurzu_domowego), pleśnie, grzyby, pierze, pokarmy oraz wszelkiego rodzaju inne substancje. Silnym alergenem jest również [dym papierosowy](/atopedia/Papierosy).
 
 Alergeny pokarmowe
 ------------------

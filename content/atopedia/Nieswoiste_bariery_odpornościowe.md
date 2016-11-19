@@ -9,7 +9,7 @@ kategorie = [ "ciało człowieka",]
 Nieswoiste bariery odpornościowe dzielimy na :
 
 -   naturalne bariery mechaniczne
--   ciągłość [skóry](/atopedia/Skóra "wikilink") i [błon śluzowych](/atopedia/Błona_śluzowa "wikilink")
+-   ciągłość [skóry](/atopedia/Skóra) i [błon śluzowych](/atopedia/Błona_śluzowa)
 -   odruchy obronne organizmu, takie jak kichanie, kaszel, łzawienie, czy biegunka.
 -   bariery chemiczne
 -   produkcja wydzielin np. Lizozymu, kwasu mlekowego, łoju, kwasu solnego.

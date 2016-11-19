@@ -7,7 +7,7 @@ aliases = [ "/atopedia/Ciclosporinum/",]
 
 +++
 
-[Lek immunosupresyjny]({{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") stosowany w ciężkim atopowym zapaleniu skóry. W przeciwieństwie do leków stosowanych miejscowo, cyklosporyna działa systemowo, czyli na cały organizm. Działa hamująco na uwalnianie prozapalnych [cytokin]({{< relref "atopedia/Cytokiny.md" >}} "wikilink") IL-1, IL-2, IFN-gamma.
+[Lek immunosupresyjny]({{< relref "atopedia/Leki_immunosupresyjne.md" >}}) stosowany w ciężkim atopowym zapaleniu skóry. W przeciwieństwie do leków stosowanych miejscowo, cyklosporyna działa systemowo, czyli na cały organizm. Działa hamująco na uwalnianie prozapalnych [cytokin]({{< relref "atopedia/Cytokiny.md" >}}) IL-1, IL-2, IFN-gamma.
 
 Dawkowanie: początkowo 3–5 mg/kg masy ciała na dobę, po uzyskaniu poprawy dawkę redukuje się do 1,5–2 mg/kg masy ciała na dobę. Leczenie zwykle trwa od 4 do 8 tyg.[1]
 
@@ -16,8 +16,8 @@ Po zaprzestaniu leczenia występują nawroty choroby - po dwóch tygodniach u 50
 ### Zalety cyklosporyny:
 
 -   Można ją brać i tak dłużej niż sterydy.
--   Łagodzi [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink"), bo działa na interleukinę 2.
--   Wytępia [limfocyty T]({{< relref "atopedia/Limfocyty_T.md" >}} "wikilink"), która są podłożem reakcji IV typu, opóźnionych.
+-   Łagodzi [świąd]({{< relref "atopedia/Świąd.md" >}}), bo działa na interleukinę 2.
+-   Wytępia [limfocyty T]({{< relref "atopedia/Limfocyty_T.md" >}}), która są podłożem reakcji IV typu, opóźnionych.
 -   Hamuje apoptozę i aktywację keratynocytów w naskórku, czyli działa na całe ciało.
 -   Szybciej działa od bezpieczniejszych immunosupresantów, którymi za granicą leczono dzieci: cellceptu i imuranu.
 -   Skutki uboczne dotyczą generalnie brania jej przez całe życie... jako leku zapobiegającemu odrzuceniu przeszczepów, chyba tylko nefrotoksyczność czy hepatoksyczność może ujawnić się w pierwszych 12 tygodniach, ale na to są badania.
@@ -26,7 +26,7 @@ Po zaprzestaniu leczenia występują nawroty choroby - po dwóch tygodniach u 50
 
 -   zwiększenie owłosienia skóry
 -   zwiększenie ciśnienia tętniczego krwi
--   zmniejszenie odporności na wszelkie infekcje, w tym [infekcje skóry](/atopedia/Infekcja_skóry "wikilink"), co jest szczególnie niekorzystne przy [AZS](/atopedia/Atopowe_zapalenie_skóry "wikilink").
+-   zmniejszenie odporności na wszelkie infekcje, w tym [infekcje skóry](/atopedia/Infekcja_skóry), co jest szczególnie niekorzystne przy [AZS](/atopedia/Atopowe_zapalenie_skóry).
 -   możliwość uszkodzenia wątroby
 -   możliwość uszkodzenia nerek
 
@@ -40,12 +40,12 @@ Ważnym problemem, mogącym niekiedy ograniczać stosowanie cyklosporyny, są je
 
 W czasie używania cyklosporyny należy unikać bezpośredniego kontaktu z promieniami słonecznymi. Należy również co dwa tygodnie wykonywać badanie krwi, w którym jednym z istotnych parametrów jest poziom kreatyniny.
 
-Alternatywą dla immunosupresji systemowej (ogólnej) jest [immunosupresja miejscowa](/atopedia/Immunosupresja_miejscowa "wikilink"), która jest o wiele bezpieczniejsza i może być stosowana przewlekle. Do obecnie stosowanych preparatów należą [Protopic](/atopedia/Protopic "wikilink") oraz [Elidel](/atopedia/Elidel "wikilink").
+Alternatywą dla immunosupresji systemowej (ogólnej) jest [immunosupresja miejscowa](/atopedia/Immunosupresja_miejscowa), która jest o wiele bezpieczniejsza i może być stosowana przewlekle. Do obecnie stosowanych preparatów należą [Protopic](/atopedia/Protopic) oraz [Elidel](/atopedia/Elidel).
 
 ### Zobacz także
 
--   [Equoral](/atopedia/Equoral "wikilink")
--   [Sandimmun Neoral](/atopedia/Sandimmun_Neoral "wikilink")
+-   [Equoral](/atopedia/Equoral)
+-   [Sandimmun Neoral](/atopedia/Sandimmun_Neoral)
 
 <references />
  

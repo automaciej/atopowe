@@ -25,7 +25,7 @@ Wskazania:
 Opis działania:
 ---------------
 
-Formuła kremu opracowana została w celu zapewnienia intensywnej pielęgnacji i aktywnej ochrony [skóry atopowej]({{< relref "atopedia/Skóra_atopowa.md" >}} "wikilink"). Dzięki zastosowaniu substancji o właściwościach natłuszczających, kojących, antyoksydacyjnych, hamujących odczyny zapalne oraz zapobiegających przeznaskórkowej utracie wody, atoperal krem wyraźnie zwiększa komfort i poprawia efekty codziennej pielęgnacji skóry wrażliwej.
+Formuła kremu opracowana została w celu zapewnienia intensywnej pielęgnacji i aktywnej ochrony [skóry atopowej]({{< relref "atopedia/Skóra_atopowa.md" >}}). Dzięki zastosowaniu substancji o właściwościach natłuszczających, kojących, antyoksydacyjnych, hamujących odczyny zapalne oraz zapobiegających przeznaskórkowej utracie wody, atoperal krem wyraźnie zwiększa komfort i poprawia efekty codziennej pielęgnacji skóry wrażliwej.
 
 Atoperal krem:
 

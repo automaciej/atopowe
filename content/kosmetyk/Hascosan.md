@@ -27,7 +27,7 @@ Okres wysiewu odmiany krostkowej łuszczycy
 
 ### Działania niepożądane
 
-Bardzo rzadkie. Może wystąpić [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink"), zaczerwienienie i pieczenie skóry.
+Bardzo rzadkie. Może wystąpić [świąd]({{< relref "atopedia/Świąd.md" >}}), zaczerwienienie i pieczenie skóry.
 
 ### Sposób użycia
 
@@ -51,4 +51,4 @@ Przewodnik Lekarza 4/2001
 
 Postępowanie terapeutyczne w atopowym zapaleniu skóry u dzieci (H.Szarmach, Z.Korolkiewicz)
 
-„... W całokształcie postępowania terapeutycznego i profilaktycznego w AZS u dzieci istotne znaczenie mają kąpiele olejowe częściowe lub pełne (w zależności od stanu klinicznego). Kąpiele olejowe - oprócz ich właściwości pielęgnacyjnych i [natłuszczających]({{< relref "atopedia/Natłuszczanie.md" >}} "wikilink") skórę oraz łagodzących dolegliwości [świądowe]({{< relref "atopedia/Świąd.md" >}} "wikilink") (dzięki zawartym w nich odpowiednim środkom - np. *polidokanol*) oczyszczają skórę ze strupów zawierających liczne kolonie bakterii, łusek, resztek stosowanych miejscowo leków. ... Szczególnie w nasilonych i uogólnionych objawach stanu zapalnego, kąpiele olejowe należy przeprowadzać częściej, nawet 3 razy w ciągu dnia. U dzieci w stadium [AZS](/atopedia/AZS "wikilink") o charakterze przewlekłym kąpiel olejową można stosować znacznie rzadziej, co drugi lub nawet trzeci dzień....”
+„... W całokształcie postępowania terapeutycznego i profilaktycznego w AZS u dzieci istotne znaczenie mają kąpiele olejowe częściowe lub pełne (w zależności od stanu klinicznego). Kąpiele olejowe - oprócz ich właściwości pielęgnacyjnych i [natłuszczających]({{< relref "atopedia/Natłuszczanie.md" >}}) skórę oraz łagodzących dolegliwości [świądowe]({{< relref "atopedia/Świąd.md" >}}) (dzięki zawartym w nich odpowiednim środkom - np. *polidokanol*) oczyszczają skórę ze strupów zawierających liczne kolonie bakterii, łusek, resztek stosowanych miejscowo leków. ... Szczególnie w nasilonych i uogólnionych objawach stanu zapalnego, kąpiele olejowe należy przeprowadzać częściej, nawet 3 razy w ciągu dnia. U dzieci w stadium [AZS](/atopedia/AZS) o charakterze przewlekłym kąpiel olejową można stosować znacznie rzadziej, co drugi lub nawet trzeci dzień....”

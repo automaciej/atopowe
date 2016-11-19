@@ -15,7 +15,7 @@ Glicerol, parafina miękka biała, parafina ciekła, monostearynian glicerolu, k
 W jakim celu stosuje się DEXERYL krem?
 --------------------------------------
 
-Krem ochronny do skóry przeznaczony do leczenia objawów i dole­gliwości związanych z suchością skóry, a szczególnie w różnych der­matologicznych stanach chorobowych (np. [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink"), rybia łuska...).
+Krem ochronny do skóry przeznaczony do leczenia objawów i dole­gliwości związanych z suchością skóry, a szczególnie w różnych der­matologicznych stanach chorobowych (np. [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}}), rybia łuska...).
 
 W jaki sposób działa DEXERYL krem?
 ----------------------------------
@@ -50,7 +50,7 @@ Ostrzeżenia i specjalne instrukcje dotyczące stosowania
 Możliwe działania niepożądane
 -----------------------------
 
-W związku z tym, że krem zawiera parahydroksybenzoesan propylu, w rzadkich przypadkach może on wywoływać reakcje skórne podobne do wyprysku ([egzema]({{< relref "atopedia/Egzema.md" >}} "wikilink")), oraz bardzo rzadko, natychmiastowe odczyny o typie pokrzywki.
+W związku z tym, że krem zawiera parahydroksybenzoesan propylu, w rzadkich przypadkach może on wywoływać reakcje skórne podobne do wyprysku ([egzema]({{< relref "atopedia/Egzema.md" >}})), oraz bardzo rzadko, natychmiastowe odczyny o typie pokrzywki.
 
 Jeżeli wystąpią niepożądane lub niekorzystne objawy niewymienione w tej ulotce, należy powiadomić wykwalifikowany personel medyczny.
 

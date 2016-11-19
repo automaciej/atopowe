@@ -168,7 +168,7 @@ Możliwe działania niepożądane:
 ------------------------------
 
 Jak każdy lek, lek Zyrtec® UCB może powodować działania niepożądane.
-Mogą niekiedy wystąpić łagodne i przemijające objawy niepożądane, takie jak: senność, zmęczenie, pobudzenie, bóle i zawroty głowy, suchość w ustach, lekkie zaburzenia ze strony układu pokarmowego, nieprawidłowa czynność wątroby, zapalenie błony śluzowej nosa. U niektórych osób mogą wystąpić objawy nadwrażliwości odczyny skórne i [obrzęk naczynioruchowy]({{< relref "atopedia/Obrzęk_naczynioruchowy.md" >}} "wikilink"). Zanotowano pojedyncze przypadki trudności w oddawaniu moczu oraz zaburzenia akomodacji oka.
+Mogą niekiedy wystąpić łagodne i przemijające objawy niepożądane, takie jak: senność, zmęczenie, pobudzenie, bóle i zawroty głowy, suchość w ustach, lekkie zaburzenia ze strony układu pokarmowego, nieprawidłowa czynność wątroby, zapalenie błony śluzowej nosa. U niektórych osób mogą wystąpić objawy nadwrażliwości odczyny skórne i [obrzęk naczynioruchowy]({{< relref "atopedia/Obrzęk_naczynioruchowy.md" >}}). Zanotowano pojedyncze przypadki trudności w oddawaniu moczu oraz zaburzenia akomodacji oka.
 U niektórych osób w czasie stosowania leku Zyrtec® UCB mogą wystąpić inne działania niepożądane, W przypadku wystąpienia jakichkolwiek niepokojących objawów niepożądanych, wymienionych lub nie wymienionych w tej ulotce, należy niezwłocznie skontaktować się z lekarzem.
 
 Przechowywanie leku Zyrtec® UCB

@@ -15,7 +15,7 @@ Może być objawem różnych chorób, w tym [astmy oskrzelowej]({{< relref "atop
 -   ekspozycji na dym tytoniowy, spaliny, chemikalia
 -   silnych przeżyciach psychicznych
 -   infekcjach
--   ekspozycji na [alergeny]({{< relref "atopedia/Alergen.md" >}} "wikilink") - pyłki, kurz, sierść
+-   ekspozycji na [alergeny]({{< relref "atopedia/Alergen.md" >}}) - pyłki, kurz, sierść
 -   przy wilgotnej, mglistej, chłodnej pogodzie
 
 Uczucie duszności w przebiegu astmy można różnicować z infekcją dróg oddechowych mierząc temperaturę ciała, która w przypadku duszności na tle alergicznym nie jest podwyższona. W większości przypadków duszność występuje rzadko, wymagając jedynie doraźnego stosowania leków. Ataki pojawiają się zwykle w nocy.

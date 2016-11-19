@@ -9,13 +9,13 @@ aliases = [ "/atopedia/Antybiotyki_w_leczeniu_AZS/",]
 
 **Antybiotyki** to substancje chemiczne - naturalne, wytwarzane przez drobnoustroje, ale także syntetyczne, produkowane przez człowieka, które są stosowane w lecznictwie jako leki przeciwdziałające infekcjom wywoływanym przez drobnoustroje (najczęściej bakterie, ale także mykoplazmy i pierwotniaki). Bywają także używane profilaktycznie w zapobieganiu zakażeniom bakteryjnym w przypadku osłabienia odporności.
 
-**Antybiotyki** odgrywają ważną rolę w leczeniu [infekcji bakteryjnych]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink"), towarzyszących zwykle silnym zaostrzeniom [atopowego zapalenia skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink"); najbardziej uciążliwą bakterią w przebiegu AZS jest [gronkowiec złocisty]({{< relref "atopedia/Gronkowiec_złocisty.md" >}} "wikilink").
+**Antybiotyki** odgrywają ważną rolę w leczeniu [infekcji bakteryjnych]({{< relref "atopedia/Infekcja_skóry.md" >}}), towarzyszących zwykle silnym zaostrzeniom [atopowego zapalenia skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}}); najbardziej uciążliwą bakterią w przebiegu AZS jest [gronkowiec złocisty]({{< relref "atopedia/Gronkowiec_złocisty.md" >}}).
 
 <div align="center">
 </div>
 Antybiotyki mogą być stosowane doustnie (bardziej skuteczne), lub miejscowo (w maściach);
 
-Na rynku istnieją preparaty łączące działanie antybiotyku z [kortykosterydem](/atopedia/Kortykosterydy "wikilink") (maść [Triacomb](/atopedia/Triacomb "wikilink"), [Triderm](/atopedia/Triderm "wikilink")).
+Na rynku istnieją preparaty łączące działanie antybiotyku z [kortykosterydem](/atopedia/Kortykosterydy) (maść [Triacomb](/atopedia/Triacomb), [Triderm](/atopedia/Triderm)).
 
 Najczęściej stosowane (doustnie) antybiotyki w terapii AZS:
 

@@ -6,8 +6,8 @@ aliases = [ "/atopedia/Lorinden/",]
 
 +++
 
--   [Lorinden emulsja](/atopedia/Lorinden_emulsja "wikilink")
--   [Lorinden A](/atopedia/Lorinden_A "wikilink")
--   [Lorinden C](/atopedia/Lorinden_C "wikilink")
--   [Lorinden N](/atopedia/Lorinden_N "wikilink")
--   [Lorinden T](/atopedia/Lorinden_T "wikilink")
+-   [Lorinden emulsja](/atopedia/Lorinden_emulsja)
+-   [Lorinden A](/atopedia/Lorinden_A)
+-   [Lorinden C](/atopedia/Lorinden_C)
+-   [Lorinden N](/atopedia/Lorinden_N)
+-   [Lorinden T](/atopedia/Lorinden_T)

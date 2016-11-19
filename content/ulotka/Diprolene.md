@@ -24,7 +24,7 @@ Indeks farmakologiczny
 Mechanizm działania
 -------------------
 
-[Glikokortykosteryd](/atopedia/Sterydy "wikilink") o silnym działaniu przeciwzapalnym, immunosupresyjnym i przeciwuczuleniowym. Lek hamuje uwalnianie mediatorów stanu zapalnego (leukotrienów, prostaglandyn). Zmniejsza przepuszczalność naczyń włosowatych i obrzęków. Lek stosuje się miejscowo lub pozajelitowo.
+[Glikokortykosteryd](/atopedia/Sterydy) o silnym działaniu przeciwzapalnym, immunosupresyjnym i przeciwuczuleniowym. Lek hamuje uwalnianie mediatorów stanu zapalnego (leukotrienów, prostaglandyn). Zmniejsza przepuszczalność naczyń włosowatych i obrzęków. Lek stosuje się miejscowo lub pozajelitowo.
 
 Wskazania
 ---------
@@ -60,7 +60,7 @@ Przeciwwskazania
 Działania niepożądane
 ---------------------
 
--   [zespół Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}} "wikilink")
+-   [zespół Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}})
 -   zmniejszenie wydzielania hormonów kory nadnerczy
 -   nadmierne owłosienie
 -   trądzik posterydowy

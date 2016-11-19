@@ -57,7 +57,7 @@ Jeśli podczas stosowania leku wystąpią objawy podrażnienia, uczulenia lub na
 
 Nie stosować bez przerwy dłużej niż przez 2 tygodnie.
 
-Kortykosteroidy wchłaniają się przez skórę. Dlatego podczas stosowania leku istnieje ryzyko wystąpienia ogólnoustrojowych objawów niepożądanych kortykosteroidów, w tym zahamowanie czynności kory nadnerczy, zmniejszenie stężenia kortyzolu we krwi, [zespół Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}} "wikilink"). Z tego względu należy unikać podawania leku na dużą powierzchnię skóry, rany, uszkodzoną skórę, stosowania w dużych dawkach, a także długotrwałego leczenia lekiem.
+Kortykosteroidy wchłaniają się przez skórę. Dlatego podczas stosowania leku istnieje ryzyko wystąpienia ogólnoustrojowych objawów niepożądanych kortykosteroidów, w tym zahamowanie czynności kory nadnerczy, zmniejszenie stężenia kortyzolu we krwi, [zespół Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}}). Z tego względu należy unikać podawania leku na dużą powierzchnię skóry, rany, uszkodzoną skórę, stosowania w dużych dawkach, a także długotrwałego leczenia lekiem.
 
 W przypadku zakażenia skóry w leczonym miejscu, lekarz zastosuje odpowiednie leczenie przeciwbakteryjne lub przeciwgrzybicze. Jeżeli objawy zakażenia utrzymują się, należy skontaktować się z lekarzem. Lekarz zadecyduje, czy leczenie powinno być przerwane do czasu wyleczenia zakażenia.
 

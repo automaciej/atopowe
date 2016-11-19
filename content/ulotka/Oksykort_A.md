@@ -12,7 +12,7 @@ aliases = [ "/atopedia/Oksykort_A/",]
 '''Skład '''
 
 -   Oksytetracyklina(oksytetracykliny chlorowodorek) 30,0 mg
--   [Hydrokortyzonu](/atopedia/Hydrokortyzon "wikilink") octan 30,0 mg
+-   [Hydrokortyzonu](/atopedia/Hydrokortyzon) octan 30,0 mg
 -   Wazelina biała do 3,0 g
 
 **Opis działania**

@@ -13,7 +13,7 @@ aliases = [ "/atopedia/Piyan_Ping/", "/atopedia/Maść_999/",]
 specjalistów medycyny chińskiej i zielarstwa jako „w pełni bezpieczna”. Na
 opakowaniu zwykle nie jest podawany skład. Również ulotka przekonuje o
 całkowitej nieszkodliwości preparatu. My doradzamy zapoznanie się ze stroną na
-temat [kortykosterydów]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink").
+temat [kortykosterydów]({{< relref "atopedia/Kortykosterydy.md" >}}).
 
 Sterydy, znajdujące się w nie podawanym składzie maści, to
 [dexametazon](/atopedia/Dexametazon) oraz dexametazon-21, syntetyczne

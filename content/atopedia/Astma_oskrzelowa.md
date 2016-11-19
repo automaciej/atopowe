@@ -7,7 +7,7 @@ aliases = [ "/atopedia/Astma/",]
 
 +++
 
-**Astma oskrzelowa** - jest jednym ze schorzeń alergicznych, [atopowych](/atopedia/Atopia "wikilink"). Jest to stan zapalny dróg oddechowych, wyzwalany przez komórki zapalne (mastocyty, eozynofile, limfocyty T) związane z [reakcją alergiczną](/atopedia/Reakcja_alergiczna "wikilink").
+**Astma oskrzelowa** - jest jednym ze schorzeń alergicznych, [atopowych](/atopedia/Atopia). Jest to stan zapalny dróg oddechowych, wyzwalany przez komórki zapalne (mastocyty, eozynofile, limfocyty T) związane z [reakcją alergiczną](/atopedia/Reakcja_alergiczna).
 
 Objawy astmy oskrzelowej
 ------------------------
@@ -20,8 +20,8 @@ Objawy astmy oskrzelowej
 Czynniki wyzwalające astmę
 --------------------------
 
--   [alergeny](/atopedia/Alergen "wikilink") (szczególnie [roztocza kurzu domowego](/atopedia/Roztocze_kurzu_domowego "wikilink"), pyłki roślin)
--   [stres](/atopedia/Stres "wikilink"), [czynniki emocjonalne](/atopedia/Psychika "wikilink")
+-   [alergeny](/atopedia/Alergen) (szczególnie [roztocza kurzu domowego](/atopedia/Roztocze_kurzu_domowego), pyłki roślin)
+-   [stres](/atopedia/Stres), [czynniki emocjonalne](/atopedia/Psychika)
 -   zimne powietrze (nagła zmiana temperatury otoczenia)
 -   nagły wysiłek, hiperwentylacja
 -   inne, np. śmiech
@@ -32,7 +32,7 @@ ponadto:
 -   infekcje układu oddechowego
 -   stany zapalne zatok nosowych
 -   przewlekły katar sienny
--   [palenie tytoniu](/atopedia/Papierosy "wikilink")
+-   [palenie tytoniu](/atopedia/Papierosy)
 -   zanieczyszczenie powietrza
 
 Astma oskrzelowa może mieć przebieg przewlekły lub incydentalny. Ciężka, przewlekła astma oskrzelowa leczona jest zazwyczaj za pomoca preparatów sterydowych wziewnych lub doustnych. W lżejszych przypadkach wystarcza używanie środków rozkurczających oskrzela.
@@ -42,16 +42,16 @@ Profilaktyka
 
 W leczeniu astmy bardzo ważna jest profilaktyka:
 
--   unikanie [alergenów]({{< relref "atopedia/Alergen.md" >}} "wikilink")
--   unikanie wszelkich niealergicznych czynników prowokujących do skurczu oskrzeli (zimne powietrze, [dym papierosowy](/atopedia/Papierosy "wikilink"), infekcje dróg oddechowych i inne)
--   przeciwdziałanie [stresowi]({{< relref "atopedia/Stres.md" >}} "wikilink")
--   warto jest rozważyć [immunoterapię]({{< relref "atopedia/Immunoterapia.md" >}} "wikilink"), czyli (odczulanie) na [alergeny]({{< relref "atopedia/Alergen.md" >}} "wikilink") wziewne
+-   unikanie [alergenów]({{< relref "atopedia/Alergen.md" >}})
+-   unikanie wszelkich niealergicznych czynników prowokujących do skurczu oskrzeli (zimne powietrze, [dym papierosowy](/atopedia/Papierosy), infekcje dróg oddechowych i inne)
+-   przeciwdziałanie [stresowi]({{< relref "atopedia/Stres.md" >}})
+-   warto jest rozważyć [immunoterapię]({{< relref "atopedia/Immunoterapia.md" >}}), czyli (odczulanie) na [alergeny]({{< relref "atopedia/Alergen.md" >}}) wziewne
 
 Pomocne mogą być również wykłady, podczas których omawiane są najnowsze metody leczenia i rehabilitacji.
 
 **Zobacz także**
 
--   [Szkoły dla osób chorych na astmę](/atopedia/Szkoły_dla_osób_chorych_na_astmę "wikilink")
+-   [Szkoły dla osób chorych na astmę](/atopedia/Szkoły_dla_osób_chorych_na_astmę)
 
 **Linki zewnętrzne**
 

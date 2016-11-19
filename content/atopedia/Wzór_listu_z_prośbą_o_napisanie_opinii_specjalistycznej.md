@@ -11,7 +11,7 @@ Wersja 1
 
 Ankieta dla lekarza.
 
-Grupa pacjentów chorujących na [atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink") zbiera rekomendacje dotyczące wskazań do stosowania preparatów [Protopic](/atopedia/Protopic "wikilink") w terapii chronicznego i ostrego AZS.
+Grupa pacjentów chorujących na [atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry) zbiera rekomendacje dotyczące wskazań do stosowania preparatów [Protopic](/atopedia/Protopic) w terapii chronicznego i ostrego AZS.
 
 Prosimy o wypełnienie niniejszej ankiety.
 
@@ -56,17 +56,17 @@ Wersja 2
 
 **Droga Pani Doktor X! / Drogi Panie Doktorze Y!**
 
-Forum na www.atopowe.pl stało się miejscem powstania czegoś, co można już nazwać społecznością internetową atopików. Ostatnio zaczęły się rozmowy o leku [Protopic](/atopedia/Protopic "wikilink"). Chcemy wszcząć akcję mającą na celu nakłonienie państwa do refundowania Protopiku. Proszę przeczytać:
+Forum na www.atopowe.pl stało się miejscem powstania czegoś, co można już nazwać społecznością internetową atopików. Ostatnio zaczęły się rozmowy o leku [Protopic](/atopedia/Protopic). Chcemy wszcząć akcję mającą na celu nakłonienie państwa do refundowania Protopiku. Proszę przeczytać:
 
 <http://www.atopowe-zapalenie.pl/atopedia/Refundacja_ma%C5%9Bci_Protopic>
 
-Teraz jest pytanie do Pani: Czy jest Pani w stanie napisać, jako lekarz, opinii specjalistycznej na temat leku Protopic? Opinia ta ma przekonywać o tym, że [Protopic](/atopedia/Protopic "wikilink") jest lekiem o dużej skuteczności i małej szkodliwości.
+Teraz jest pytanie do Pani: Czy jest Pani w stanie napisać, jako lekarz, opinii specjalistycznej na temat leku Protopic? Opinia ta ma przekonywać o tym, że [Protopic](/atopedia/Protopic) jest lekiem o dużej skuteczności i małej szkodliwości.
 
 Opinia ta ma być załącznikiem do pisma do Ministra Zdrowia i Opieki Społecznej. List jest dostępny do wglądu pod nastepującym adresem:
 
 <http://www.atopowe-zapalenie.pl/atopedia/Pismo_do_Ministra_Zdrowia>
 
-Jednym z argumentów przemawiających za refundowaniem Protopiku będzie fakt że obecnie jest refundowana [cyklosporyna](/atopedia/Cyklosporyna "wikilink"), która jest niebezpieczna dla zdrowia (problemy z ciśnieniem tętniczym, nerkami i wątrobą u ponad 10% pacjentów). Polska i tak wydaje na to pieniądze; jednak może wydawać je nie tylko efektywniej ale również nie truć swoich obywateli.
+Jednym z argumentów przemawiających za refundowaniem Protopiku będzie fakt że obecnie jest refundowana [cyklosporyna](/atopedia/Cyklosporyna), która jest niebezpieczna dla zdrowia (problemy z ciśnieniem tętniczym, nerkami i wątrobą u ponad 10% pacjentów). Polska i tak wydaje na to pieniądze; jednak może wydawać je nie tylko efektywniej ale również nie truć swoich obywateli.
 
 Będzie też lista podpisów ludzi z przewlekłym i nasilonym AZS. Obecnie na forum mamy zarejestrowanych ponad 600 osób. Poziom zaangażowania na forum jest wysoki, więc możemy liczyć na conajmniej kilkadziesiąt podpisów. Być może będzie ich więcej.
 

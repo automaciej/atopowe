@@ -16,9 +16,9 @@ Mocznik (syntetycznie pozyskiwany z reakcji amoniaku i dwutlenku węgla) jest zw
 
 W przemyśle kosmetycznym mocznik jest stosowany ze względu na właściwości:
 
--   [nawilżające](/atopedia/Nawilżanie "wikilink") (powodujące wiązanie cząsteczek wody w skórze)
--   redukujące [rogowacenie]({{< relref "atopedia/Rogowacenie.md" >}} "wikilink") naskórka
+-   [nawilżające](/atopedia/Nawilżanie) (powodujące wiązanie cząsteczek wody w skórze)
+-   redukujące [rogowacenie]({{< relref "atopedia/Rogowacenie.md" >}}) naskórka
 -   lekko złuszczające
--   wspomagające [gojenie]({{< relref "atopedia/Gojenie.md" >}} "wikilink") ran naskórka (wspomaga ziarninowanie)
+-   wspomagające [gojenie]({{< relref "atopedia/Gojenie.md" >}}) ran naskórka (wspomaga ziarninowanie)
 
 Z powodu możliwości wystąpienia podrażnień niewskazane jest stosowanie preparatów zawierających mocznik u dzieci poniżej 5. roku życia.

@@ -21,9 +21,9 @@ Pirośluzan mometazonu, glikokortykosteroid o średniej sile działania, stosowa
 
 ### Wskazania
 
--   [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink")
+-   [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}})
 -   neurodermit
--   [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink")
+-   [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}})
 
 ### Przeciwwskazania
 

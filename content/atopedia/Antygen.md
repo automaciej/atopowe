@@ -11,11 +11,11 @@ Antygen - każda substancja, która posiada zdolność pobudzenia układu odporn
 
 Antygeny zdolne do jednoczesnego wywołania odpowiedzi immunologicznej i wiązania się z jej produktami to immunogeny. Wyróżnia się także pozbawione immunogenności hapteny oraz tolerogeny, które dodatkowo powodują wytworzenie się tolerancji immunologicznej organizmu.
 
-Gdy antygen zostaje wprowadzony do ustroju człowieka (także wyższych zwierząt), organizm rozpoznaje go jako ciało obce i uruchamia [mechanizmy obronne](/atopedia/Reakcja_alergiczna "wikilink"). W odpowiedzi immunologicznej zostaje wytworzone specyficzne przeciwciało, które posiada zdolność rozpoznania epitopu danego antygenu i bezpośredniego związania się z nim. Ilość epitopów na powierzchni pojedynczej cząsteczki danego antygenu jest różna i niejako decyduje o sile reakcji immunologicznej. Rozróżnia się antygeny monowalentne i poliwalentne.
+Gdy antygen zostaje wprowadzony do ustroju człowieka (także wyższych zwierząt), organizm rozpoznaje go jako ciało obce i uruchamia [mechanizmy obronne](/atopedia/Reakcja_alergiczna). W odpowiedzi immunologicznej zostaje wytworzone specyficzne przeciwciało, które posiada zdolność rozpoznania epitopu danego antygenu i bezpośredniego związania się z nim. Ilość epitopów na powierzchni pojedynczej cząsteczki danego antygenu jest różna i niejako decyduje o sile reakcji immunologicznej. Rozróżnia się antygeny monowalentne i poliwalentne.
 
 Prawidłowa odpowiedź immunologiczna organizmu zostaje skierowania wyłącznie przeciwko antygenom nie będącym składnikami strukturalnymi jego tkanek.
 
-Istotną rolę w przebiegu opisanej reakcji stanowią [limfocyty T]({{< relref "atopedia/Limfocyty_T.md" >}} "wikilink"). Antygeny, by wzbudzić odpowiedź immunologiczną organizmu potrzebują ich udziału (antygeny grasicozależne) lub nie (antygeny grasiconiezależne).
+Istotną rolę w przebiegu opisanej reakcji stanowią [limfocyty T]({{< relref "atopedia/Limfocyty_T.md" >}}). Antygeny, by wzbudzić odpowiedź immunologiczną organizmu potrzebują ich udziału (antygeny grasicozależne) lub nie (antygeny grasiconiezależne).
 
 Warto wspomnieć o zjawisku konkurencji antygenowej. Jest to sytuacja, w której odpowiedź odpornościowa na dany antygen może ulegać przemianom za sprawą obecności innego antygenu.
 

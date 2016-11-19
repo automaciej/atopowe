@@ -14,11 +14,11 @@ D05AA
 
 **Działanie:** Preparat z grupy **dziegci** uzyskany podczas suchej destylacji węgla kamiennego, ma właściwości redukujące. Zmniejsza odczyn zapalny poprzez hamowanie podziałów komórkowych. Prodermina łączy się z tlenem zawartym w tkankach, powodując spowolnienie tempa metabolizmu komórek naskórka. Związki siarki zawarte w proderminie wykazują działanie redukujące, w mniejszych stężeniach zmniejszają wydzielanie łoju. Prodermina stosowana w małych stężeniach działa odkażająco, przeciwświądowo, keratoplastycznie, w dużych wykazuje właściwości redukujące. Zwiększa wrażliwość skóry na promienie słoneczne (głównie w paśmie nadfioletu).
 
-**Wskazania:** [Łuszczyca](/atopedia/Łuszczyca "wikilink") pospolita, grudkowa, przyłuszczyca grudkowa, wyprysk zlichenifikowany, neurodermit i inne przewlekłe choroby skóry, które przebiegają z [lichenizacją](/atopedia/Lichenizacja "wikilink").
+**Wskazania:** [Łuszczyca](/atopedia/Łuszczyca) pospolita, grudkowa, przyłuszczyca grudkowa, wyprysk zlichenifikowany, neurodermit i inne przewlekłe choroby skóry, które przebiegają z [lichenizacją](/atopedia/Lichenizacja).
 
 **Przeciwwskazania:** Niewydolność nerek.
 
-**Działanie niepożądane:** Uszkodzenie nerek w wyniku działania związków fenolowych ulegających wchłonięciu przez skórę (w przypadku stosowania preparatu na dużą powierzchnię ciała). Skórne odczyny alergiczne, [zapalenie mieszków włosowych](/atopedia/Foliculitis "wikilink").
+**Działanie niepożądane:** Uszkodzenie nerek w wyniku działania związków fenolowych ulegających wchłonięciu przez skórę (w przypadku stosowania preparatu na dużą powierzchnię ciała). Skórne odczyny alergiczne, [zapalenie mieszków włosowych](/atopedia/Foliculitis).
 
 **Ciąża i laktacja:** Nie stosować w ciąży oraz w okresie karmienia piersią.
 
@@ -28,5 +28,5 @@ D05AA
 
 **Preparaty:**
 
--   [Delatar](/atopedia/Delatar "wikilink")
+-   [Delatar](/atopedia/Delatar)
 -   ***\* Proderminum (Pix Lithanthracis)*** - surowiec do receptury aptecznej / **50 g** - wytwórca: **Zakład farmaceutyczny "Amara" Kraków**

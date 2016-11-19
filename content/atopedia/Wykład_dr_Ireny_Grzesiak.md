@@ -68,7 +68,7 @@ Oczywiście są jeszcze czynniki drażniące. Państwo wiedzą, takie dziecko ni
 
 ### Reakcja ostra
 
-AZS, jak żadna inna choroba, jest ogromnie dotkliwą chorobą, i dla rodziny, i dla pacjenta. Reakcja ostra: na wyraźnie rumieniowym podłożu są wyraźne grudki i pęcherzyki, które często przekształcają się w takie nadżerki, pokryte strupkami. Państwo to doskonale wiedzą. W skrajnym przypadku, proszę Państwa, wygląda to tak. [...] To jest męka, kto tego nie przeszedł, nie jest w stanie tego zrozumieć. [...] Ja miałam pacjentkę, która występowała w zespole flamenco, wyglądała jak potwór, jak upiór, dziewczyna była bliska, po prostu, no niestety, ale nawet mówiła o próbach samobójczych. Matka mi opowiadała, ze to dramat był. Ale czasem już się po prostu odechciewa żyć. AZS często niestety łączy się ze strasznie obniżoną odpornością. Ta skóra łapie wszystko. A to przede wszystkim: gronkowca, grzybicę i wirusy. Wirus opryszczki często wikła nam to wszystko, a [gronkowiec]({{< relref "atopedia/Gronkowiec_złocisty.md" >}} "wikilink"), który na ogół u dorosłego człowieka , zdrowego, nie powoduje zmian żadnych, działa na skórze tego atopowego pacjenta jak ciężki, silny alergen. Wygląda to tak, że to jest zakażone, tu jest już ropne ognisko i – zobaczcie Państwo – pęcherzyki się tworzą z ropą. To jest naprawdę potworny dramat dla takiego dziecka. To już się leczy nie tylko przeciwalergicznie, ale także leczy się antybiotykami uogólnionymi, środkami dezynfekującymi. Pojawiają się coraz lepsze środki, ostatnio odkryłam genialny środek odkażający, działający przeciwbakteryjnie, przeciwwirusowo i przeciwgrzybiczo. Oczywiście na receptę, nazywa się [octenisept]({{< relref "atopedia/Octenisept.md" >}} "wikilink"), w aerozolu, można spryskiwać skórę, jest nieszkodliwy nawet na śluzówki. Jak działa? Wyjaławia skórę ze wszystkich bakterii, wirusów i grzybów.
+AZS, jak żadna inna choroba, jest ogromnie dotkliwą chorobą, i dla rodziny, i dla pacjenta. Reakcja ostra: na wyraźnie rumieniowym podłożu są wyraźne grudki i pęcherzyki, które często przekształcają się w takie nadżerki, pokryte strupkami. Państwo to doskonale wiedzą. W skrajnym przypadku, proszę Państwa, wygląda to tak. [...] To jest męka, kto tego nie przeszedł, nie jest w stanie tego zrozumieć. [...] Ja miałam pacjentkę, która występowała w zespole flamenco, wyglądała jak potwór, jak upiór, dziewczyna była bliska, po prostu, no niestety, ale nawet mówiła o próbach samobójczych. Matka mi opowiadała, ze to dramat był. Ale czasem już się po prostu odechciewa żyć. AZS często niestety łączy się ze strasznie obniżoną odpornością. Ta skóra łapie wszystko. A to przede wszystkim: gronkowca, grzybicę i wirusy. Wirus opryszczki często wikła nam to wszystko, a [gronkowiec]({{< relref "atopedia/Gronkowiec_złocisty.md" >}}), który na ogół u dorosłego człowieka , zdrowego, nie powoduje zmian żadnych, działa na skórze tego atopowego pacjenta jak ciężki, silny alergen. Wygląda to tak, że to jest zakażone, tu jest już ropne ognisko i – zobaczcie Państwo – pęcherzyki się tworzą z ropą. To jest naprawdę potworny dramat dla takiego dziecka. To już się leczy nie tylko przeciwalergicznie, ale także leczy się antybiotykami uogólnionymi, środkami dezynfekującymi. Pojawiają się coraz lepsze środki, ostatnio odkryłam genialny środek odkażający, działający przeciwbakteryjnie, przeciwwirusowo i przeciwgrzybiczo. Oczywiście na receptę, nazywa się [octenisept]({{< relref "atopedia/Octenisept.md" >}}), w aerozolu, można spryskiwać skórę, jest nieszkodliwy nawet na śluzówki. Jak działa? Wyjaławia skórę ze wszystkich bakterii, wirusów i grzybów.
 
 ### Reakcja przewlekła
 
@@ -86,7 +86,7 @@ Proszę Państwa, wygląda to tak: to jest ten przewlekły stan i proszę mi wie
 
 Jak można rozpoznać AZS? Wywiad charakterystyczny. W ciężkim zapaleniu skóry, my to nazywamy atopią, co jest określeniem równoznacznym z alergią. Co też nie jest prawdą, ale nie umiemy tego inaczej nazwać. Bo atopowe zapalenie skóry często nie bywa atopowe, czyli alergiczne, wynika z przesuszenia skóry. Nie mamy lepszej nazwy, dlatego mówimy: atopowe zapalenie skóry, skaza białkowa, świerzbiączka, a może nawet z tego najlepsze jest „świerzbiączka”, bo daje jakieś możliwości diagnostyczne.
 
-Przed 6. miesiącem życia jest początek. Na ogół. Korelacja ze zmianą karmienia. Często jest tak, że matka karmi piersią, potem traci pokarm, wprowadza pokarmy, i się zaczyna. Chociaż są takie przypadki, jak się dobrze zbiera wywiad, że już w trakcie karmienia piersią, pojawiają się zmiany skórne. I to jest zupełnie inna bajka, niezwiązana z wprowadzaniem mleka, matka jest na bezmlecznej diecie, próbuje odstawić różne rzeczy, a dziecko i tak rozpoczyna [marsz alergiczny]({{< relref "atopedia/Marsz_alergiczny.md" >}} "wikilink"). Charakterystyczna lokalizacja zmian. To nie będzie pryszczyk na pośladku. To będzie najpierw twarz, uszy, itd, to co Państwu mówiłam. Charakterystyczna lokalizacja zmian. Wywiad rodzinny, lub nie.
+Przed 6. miesiącem życia jest początek. Na ogół. Korelacja ze zmianą karmienia. Często jest tak, że matka karmi piersią, potem traci pokarm, wprowadza pokarmy, i się zaczyna. Chociaż są takie przypadki, jak się dobrze zbiera wywiad, że już w trakcie karmienia piersią, pojawiają się zmiany skórne. I to jest zupełnie inna bajka, niezwiązana z wprowadzaniem mleka, matka jest na bezmlecznej diecie, próbuje odstawić różne rzeczy, a dziecko i tak rozpoczyna [marsz alergiczny]({{< relref "atopedia/Marsz_alergiczny.md" >}}). Charakterystyczna lokalizacja zmian. To nie będzie pryszczyk na pośladku. To będzie najpierw twarz, uszy, itd, to co Państwu mówiłam. Charakterystyczna lokalizacja zmian. Wywiad rodzinny, lub nie.
 
 ### Obraz kliniczny
 
@@ -98,12 +98,12 @@ W okresie dojrzewania i u dorosłych okolice zgięciowe dużych stawów, czyli �
 
 Są to:
 
--   [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink"). [Świąd](/atopedia/Świąd "wikilink") jako główny objaw, a suchość skóry prawie w stu procentach temu towarzyszy.
--   Zwiększona podatność skóry na zakażenia, w szczególności na zakażenie [gronkowcem złocistym]({{< relref "atopedia/Gronkowiec_złocisty.md" >}} "wikilink"), nawet – my to tak mądrze nazywamy – superantygenem, ponieważ kolonizacja, zagnieżdżenie się gronkowca u pacjenta z chorą skórą zaostrza przebieg choroby w sposób ogromny.
+-   [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}}). [Świąd](/atopedia/Świąd) jako główny objaw, a suchość skóry prawie w stu procentach temu towarzyszy.
+-   Zwiększona podatność skóry na zakażenia, w szczególności na zakażenie [gronkowcem złocistym]({{< relref "atopedia/Gronkowiec_złocisty.md" >}}), nawet – my to tak mądrze nazywamy – superantygenem, ponieważ kolonizacja, zagnieżdżenie się gronkowca u pacjenta z chorą skórą zaostrza przebieg choroby w sposób ogromny.
 -   Rogowacenie przymieszkowe. O, to co Państwo bardzo często przychodzicie i się skarżycie. Taka „kaszka” na ramionach i na udach. To nie jest alergia sama w sobie. To nie jest alergia. To jest struktura skóry, wytwarzanie gęstego łoju przez gruczołki łojowe i zatykanie ujścia. Tworzy się kaszka. I to często, bardzo często towarzyszy takiej skórze skłonnej do alergii.
 -   Wyniki testów skórnych z alergenami, proszę zobaczyć: rzadko. Czasem jest taka korelacja, z roztoczami, z pyłkami. Ale w 70% przypadków testy są ujemne.
 -   Wczesny początek choroby: bardzo często.
--   Podwyższone stężenie całkowitego [IgE](/atopedia/IgE "wikilink") w surowicy: bardzo często. Jeżeli przekracza swoje normy, to oczywiście jest to istotne kryterium.
+-   Podwyższone stężenie całkowitego [IgE](/atopedia/IgE) w surowicy: bardzo często. Jeżeli przekracza swoje normy, to oczywiście jest to istotne kryterium.
 -   Skłonność do niespecyficznego stanu zapalenia skóry dłoni i stóp: dość rzadko.
 -   Rybia łuska: w skrajnie ciężkich przypadkach.
 -   Zapalenie brodawek sutkowych.
@@ -116,7 +116,7 @@ Są to:
 -   Świąd podczas pocenia się. Pocenie się powoduje świąd i zaostrzenie zmian skórnych. Prosty objaw: skóra paruje, wysycha. Jak wysycha, zaczyna swędzieć, jak zaczyna swędzieć, dziecko zaczyna się drapać, jak zaczyna się drapać, zaostrzenie stanu zapalnego, wprowadzenie bakterii, gronkowców wgłąb skóry i zaostrzenie wszystkiego. Pocenie się nie jest dobrą rzeczą.
 -   Pogrubienie fałdów na szyi. Widać u młodego dziecka wręcz takie „piętra” na szyi.
 -   Nietolerancja wełny.
--   [Biały dermografizm](/atopedia/Biały_dermografizm "wikilink"). Przeciągnięcie paznokciem po plecach powoduje, że po pięciu minutach wyrasta biała linia. To jest biały dermografizm, i to jest bardzo często.
+-   [Biały dermografizm](/atopedia/Biały_dermografizm). Przeciągnięcie paznokciem po plecach powoduje, że po pięciu minutach wyrasta biała linia. To jest biały dermografizm, i to jest bardzo często.
 -   Rumień twarzy. To są te pięknie wyglądające z czerwonymi policzkami dzieci.
 -   Zaostrzenie choroby pod wpływem zdenerwowania i emocji – bardzo często.
 
@@ -163,7 +163,7 @@ Osoby, które są np. uczulone na roztocza kurzu domowego, często po odczulaniu
 Analizujemy jeszcze takie elementy jak
 
 -   niedobór, pewne zaburzenia odporności. Ta skóra, o której Państwu mówiłam, często to się łączy z niedoborem odpornościowej immunoglobuliny A.
--   Analizujemy też testy plastrowe, specyficzne [IgE](/atopedia/IgE "wikilink") w surowicy krwi. Analizujemy, czy to właśnie ma kontakt z alergią.
+-   Analizujemy też testy plastrowe, specyficzne [IgE](/atopedia/IgE) w surowicy krwi. Analizujemy, czy to właśnie ma kontakt z alergią.
 -   Kiedy nasilają się zmiany skórne – obserwujemy to bardzo intensywnie.
 -   Współistnienie innych chorób. Czasami glistnica, owsica, robaczyce, dlatego prosimy o badanie kału Państwa, bo bardzo często lamblie np. stwierdzamy, a takie rzeczy zaostrzają AZS.
 -   Oczywiście analizujemy dotychczasowe leczenie. Zdarzają się dzieci, które 3 lata biorą leki, antyhistaminowe, zyrtec, claritine, i właściwie tak jakby wodę piły. W ogóle nie ma efektów. Dlatego, jeżeli po miesiącu nie ma efektów, proszę tego nie dawać. To w niczym nie pomoże, a jeszcze tylko angażuje wątrobę do przetwarzania tego leku. Jeżeli po miesiącu podawania zyrteku nie ma w ogóle poprawy, no to po co? Jeżeli chcemy zlikwidować świąd, są zdecydowanie lepsze leki, które działają przeciwświądowo. To jest fenistil, to jest hydroksyzyna. A zyrtec, czy claritine – nieszczególnie.
@@ -184,7 +184,7 @@ To nie są aż takie drogie sytuacje.
 
 To nie jest wcale dostępne, bo to jest całkiem żmudne diagnozowanie. Niewiele osób ma ochotę się z tym bawić, ponieważ zabiera to bardzo dużo czasu. Jest dość czasochłonne i kosztochłonne dla poradni. No a jak refunduje NFZ, Państwo doskonale wiedzą. To naprawdę nie pokrywa kosztów testów, ale to jest oddzielna bajka. Nie każdemu się te testy robi, więc jeden pacjent jest tańszy, a drugi jest droższy, także bilans wychodzi, powiedzmy, na zero.
 
-Drapanie skóry, nawet tej nie zmienionej chorobowo, odgrywa bardzo ważną rolę w rozwoju zmian. Nie wolno skóry drapać. To jest łatwe do powiedzenia „nie drapać skóry”, jak chce się ją zetrzeć. Ale co wtedy robić? [Hydroksyzyna](/atopedia/Hydroksyzyna "wikilink"), fenistil, ale – jeszcze lepiej – wilgotne okłady. Okłady z gazy, wilgotnej, chłodnej. Amerykanie ubierają dziecku wilgotną piżamę. Po prostu wilgoć i chłód zmniejszają drapanie i zmniejszają swędzenie.
+Drapanie skóry, nawet tej nie zmienionej chorobowo, odgrywa bardzo ważną rolę w rozwoju zmian. Nie wolno skóry drapać. To jest łatwe do powiedzenia „nie drapać skóry”, jak chce się ją zetrzeć. Ale co wtedy robić? [Hydroksyzyna](/atopedia/Hydroksyzyna), fenistil, ale – jeszcze lepiej – wilgotne okłady. Okłady z gazy, wilgotnej, chłodnej. Amerykanie ubierają dziecku wilgotną piżamę. Po prostu wilgoć i chłód zmniejszają drapanie i zmniejszają swędzenie.
 
 Najważniejszą częścią leczenia jest zwalczanie świądu i suchości skóry. Bez zlikwidowania świądu, bez zlikwidowania suchości, nie zwalczymy choroby. Zapomnijmy o tym.
 
@@ -206,9 +206,9 @@ Takie wysuszenie powoduje wyparowanie wody, uszkodzenie warstwy rogowej naskórk
 
 Bardzo jest znowu tutaj indywidualna reakcja. U niektórych słońce powoduje – jeżeli takie dziecko się nasłoneczni, jeżeli ono się opali, jest zbrązowiałe, to jest spokój na pół roku. Od czerwca do grudnia, na ogół. W grudniu, jak ta skóra już zblednie, wszystko się odnawia. Wszystko! 80% przypadków AZS pięknie reaguje na słońce, wobec tego z przerażeniem patrzę, jak niektórzy dermatolodzy mówią: „Stuprocentowy filtr na lato. Nie ma prawa ani promyka złapać!”. No i jest znowu problem. Wtedy już cały rok są zmiany skórne, a tak to tylko zimą. Są to indywidualne reakcje. Indywidualne reakcje polegają na tym, że niektórzy tolerują świetnie gorące i wilgotne powietrze, i tacy, którzy zdecydowanie lepiej czują się zimą.
 
-*Pytanie z sali: Czy [solaria]({{< relref "atopedia/Solarium.md" >}} "wikilink") również pomagają na skórę?*
+*Pytanie z sali: Czy [solaria]({{< relref "atopedia/Solarium.md" >}}) również pomagają na skórę?*
 
-Tak. Zdecydowanie tak. Dobre solaria, albo też naświetlanie specjalną lampą z selektywnym promieniowaniem ultrafioletowym, to się nazywa [PUVA](/atopedia/PUVA "wikilink"), która emituje tylko promieniowanie A z pasma promieniowania UV. Doskonale działa. Jeżeli latem skóra dostanie trochę słońca i ktoś jest na tyle zawzięty, żeby przynajmniej raz w tygodniu pójdzie, naświetli się PUVĄ te 10-15 minut, nie ma problemu ze skórą.
+Tak. Zdecydowanie tak. Dobre solaria, albo też naświetlanie specjalną lampą z selektywnym promieniowaniem ultrafioletowym, to się nazywa [PUVA](/atopedia/PUVA), która emituje tylko promieniowanie A z pasma promieniowania UV. Doskonale działa. Jeżeli latem skóra dostanie trochę słońca i ktoś jest na tyle zawzięty, żeby przynajmniej raz w tygodniu pójdzie, naświetli się PUVĄ te 10-15 minut, nie ma problemu ze skórą.
 
 *A niemowlęta można naświetlać?*
 
@@ -239,7 +239,7 @@ Przegląd czynników zwiększających swędzenie jest szalenie ważny, Państwo 
 
 Bardzo ważna uwaga! O tym nie wspomniałam. Nawet, jak ktoś jest nieuczulony, to kiszonki, kapusta kiszona, ogórki kiszone powodują natychmiast zaostrzenie tych zmian. Bardzo często jest to ketchup, żółty ser. To niekoniecznie musi być u każdego, ale podaję to, co często powoduje zaostrzenia i temu powinniście bacznie się przyglądać.
 
-I to co zawsze mówię: nie zaczynamy od nie wiadomo czego, zastrzyków, hormonów, testów. Zaczynamy od rzeczy najprostszych i najbezpieczniejszych. Czyli od [pielęgnacji skóry]({{< relref "atopedia/Pielęgnacja.md" >}} "wikilink"). Przede wszystkim: koniec z mydłami, nie ma mydeł w ogóle (?). Nie ma bambino, nie ma bobasa. Są płyny do mycia. Płyny dermokosmetyczne, tj. AA, SVR, jest tego na rynku ogrom. [Oilatum](/atopedia/Oilatum "wikilink"), physiogel, mnóstwo. Ale to są adresowane do atopików dermokosmetyki.
+I to co zawsze mówię: nie zaczynamy od nie wiadomo czego, zastrzyków, hormonów, testów. Zaczynamy od rzeczy najprostszych i najbezpieczniejszych. Czyli od [pielęgnacji skóry]({{< relref "atopedia/Pielęgnacja.md" >}}). Przede wszystkim: koniec z mydłami, nie ma mydeł w ogóle (?). Nie ma bambino, nie ma bobasa. Są płyny do mycia. Płyny dermokosmetyczne, tj. AA, SVR, jest tego na rynku ogrom. [Oilatum](/atopedia/Oilatum), physiogel, mnóstwo. Ale to są adresowane do atopików dermokosmetyki.
 
 Jeszcze co? Podaję, bo to się sprawdziło na ciężko atopowych niemowlętach. Pół na pół: zwykła, spożywcza oliwka z oliwek. Ponieważ oliwki u nas w Polsce nie rosną, jest to coś tak obcego genetycznie, że organizm tego nie rozpoznaje w ogóle. Więc oliwka spożywcza z oliwek i szampon „Bez łez” dla niemowląt. Mieszamy pół na pół. Łyżka oliwki, łyżka szamponu. Palcem się robi z tego emulsję, tę emulsję na skórę od stóp do głów i do wanienki. I nie używamy już niczego poza tym. Taka kąpiel potrafi czynić naprawdę wiele, wiele dobrego. Więc to jest ten element pielęgnacji mycia.
 
@@ -307,7 +307,7 @@ Wszędzie. Teoretycznie wszędzie. Robimy to masowo tu, w szpitalu. Pobieramy wy
 
 ### Nawilżanie skóry
 
-Aby dobrze nawilżyć skórę, zalecane są letnie kąpiele w wannie, które trwają 15-30 minut, używanie mydeł zawierających środki o neutralnym pH, lub stosowanie do kąpieli płynów nawilżających i natłuszczających skórę, jak np. [Balneum](/atopedia/Balneum "wikilink") lub [Oilatum](/atopedia/Oilatum "wikilink"). Po delikatnym osuszeniu należy na całe ciało zastosować środki nawilżająco-zmiękczające, tzw. emolienty.
+Aby dobrze nawilżyć skórę, zalecane są letnie kąpiele w wannie, które trwają 15-30 minut, używanie mydeł zawierających środki o neutralnym pH, lub stosowanie do kąpieli płynów nawilżających i natłuszczających skórę, jak np. [Balneum](/atopedia/Balneum) lub [Oilatum](/atopedia/Oilatum). Po delikatnym osuszeniu należy na całe ciało zastosować środki nawilżająco-zmiękczające, tzw. emolienty.
 
 *A nie można być uczulonym na takie Oilatum, bo też się z taką opinią spotkałam?*
 
@@ -317,13 +317,13 @@ Dobrze się Pani spotkała, ponieważ alergik może być uczulony na wszystko. P
 
 Tylko że to też mogło się zbiec z okresem zaostrzenia, prawda? Mogło się tak wydarzyć, że środek ten był dobry, tylko akurat zbliżało się zaostrzenie choroby. czasem pacjenci mówią, że biorą leki i raz im pomaga, a raz nie. Akurat z tym konkretnym przypadkiem, jeżeli cały czas było dobrze, to może tak być, że po jakimś czasie następuje alergizacja na to. Że skóra neguje ten środek. Chociaż bardzo się to rzadko zdarza. W przypadku physiogelu nie spotkałam się z takim przypadkiem. Nigdy. To samo dotyczy maści cholesterolowej. Nigdy nie widziałam uczulonego pacjenta.
 
-*A czy pani doktor może skomentować 2 leki nowej generacji, [elidel]({{< relref "atopedia/Elidel.md" >}} "wikilink") i [protopic]({{< relref "ulotka/Protopic_(ulotka).md" >}} "wikilink")?*
+*A czy pani doktor może skomentować 2 leki nowej generacji, [elidel]({{< relref "atopedia/Elidel.md" >}}) i [protopic]({{< relref "ulotka/Protopic_(ulotka).md" >}})?*
 
 To są bardzo dobre preparaty. Nie mogę powiedzieć marnego słowa na ten temat. Stosowane po wyleczeniu dziecka, 2 razy w tygodniu, nie codziennie, na te zmiany skórne, na miejsca, gdzie się te zmiany pojawiają, potrafią zapobiec nowym wysiewom. Można je stosować na twarz, nie powodują zaników skóry. Natomiast jasno i wyraźnie jest powiedziane, że są to środki, które weszły na rynek niedawno. Czasem się okazywał lek genialny, który po pięciu latach dawał odległe, odległe skutki uboczne. My nie potrafimy powiedzieć, co się wydarzy u pacjenta, który będzie przez 5 lat stosował lek.
 
 *A one prawdopodobnie też przeszły badania...*
 
-Przeszły na zdrowych ochotnikach i na zwierzętach. Natomiast tak naprawdę, jak [skóra atopowa]({{< relref "atopedia/Skóra_atopowa.md" >}} "wikilink") będzie reagowała.. na razie wszystkie recenzje, wszystkie badania są doskonałe.
+Przeszły na zdrowych ochotnikach i na zwierzętach. Natomiast tak naprawdę, jak [skóra atopowa]({{< relref "atopedia/Skóra_atopowa.md" >}}) będzie reagowała.. na razie wszystkie recenzje, wszystkie badania są doskonałe.
 
 *Który z tych leków jest lepszy?*
 

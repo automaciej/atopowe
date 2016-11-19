@@ -13,7 +13,7 @@ Atopiclair® krem
 Wskazania:
 ----------
 
-Atopiclair jest wskazany w niwelowaniu [świądu]({{< relref "atopedia/Świąd.md" >}} "wikilink"), zaczerwienienia i bólu towarzyszącym różnym schorzeniom skóry, w tym atopowemu i alergicznemu kontaktowemu zapaleniu skóry. Atopiclair ponadto zapewnia suchej, łuszczącej się skórze właściwe warunki fizjologiczne, co jest niezbędne w procesie gojenia się.
+Atopiclair jest wskazany w niwelowaniu [świądu]({{< relref "atopedia/Świąd.md" >}}), zaczerwienienia i bólu towarzyszącym różnym schorzeniom skóry, w tym atopowemu i alergicznemu kontaktowemu zapaleniu skóry. Atopiclair ponadto zapewnia suchej, łuszczącej się skórze właściwe warunki fizjologiczne, co jest niezbędne w procesie gojenia się.
 
 Atopiclair nie zawiera mleka ani składników pochodzenia zwierzęcego.
 

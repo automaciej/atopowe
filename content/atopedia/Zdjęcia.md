@@ -20,7 +20,7 @@ Zanim wyślesz tu zdjęcia, przejrzyj poradnik [jak robić zdjęcia skóry](/ato
 {{< figure src="/images/GRAFIKA.BUZIA2.JPG" link="/images/GRAFIKA.BUZIA2.JPG" title="" caption="" >}}
 {{< figure src="/images/GRAFIKA.BUZIA3.JPG" link="/images/GRAFIKA.BUZIA3.JPG" title="" caption="" >}}
 
-Taka wysypka utrzymuje sie u mojego syna od urodzenia bez przerwy. Podobno na 100% [AZS](/atopedia/AZS "wikilink").
+Taka wysypka utrzymuje sie u mojego syna od urodzenia bez przerwy. Podobno na 100% [AZS](/atopedia/AZS).
 
 ### Plamki u niemowlęcia
 
@@ -44,7 +44,7 @@ Obecnie Krzyś ma 3 latka, plamki zniknęły. Ma od czasu do czasu małe czerwon
 
 ### Osoba dorosła
 
-Poniżej umiarkowane zmiany atopowe u osoby dorosłej. Alergen nieznany - nie wystąpiła żadna zmiana diety czy otoczenia. Leczenie wewnętrzne: leki przeciwhistaminowe. Leczenie zewnętrzne: maść cholesterolowa z hydrokortyzonem, krem na lekobazie z acidi borici, emolienty, sterydy ([Elosone](/atopedia/Elosone "wikilink"), [Elocom](/atopedia/Elocom "wikilink"), [Laticort](/atopedia/Laticort "wikilink")), [Elidel](/atopedia/Elidel "wikilink"). Zmiany częściowo zaleczone.
+Poniżej umiarkowane zmiany atopowe u osoby dorosłej. Alergen nieznany - nie wystąpiła żadna zmiana diety czy otoczenia. Leczenie wewnętrzne: leki przeciwhistaminowe. Leczenie zewnętrzne: maść cholesterolowa z hydrokortyzonem, krem na lekobazie z acidi borici, emolienty, sterydy ([Elosone](/atopedia/Elosone), [Elocom](/atopedia/Elocom), [Laticort](/atopedia/Laticort)), [Elidel](/atopedia/Elidel). Zmiany częściowo zaleczone.
 
 {{< figure src="/images/Szyja.jpg" link="/images/Szyja.jpg" title="" caption="" >}}
 {{< figure src="/images/Szyja_1.JPG" link="/images/Szyja_1.JPG" title="" caption="" >}}

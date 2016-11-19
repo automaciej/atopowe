@@ -84,7 +84,7 @@ Należy unikać kontaktu leku z oczami i błonami śluzowymi.
 
 U dzieci łatwiej niż u dorosłych może dojść do zahamowania czynności osi podwzgórze-przysadka-nadnercza i wystąpienia objawów niepożądanych charakterystycznych dla kortykosteroidów.
 
-U dzieci leczonych miejscowo kortykosteroidami opisywano: zahamowanie czynności osi podwzgórze-przysadka-nadnercza, [zespół Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}} "wikilink"), zahamowanie wzrostu, zmniejszenie przyrostu masy ciała oraz nadciśnienie wewnątrzczaszkowe.
+U dzieci leczonych miejscowo kortykosteroidami opisywano: zahamowanie czynności osi podwzgórze-przysadka-nadnercza, [zespół Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}}), zahamowanie wzrostu, zmniejszenie przyrostu masy ciała oraz nadciśnienie wewnątrzczaszkowe.
 
 Zahamowanie czynności nadnerczy u dzieci powodowało zmniejszenie stężenia kortyzolu w osoczu i brak odpowiedzi na stymulację ACTH. Nadciśnienie wewnątrzczaszkowe powodowało uwypuklenie ciemiączka, wystąpienie bólów głowy i obustronne obrzęki tarcz nerwów wzrokowych.
 

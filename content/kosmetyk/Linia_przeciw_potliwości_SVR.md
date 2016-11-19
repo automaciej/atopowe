@@ -10,7 +10,7 @@ rodzajekosmetykow = [ "kosmetyki", "środki higieny",]
 
 **Zastosowanie:**
 
-Antybakteryjna, dezodorująca kostka bez mydła ([syndet]({{< relref "atopedia/Syndety.md" >}} "wikilink")) dla skóry wrażliwej z problemem nadmiernej potliwości. Przygotowuje skórę do aplikacji kremu Spirial, pH 5,5. Waga: 100 g.
+Antybakteryjna, dezodorująca kostka bez mydła ([syndet]({{< relref "atopedia/Syndety.md" >}})) dla skóry wrażliwej z problemem nadmiernej potliwości. Przygotowuje skórę do aplikacji kremu Spirial, pH 5,5. Waga: 100 g.
 
 ### SPIRIAL Krem
 

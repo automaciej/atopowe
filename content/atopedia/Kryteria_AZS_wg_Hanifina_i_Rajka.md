@@ -12,19 +12,19 @@ Kryteria AZS wg Hanifina i Rajka
 
 ### Główne objawy AZS
 
--   [Świąd](/atopedia/Świąd "wikilink")
+-   [Świąd](/atopedia/Świąd)
 -   Przewlekły i nawrotowy przebieg
 -   Charakterystyczna morfologia zmian i ich lokalizacja
--   Osobniczy lub [rodzinny]({{< relref "atopedia/Obciążenie_genetyczne.md" >}} "wikilink") wywiad atopowy
+-   Osobniczy lub [rodzinny]({{< relref "atopedia/Obciążenie_genetyczne.md" >}}) wywiad atopowy
 
 ### Objawy mniejsze AZS
 
 -   Suchość skóry
 -   Rybia łuska
 -   Natychmiastowe reakcje skórne
--   Podwyższony poziom [IgE](/atopedia/IgE "wikilink")
+-   Podwyższony poziom [IgE](/atopedia/IgE)
 -   Wczesny wiek wystąpienia zmian
--   Skłonność do nawrotowych [zakażeń skóry]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink")
+-   Skłonność do nawrotowych [zakażeń skóry]({{< relref "atopedia/Infekcja_skóry.md" >}})
 -   Nieswoisty wyprysk rąk i/lub stóp
 -   Wyprysk sutków
 -   Zapalenie czerwieni warg
@@ -38,8 +38,8 @@ Kryteria AZS wg Hanifina i Rajka
 -   Świąd po spoceniu
 -   Nietolerancja pokarmów
 -   Nietolerancja wełny
--   Zaostrzenie [po zdenerwowaniu]({{< relref "atopedia/Stres.md" >}} "wikilink")
--   [Biały dermografizm](/atopedia/Biały_dermografizm "wikilink")
+-   Zaostrzenie [po zdenerwowaniu]({{< relref "atopedia/Stres.md" >}})
+-   [Biały dermografizm](/atopedia/Biały_dermografizm)
 -   Rumień twarzy
 -   Akcentacja mieszków włosowych
 

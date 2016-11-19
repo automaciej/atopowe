@@ -7,7 +7,7 @@ kategorie = [ "Podstawowe wiadomości",]
 +++
 
 **SCORAD** (scoring atopic dermatitis) jest systemem oceny i narzędziem kontroli
-nasilenia [AZS](/atopedia/AZS "wikilink"). Został stworzony we wrześniu 1990 r.
+nasilenia [AZS](/atopedia/AZS). Został stworzony we wrześniu 1990 r.
 przez Europejską Grupę Ekspertów *European Task Force*.
 
 [Ta

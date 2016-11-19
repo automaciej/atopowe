@@ -9,7 +9,7 @@ aliases = [ "/atopedia/Układ_Hormonalny/",]
 
 ![](/images/Kobieta_small2.jpg "thumb|right|Gruczoły dokrewne")
 
-**Układ Hormonalny (dokrewny)** - jego głównym zadaniem jest regulacja i koordynacja funkcjonowania pracy organizmu. Dzięki endogennym związkom człowieka, jakimi są [hormony]({{< relref "atopedia/Hormony.md" >}} "wikilink") układ dokrewny ma taką możliwość. Reakcja układu następuje na drodze chemicznej, dlatego też jest o wolniejsza, niż impuls nerwowy (reakcja ukł. nerwowego).
+**Układ Hormonalny (dokrewny)** - jego głównym zadaniem jest regulacja i koordynacja funkcjonowania pracy organizmu. Dzięki endogennym związkom człowieka, jakimi są [hormony]({{< relref "atopedia/Hormony.md" >}}) układ dokrewny ma taką możliwość. Reakcja układu następuje na drodze chemicznej, dlatego też jest o wolniejsza, niż impuls nerwowy (reakcja ukł. nerwowego).
 
 Układ hormonalny składa się z gruczołów :
 

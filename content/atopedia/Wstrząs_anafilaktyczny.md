@@ -9,17 +9,17 @@ aliases = [ "/atopedia/Zestaw_do_reanimacji/",]
 
 **Wstrząs anafilaktyczny** (anafilaksja) - jest to zagrażające życiu zaburzenie krążenia, które wynika z dysproporcji pomiędzy pożądanym, a rzeczywistym zapotrzebowaniem na krew w organizmie. Wstrząs niezależnie od przyczyny, najczęściej łączy się z nagłym, silnym spadkiem ciśnienia tętniczego krwi, niewydolnością oddechową, często utratą przytomności.
 
-W przypadku natychmiastowej [reakcji alergicznej](/atopedia/Reakcja_alergiczna "wikilink") (wstrząsu anafilaktycznego) sygnałami alarmowymi mogą być:
+W przypadku natychmiastowej [reakcji alergicznej](/atopedia/Reakcja_alergiczna) (wstrząsu anafilaktycznego) sygnałami alarmowymi mogą być:
 
 -   pieczenie i swędzenie języka, dłoni i stóp
--   silne [puchnięcie](/atopedia/Puchnięcie "wikilink"), drgawki
--   nagłe zwężenie dróg oddechowych ([duszność](/atopedia/Duszność "wikilink"))
+-   silne [puchnięcie](/atopedia/Puchnięcie), drgawki
+-   nagłe zwężenie dróg oddechowych ([duszność](/atopedia/Duszność))
 -   zawroty głowy, nudności, wymioty
 -   spadek ciśnienia, znaczne osłabienie - aż do utraty przytomności.
 
 Najczęstszymi przyczynami wstrząsu anafilaktycznego na tle alergicznym są ukąszenia owadów (osa, pszczoła), węży i inne oraz leki z grupy penicylin. Zdarzają się przypadki nagłych reakcji na niektóre pokarmy (np.: owoc kiwi, orzeszki ziemne, krewetki, mak itp).
 
-Oprócz silnej [reakcji alergicznej](/atopedia/Reakcja_alergiczna "wikilink"), wstrząs może zostać wywołany również przez silny ból lub nagłe bodźce termiczne.
+Oprócz silnej [reakcji alergicznej](/atopedia/Reakcja_alergiczna), wstrząs może zostać wywołany również przez silny ból lub nagłe bodźce termiczne.
 
 Zestaw do reanimacji
 --------------------
@@ -27,9 +27,9 @@ Zestaw do reanimacji
 Ampułki z adrenaliną i hydrokortyzonem, strzykawki i igły, silne środków rozkurczowe (np.: wziewne).
 
 
-Komentarz: ''Adrenalina i hydrokortyzon nie są stosowane zamiennie. Adrenalina jest lekiem stosowanym w reanimacji i jest lekiem 1-szego rzutu we [wstrząsie anafilaktycznym]({{< relref "atopedia/Wstrząs_anafilaktyczny.md" >}} "wikilink"). [Hydrokortyzon](/atopedia/Hydrokortyzon "wikilink") nie jest stosowany w reanimacji, może pomóc przy obrzęku dróg oddechowych na tle zapalnym lub alergicznym i przy skurczu oskrzeli. ''
+Komentarz: ''Adrenalina i hydrokortyzon nie są stosowane zamiennie. Adrenalina jest lekiem stosowanym w reanimacji i jest lekiem 1-szego rzutu we [wstrząsie anafilaktycznym]({{< relref "atopedia/Wstrząs_anafilaktyczny.md" >}}). [Hydrokortyzon](/atopedia/Hydrokortyzon) nie jest stosowany w reanimacji, może pomóc przy obrzęku dróg oddechowych na tle zapalnym lub alergicznym i przy skurczu oskrzeli. ''
 
-*Podaje się także [klemastynę](/atopedia/Clemastin "wikilink") np. w przypadku ataku alergii z kataru siennego.*
+*Podaje się także [klemastynę](/atopedia/Clemastin) np. w przypadku ataku alergii z kataru siennego.*
 
 **Zobacz także:**
 

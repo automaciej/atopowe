@@ -6,14 +6,14 @@ kategorie = [ "Alergia",]
 
 +++
 
-Zapalenie [spojówek](/atopedia/Spojówka "wikilink") jest najczęściej spotykaną chorobą oczu.
+Zapalenie [spojówek](/atopedia/Spojówka) jest najczęściej spotykaną chorobą oczu.
 
 Rodzaje zapalenia spojówek
 --------------------------
 
 Można je podzielić na:
 
--   nie zakaźne ([alergiczne](/atopedia/Alergia "wikilink"))
+-   nie zakaźne ([alergiczne](/atopedia/Alergia))
 -   wywołane zakażeniem (grzybiczo-pasożytnicze)
 -   autoimmunologiczne
 
@@ -33,7 +33,7 @@ Alergiczne zapalenie spojówek charakteryzuje sie:
 
 ### Atopowe zapalenie spojówek
 
-Inną formą alergicznego zapalenie spojówek jest atopowe zapalenie spojówek. Objawy są niemalże identyczne z sezonowym zapaleniem spojówek z tą różnicą, iż sezonowe zapalenie spojówek występuje głównie u dzieci, natomiast atopowe stany zapalne u dorosłych. Leczenie jest trudne i przewlekłe, możliwe jest uszkodzenie wzroku. Dotyka osoby chorujące na AZS. Krótkotrwale stosuje się [sterydy](/atopedia/Kortykosterydy "wikilink") i ogólne leczenie antyhistaminowe.
+Inną formą alergicznego zapalenie spojówek jest atopowe zapalenie spojówek. Objawy są niemalże identyczne z sezonowym zapaleniem spojówek z tą różnicą, iż sezonowe zapalenie spojówek występuje głównie u dzieci, natomiast atopowe stany zapalne u dorosłych. Leczenie jest trudne i przewlekłe, możliwe jest uszkodzenie wzroku. Dotyka osoby chorujące na AZS. Krótkotrwale stosuje się [sterydy](/atopedia/Kortykosterydy) i ogólne leczenie antyhistaminowe.
 
 Leczenie
 --------

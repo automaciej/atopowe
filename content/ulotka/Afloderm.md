@@ -27,7 +27,7 @@ Lek Afloderm w kremie zawiera substancję czynną alklometazonu dipropionian. Al
 Wskazania
 ---------
 
-Afloderm w kremie wskazany jest w leczeniu miejscowym zapalnych i przebiegających ze [świądem]({{< relref "atopedia/Świąd.md" >}} "wikilink") chorób skóry, reagujących na leczenie kortykosteroidami, w tym atopowego zapalenia skóry, kontaktowego zapalenia skóry, łuszczycy.
+Afloderm w kremie wskazany jest w leczeniu miejscowym zapalnych i przebiegających ze [świądem]({{< relref "atopedia/Świąd.md" >}}) chorób skóry, reagujących na leczenie kortykosteroidami, w tym atopowego zapalenia skóry, kontaktowego zapalenia skóry, łuszczycy.
 
 Informacje ważne przed zastosowaniem leku Afloderm
 ==================================================
@@ -70,7 +70,7 @@ Stosowanie leku u dzieci
 
 Należy zachować szczególna ostrożność podczas stosowania leku u dzieci, gdyż istnieje ryzyko ogólnoustrojowego działania kortykosteroidu.
 
-U dzieci, ze względu na większy niż u dorosłych stosunek powierzchni ciała do masy ciała, ryzyko ogólnoustrojowego działania kortykosteroidów (w tym zaburzeń czynności osi podwzgórzowo-przysadkowo-nadnerczowej, [zespołu Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}} "wikilink"), zwiększenia ciśnienia wewnątrzczaszkowego) jest większe niż u dorosłych. Długotrwałe stosowanie kortykosteroidów może również zaburzać wzrost i rozwój dzieci.
+U dzieci, ze względu na większy niż u dorosłych stosunek powierzchni ciała do masy ciała, ryzyko ogólnoustrojowego działania kortykosteroidów (w tym zaburzeń czynności osi podwzgórzowo-przysadkowo-nadnerczowej, [zespołu Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}}), zwiększenia ciśnienia wewnątrzczaszkowego) jest większe niż u dorosłych. Długotrwałe stosowanie kortykosteroidów może również zaburzać wzrost i rozwój dzieci.
 
 Stosowanie leku Afloderm z innymi lekami
 ----------------------------------------

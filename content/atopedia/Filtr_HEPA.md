@@ -20,7 +20,7 @@ Filtry HEPA zachowują swoją skuteczność przez okres 2 do 5-ciu lat jeśli s�
 
 Filtry HEPA nie zatrzymują wirusów. Większość wirusów jest mniejsza niż 0, 3 mikrona. Filtry HEPA nie zabijają bakterii ani też żadnych innych mikroorganizmów, chyba że zostały nasączone substancją chemiczną która na to pozwala.
 
-W praktyce dla osoby z alegią na [roztocza kurzu domowego](/atopedia/Roztocze_kurzu_domowego "wikilink") najlepiej mieć [odkurzacz z filtrem wodnym](/atopedia/Odkurzacz_wodny "wikilink") i HEPA, ponieważ znacznie łatwiej czyści się ten wkład i sama HEPA służy dłużej, bo mechaniczne zanieczyszczenia zostają w wodzie. Choć samo czyszczenie to raczej wypłukanie bieżacą wodą.
+W praktyce dla osoby z alegią na [roztocza kurzu domowego](/atopedia/Roztocze_kurzu_domowego) najlepiej mieć [odkurzacz z filtrem wodnym](/atopedia/Odkurzacz_wodny) i HEPA, ponieważ znacznie łatwiej czyści się ten wkład i sama HEPA służy dłużej, bo mechaniczne zanieczyszczenia zostają w wodzie. Choć samo czyszczenie to raczej wypłukanie bieżacą wodą.
 
 Mikron jest jednostką pomiaru długości 1 mikron = 0.000001 (1 milionowa lub 10<sup>-6</sup>) część metra lub 0.001 mm (1 tysięczna) część milimetra. Ludzkie oko nie jest w stanie zobaczyć cząsteczki mniejszej niż 10 mikronów.
 
@@ -40,4 +40,4 @@ Przykłady wielkości kilku popularnych zanieczyszczeń powietrza:
 
 ### Zobacz też
 
--   [Odkurzacz wodny](/atopedia/Odkurzacz_wodny "wikilink")
+-   [Odkurzacz wodny](/atopedia/Odkurzacz_wodny)

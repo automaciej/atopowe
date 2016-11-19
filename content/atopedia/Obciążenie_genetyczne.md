@@ -6,7 +6,7 @@ kategorie = [ "przyczyny atopowego zapalenia skóry",]
 
 +++
 
-W chorobach alergicznych ([atopowych]({{< relref "atopedia/Atopia.md" >}} "wikilink")) dziedziczona jest nie dana choroba, a skłonność [układu immunologicznego]({{< relref "atopedia/Układ_immunologiczny.md" >}} "wikilink") do [reakcji alergicznych]({{< relref "atopedia/Reakcja_alergiczna.md" >}} "wikilink"), czyli [atopia](/atopedia/Atopia "wikilink"). Genetyczne podłoże tej choroby stwierdza się zazwyczaj w wywiadzie lekarskim.
+W chorobach alergicznych ([atopowych]({{< relref "atopedia/Atopia.md" >}})) dziedziczona jest nie dana choroba, a skłonność [układu immunologicznego]({{< relref "atopedia/Układ_immunologiczny.md" >}}) do [reakcji alergicznych]({{< relref "atopedia/Reakcja_alergiczna.md" >}}), czyli [atopia](/atopedia/Atopia). Genetyczne podłoże tej choroby stwierdza się zazwyczaj w wywiadzie lekarskim.
 
 Ryzyko wystąpienia alergii u dziecka pod dowolna postacią, w przypadku gdy jedno z rodziców ma atopię wynosi 30%, w przypadku gdy oboje rodzice są alergikami ryzyko wzrasta do 75%. Atopia może jednak „przeczekać” i ujawnić się w następnym pokoleniu.
 
@@ -18,7 +18,7 @@ Stwierdzono także rodzinne występowanie azs, szczególnie u bliźniąt monozyg
 
 ### Geny związane z azs
 
-Geny związane z azs należą do grupy Epidermal Differentiation Complex (EDC). Geny te kodują białka odpowiedzialne za końcowe etapy różnicowania komórek naskórka. Należy do nich m.in. [filagryna](/atopedia/Filagryna "wikilink"). Mutacja genu dla filagryny silnie koreluje z występowaniem azs i astmy związanej z azs (nie dotyczy to izolowanej postaci astmy). Być może więc astma u pacjentów z azs jest wtórna do uczulenia na alergeny przenikające do uszkodzonej skóry.
+Geny związane z azs należą do grupy Epidermal Differentiation Complex (EDC). Geny te kodują białka odpowiedzialne za końcowe etapy różnicowania komórek naskórka. Należy do nich m.in. [filagryna](/atopedia/Filagryna). Mutacja genu dla filagryny silnie koreluje z występowaniem azs i astmy związanej z azs (nie dotyczy to izolowanej postaci astmy). Być może więc astma u pacjentów z azs jest wtórna do uczulenia na alergeny przenikające do uszkodzonej skóry.
 
 Odsetek nosicieli mutacji genu dla filagryny wynosi kilka procent populacji ogólnej. Wśród osób, u których występują te mutacje, częściej występuje zewnątrzpochodne azs, które charakteryzują:
 

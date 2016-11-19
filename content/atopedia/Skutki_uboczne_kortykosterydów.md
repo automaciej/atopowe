@@ -13,19 +13,19 @@ Częściej używane i mniej szkodliwe są sterydy stosowane zewnętrznie – ma�
 
 -   miejscowe ścieńczenie naskórka i skóry właściwej
 -   rozstępy skórne
--   [posterydowe zapalenie skóry i zmiany trądzikopodobne](/atopedia/Posterydowe_zapalenie_skóry "wikilink")
+-   [posterydowe zapalenie skóry i zmiany trądzikopodobne](/atopedia/Posterydowe_zapalenie_skóry)
 -   zapalenie okołoustne
 -   zapalenie mieszków włosowych
 -   przebarwienia i odbarwienia
 -   nadmierne owłosienie
 -   utrwalony rumień - trwałe rozszerzenie powierzchownych naczyń krwionośnych
--   zwiększoną skłonność do zakażeń bakteryjnych, wirusowych, grzybiczych i pasożytniczych skóry, które występują u 16–43% chorych leczonych miejscowymi [GKS](/atopedia/Glikokortykosterydy "wikilink").
+-   zwiększoną skłonność do zakażeń bakteryjnych, wirusowych, grzybiczych i pasożytniczych skóry, które występują u 16–43% chorych leczonych miejscowymi [GKS](/atopedia/Glikokortykosterydy).
 -   nasilony nawrót choroby przy próbie odstawienia GKS
 
 Sterydy stosowane wewnętrznie
 -----------------------------
 
-Znacznie groźniejsze dla zdrowia przy przewlekłym używaniu są sterydy stosowane wewnętrznie, podawane w zastrzykach domięśniowych lub tabletkach (silna przewlekła [astma oskrzelowa](/atopedia/Astma_oskrzelowa "wikilink"), nagłe, silne [reakcje alergiczne](/atopedia/Reakcja_alergiczna "wikilink") i stany zapalne) – mogą powodować m.in.:
+Znacznie groźniejsze dla zdrowia przy przewlekłym używaniu są sterydy stosowane wewnętrznie, podawane w zastrzykach domięśniowych lub tabletkach (silna przewlekła [astma oskrzelowa](/atopedia/Astma_oskrzelowa), nagłe, silne [reakcje alergiczne](/atopedia/Reakcja_alergiczna) i stany zapalne) – mogą powodować m.in.:
 
 -   wzrost owłosienia ciała
 -   chorobę wrzodową
@@ -42,10 +42,10 @@ Długotrwałe stosowanie sterydów zewnętrznie wiąże się jednak z szeregiem 
 
 -   teleangiektazje, czyli rozszerzenie kapilarnych naczyń krwionośnych skóry
 -   rozstępy skórne
--   zmiany w pigmentacji skóry ([biały dermografizm]({{< relref "atopedia/Biały_dermografizm.md" >}} "wikilink"))
+-   zmiany w pigmentacji skóry ([biały dermografizm]({{< relref "atopedia/Biały_dermografizm.md" >}}))
 -   ścieńczenie skóry właściwej
--   [alergia kontaktowa]({{< relref "atopedia/Alergia_kontaktowa.md" >}} "wikilink") na sterydy
--   większa podatność skóry na [infekcje]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink")
+-   [alergia kontaktowa]({{< relref "atopedia/Alergia_kontaktowa.md" >}}) na sterydy
+-   większa podatność skóry na [infekcje]({{< relref "atopedia/Infekcja_skóry.md" >}})
 
 Jak tego uniknąć?
 -----------------
@@ -62,8 +62,8 @@ Ponad połowa chorych na AZS (57%) odczuwa niepokój w związku ze stosowaniem m
 Zobacz również
 --------------
 
--   [Zespół Cushinga](/atopedia/Zespół_Cushinga "wikilink")
--   [Posterydowe zapalenie skóry](/atopedia/Posterydowe_zapalenie_skóry "wikilink")
+-   [Zespół Cushinga](/atopedia/Zespół_Cushinga)
+-   [Posterydowe zapalenie skóry](/atopedia/Posterydowe_zapalenie_skóry)
 -   [Europejska klasyfikacja kortykosterydów]({{< relref "atopedia/Europejska_klasyfikacja_kortykosterydów.md" >}})
 -   [Konsekwencje korzystania z maści sterydowych](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=10&t=161) - wątek na Forum
 -   [Silny kortykosteryd 3 razy w tygodniu, a słabszy stosowany przez cały tydzień](http://www.mp.pl/artykuly/?aid=13078)

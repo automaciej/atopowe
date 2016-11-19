@@ -78,4 +78,4 @@ flash i czas naświetlania.
 
 **Zobacz też**
 
--   [Zdjęcia](/atopedia/Zdjęcia "wikilink")
+-   [Zdjęcia](/atopedia/Zdjęcia)

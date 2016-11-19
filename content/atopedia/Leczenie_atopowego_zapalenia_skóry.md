@@ -14,37 +14,37 @@ aliases = [ "/atopedia/Medycyna_konwencjonalna/", "/atopedia/Konwencjonalne_meto
 
 ## Terapie
 
--   [kortykosterydy]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink") (maści, kremy, zastrzyki, tabletki)
--   leczenie immunosupresyjne systemowe (doustnie, np. [cyklosporyna]({{< relref "atopedia/Cyklosporyna.md" >}} "wikilink"))
--   leczenie immunosupresyjne miejscowe, tacrolimus (maść [Protopic](/atopedia/Protopic "wikilink")) lub [pimekrolimus]({{< relref "atopedia/Pimekrolimus.md" >}} "wikilink") (krem [Elidel](/atopedia/Elidel "wikilink"))
+-   [kortykosterydy]({{< relref "atopedia/Kortykosterydy.md" >}}) (maści, kremy, zastrzyki, tabletki)
+-   leczenie immunosupresyjne systemowe (doustnie, np. [cyklosporyna]({{< relref "atopedia/Cyklosporyna.md" >}}))
+-   leczenie immunosupresyjne miejscowe, tacrolimus (maść [Protopic](/atopedia/Protopic)) lub [pimekrolimus]({{< relref "atopedia/Pimekrolimus.md" >}}) (krem [Elidel](/atopedia/Elidel))
 -   leki antyhistaminowe
--   [leki sedatywne]({{< relref "atopedia/Leki_sedatywne.md" >}} "wikilink"), uspokajające (w tym o działaniu antyhistaminowym)
+-   [leki sedatywne]({{< relref "atopedia/Leki_sedatywne.md" >}}), uspokajające (w tym o działaniu antyhistaminowym)
 -   fototerapia (lampy PUVA)
 -   fotochemoterapia (lampy PUVA + leki wspomagające)
--   leczenie preparatami taropochodnymi (na bazie smoły) – np. maść [Delatar](/atopedia/Delatar "wikilink") i inne
+-   leczenie preparatami taropochodnymi (na bazie smoły) – np. maść [Delatar](/atopedia/Delatar) i inne
 -   odczulanie przy użyciu szczepionek (przede wszystkim na alergeny wziewne, tzw. powietrznopochodne)
 -   emolienty
--   [antybiotyki]({{< relref "atopedia/Antybiotyki.md" >}} "wikilink") w leczeniu AZS
--   stosowanie niesterydowych leków przeciwzapalnych - [Parfenac](/atopedia/Parfenac "wikilink") (Bufexamac); preparaty na bazie rumianku; ichtiol
+-   [antybiotyki]({{< relref "atopedia/Antybiotyki.md" >}}) w leczeniu AZS
+-   stosowanie niesterydowych leków przeciwzapalnych - [Parfenac](/atopedia/Parfenac) (Bufexamac); preparaty na bazie rumianku; ichtiol
 -   regularne noszenie ubrań i bielizny jedwabnej z czynnikiem przeciwdrobnoustrojowym (brak podrażnień, absorpcja wilgoci, działanie przeciwbakteryjne).
 
 Skóra pacjentów z atopowym zapaleniem skóry często jest skolonizowana przez
 bakterie z gatunku *Staphylococcus aureus* ([gronkowiec złocisty]({{< relref
-"atopedia/Gronkowiec_złocisty.md" >}} "wikilink")). Jego obecność stwierdza się
+"atopedia/Gronkowiec_złocisty.md" >}})). Jego obecność stwierdza się
 zarówno w obrębie zmian, jak na zdrowej skórze. Według ostatnich badań nie ma
 jednak uzasadnienia stosowanie miejscowego leczenia przeciwbakteryjnego /
 antyseptycznego w atopowym zapaleniu skóry.
 
 ## Terapie poboczne
 
--   leczenie [immunoglobuliną](/atopedia/Immunoglobulina "wikilink") (szczepionka [Omalizumab](/atopedia/Omalizumab "wikilink"))
+-   leczenie [immunoglobuliną](/atopedia/Immunoglobulina) (szczepionka [Omalizumab](/atopedia/Omalizumab))
 
 ## Pielęgnacja skóry
 
 Pielęgnacja skóry atopowej jest konieczna do utrzymywania jej w dobrym stanie. Do pielęgnacji skóry należą:
 
--   [Natłuszczanie](/atopedia/Natłuszczanie "wikilink")
--   [Nawilżanie](/atopedia/Nawilżanie "wikilink")
+-   [Natłuszczanie](/atopedia/Natłuszczanie)
+-   [Nawilżanie](/atopedia/Nawilżanie)
 -   Kąpiele
 
 ### Zobacz też

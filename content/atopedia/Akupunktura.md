@@ -12,7 +12,7 @@ kategorie = [ "niekonwencjonalne metody leczenia",]
 
 Nakłuwanie igłami pobudza układ współczulny i przywspółczulny. W ten sposób stymulowany jest układ nerwowy, który reguluje czynności narządów wewnętrznych.
 
-Leczenie bólu jest głównym wskazaniem w stosowaniu akupunktury, choć lista schorzeń, które poddają się leczeniu tą metodą, jest bardzo długa (m.in. [astma oskrzelowa](/atopedia/Astma_oskrzelowa "wikilink"), stany zapalne, nerwice).
+Leczenie bólu jest głównym wskazaniem w stosowaniu akupunktury, choć lista schorzeń, które poddają się leczeniu tą metodą, jest bardzo długa (m.in. [astma oskrzelowa](/atopedia/Astma_oskrzelowa), stany zapalne, nerwice).
 
 ### Przeciwwskazania:
 

@@ -8,13 +8,13 @@ kategorie = [ "Emolienty",]
 
 **CERALAN - emolient półtłusty**
 
-CERALAN zachowuje dużą wchłanialność i dobrze się rozsmarowuje. Zawiera występujące w zdrowym naskórku ceramidy, które wiążą ze sobą komórki naskórka. Zmniejsza złuszczanie, będące skutkiem niedostatecznej łączności komórek naskórka. Rola ceramidów polega też na zatrzymywaniu wody w naskórku. Tym samym pośrednio wpływają one na zwiększenie elastyczności skóry. Ceralan zmniejsza złuszczanie i [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink") skóry zmienionej chorobowo. Jest doskonały jako krem po kąpielach (także leczniczych) i po naświetlaniach UV.
+CERALAN zachowuje dużą wchłanialność i dobrze się rozsmarowuje. Zawiera występujące w zdrowym naskórku ceramidy, które wiążą ze sobą komórki naskórka. Zmniejsza złuszczanie, będące skutkiem niedostatecznej łączności komórek naskórka. Rola ceramidów polega też na zatrzymywaniu wody w naskórku. Tym samym pośrednio wpływają one na zwiększenie elastyczności skóry. Ceralan zmniejsza złuszczanie i [świąd]({{< relref "atopedia/Świąd.md" >}}) skóry zmienionej chorobowo. Jest doskonały jako krem po kąpielach (także leczniczych) i po naświetlaniach UV.
 
 CERALAN idealny emolient dla:
 
 -   osób o szczególnie wrażliwej skórze
--   osób chorych na [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink") i [łuszczycę]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink")
--   wszystkich osób skarżących się na [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink") przez cały rok.
+-   osób chorych na [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}}) i [łuszczycę]({{< relref "atopedia/Łuszczyca.md" >}})
+-   wszystkich osób skarżących się na [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}}) przez cały rok.
 
 **Składniki:**
 
@@ -28,12 +28,12 @@ CERALAN idealny emolient dla:
 -   C 13-14 ISOPARAFFIN C 13-14 IZOPARAFINA
 -   MILK LIPIDS LIPIDY MLECZNE
 -   LAURETH-7 PEG-7-LAURYLOETER
--   METHYLPARABEN [Metyloparaben](/atopedia/Metyloparaben "wikilink")
--   ETHYLPARABEN [Etyloparaben](/atopedia/Etyloparaben "wikilink")
--   BUTYLPARABEN [Butyloparaben](/atopedia/Butyloparaben "wikilink")
+-   METHYLPARABEN [Metyloparaben](/atopedia/Metyloparaben)
+-   ETHYLPARABEN [Etyloparaben](/atopedia/Etyloparaben)
+-   BUTYLPARABEN [Butyloparaben](/atopedia/Butyloparaben)
 -   CERAMIDE 3 CERAMIDY
--   PROPYLPARABEN [Propyloparaben](/atopedia/Propyloparaben "wikilink")
--   ISOBUTYLPARABEN [Izobutyloparaben](/atopedia/Izobutyloparaben "wikilink")
+-   PROPYLPARABEN [Propyloparaben](/atopedia/Propyloparaben)
+-   ISOBUTYLPARABEN [Izobutyloparaben](/atopedia/Izobutyloparaben)
 
 **Preparat dostępny jest w opakowaniach:** Preparat dostępny jest w opakowaniach: 30 g (ok. 15 zł) i 100 g (ok. 27 zł). (stan na dzień 23.04.2013).
 

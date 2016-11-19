@@ -17,20 +17,20 @@ następujące cechy:
     doświadczony, otwarty na nowości lekarz, który odpowiednio dobiera, łączy,
     zmienia kolejność dostępnych kilku grup leków.
 *   Zainteresowanie się współczesnymi terapiami : ...nowymi lekami i trendami w
-    leczeniu [AZS](/atopedia/AZS "wikilink") (pewnym wyznacznikiem tego jest
+    leczeniu [AZS](/atopedia/AZS) (pewnym wyznacznikiem tego jest
     gdzie pracuje lekarz, czy prowadzi działalność naukową).
 *   Współpracuje z innymi lekarzami : Dermatolog powinien interesować się
     współpracą z alergologiem i na odwrót.
 *   Zdrowy rozsądek : ...ale nie boi się eksperymentować.
 *   Informowanie pacjenta : Lekarz zmieniając terapię lub wprowadzając nową,
-    zmieniając [lek](/atopedia/Leki "wikilink") informuje o wszystkim pacjenta,
-    szczegółowo omawia [terapię](/atopedia/Terapia "wikilink"), omawia własny
+    zmieniając [lek](/atopedia/Leki) informuje o wszystkim pacjenta,
+    szczegółowo omawia [terapię](/atopedia/Terapia), omawia własny
     pomysł, odpowiada na wszystkie pytania - powinien robić to sam z siebie. To
     dla pacjenta dodatkowa mobilizacja do zwalczania choroby.
 
 ### Zobacz także
 
 -   [Polecani lekarze](http://www.atopowe.pl/lekarze/)
--   [Kliniki dermatologii i alergologii](/atopedia/Kliniki_dermatologii_i_alergologii "wikilink")
--   [Problemy z lekarzami](/atopedia/Problemy_z_lekarzami "wikilink")
--   [Kodeks etycznego zachowania pacjenta](/atopedia/Kodeks_etycznego_zachowania_pacjenta "wikilink")
+-   [Kliniki dermatologii i alergologii](/atopedia/Kliniki_dermatologii_i_alergologii)
+-   [Problemy z lekarzami](/atopedia/Problemy_z_lekarzami)
+-   [Kodeks etycznego zachowania pacjenta](/atopedia/Kodeks_etycznego_zachowania_pacjenta)

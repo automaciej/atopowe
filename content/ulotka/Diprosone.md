@@ -48,7 +48,7 @@ Substancją czynną leku Diprosone krem jest betametazon w postaci dipropionianu
 
 ### Wskazania
 
-Diprosone krem jest wskazany w chorobach skóry, takich jak: cięższe postaci kontaktowego zapalenia skóry, [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink"), wyprysk alergiczny (wyprysk rąk, wyprysk pieniążkowaty), świerzbiączka ograniczona (*neurodermitis*), ostre zapalenia skóry po nasłonecznieniu, [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"), niereagujący na leczenie innymi lekami świąd odbytu.
+Diprosone krem jest wskazany w chorobach skóry, takich jak: cięższe postaci kontaktowego zapalenia skóry, [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}}), wyprysk alergiczny (wyprysk rąk, wyprysk pieniążkowaty), świerzbiączka ograniczona (*neurodermitis*), ostre zapalenia skóry po nasłonecznieniu, [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}}), niereagujący na leczenie innymi lekami świąd odbytu.
 
 Zanim zastosuje się lek Diprosone krem
 --------------------------------------
@@ -136,7 +136,7 @@ W przypadku wrażenia, że działanie leku Diprosone krem jest za mocne lub za s
 
 ### W przypadku zastosowania większej dawki leku Diprosone krem niż zalecana
 
-Długotrwałe stosowanie leku może doprowadzić do zahamowania czynności osi podwzgórze-przysadka-nadnercza i w konsekwencji do wtórnej niewydolności nadnerczy, a także do nadczynności kory nadnerczy, łącznie z [zespołem Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}} "wikilink").
+Długotrwałe stosowanie leku może doprowadzić do zahamowania czynności osi podwzgórze-przysadka-nadnercza i w konsekwencji do wtórnej niewydolności nadnerczy, a także do nadczynności kory nadnerczy, łącznie z [zespołem Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}}).
 
 W przypadku przedawkowania leku lekarz zastosuje odpowiednie leczenie objawowe.
 
@@ -151,7 +151,7 @@ Możliwe działania niepożądane
 
 Jak każdy lek, Diprosone krem może powodować działania niepożądane.
 
-Podczas stosowania leku Diprosone krem mogą wystąpić następujące działąnia niepożądane: [pieczenie]({{< relref "atopedia/Pieczenie.md" >}} "wikilink"), [swędzenie]({{< relref "atopedia/Świąd.md" >}} "wikilink"), podrażnienie, wysuszenie skóry, zapalenie mieszków włosowych, nadmierne owłosienie, zmiany trądzikopodobne, zanik barwnika skóry, zapalenie skóry wokół ust, alergiczne kontaktowe zapalenie skóry, maceracja skóry, wtórne zakażenia, atrofia skóry, rozstępy skóry i potówki.
+Podczas stosowania leku Diprosone krem mogą wystąpić następujące działąnia niepożądane: [pieczenie]({{< relref "atopedia/Pieczenie.md" >}}), [swędzenie]({{< relref "atopedia/Świąd.md" >}}), podrażnienie, wysuszenie skóry, zapalenie mieszków włosowych, nadmierne owłosienie, zmiany trądzikopodobne, zanik barwnika skóry, zapalenie skóry wokół ust, alergiczne kontaktowe zapalenie skóry, maceracja skóry, wtórne zakażenia, atrofia skóry, rozstępy skóry i potówki.
 
 W wyniku wchłaniania substancji czynnych do krwi mogą również wystąpić ogólnie działania niepożądane betametazonu, charakterystyczne dla kortykosteroidów.
 

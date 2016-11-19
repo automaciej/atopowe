@@ -15,8 +15,8 @@ Polskie Towarzystwo Alergologiczne powołało ekspercką Komisję d/s Weryfikacj
 <references />
 ### Zobacz też
 
--   [Placebo](/atopedia/Placebo "wikilink")
--   [Krytyka medycyny alternatywnej](/atopedia/Krytyka_medycyny_alternatywnej "wikilink")
+-   [Placebo](/atopedia/Placebo)
+-   [Krytyka medycyny alternatywnej](/atopedia/Krytyka_medycyny_alternatywnej)
 
 ### Linki zewnętrzne
 

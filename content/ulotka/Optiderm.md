@@ -45,7 +45,7 @@ Co to jest krem Optiderm i w jakim celu się go stosuje
 
 Krem Optiderm zawiera dwie substancje czynne: mocznik i polidokanol. Mocznik występuje fizjologicznie w skórze. Stosowany miejscowo utrzymuje wilgotność skóry, poprzez zwiększenie zdolności warstwy rogowej naskórka do wiązania wody. Polidokanol działa miejscowo znieczulająco i łagodzi swiąd.
 
-Krem Optiderm - zawierający mocznik i polidokanol - zwiększa wilgotność skóry, działa miejscowo znieczulająco oraz przeciwświądowo. Krem Optiderm stosuje się pomocniczo w leczeniu chorób skóry przebiegających z suchością i świądem, np. w [atopowym zapaleniu skóry](/atopedia/AZS "wikilink"), wyprysku kontaktowym niealergicznym (uszkodzenie skóry spowodowane detergentami), jak również w długotrwałym leczeniu tych schorzeń.
+Krem Optiderm - zawierający mocznik i polidokanol - zwiększa wilgotność skóry, działa miejscowo znieczulająco oraz przeciwświądowo. Krem Optiderm stosuje się pomocniczo w leczeniu chorób skóry przebiegających z suchością i świądem, np. w [atopowym zapaleniu skóry](/atopedia/AZS), wyprysku kontaktowym niealergicznym (uszkodzenie skóry spowodowane detergentami), jak również w długotrwałym leczeniu tych schorzeń.
 
 Zanim zastosuje się krem Optiderm
 =================================

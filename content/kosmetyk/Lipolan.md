@@ -13,7 +13,7 @@ aliases = [ "/atopedia/Lipolan/",]
 
 **LIPOLAN** idealny emolient dla:
 
-osób chorych na [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink") i [łuszczycę]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"), do pielęgnacji dłoni i stóp, zwłaszcza w zimie, dla osób uprawiających sporty zimowe, jako doskonałe zabezpieczenie twarzy przed mrozem.
+osób chorych na [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}}) i [łuszczycę]({{< relref "atopedia/Łuszczyca.md" >}}), do pielęgnacji dłoni i stóp, zwłaszcza w zimie, dla osób uprawiających sporty zimowe, jako doskonałe zabezpieczenie twarzy przed mrozem.
 
 **Składniki:**
 
@@ -24,14 +24,14 @@ osób chorych na [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalen
 -   ALCOHOL ETANOL
 -   SODIUM CETEARYL SULFATE CETEARYLOSIARCZAN SODOWY
 -   PHENOXYETHANOL FENOKSYETANOL
--   METHYLPARABEN [Metyloparaben](/atopedia/Metyloparaben "wikilink")
--   BUTYLPARABEN [Butyloparaben](/atopedia/Butyloparaben "wikilink")
+-   METHYLPARABEN [Metyloparaben](/atopedia/Metyloparaben)
+-   BUTYLPARABEN [Butyloparaben](/atopedia/Butyloparaben)
 -   CHOLESTEROL CHOLESTEROL
 -   DICETYL PHOSPHATE DIHEKSADECYLOFOSFORAN
--   ETHYLPARABEN [Etyloparaben](/atopedia/Etyloparaben "wikilink")
+-   ETHYLPARABEN [Etyloparaben](/atopedia/Etyloparaben)
 -   ISOBUTYLPARABEN IZOBUTYLOPARABEN
 -   LECITHIN LECYTYNA
--   PROPYLPARABEN [Propyloparaben](/atopedia/Propyloparaben "wikilink")
+-   PROPYLPARABEN [Propyloparaben](/atopedia/Propyloparaben)
 
 **Preparat dostępny jest w opakowaniach:** 30 g (ok. 15 zł) i 100 g (ok. 27 zł).(stan na 23.04.2013)
 

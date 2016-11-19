@@ -6,9 +6,9 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
-**Skaza białkowa** - nazwą tą określa się alergie niemowlęce, przypisując jej objawy skórne [alergii pokarmowej]({{< relref "atopedia/Alergia_pokarmowa.md" >}} "wikilink"), ponieważ niemowlę odżywia się początkowo mlekiem matki. W rzeczywistości alergia niemowlęcia wcale nie musi być związana z białkiem. Wpływ na alergię dziecka może mieć dieta matki karmiącej lub inne alergeny. Przy stwierdzonej skazie białkowej lekarze zalecają matkom stosowanie [diety eliminacyjnej](/atopedia/Dieta_eliminacyjna "wikilink"), a wprowadzanie nowych pokarmów do diety dziecka powinno odbywać się stopniowo i powoli.
+**Skaza białkowa** - nazwą tą określa się alergie niemowlęce, przypisując jej objawy skórne [alergii pokarmowej]({{< relref "atopedia/Alergia_pokarmowa.md" >}}), ponieważ niemowlę odżywia się początkowo mlekiem matki. W rzeczywistości alergia niemowlęcia wcale nie musi być związana z białkiem. Wpływ na alergię dziecka może mieć dieta matki karmiącej lub inne alergeny. Przy stwierdzonej skazie białkowej lekarze zalecają matkom stosowanie [diety eliminacyjnej](/atopedia/Dieta_eliminacyjna), a wprowadzanie nowych pokarmów do diety dziecka powinno odbywać się stopniowo i powoli.
 
-Termin ten można uważać za synonim [atopowego zapalenia skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink").
+Termin ten można uważać za synonim [atopowego zapalenia skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}}).
 
 **Zobacz też**
 

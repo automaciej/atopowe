@@ -55,7 +55,7 @@ Jeśli podczas stosowania leku wystąpią objawy podrażnienia, uczulenia lub na
 
 Nie stosować bez przerwy dłużej niż przez 2 tygodnie.
 
-Kortykosteroidy i kwas salicylowy wchłaniają się przez skórę. Dlatego podczas stosowania leku istnieje ryzyko wystąpienia ogólnoustrojowych objawów niepożądanych kortykosteroidów (w tym zahamowanie czynności kory nadnerczy, zmniejszenie stężenia kortyzolu we krwi, [zespół Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}} "wikilink")) oraz kwasu salicylowego. Z tego względu należy unikać podawania leku na dużą powierzchnię skóry, rany, uszkodzoną skórę, stosowania w dużych dawkach, a także długotrwałego leczenia lekiem.
+Kortykosteroidy i kwas salicylowy wchłaniają się przez skórę. Dlatego podczas stosowania leku istnieje ryzyko wystąpienia ogólnoustrojowych objawów niepożądanych kortykosteroidów (w tym zahamowanie czynności kory nadnerczy, zmniejszenie stężenia kortyzolu we krwi, [zespół Cushinga]({{< relref "atopedia/Zespół_Cushinga.md" >}})) oraz kwasu salicylowego. Z tego względu należy unikać podawania leku na dużą powierzchnię skóry, rany, uszkodzoną skórę, stosowania w dużych dawkach, a także długotrwałego leczenia lekiem.
 
 W przypadku zakażenia skóry w leczonym miejscu, lekarz zastosuje odpowiednie leczenie przeciwbakteryjne lub przeciwgrzybicze. Jeżeli objawy zakażenia utrzymują się, należy skontaktować się z lekarzem. Lekarz zadecyduje, czy leczenie powinno być przerwane do czasu wyleczenia zakażenia.
 
@@ -69,7 +69,7 @@ Stosowanie leku pod opatrunkiem ściśle uszczelniającym należy ograniczyć do
 
 Ostrożnie stosować w stanach zanikowych tkanki podskórnej, zwłaszcza u osób w podeszłym wieku.
 
-Szczególnie ostrożnie stosować u pacjentów z [łuszczycą]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"), gdyż miejscowe stosowanie kortykosteroidów w łuszczycy może być niebezpieczne z wielu powodów, w tym ze względu na nawrót choroby spowodowany rozwojem tolerancji, ryzyko wystąpienia uogólnionej łuszczycy krostkowej i ogólne działania toksyczne spowodowane zaburzeniem ciągłości skóry.
+Szczególnie ostrożnie stosować u pacjentów z [łuszczycą]({{< relref "atopedia/Łuszczyca.md" >}}), gdyż miejscowe stosowanie kortykosteroidów w łuszczycy może być niebezpieczne z wielu powodów, w tym ze względu na nawrót choroby spowodowany rozwojem tolerancji, ryzyko wystąpienia uogólnionej łuszczycy krostkowej i ogólne działania toksyczne spowodowane zaburzeniem ciągłości skóry.
 
 Ostrożnie stosować u dzieci w wieku powyżej 2 lat.
 

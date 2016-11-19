@@ -9,7 +9,7 @@ aliases = [ "/atopedia/Katar_sienny/",]
 
 **Alergiczny nieżyt nosa** objawia sie następująco (może wystąpić tylko jeden z objawów):
 
--   [świąd](/atopedia/Świąd "wikilink") nosa
+-   [świąd](/atopedia/Świąd) nosa
 -   wyciek wodnistej wydzieliny
 -   kichanie
 -   uczucie zatkania nosa
@@ -23,13 +23,13 @@ Dodatkowo mogą wystąpić:
 -   objawy zapalenia spojówek
 -   duszności
 
-W sezonie wiosenno-letnim alergiczny nieżyt nosa i spojówek jest najczęściej spowodowany przez pyłki roślin i zarodniki grzybów, natomiast w okresie jesienno-zimowym głównymi sprawcami są [alergeny](/atopedia/Alergen "wikilink") zwierząt i [roztoczy kurzu domowego](/atopedia/Roztocze_kurzu_domowego "wikilink").
+W sezonie wiosenno-letnim alergiczny nieżyt nosa i spojówek jest najczęściej spowodowany przez pyłki roślin i zarodniki grzybów, natomiast w okresie jesienno-zimowym głównymi sprawcami są [alergeny](/atopedia/Alergen) zwierząt i [roztoczy kurzu domowego](/atopedia/Roztocze_kurzu_domowego).
 
 Alergiczny nieżyt nosa dzieli sie na:
 
 -   przewlekły (całoroczny)
 -   okresowy (zalezny od ekspozycji na czynniki alergiczne)
 
-Alergiczny nieżyt nosa koniecznie musi byc leczony, gdyż najczęściej poprzedza on [astmę](/atopedia/Astma_oskrzelowa "wikilink"). Podstawą rozpoznania schorzenia jest dokładnie przeprowadzony wywiad oparty na [testach alergicznych](/atopedia/Testy_alergiczne "wikilink").
+Alergiczny nieżyt nosa koniecznie musi byc leczony, gdyż najczęściej poprzedza on [astmę](/atopedia/Astma_oskrzelowa). Podstawą rozpoznania schorzenia jest dokładnie przeprowadzony wywiad oparty na [testach alergicznych](/atopedia/Testy_alergiczne).
 
-Alergiczny nieżyt nosa leczy się przez unikanie [alergenów](/atopedia/Alergen "wikilink"), leczenie zachowawcze, [immunoterapię](/atopedia/Immunoterapia "wikilink").
+Alergiczny nieżyt nosa leczy się przez unikanie [alergenów](/atopedia/Alergen), leczenie zachowawcze, [immunoterapię](/atopedia/Immunoterapia).

@@ -6,7 +6,7 @@ kategorie = [ "leki immunosupresyjne", "maści",]
 
 +++
 
-[Maść Protopic, opakowanie 30g](/images/Protopic.jpg "wikilink") **Protopic** - maść o działaniu immunomodulującym ([lek immunosupresyjny]({{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") miejscowy).
+[Maść Protopic, opakowanie 30g](/images/Protopic.jpg) **Protopic** - maść o działaniu immunomodulującym ([lek immunosupresyjny]({{< relref "atopedia/Leki_immunosupresyjne.md" >}}) miejscowy).
 
 Protopic
 ========
@@ -14,26 +14,26 @@ Protopic
 Informacje ogólne
 -----------------
 
-Substancję czynną maści **Protopic 0,1%**, **Protopic 0,03%** stanowi [takrolimus]({{< relref "atopedia/Takrolimus.md" >}} "wikilink"). Protopic jest lekiem immunosupresyjnym miejscowym. Oznacza to, że obniża on aktywność systemu immunologicznego jedynie w miejscu zastosowania, nie wpływając na resztę organizmu (tak jak robi to np. [cyklosporyna]({{< relref "atopedia/Cyklosporyna.md" >}} "wikilink")).
+Substancję czynną maści **Protopic 0,1%**, **Protopic 0,03%** stanowi [takrolimus]({{< relref "atopedia/Takrolimus.md" >}}). Protopic jest lekiem immunosupresyjnym miejscowym. Oznacza to, że obniża on aktywność systemu immunologicznego jedynie w miejscu zastosowania, nie wpływając na resztę organizmu (tak jak robi to np. [cyklosporyna]({{< relref "atopedia/Cyklosporyna.md" >}})).
 
-Działanie immunosupresyjne może potencjalnie spowodować zwiększenie podatności skóry na [infekcje]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink") bakteryjne. Jeżeli jednak lek stosuje się na skórę bez istniejącego zakażenia, bardzo rzadko jest to problemem.
+Działanie immunosupresyjne może potencjalnie spowodować zwiększenie podatności skóry na [infekcje]({{< relref "atopedia/Infekcja_skóry.md" >}}) bakteryjne. Jeżeli jednak lek stosuje się na skórę bez istniejącego zakażenia, bardzo rzadko jest to problemem.
 
 Jest bardzo ważne, żeby **nie stosować tej maści na zakażoną skórę**. Jeżeli istnieje podejrzenie zakażenia (np. występuje wysięk), należy w pierwszej kolejności krótkoterminowo zastosować maści sterydowe oraz antybiotyki. Dopiero kiedy infekcja zostanie wyleczona, można zacząć stosować immunosupresję.
 
 Jak stosować maść Protopic
 --------------------------
 
-*Przeczytaj artykuł [Jak stosować Protopic i Elidel](/atopedia/Jak_stosować_Protopic_i_Elidel "wikilink")*
+*Przeczytaj artykuł [Jak stosować Protopic i Elidel](/atopedia/Jak_stosować_Protopic_i_Elidel)*
 
 Zobacz też
 ----------
 
--   [Protopic (ulotka)]({{< relref "ulotka/Protopic_(ulotka).md" >}} "wikilink")
--   [Jak stosować Protopic i Elidel](/atopedia/Jak_stosować_Protopic_i_Elidel "wikilink")
--   [Refundacja maści Protopic](/atopedia/Refundacja_maści_Protopic "wikilink")
+-   [Protopic (ulotka)]({{< relref "ulotka/Protopic_(ulotka).md" >}})
+-   [Jak stosować Protopic i Elidel](/atopedia/Jak_stosować_Protopic_i_Elidel)
+-   [Refundacja maści Protopic](/atopedia/Refundacja_maści_Protopic)
 -   Gdzie kupić Protopic
--   [Apteki sprzedające Protopic](/atopedia/Apteki_sprzedające_Protopic "wikilink")
--   [Elidel](/atopedia/Elidel "wikilink")
+-   [Apteki sprzedające Protopic](/atopedia/Apteki_sprzedające_Protopic)
+-   [Elidel](/atopedia/Elidel)
 
 Linki zewnętrzne
 ----------------

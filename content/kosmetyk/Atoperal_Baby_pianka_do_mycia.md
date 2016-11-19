@@ -10,7 +10,7 @@ PIELĘGNACJA SKÓRY DZIECI I NIEMOWLĄT
 
 /SKÓRA ATOPOWA, SUCHA, WRAŻLIWA/
 
-Delikatna pianka do mycia przeznaczona do pielęgnacji [skóry atopowej]({{< relref "atopedia/Skóra_atopowa.md" >}} "wikilink"), suchej, wrażliwej dzieci i niemowląt powyżej 1 miesiąca życia. Zawiera w składzie m.in. Biolin, substancję która jest naturalnym prebiotykiem. Prebiotyki stymulują prawidłową barierę ochronną skóry. Pianka do mycia wykazuje działanie nawilżające i łagodzące. Receptura pianki do mycia oparta jest na substancjach myjących o łagodnym działaniu, pochodzenia cukrowego.
+Delikatna pianka do mycia przeznaczona do pielęgnacji [skóry atopowej]({{< relref "atopedia/Skóra_atopowa.md" >}}), suchej, wrażliwej dzieci i niemowląt powyżej 1 miesiąca życia. Zawiera w składzie m.in. Biolin, substancję która jest naturalnym prebiotykiem. Prebiotyki stymulują prawidłową barierę ochronną skóry. Pianka do mycia wykazuje działanie nawilżające i łagodzące. Receptura pianki do mycia oparta jest na substancjach myjących o łagodnym działaniu, pochodzenia cukrowego.
 
 Atoperal Baby pianka do mycia przeznaczona jest do codziennego mycia i pielęgnacji skóry, wykazującej cechy skóry atopowej, suchej, wrażliwej dzieci i niemowląt. Dzięki specjalnie opracowanej recepturze zapewnia profesjonalną pielęgnację skóry Twojego dziecka. Posiada delikatne właściwości myjące, doskonale nawilża, łagodzi podrażnienia i wygładza nadmiernie wysuszoną skórę oraz stymuluje barierę ochronną skóry.
 

@@ -14,4 +14,4 @@ Zamknij oczy, zdejmij dłonie. Powoli otwórz oczy.
 
 **Zobacz też**
 
--   [Techniki relaksacyjne](/atopedia/Techniki_relaksacyjne "wikilink")
+-   [Techniki relaksacyjne](/atopedia/Techniki_relaksacyjne)

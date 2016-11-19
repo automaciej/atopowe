@@ -6,7 +6,7 @@ kategorie = [ "alergia",]
 
 +++
 
-**Mieszkanie alergika** powinno być wyposażone w taki sposób, aby było łatwo usuwać z niego [kurz](/atopedia/Kurz "wikilink"). Powinno wyglądać mniej więcej tak:
+**Mieszkanie alergika** powinno być wyposażone w taki sposób, aby było łatwo usuwać z niego [kurz](/atopedia/Kurz). Powinno wyglądać mniej więcej tak:
 
 -   mało mebli
 -   niemal cała podłoga wolna (cała dostępna)
@@ -31,7 +31,7 @@ Częstym wyposażeniem domów są teraz komputery. Komputerowi towarzyszy zawsze
 
 ### Odkurzacz wodny
 
-Sprzątanie powinno odbywać się poprzez odkurzanie [odkurzaczem wodnym](/atopedia/Odkurzacz_wodny "wikilink"). Tradycyjne odkurzacze są szkodliwe, ponieważ powodują wzbijanie [kurzu](/atopedia/Kurz "wikilink") w powietrze, co dla osoby z [astmą oskrzelową](/atopedia/Astma_oskrzelowa "wikilink") może skończyć się np. atakiem duszności.
+Sprzątanie powinno odbywać się poprzez odkurzanie [odkurzaczem wodnym](/atopedia/Odkurzacz_wodny). Tradycyjne odkurzacze są szkodliwe, ponieważ powodują wzbijanie [kurzu](/atopedia/Kurz) w powietrze, co dla osoby z [astmą oskrzelową](/atopedia/Astma_oskrzelowa) może skończyć się np. atakiem duszności.
 
 ### Zobacz też
 

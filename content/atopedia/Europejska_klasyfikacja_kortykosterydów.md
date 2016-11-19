@@ -7,15 +7,15 @@ aliases = [ "/atopedia/Europejska_klasyfikacja_kortykosteroidów/",]
 
 +++
 
-**Europejska klasyfikacja** (cztery grupy) miejscowo stosowanych [kortykosterydów](/atopedia/Kortykosterydy "wikilink") w zależności od siły działania
+**Europejska klasyfikacja** (cztery grupy) miejscowo stosowanych [kortykosterydów](/atopedia/Kortykosterydy) w zależności od siły działania
 
 I. Słabe kortykosteroidy
 ------------------------
 
--   [Hydrokortyzon](/atopedia/Hydrokortyzon "wikilink") 0,5% i 1,0%
+-   [Hydrokortyzon](/atopedia/Hydrokortyzon) 0,5% i 1,0%
 -   Octan hydrokortyzonu 1,0%
 -   Metyloprednizolon 0,25%
--   [Deksametazon](/atopedia/Dexametazon "wikilink") 0,1–0,2%
+-   [Deksametazon](/atopedia/Dexametazon) 0,1–0,2%
 -   Acetonid fluocinolonu 0,0025%
 
 II. Średnio silne kortykosteroidy
@@ -49,7 +49,7 @@ IV. Bardzo silne kortykosterydy
 Przenikanie
 -----------
 
-[Kortykosterydy](/atopedia/Kortykosterydy "wikilink") dobrze przenikają do [skóry]({{< relref "atopedia/Skóra.md" >}} "wikilink"). Intensywność przenikania jest ściśle związana z budową skóry w poszczególnych partiach ciała. Zwiększone przenikanie dotyczy całego ciała niemowląt i małych dzieci (słabiej wykształcona warstwa rogowa naskórka).
+[Kortykosterydy](/atopedia/Kortykosterydy) dobrze przenikają do [skóry]({{< relref "atopedia/Skóra.md" >}}). Intensywność przenikania jest ściśle związana z budową skóry w poszczególnych partiach ciała. Zwiększone przenikanie dotyczy całego ciała niemowląt i małych dzieci (słabiej wykształcona warstwa rogowa naskórka).
 
 Stopień absorpcji preparatów kortykosterydowych
 -----------------------------------------------
@@ -74,10 +74,10 @@ Siła działania sterydów
 
 Od najsilniejszych do najsłabszych
 
-Grupa I : [Dermovate](/atopedia/Dermovate "wikilink"), [Diprolene](/atopedia/Diprolene "wikilink") maść, [Bedicort](/atopedia/Bedicort "wikilink"), [Diprosalic](/atopedia/Diprosalic "wikilink")
-Grupa II : [Diprosone](/atopedia/Diprosone "wikilink"), [Elocom](/atopedia/Elocom "wikilink") maść
-Grupa III : [Cutivate](/atopedia/Cutivate "wikilink") maść, [Kuterid](/atopedia/Kuterid "wikilink"), Advantan krem
-Grupa IV : [Polcortolon](/atopedia/Polcortolon "wikilink") maść, [Elocom](/atopedia/Elocom "wikilink") krem, lotio, [Flucinar](/atopedia/Flucinar "wikilink") maść
-Grupa V : Cutivate krem, [Laticort](/atopedia/Laticort "wikilink") maść, [Locoid](/atopedia/Locoid "wikilink"), [Flucinar](/atopedia/Flucinar "wikilink") krem, [Lorinden](/atopedia/Lorinden "wikilink") maść
-Grupa VI : [Polcortolon](/atopedia/Polcortolon "wikilink") krem, [Laticort](/atopedia/Laticort "wikilink") krem, [Lorinden](/atopedia/Lorinden "wikilink") krem
-Grupa VII : [Hydrokortyzon](/atopedia/Hydrokortyzon "wikilink") krem, [Dexapolcort](/atopedia/Dexapolcort "wikilink"), [Mecortolon](/atopedia/Mecortolon "wikilink") krem
+Grupa I : [Dermovate](/atopedia/Dermovate), [Diprolene](/atopedia/Diprolene) maść, [Bedicort](/atopedia/Bedicort), [Diprosalic](/atopedia/Diprosalic)
+Grupa II : [Diprosone](/atopedia/Diprosone), [Elocom](/atopedia/Elocom) maść
+Grupa III : [Cutivate](/atopedia/Cutivate) maść, [Kuterid](/atopedia/Kuterid), Advantan krem
+Grupa IV : [Polcortolon](/atopedia/Polcortolon) maść, [Elocom](/atopedia/Elocom) krem, lotio, [Flucinar](/atopedia/Flucinar) maść
+Grupa V : Cutivate krem, [Laticort](/atopedia/Laticort) maść, [Locoid](/atopedia/Locoid), [Flucinar](/atopedia/Flucinar) krem, [Lorinden](/atopedia/Lorinden) maść
+Grupa VI : [Polcortolon](/atopedia/Polcortolon) krem, [Laticort](/atopedia/Laticort) krem, [Lorinden](/atopedia/Lorinden) krem
+Grupa VII : [Hydrokortyzon](/atopedia/Hydrokortyzon) krem, [Dexapolcort](/atopedia/Dexapolcort), [Mecortolon](/atopedia/Mecortolon) krem

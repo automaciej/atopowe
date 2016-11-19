@@ -25,7 +25,7 @@ Pirytionian cynku jest czynnikiem bakteriostatycznym i przeciwgrzybiczym ogranic
 
 Leczenie zaburzeń owłosionej skóry głowy, takich jak:
 
--   [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"),
+-   [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}}),
 -   łupież,
 -   łojotok,
 -   stany zapalne skóry,

@@ -23,11 +23,11 @@ kategorie = [ "emolienty",]
 -   PEG-5 GLYCERYL STEARATE STEARYNIAN POLIETYLENOGLIKOLO-5 GLICEROLU
 -   PHENOXYETHANOL FENOKSYETANOL
 -   CETEARETH-20 CETEARYLOETER GLIKOLU POLIETYLENOWEGO 20
--   [METHYLPARABEN](/atopedia/Metyloparaben "wikilink")
--   [BUTYLPARABEN](/atopedia/Butyloparaben "wikilink")
--   [ETHYLPARABEN](/atopedia/Etyloparaben "wikilink")
--   [ISOBUTYLPARABEN](/atopedia/Izobutyloparaben "wikilink")
--   [PROPYLPARABEN](/atopedia/Propyloparaben "wikilink")
+-   [METHYLPARABEN](/atopedia/Metyloparaben)
+-   [BUTYLPARABEN](/atopedia/Butyloparaben)
+-   [ETHYLPARABEN](/atopedia/Etyloparaben)
+-   [ISOBUTYLPARABEN](/atopedia/Izobutyloparaben)
+-   [PROPYLPARABEN](/atopedia/Propyloparaben)
 
 **Krem dostępny jest w opakowaniach:** 30 g (ok. 14 zł) i 100 g (ok. 24,5 zł). (stan na 23.04.2013)
 
