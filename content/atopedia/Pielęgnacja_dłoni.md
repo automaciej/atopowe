@@ -13,8 +13,6 @@ image = "/images/dłonie.jpg"
 
 {{< figure src="/images/dłonie.jpg" attr="fot. barbara w" attrlink="https://flic.kr/p/p92CGg" >}}
 
-## Definicja
-
 [Wyprysk](/atopedia/Wyprysk) rąk jest częstym schorzeniem. Wysypki na rękach są
 skutkiem współistnienia wrażliwej [skóry](/atopedia/Skóra) i podrażnienia lub
 [reakcji alergicznej](/atopedia/Reakcja_alergiczna) na dotykane materiały.

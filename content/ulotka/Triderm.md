@@ -198,8 +198,8 @@ Inne informacje
 
 W celu uzyskania bardziej szczegółowych informacji, należy zwrócić się do przedstawiciela podmiotu odpowiedzialnego;
 
-Schering-Plough Central East SA
-Oddział w Polsce
-Al. Jerozolimskie 195A
-02-222 Warszawa
+Schering-Plough Central East SA  
+Oddział w Polsce  
+Al. Jerozolimskie 195A  
+02-222 Warszawa  
 Tel. 22 47 84 150
