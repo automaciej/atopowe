@@ -21,7 +21,7 @@ Za 17 dni jadę nad morze. Mam więc taki plan. Tydzień leczę skórę. Kilka d
 
 Tak sobie pomyślałam, że jeszcze wrzucę to:
 
-Niezbędnik wakacyjny atopika <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Niezbędnik wakacyjny atopika ☺️
 
 &#8211; bezwzględnie bierzemy wszystkie swoje leki (tabletki, które stosujemy przy pogorszonym stanie, maści lecznicze, pielęgnacyjne, wapno, fenistil albo inny środek łagodzący na ugryzienia, czy popażenia od słońca).
 
@@ -31,4 +31,4 @@ Niezbędnik wakacyjny atopika <img src="http://blog.atopowe.pl/wp-includes/image
 
 &#8211; unikanikamy zagrożeń, których jestesmy świadomi, potraw, okoliczności przyrody itp. i zażywamy pełnego relaksu!
 
-Jeśli macie jeszcze jakieś pomysły odnośnie niezbędnika wakacyjnego atopika, piszcie <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Jeśli macie jeszcze jakieś pomysły odnośnie niezbędnika wakacyjnego atopika, piszcie ☺️

@@ -18,4 +18,4 @@ Inne pasożyty które występują na terenie naszego kraju to tasiemce i glisty 
 
 Odrębny temat to owsiki, których inwazja powoduje silny świąd odbytu. Zdarzają się one głównie u dzieci. Łatwo jednak odróżnić infekcję owsikami od AZS.
 
-Wniosek &#8211; można pomylić infekcję z AZS, ale&#8230; Ale prawdopodobieństwo jest takie, jak to, że Polska wyrobi się na EURO 2012 <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Wniosek &#8211; można pomylić infekcję z AZS, ale&#8230; Ale prawdopodobieństwo jest takie, jak to, że Polska wyrobi się na EURO 2012 ☺️

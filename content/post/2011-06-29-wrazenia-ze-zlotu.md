@@ -29,7 +29,7 @@ Następnie poszliśmy pozwiedzać ośrodek- udaliśmy się nad jezioro Szeląg, 
 
 Między czasie dołączyli do nas: Adrianna i Dragon oraz [Honda i Iza][3].
 
-Oraz [Brumming z rodzinką][4] <img src="/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Oraz [Brumming z rodzinką][4] ☺️
 
 I tak spędziliśmy pierwsze 2 godziny zlotu. Potem „zaatakował” nas deszcz i postanowiliśmy udać się do naszego domku.
   
@@ -37,7 +37,7 @@ Tam postanowiliśmy, że zjemy obiad w smażalni ryb. Więc udaliśmy się w to 
 
 Potem wróciliśmy do domku i poszliśmy jeszcze [popływać na sprzęcie wodnym][6].
 
-Między czasie pożegnaliśmy się z Kuminną i Dragonem+ Adrianną. (Szkoda ze nie zostaliście na grilu  <img src="/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />)
+Między czasie pożegnaliśmy się z Kuminną i Dragonem+ Adrianną. (Szkoda ze nie zostaliście na grillu…)
 
 Po kolejnych szaleństwach nad wodą [poszliśmy na grilla][7]. Gdzie mistrzem grillowania okazała się Anka Lego.
 

@@ -8,7 +8,7 @@ url = "/2008/07/07/boimy-sie-nieuleczalnego/"
 
 +++
 
-Wiele razy, kiedy rozmawiam z ludźmi o mojej chorobie i kiedy pojawia się zdanie &#8222;AZS, alergiczny nieżyt nosa i astma oskrzelowa są nieuleczalne&#8221; widać na twarzy mojego współrozmówcy dziwaczny grymas i szybkie &#8222;poprawianie&#8221; mojej wypowiedzi &#8211; ale co ty wiesz, lekarze często się mylą, nie ma chorób nieuleczalnych, dziś masz a jutro nie będziesz mieć&#8230; I tak dalej, i tak dalej. W takiej sytuacji jestem zmuszona szybko zmienić temat, bo z własnego doświadczenia wiem, że z dalszej rozmowy i tłumaczenia nic konstruktywnego nie wyjdzie. Jestem pewna że nie tylko ja mam za sobą takie doświadczenia <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Wiele razy, kiedy rozmawiam z ludźmi o mojej chorobie i kiedy pojawia się zdanie &#8222;AZS, alergiczny nieżyt nosa i astma oskrzelowa są nieuleczalne&#8221; widać na twarzy mojego współrozmówcy dziwaczny grymas i szybkie &#8222;poprawianie&#8221; mojej wypowiedzi &#8211; ale co ty wiesz, lekarze często się mylą, nie ma chorób nieuleczalnych, dziś masz a jutro nie będziesz mieć&#8230; I tak dalej, i tak dalej. W takiej sytuacji jestem zmuszona szybko zmienić temat, bo z własnego doświadczenia wiem, że z dalszej rozmowy i tłumaczenia nic konstruktywnego nie wyjdzie. Jestem pewna że nie tylko ja mam za sobą takie doświadczenia ☺️
 
 <!--more-->
 
@@ -20,4 +20,4 @@ Ostatnio oglądałam &#8222;Rozmowy w toku&#8221; &#8211; odcinek o osobach decy
 
 Myślę że to wyjaśnia, dlaczego ludzie nie przyjmują do wiadomości faktu, że choroby alergiczne są nieuleczalne. Nie mają wpływu na to, że są nieuleczalne, dlatego wypierają to i zaprzeczają, choć jest to bez sensu.
 
-Jak widać, to nie my, atopicy, jesteśmy nieodporni psychicznie, wbrew temu co się nam wmawia <img src="http://blog.atopowe.pl/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Jak widać, to nie my, atopicy, jesteśmy nieodporni psychicznie, wbrew temu co się nam wmawia ☺️

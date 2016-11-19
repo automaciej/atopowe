@@ -71,7 +71,7 @@ W takiej sytuacji lekarz ma dwie możliwości:
 Opcja 2 jest o wiele łatwiejsza. Wystarczy wypytać pacjenta o problemy życiowe i zasugerować (ale tylko zasugerować! niech pacjent „dojdzie do wniosku sam”) że to one są tutaj winne. A najlepiej sam pacjent. Bo drapie. Bo nie ma dziewczyny. Bo nie ma ojca.
 
 <p style="margin-left: 40px">
-  Wygląda wiec na to, ze mam jakiś problem, tylko nie bardzo umiem go nazwać. Chyba wiec skorzystam z okazji i pogadam sobie z psychologiem&#8230; <img src="http://blog.atopowe.pl/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+  Wygląda wiec na to, ze mam jakiś problem, tylko nie bardzo umiem go nazwać. Chyba wiec skorzystam z okazji i pogadam sobie z psychologiem&#8230; 
 </p>
 
 Jeżeli będziesz rozmawiać z psychologiem, proponuję pytanie o [dysonans poznawczy][3] u lekarzy, których leczenie nie przynosi rezultatów.
