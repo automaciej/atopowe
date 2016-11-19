@@ -9,6 +9,7 @@ title = "Atopowe Zapalenie Skóry"
   rodzajprzepisu = "rodzajeprzepisow"
   kategoria = "kategorie"
   rodzajleku = "rodzajelekow"
+  tag = "tags"
 [params]
   logo = "/images/atopowe-logo.png"
   googleplus = "https://plus.google.com/+AtopowePL"
