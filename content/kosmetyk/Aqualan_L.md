@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Aqualan_L/"
 title = "Aqualan L"
 kategorie = [ "emolienty",]
+aliases = [ "/atopedia/Aqualan_L/",]
 
 +++
 
