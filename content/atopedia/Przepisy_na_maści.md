@@ -13,24 +13,21 @@ Znaczna większość z nich opiera się na maści cholesterolowej, ale czasem r�
 
 ### Maść cholesterolowa z witaminą E
 
-Tłusta, dobrze się rozsmarowuje, czasem gdy jest gorzej zmieszana, zostaja w niej grudki - na chorej skórze ciężko je rozsmarować. skład: *Rp.*
+Tłusta, dobrze się rozsmarowuje, czasem gdy jest gorzej zmieszana, zostaja w niej grudki - na chorej skórze ciężko je rozsmarować. skład:
 
-*Vit. E liq. 1,2*
+*Rp.*
 
-*Ung. Cholesteroli ad 200,0*
-
+*Vit. E liq. 1,2*  
+*Ung. Cholesteroli ad 200,0*  
 *M.f.Ung.*
 
 ### Maść „na smalcu”
 
 *Rp.*
 
-*Vitamini A liquidi 200 000 j.m.*
-
-*Hydrocortisoni 0,1*
-
-*Adipis suilli ad 100,0*
-
+*Vitamini A liquidi 200 000 j.m.*  
+*Hydrocortisoni 0,1*  
+*Adipis suilli ad 100,0*  
 *ut fiant ung.*
 
 UWAGA! Przechowywać w chłodnym miejscu (lodówce)!
@@ -45,10 +42,8 @@ Jest to maść z lekkim sterydem (hydrokortyzon), działa przeciwświądowo i pr
 
 *Rp.*
 
-*Hydrocortisoni 2,0*
-
-*Ung. Cholesteroli ad 200,0*
-
+*Hydrocortisoni 2,0*  
+*Ung. Cholesteroli ad 200,0*  
 *M.f.Ung.*
 
 ## Maść do ciała z masłem kakaowym
@@ -68,7 +63,7 @@ Rp.
 ''Vit. E puri 4,5 *
 *Aquae destillatae 10,0*
 *Lekobaza ad 100,0*
-*M.f.Cremor''
+*M.f.Cremor*
 
 ## Maści wyszperane na forum gazety
 
@@ -133,13 +128,13 @@ M.f. Ung.
 
 ------------------------------------------------------------------------
 
-źródło: <http://forum.gazeta.pl/forum/72,2.html?f=578&w=18608933&a=18635982>
+źródło: http://forum.gazeta.pl/forum/72,2.html?f=578&w=18608933&a=18635982
 
 ## Inne maści - Pasta na odciski
 
 Rp.
 
-*Acidi salicylici 10,0* **!**
+*Acidi salicylici 10,0*
 *Resorcini 1,6*
 *Emplastri Meliloti ad 20,0*
 *M.f. Pasta*
@@ -148,7 +143,9 @@ D.s. Nałożyć bezpośrednio na odcisk na trzy godziny, zmyć i wymoczyć w cie
 
 ## Maści przeciwgrzybicze
 
-**Maść przeciwgrzybicza z siarczanem miedziowym *(Cuprum sulfuricum)*. Wykazuje również działanie przeciwbakteryjne i ściągające.**
+### Maść przeciwgrzybicza z siarczanem miedziowym *(Cuprum sulfuricum)*
+
+Wykazuje również działanie przeciwbakteryjne i ściągające.
 
 *Rp.*
 
@@ -156,7 +153,7 @@ D.s. Nałożyć bezpośrednio na odcisk na trzy godziny, zmyć i wymoczyć w cie
 *Eucerini aa ad 100,0*
 *M.f. ung.*
 
-**Maść cynkowo-miedziowa z domieszką słabego sterydu:**
+### Maść cynkowo-miedziowa z domieszką słabego sterydu:
 
 *Rp.*
 
@@ -174,65 +171,67 @@ D.s. Nałożyć bezpośrednio na odcisk na trzy godziny, zmyć i wymoczyć w cie
 
 *Rp.*
 
-*Vinilini (Balsam Szostakowskiego) 25,0*
-*Vit. A liquidi 100 000 j.m.*
-*Vit. E liquidi 4 ml*
-*Lanolini anhydrici 42,0*
-*Vaselini albi ad 100,0*
+*Vinilini (Balsam Szostakowskiego) 25,0*  
+*Vit. A liquidi 100 000 j.m.*  
+*Vit. E liquidi 4 ml*  
+*Lanolini anhydrici 42,0*  
+*Vaselini albi ad 100,0*  
 *M.f.ung.*
 
-**Maść ściągająca, p/zapalna z gentamycyną na ropne, wrzodziejące rany o charakterze przewlekłym, nawracającym**
+### Maść ściągająca, p/zapalna z gentamycyną na ropne, wrzodziejące rany o charakterze przewlekłym, nawracającym
 
 *Rp.*
 
-*Gentamycini sulfurici 0,5 - 2,0*
-*Bismuthi subnitrici 20,0*
-*Vaselini hydrophylici ad 100,0*
+*Gentamycini sulfurici 0,5 - 2,0*  
+*Bismuthi subnitrici 20,0*  
+*Vaselini hydrophylici ad 100,0*  
 *M.f.ung.*
 
-**Maść tranowa z zasadowym węglanem bizmutawym - gojąca, ściągająca**
+### Maść tranowa z zasadowym węglanem bizmutawym - gojąca, ściągająca
 
 *Rp.*
 
-*Bismuthi subcarbonici 40,0*
-*Ungt. Olei Jecoris Aselli ad 200,0*
+*Bismuthi subcarbonici 40,0*  
+*Ungt. Olei Jecoris Aselli ad 200,0*  
 *ut fiant ung.*
 
 ## Maści i kremy z mocznikiem
 
-**Maść z mocznikiem I**
+### Maść z mocznikiem I
 
 *Rp.*
 
-*Ureae 5,0*
-*Aquae destill. 5,0*
-*Eucerini anhydrici 12,4*
-*Vaselini albi ad 100,0*
+*Ureae 5,0*  
+*Aquae destill. 5,0*  
+*Eucerini anhydrici 12,4*  
+*Vaselini albi ad 100,0*  
 *M.f.Ung.*
 
-**Unguentum Ureae (Maść mocznikowa) 10%**
+### Unguentum Ureae (Maść mocznikowa) 10%
 
 *Rp.*
 
-*Ureae purae*
-*Aquae destillatae aa 10,0*
-*Lanolini anhydrici*
-*Vaselini albi aa ad 100,0*
+*Ureae purae*  
+*Aquae destillatae aa 10,0*  
+*Lanolini anhydrici*  
+*Vaselini albi aa ad 100,0*  
 *M.f. Ung.*
 
-**Krem mocznikowy** intensywnie nawilżający, do skóry suchej i bardzo suchej. Przydatny w suchych egzemach, nadmiernemu wysychaniu i łuszczeniu się naskórka twarzy.
+### Krem mocznikowy
+
+Intensywnie nawilżający, do skóry suchej i bardzo suchej. Przydatny w suchych egzemach, nadmiernemu wysychaniu i łuszczeniu się naskórka twarzy.
 
 *Rp.*
 
-*Ureae purae 1,6*
-*Vitamini E liquidi 12 ml.*
-*Olei Lini 6,0*
-*86% Glycerini 3,2*
-*Butyri Cacao 4,0*
-*Cerae albae 3,0*
-*Aquae destillatae 24,0*
-*Lanolini anhydrici 8,5*
-*Eucerini ad 100,0*
+*Ureae purae 1,6*  
+*Vitamini E liquidi 12 ml.*  
+*Olei Lini 6,0*  
+*86% Glycerini 3,2*  
+*Butyri Cacao 4,0*  
+*Cerae albae 3,0*  
+*Aquae destillatae 24,0*  
+*Lanolini anhydrici 8,5*  
+*Eucerini ad 100,0*  
 *M.f.Ung.*
 
 ## Maść mocznikowa
@@ -247,10 +246,10 @@ Skład maści mocznikowej:
 
 *Rp.*
 
-*Ureae purae quantum satis* (czyli w ilości potrzebnej /od 10,0 - 30,0/
-*Aquae purificatae quantum sufficit* (czyli w ilości wystarczającej /do rozpuszczenia mocznika od 10,0 - 30,0 - tyle wody ile mocznika/
-*Lanolini anhydrici*
-*Vaselini albi aa ad 100,0* (czyli w równych częściach mieszanina obu podłoży do 100,0)
+*Ureae purae quantum satis* (czyli w ilości potrzebnej /od 10,0 - 30,0/  
+*Aquae purificatae quantum sufficit* (czyli w ilości wystarczającej /do rozpuszczenia mocznika od 10,0 - 30,0 - tyle wody ile mocznika/  
+*Lanolini anhydrici*  
+*Vaselini albi aa ad 100,0* (czyli w równych częściach mieszanina obu podłoży do 100,0)  
 
 ## Maść witaminowa na eucerynie
 
@@ -258,11 +257,11 @@ Dość tłusta, ale nie tak bardzo jak maść cholesterolowa i wchłania się te
 
 Rp.
 
-*Vit. A concentr. 400 000 j.m.*
-*Vit. E puri 6,0*
-*3% sol. Acidi borici*
-*Vaselini albi*
-*Eucerini aa ad 200,0*
+*Vit. A concentr. 400 000 j.m.*  
+*Vit. E puri 6,0*  
+*3% sol. Acidi borici*  
+*Vaselini albi*  
+*Eucerini aa ad 200,0*  
 *M.f. Ung.*
 
 ## Maści przeciwświerzbowe
@@ -271,22 +270,22 @@ Rp.
 
 Rp.
 
-*Floris Sulfuris vel Lac Sulfuris 15,0*
-*Saponis kalini 30,0*
-*Picis liquidae Pini 15,0*
-*Calcii carbonatis praecipit. 10,0*
-*Adipis suilli 30,0*
+*Floris Sulfuris vel Lac Sulfuris 15,0*  
+*Saponis kalini 30,0*  
+*Picis liquidae Pini 15,0*  
+*Calcii carbonatis praecipit. 10,0*  
+*Adipis suilli 30,0*  
 *M.f.Ung.*
 
 **Maść z kreoliną**
 
 Rp.
 
-*Sulfuris praecipitati 30,0*
-*Sapo viridis 20,0*
-*Creolini 9,0*
-*Lanolini anhydrici 4,0*
-*Vaselini flavi ad 100,0*
+*Sulfuris praecipitati 30,0*  
+*Sapo viridis 20,0*  
+*Creolini 9,0*  
+*Lanolini anhydrici 4,0*  
+*Vaselini flavi ad 100,0*  
 *M.D.S. Zewn.*
 
 ## Pasta przeciwtrądzikowa
@@ -295,24 +294,24 @@ Rp.
 
 *Rp.*
 
-*Hydrargyri sulfurati rubri 1,0*
-*Sulfuris praecipitati 9,2*
-*Neomycini sulfurici 1,5*
-*Amylii Tritici*
-*Zinci oxydati aa 18,0*
-*86% Glyceroli 4,0*
-*Lanolini anhydrici 20,0*
+*Hydrargyri sulfurati rubri 1,0*  
+*Sulfuris praecipitati 9,2*  
+*Neomycini sulfurici 1,5*  
+*Amylii Tritici*  
+*Zinci oxydati aa 18,0*  
+*86% Glyceroli 4,0*  
+*Lanolini anhydrici 20,0*  
 *Vaselini albi ad 100,0*
 
 *M.f.Pasta*
 
 *Rp.*
 
-*Detreomycini 2,0*
-*Erythromycini 3,0*
-*Bismuthi subcarbonici 10,2*
-*Lanolini anhydrici 42,0*
-*Vaselini albi ad 100,0*
+*Detreomycini 2,0*  
+*Erythromycini 3,0*  
+*Bismuthi subcarbonici 10,2*  
+*Lanolini anhydrici 42,0*  
+*Vaselini albi ad 100,0*  
 *M.f.Ung.*
 
 D.s. 1 do 2 x dz. na twarz przy trądziku.
@@ -325,10 +324,10 @@ Lek do stosowania okresowego (1-2 mce)
 
 *Rp.*
 
-*Sulfacetamidi Natrii 20,0*
-*Aquae destillatae 32,0*
-*Eucerini ad 100,0*
-*M.f. Ung.*
+*Sulfacetamidi Natrii 20,0*  
+*Aquae destillatae 32,0*  
+*Eucerini ad 100,0*  
+*M.f. Ung.*  
 
 D.s. 1 do 2 razy dz. cienko smarować zmiany.
 
@@ -336,12 +335,12 @@ Podobnie do tej maści działa krem z siarczanem cynkowym. Wiele ludzi ze skłon
 
 *Rp.*
 
-*Zinci sulfurici 6,0*
-*Vitamini E liq. 2,0*
-*86% Glycerini 4,5*
-*Aquae destillatae 43,0*
-*Eucerini*
-*Lekobasae aa ad 100,0*
+*Zinci sulfurici 6,0*  
+*Vitamini E liq. 2,0*  
+*86% Glycerini 4,5*  
+*Aquae destillatae 43,0*  
+*Eucerini*  
+*Lekobasae aa ad 100,0*  
 *M.f. Ung.*
 
 D.s. Smarować zmiany 1 do 2 x dziennie.
@@ -350,9 +349,9 @@ D.s. Smarować zmiany 1 do 2 x dziennie.
 
 *Rp.*
 
-*Sulfuris praecipitati 5,0*
-*Ichthyoli 2,0*
-*Pastae Zinci oxyd. ad 100,0*
+*Sulfuris praecipitati 5,0*  
+*Ichthyoli 2,0*  
+*Pastae Zinci oxyd. ad 100,0*  
 *M.f.Pasta*
 
 D.s. 1 x dziennie, nakładać na 2 godziny wieczorem, zmywać preparatem do demakijażu. Przed użyciem wykonać próbę na nadgarstku.
@@ -363,10 +362,10 @@ D.s. 1 x dziennie, nakładać na 2 godziny wieczorem, zmywać preparatem do dema
 
 *Rp.*
 
-*Hydrargyri oxydati flavi 1,5*
-*Paraffini liquidi 0,3*
-*Lanolini anhydrici 4,0*
-*Vaselini hydrophylici ad 50,0*
+*Hydrargyri oxydati flavi 1,5*  
+*Paraffini liquidi 0,3*  
+*Lanolini anhydrici 4,0*  
+*Vaselini hydrophylici ad 50,0*  
 *M.f. Ung. Da sub signa venenum!*
 
 D.s. : Zewn. 1 do 2 x. dz. smarować cienką warstwą.
