@@ -15,7 +15,11 @@ W sobotę 15.10.2005 odbyło się pierwsze oficjalne warszawskie spotkanie ludzi
 forum. Na początku trochę było drętwo ale szybko wszyscy się rozkręcili. Było
 bardzo fajnie. Rozmawialiśmy o wszystkim: kremach, kosmetykach, życiu
 codziennym, oczywiście wszystko związane z AZS. Spotkanie wszyscy przeżyli ;) i
-wszyscy miło je wspominają. Niedługo kolejne spotkanie
+wszyscy miło je wspominają.
+
+<!-- more -->
+
+Niedługo kolejne spotkanie.
 
 {{< figure src="/images/WarszawskiZlot01.jpg" link="/images/WarszawskiZlot01.jpg" title="od lewej Megi, Makowa-panienka, Frigg, Orshi i Maciek" >}}
 {{< figure src="/images/WarszawskiZlot02.jpg" link="/images/WarszawskiZlot02.jpg" title="od lewej Orshi, Frigg, Makowa-panienka i Megi, z tyłu chowa się Maciek" >}}

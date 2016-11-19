@@ -8,7 +8,7 @@ rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna plus 
 
 12-15 sztuk (zależnie od formy ;) )
 
-![](/images/Muffinki_cz.JPG "Grafika:Muffinki_cz.JPG")
+![](/images/Muffinki_cz.JPG)
 
 **Składniki:**
 
