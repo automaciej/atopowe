@@ -6,6 +6,10 @@ layout = "post"
 tags = ["Ben Goldacre"]
 title = "Polskie tłumaczenie Bad Science już w sprzedaży"
 url = "/2011/01/05/polskie-tlumaczenie-bad-science-juz-w-sprzedazy/"
+description = """
+Książka Bena Goldacre właśnie ukazała się w polskim \
+tłumaczeniu i jest do nabycia."""
+image = "/wp-content/uploads/2011/02/leknau1.jpg"
 
 +++
 

@@ -32,7 +32,7 @@ Momentem przełomowym w błędnym kole jest najczęściej permanentne odstawieni
 Leczenie
 --------
 
-Leczenie posterydowego zapalenia skóry jest długotrwałe. Zmiany ustępują opornie, stopniowo w ciągu min. 4 tygodni, ale u niektórych może trwać to nawet kilka miesięcy! Nie zaleca się w tym czasie stosowania zewnętrznie żadnych [substancji czynnych]({{< relref "atopedia/Substancje_aktywne.md" >}} "wikilink"), jedynie [obojętne emolienty](/atopedia/Emolienty "wikilink") w celu zniwelowania ogromnego [podrażnienia]({{< relref "atopedia/Podrażnienie.md" >}} "wikilink") i odbudowania zniszczonej warstwy rogowej [naskórka]({{< relref "atopedia/Skóra.md" >}} "wikilink").
+Leczenie posterydowego zapalenia skóry jest długotrwałe. Zmiany ustępują opornie, stopniowo w ciągu min. 4 tygodni, ale u niektórych może trwać to nawet kilka miesięcy! Nie zaleca się w tym czasie stosowania zewnętrznie żadnych substancji czynnych, jedynie [obojętne emolienty](/atopedia/Emolienty "wikilink") w celu zniwelowania ogromnego [podrażnienia]({{< relref "atopedia/Podrażnienie.md" >}} "wikilink") i odbudowania zniszczonej warstwy rogowej [naskórka]({{< relref "atopedia/Skóra.md" >}} "wikilink").
 
 Najważniejszym elementem terapii posterydowego zapalenia skóry jest *odwyk* od [sterydów]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink"). Zbyt gwałtowne ich odstawienie może być dla skóry dużym wstrząsem. Dlatego czasami, w początkowej fazie leczenia stosuje się jeszcze niewielkie, stopniowo zmniejszane dawki sterydów. .
 

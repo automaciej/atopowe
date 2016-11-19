@@ -2,10 +2,13 @@
 author = "Wahwah"
 kategorie = ["Forum", "Kontrowersje", "Objawy"]
 date = "2007-05-27"
-layout = "post"
-tags = ["James Randi"]
 title = "Brak rezultatu plus wymówka równa się rezultat"
 url = "/2007/05/27/brak-rezultatu-plus-wymowka-rowna-sie-rezultat/"
+description = """
+Wahwah odpowiada na wpis na forum, wedle którego lekarz próbuje zrzucić \
+odpowiedzialność na występowanie choroby na pacjenta i tym samym \
+usprawiedliwić słabe rezultaty w leczeniu."""
+image = "/images/Zlaptokiem.jpg"
 
 +++
 
@@ -43,7 +46,7 @@ Gdybyś np. miała zdrową skórę ale słaby żołądek, on odezwałby się pie
 
 W kontekście leczenia skóry? Wygląda mi na to że zamiast leczyć organ od którego jest specjalistą, profesor szuka usprawiedliwienia i przerzucenia odpowiedzialności na pacjenta.
   
-Zauważyłem że lekarze lubią myśleć tak:
+Zauważyłem że lekarze potrafią myśleć tak:
 
 [BRAK REZULTATU + WYMÓWKA = REZULTAT][1]
 
@@ -76,6 +79,6 @@ Opcja 2 jest o wiele łatwiejsza. Wystarczy wypytać pacjenta o problemy życiow
 
 Jeżeli będziesz rozmawiać z psychologiem, proponuję pytanie o [dysonans poznawczy][3] u lekarzy, których leczenie nie przynosi rezultatów.
 
- [1]: http://alexba.com/2007-05-07/zmiana-ludzie-zachowania/rezultaty-nie-usprawiedliwienia/
- [2]: http://www.gazetawyborcza.pl/1,76842,4043366.html
- [3]: http://pl.wikipedia.org/wiki/Dysonans_poznawczy
+ [1]: https://web.archive.org/web/20071024032332/http://alexba.eu/2007-05-07/zmiana-ludzie-zachowania/rezultaty-nie-usprawiedliwienia/
+ [2]: https://pl.wikipedia.org/wiki/James_Randi
+ [3]: https://pl.wikipedia.org/wiki/Dysonans_poznawczy
