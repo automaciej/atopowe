@@ -15,7 +15,7 @@ Glicerol, parafina miękka biała, parafina ciekła, monostearynian glicerolu, k
 W jakim celu stosuje się DEXERYL krem?
 --------------------------------------
 
-Krem ochronny do skóry przeznaczony do leczenia objawów i dole­gliwości związanych z suchością skóry, a szczególnie w różnych der­matologicznych stanach chorobowych (np. [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink"), [rybia łuska]({{< relref "atopedia/Rybia_łuska.md" >}} "wikilink")...).
+Krem ochronny do skóry przeznaczony do leczenia objawów i dole­gliwości związanych z suchością skóry, a szczególnie w różnych der­matologicznych stanach chorobowych (np. [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink"), rybia łuska...).
 
 W jaki sposób działa DEXERYL krem?
 ----------------------------------

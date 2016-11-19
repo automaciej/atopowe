@@ -18,7 +18,7 @@ AZS jest chorobą, której geneza jest bardzo skomplikowana, a przyczyny nie są
 -   mikroorganizmy, roztocza
 -   czynniki klimatyczne
 
-Główna hipoteza zakłada, że przewlekły [stan zapalny skóry]({{< relref "atopedia/Stan_zapalny_skóry.md" >}} "wikilink") jest spowodowany zaburzeniami immunologicznymi, spowodowanymi przez cechy genetyczne; te zaburzenia to przede wszystkim:
+Główna hipoteza zakłada, że przewlekły stan zapalny skóry jest spowodowany zaburzeniami immunologicznymi, spowodowanymi przez cechy genetyczne; te zaburzenia to przede wszystkim:
 
 -   nadmierne wytwarzanie swoistych [IgE](/atopedia/IgE "wikilink") przeciwko [alergenom](/atopedia/Alergen "wikilink") pokarmowym i wziewnym (co określane jest mianem „astmy skórnej”); ta reakcja alergiczna prowadzi do nadmiernej produkcji różnych białek odpowiedzialnych za powstanie stanu zapalnego
 -   uwalniania z [komórek tucznych](/atopedia/Komórki_tuczne "wikilink") [histaminy](/atopedia/Histamina "wikilink"), oraz uwalnianie leukotrienów, prostaglandyn, proteaz (co daje objawy zapalne różnych narządów np.: [skóra](/atopedia/Skóra "wikilink"), oczy i układów np.: oddechowym, pokarmowym)

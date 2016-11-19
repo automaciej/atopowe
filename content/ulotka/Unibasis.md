@@ -20,7 +20,7 @@ Działanie
 ---------
 
 -   nawilża, uelastycznia, regeneruje [atopową, podrażnioną skórę]({{< relref "atopedia/Skóra_atopowa.md" >}} "wikilink"),
--   łagodzi napięcie, [łuszczenie]({{< relref "atopedia/Łuszczenie.md" >}} "wikilink"), [swędzenie]({{< relref "atopedia/Świąd.md" >}} "wikilink") i pękanie skóry wysuszonej wskutek starzenia lub pod wpływem czynników zewnętrznych (woda, słońce, suche powietrze, chemikalia itp.),
+-   łagodzi napięcie, łuszczenie, [swędzenie]({{< relref "atopedia/Świąd.md" >}} "wikilink") i pękanie skóry wysuszonej wskutek starzenia lub pod wpływem czynników zewnętrznych (woda, słońce, suche powietrze, chemikalia itp.),
 -   dzięki zawartości 5% panthenolu przynosi ulgę w odparzeniach i oparzeniach skóry (w tym słonecznych),
 -   przywraca naturalną warstwę ochronną, skóra staje się miękka, gładka, elastyczna.
 

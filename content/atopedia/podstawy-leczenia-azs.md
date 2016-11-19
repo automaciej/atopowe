@@ -10,7 +10,7 @@ aliases = [ "/atopedia/Algorytm_leczenia_AZS/" ]
 
 ### Stopień I
 
--   [Emolienty](/atopedia/Emolienty "wikilink") 2x dziennie
+-   Emolienty 2x dziennie
 -   Unikanie czynników zaostrzających
 
 ### Stopień II

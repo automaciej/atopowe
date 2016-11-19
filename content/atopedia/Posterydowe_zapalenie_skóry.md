@@ -14,7 +14,7 @@ Uzależnienie od sterydów
 **Dodatkowo uzależnienie pogłębia fakt, że:**
 
 -   [kortykosterydy]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink") stosowane zewnętrznie powodują stopniowe ścieńczenie, a z czasem zanik warstwy rogowej naskórka, co zwiększa absorpcję sterydu przez skórę,
--   w przypadku aplikowania bez odpowiednich przerw, dochodzi do [tachyfilaksji skóry]({{< relref "atopedia/Tachyfilaksja.md" >}} "wikilink"), czy jej uniewrażliwienia się na działanie sterydu.
+-   w przypadku aplikowania bez odpowiednich przerw, dochodzi do tachyfilaksji skóry, czy jej uniewrażliwienia się na działanie sterydu.
 
 **Skłonność do uzależnienia skóry** od sterydów jest sprawą indywidualną, u niektórych osób następuje bardzo szybko (np. już po kilku tygodniach).
 
@@ -32,7 +32,7 @@ Momentem przełomowym w błędnym kole jest najczęściej permanentne odstawieni
 Leczenie
 --------
 
-Leczenie posterydowego zapalenia skóry jest długotrwałe. Zmiany ustępują opornie, stopniowo w ciągu min. 4 tygodni, ale u niektórych może trwać to nawet kilka miesięcy! Nie zaleca się w tym czasie stosowania zewnętrznie żadnych substancji czynnych, jedynie [obojętne emolienty](/atopedia/Emolienty "wikilink") w celu zniwelowania ogromnego [podrażnienia]({{< relref "atopedia/Podrażnienie.md" >}} "wikilink") i odbudowania zniszczonej warstwy rogowej [naskórka]({{< relref "atopedia/Skóra.md" >}} "wikilink").
+Leczenie posterydowego zapalenia skóry jest długotrwałe. Zmiany ustępują opornie, stopniowo w ciągu min. 4 tygodni, ale u niektórych może trwać to nawet kilka miesięcy! Nie zaleca się w tym czasie stosowania zewnętrznie żadnych substancji czynnych, jedynie obojętne emolienty w celu zniwelowania ogromnego [podrażnienia]({{< relref "atopedia/Podrażnienie.md" >}} "wikilink") i odbudowania zniszczonej warstwy rogowej [naskórka]({{< relref "atopedia/Skóra.md" >}} "wikilink").
 
 Najważniejszym elementem terapii posterydowego zapalenia skóry jest *odwyk* od [sterydów]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink"). Zbyt gwałtowne ich odstawienie może być dla skóry dużym wstrząsem. Dlatego czasami, w początkowej fazie leczenia stosuje się jeszcze niewielkie, stopniowo zmniejszane dawki sterydów. .
 
@@ -41,7 +41,7 @@ Trądzik posterydowy
 
 **Leczenie** trądziku posterydowego (o ile wystąpił) przebiega podobnie jak w przypadku trądziku zwykłego czy trądziku różowatego. Podaje się pacjentowi [antybiotyki]({{< relref "atopedia/Antybiotyki.md" >}} "wikilink") z grupy tetracyklin (np. preparaty: [Tetralysal](/atopedia/Tetralysal "wikilink"), [Unidox](/atopedia/Unidox "wikilink")), w celu zniesienia [stanu zapalnego skóry](/atopedia/Stan_zapalny_skóry "wikilink") oraz zahamowania rozwoju bakterii *Propionibacterium acnes*, powodujących wtórne infekcje grudek.
 
-Oprócz antybiotykoterapii ogólnej, można zastosować punktowo [maści]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink") z antybiotykiem (np. Metronidazol). Jeśli posterydowe zapalenie skóry współistnieje z trądzikiem posterydowym, zaleca się wprowadzenie anybiotykoterapii miejscowej dopiero po ustąpieniu objawów tego pierwszego. Grudki posterydowe są zazwyczaj najbardziej opornym w leczeniu elementem zapalnym.
+Oprócz antybiotykoterapii ogólnej, można zastosować punktowo maści z antybiotykiem (np. Metronidazol). Jeśli posterydowe zapalenie skóry współistnieje z trądzikiem posterydowym, zaleca się wprowadzenie anybiotykoterapii miejscowej dopiero po ustąpieniu objawów tego pierwszego. Grudki posterydowe są zazwyczaj najbardziej opornym w leczeniu elementem zapalnym.
 
 **Czynniki zaostrzające przebieg** są podobne jak przy trądziku zwykłym: stres, emocje, słodycze, ostre potrawy mogą powodować obrzęk grudek, ich czerwienienie się.
 

@@ -6,7 +6,7 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
-**Drapanie** - reakcja na [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink"), bardzo trudna lub niemożliwa do powstrzymania. Powoduje powstawanie [przeczosów]({{< relref "atopedia/Przeczosy.md" >}} "wikilink") i ran, ułatwia powstawanie [infekcji skóry](/atopedia/Infekcja_skóry "wikilink"). Drapanie jest jednym z elementów [błędnego koła](/atopedia/Efekt_błędnego_koła "wikilink").
+**Drapanie** - reakcja na [świąd]({{< relref "atopedia/Świąd.md" >}} "wikilink"), bardzo trudna lub niemożliwa do powstrzymania. Powoduje powstawanie przeczosów i ran, ułatwia powstawanie [infekcji skóry](/atopedia/Infekcja_skóry "wikilink"). Drapanie jest jednym z elementów [błędnego koła](/atopedia/Efekt_błędnego_koła "wikilink").
 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ludzie z zewnątrz, patrząc na drapiącą się osobę z AZS, mówią *Nie drap się*, nie zdając sobie sprawy, że tylko przyczyniają się do pogłębienia frustracji tej osoby i pogorszenia jej [samopoczucia](/atopedia/Poprawa_samopoczucia "wikilink"). |
@@ -17,6 +17,6 @@ Innymi słowy, drapanie jest poza kontrolą osoby z AZS. Mówiąc *Nie drap się
 
 Dlatego należy osobie tej pozwolić się podrapać tyle ile musi lub potrzebuje. Oczywiście im mniej, tym lepiej. Ilość drapania zależy od ogólnego stanu skóry oraz poziomu stresu.
 
-Osoby zdrowe mówią *Nie drap się*, ponieważ widzą że drapanie uszkadza skórę i widzą w tym powód problemów ze skórą. Oczywiście, jest prawdą że drapanie uszkadza skórę. Jednak w przypadku AZS, wpływ drapania jest tylko częściowy. Przy nasilonym AZS skóra sama "rozpada się", nawet jeżeli się jej nie drapie. Wystarczy szorstki materiał, potarcie, a czasami nawet nic nie trzeba. Skóra i tak [czerwienieje]({{< relref "atopedia/Zaczerwienienie_skóry.md" >}} "wikilink"), [łuszczy się]({{< relref "atopedia/Łuszczenie.md" >}} "wikilink") i pęka.
+Osoby zdrowe mówią *Nie drap się*, ponieważ widzą że drapanie uszkadza skórę i widzą w tym powód problemów ze skórą. Oczywiście, jest prawdą że drapanie uszkadza skórę. Jednak w przypadku AZS, wpływ drapania jest tylko częściowy. Przy nasilonym AZS skóra sama "rozpada się", nawet jeżeli się jej nie drapie. Wystarczy szorstki materiał, potarcie, a czasami nawet nic nie trzeba. Skóra i tak [czerwienieje]({{< relref "atopedia/Zaczerwienienie_skóry.md" >}} "wikilink"), łuszczy się i pęka.
 
 Osoby z AZS oraz ich otoczenie muszą zaakceptować drapanie jako objaw choroby niezależny od woli osoby chorej. Jeżeli chory się drapie, znaczy to, że go swędzi na tyle mocno, że nie może się powstrzymać. W takiej sytuacji najlepiej zostawić chorego w spokoju. Jeżeli chcemy pomóc, musimy zacząć od innej strony, patrz: [terapia]({{< relref "atopedia/Terapia.md" >}} "wikilink").

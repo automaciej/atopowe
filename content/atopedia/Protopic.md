@@ -6,7 +6,7 @@ kategorie = [ "leki immunosupresyjne", "maści",]
 
 +++
 
-[Maść Protopic, opakowanie 30g](/images/Protopic.jpg "wikilink") **Protopic** - [maść]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink") o działaniu immunomodulującym ([lek immunosupresyjny]({{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") miejscowy).
+[Maść Protopic, opakowanie 30g](/images/Protopic.jpg "wikilink") **Protopic** - maść o działaniu immunomodulującym ([lek immunosupresyjny]({{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") miejscowy).
 
 Protopic
 ========

@@ -25,7 +25,7 @@ frustrację. Jeżeli chory będzie się powstrzymywał przed
 [drapaniem](/atopedia/Drapanie "wikilink"), to tylko po to, żeby potem drapać
 się *bardziej*. Dlatego koło należy przerywać w innym miejscu, np. poprzez
 krótkotrwałe zastosowanie [sterydów](/atopedia/Kortykosterydy "wikilink") i
-[antybiotyków](/atopedia/Antybiotyki "wikilink") w celu zaleczenia
+antybiotyków w celu zaleczenia
 [infekcji](/atopedia/Infekcja_skóry "wikilink") i poprzez
 [natłuszczanie](/atopedia/Natłuszczanie "wikilink") oraz
 [pielęgnację](/atopedia/Pielęgnacja "wikilink") skóry w celu zniwelowania

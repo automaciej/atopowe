@@ -57,7 +57,7 @@ Neutrofile mają funkcje fagocytalne i bójcze (?). Ich jest najwięcej we krwi 
 
 Potem mamy bazofile, które są właściwie nieobecne we krwi. To jest specjalny rodzaj leukocytów, który się barwi barwnikami zasadochłonnymi. I eozynofile. Dlaczego te bazofile i eozynofile są tutaj ważne dla nas? Bo oba typy tych komórek – bazofile i eozynofile - pełnią bardzo ważną funkcję w chorobach atopowych, czyli w alergii atopowej.
 
-Następnym elementem tego układu są limfocyty. Widzimy tutaj [limfocyty T]({{< relref "atopedia/Limfocyty_T.md" >}} "wikilink"), [limfocyty B]({{< relref "atopedia/Limfocyty_B.md" >}} "wikilink") i limfocyty NK.
+Następnym elementem tego układu są limfocyty. Widzimy tutaj [limfocyty T]({{< relref "atopedia/Limfocyty_T.md" >}} "wikilink"), limfocyty B i limfocyty NK.
 
 Co to są limfocyty T?
 ---------------------

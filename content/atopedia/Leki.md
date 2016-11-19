@@ -21,8 +21,8 @@ Stosowane leki można podzielić na kilka kategorii (ze względu na sposób dzia
 
 oraz preparaty wspomagające leczenie:
 
--   [Emolienty](/atopedia/Emolienty "wikilink") (natłuszczające oraz nawilżające skórę)
--   [Maści]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink") robione na zamówienie w aptekach
+-   Emolienty (natłuszczające oraz nawilżające skórę)
+-   Maści robione na zamówienie w aptekach
 
 **Zobacz też**
 

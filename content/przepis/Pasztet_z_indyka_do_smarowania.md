@@ -12,7 +12,7 @@ rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "di
 -   30 g masła lub bezmlecznego tłuszczu do duszenia (oliwa, olej, Masmix kulinarny)
 -   ew. por
 -   sól
--   miękkie masło lub [margaryna bezmleczna]({{< relref "atopedia/Margaryna_bezmleczna.md" >}} "wikilink")
+-   miękkie masło lub margaryna bezmleczna
 -   ew. 50 g wątróbki z indyka
 
 **Przygotowanie:**

@@ -32,4 +32,4 @@ Do zachowania odpowiedniego poziomu nawilżania potrzebne jest więc nie tylko d
 **Zobacz też**
 
 -   [Natłuszczanie](/atopedia/Natłuszczanie "wikilink")
--   [Emolienty](/atopedia/Emolienty "wikilink")
+-   Emolienty

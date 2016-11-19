@@ -218,7 +218,7 @@ Nie. Nie można naświetlać. To jest właśnie ten problem. Mówi się od 6. ro
 
 *Proszę rozwinąć temat tej lampy Bioptron.*
 
-Bioptron – nie mamy żadnych doniesień, zarówno w literaturze, w Internecie. Przegląd całej literatury nie potwierdza, żeby Bioptron poprawiał stan dziecka. Nie ma takich doniesień, nie ma takich prac. Są prace dotyczące PUVA. U dorosłych jeszcze się przed naświetlaniem łyka pewne substancje uczulające na te promieniowanie, tzw. [psolareny]({{< relref "atopedia/Psolaren.md" >}} "wikilink"). Dorośli łykają takie substancje, po czym idą na PUVĘ, na 5-10 minut i się czują coraz lepiej.
+Bioptron – nie mamy żadnych doniesień, zarówno w literaturze, w Internecie. Przegląd całej literatury nie potwierdza, żeby Bioptron poprawiał stan dziecka. Nie ma takich doniesień, nie ma takich prac. Są prace dotyczące PUVA. U dorosłych jeszcze się przed naświetlaniem łyka pewne substancje uczulające na te promieniowanie, tzw. psolareny. Dorośli łykają takie substancje, po czym idą na PUVĘ, na 5-10 minut i się czują coraz lepiej.
 
 ### Czynniki drażniące
 

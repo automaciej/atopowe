@@ -9,7 +9,7 @@ kategorie = [ "terapia", "Sterydy",]
 Sterydy stosowane zewnętrznie
 -----------------------------
 
-Częściej używane i mniej szkodliwe są sterydy stosowane zewnętrznie – [maści]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink"), kremy, fluidy. Mogą one wywoływać takie skutki uboczne jak:
+Częściej używane i mniej szkodliwe są sterydy stosowane zewnętrznie – maści, kremy, fluidy. Mogą one wywoływać takie skutki uboczne jak:
 
 -   miejscowe ścieńczenie naskórka i skóry właściwej
 -   rozstępy skórne

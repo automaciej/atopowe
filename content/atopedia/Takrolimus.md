@@ -9,7 +9,7 @@ aliases = [ "/atopedia/Tacrolimus/",]
 
 **Takrolimus** jest substancją wytwarzaną przez grzyb *Streptomyces tsukabaenzi*, działającą immunomodulująco (głównie immunosupresyjnie) i przeciwzapalnie. Należy do grupy inhibitorów kalcyneuryny, podobnie jak cyklosporyna i [pimekrolimus]({{< relref "atopedia/Pimekrolimus.md" >}} "wikilink"). Znany jest od 1984 roku. Od dłuższego czasu stosowany jest we wspomaganiu leczenia po transplantacjach narządów. Działanie takrolimusu polega między innymi na:
 
--   blokadzie transkrypcji [cytokin prozapalnych]({{< relref "atopedia/Stan_zapalny_skóry.md" >}} "wikilink") wytwarzanych przez limfocyty Th
+-   blokadzie transkrypcji cytokin prozapalnych wytwarzanych przez limfocyty Th
 -   hamowaniu syntezy i uwalniania mediatorów [komórek tucznych]({{< relref "atopedia/Komórki_tuczne.md" >}} "wikilink")
 -   upośledzeniu funkcjonowania [komórek Langerhansa]({{< relref "atopedia/Komórki_Langerhansa.md" >}} "wikilink")
 -   hamowaniu wczesnej aktywacji limfocytów T przez połączenie z białkiem wiążącym (makrofiliną) *FK506*

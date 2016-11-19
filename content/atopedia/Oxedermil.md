@@ -14,7 +14,7 @@ Substancją niezbędną dla prawidłowego nawilżenia skóry jest [mocznik]({{< 
 
 ### Wskazania i działanie
 
-Nowa nazwa dawnego preparatu Oxeril. Dzięki dużej zawartości mocznika, a także kwasu mlekowego, masła Shea i gliceryny krem skutecznie zmiękcza i wygładza skórę oraz eliminuje objawy wzmożonego rogowacenia. Alantoina działa kojąco. Preparat wskazany przy objawach nadmiernego rogowacenia skóry (kolana, stopy, łokcie, dłonie) rogowacenia przymieszkowego (ramiona, uda), wrastających włosach po depilacji, wspomagająco w leczeniu niektórych schorzeń dermatologicznych ([łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"), [rybia łuska]({{< relref "atopedia/Rybia_łuska.md" >}} "wikilink"), [wyprysk]({{< relref "atopedia/Wyprysk.md" >}} "wikilink")) Testowany dermatologicznie na osobach z chorobami skóry. Nie zawiera środków konserwujących, kompozycji zapachowej i barwników.
+Nowa nazwa dawnego preparatu Oxeril. Dzięki dużej zawartości mocznika, a także kwasu mlekowego, masła Shea i gliceryny krem skutecznie zmiękcza i wygładza skórę oraz eliminuje objawy wzmożonego rogowacenia. Alantoina działa kojąco. Preparat wskazany przy objawach nadmiernego rogowacenia skóry (kolana, stopy, łokcie, dłonie) rogowacenia przymieszkowego (ramiona, uda), wrastających włosach po depilacji, wspomagająco w leczeniu niektórych schorzeń dermatologicznych ([łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"), rybia łuska, [wyprysk]({{< relref "atopedia/Wyprysk.md" >}} "wikilink")) Testowany dermatologicznie na osobach z chorobami skóry. Nie zawiera środków konserwujących, kompozycji zapachowej i barwników.
 
 ### Stosowanie
 

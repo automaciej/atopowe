@@ -7,7 +7,7 @@ aliases = [ "/atopedia/Katar_sienny/",]
 
 +++
 
-**Alergiczny nieżyt [nosa]({{< relref "atopedia/Nos.md" >}} "wikilink")** objawia sie następująco (może wystąpić tylko jeden z objawów):
+**Alergiczny nieżyt nosa** objawia sie następująco (może wystąpić tylko jeden z objawów):
 
 -   [świąd](/atopedia/Świąd "wikilink") nosa
 -   wyciek wodnistej wydzieliny

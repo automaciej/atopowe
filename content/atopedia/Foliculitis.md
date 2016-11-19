@@ -15,7 +15,7 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 W celu przeciwdziałania powstawaniu **foliculitis**, należy:
 
 -   regularnie myć skórę (ciepła kąpiel)
--   smarować skórę cieńszą warstwą kremów lub [maści]({{< relref "atopedia/Maść_do_ciała_z_masłem_kakaowym.md" >}} "wikilink"), unikać wcierania
+-   smarować skórę cieńszą warstwą kremów lub maści, unikać wcierania
 -   miejscowo odkażać skórę wypróbowanymi preparatami (skuteczny jest spirytus salicylowy, ale podrażnia, wysusza i powoduje [pieczenie](/atopedia/Pieczenie "wikilink"); względnie skuteczne moga być toniki bezalkoholowe o działaniu przeciwbakteryjnym i przeciwtrądzikowym np.: Benzacne)
 
 **Zobacz również:**

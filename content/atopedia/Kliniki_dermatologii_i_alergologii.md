@@ -103,7 +103,7 @@ Szpital im. Stanisława Leszczyńskiego, ul. Raciborska 26, 40-074 Katowice CENT
 **Łódź**
 
 <div class="mw-collapsible-content">
--   [Wojewódzki Specjalistyczny Szpital im. dr Wł. Biegańskiego w Łodzi]({{< relref "atopedia/Wojewódzki_Specjalistyczny_Szpital_im._dr_Wł._Biegańskiego_w_Łodzi.md" >}} "wikilink")
+-   Wojewódzki Specjalistyczny Szpital im. dr Wł. Biegańskiego w Łodzi
 
 </div>
 </div>

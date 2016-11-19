@@ -60,7 +60,7 @@ W przebiegu choroby znaczenie mają:
 
 Atopowe zapalenie skóry charakteryzuje się intensywnym świądem,
 [zaczerwienieniem]({{< relref "atopedia/Zaczerwienienie_skóry.md" >}}) i
-[łuszczeniem]({{< relref "atopedia/Łuszczenie.md" >}} "wikilink") się skóry.
+łuszczeniem się skóry.
 
 *Przeczytaj osobny artykuł: [objawy atopowego zapalenia skóry]({{< relref "atopedia/Objawy_atopowego_zapalenia_skóry.md" >}} "wikilink").*
 

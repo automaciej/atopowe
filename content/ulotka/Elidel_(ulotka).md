@@ -137,7 +137,7 @@ Do najczęstszych skutków ubocznych preparatu Elidel krem 10 mg/g należy uczuc
 Inne częste działania niepożądane to: podrażnienie, [swędzenie](/atopedia/Świąd "wikilink") i zaczerwienienie skóry w miejscu zastosowania kremu.
 Do częstych działań niepożądanych należą także infekcje skóry, takie jak [zapalenie mieszków włosowych](/atopedia/Foliculitis "wikilink") (może być przyczyną powstawania krost).
 
-W rzadkich przypadkach w miejscu zastosowania preparatu mogą wystąpić następujące działania niepożądane: wysypka, ból, uczucie kłucia, niewielkie [łuszczenie]({{< relref "atopedia/Łuszczenie.md" >}} "wikilink") się skóry, [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink") oraz obrzęk. Wymienione wyżej skutki uboczne mają zwykle charakter łagodny do umiarkowanego, przemijający i najczęściej występują na początku leczenia.
+W rzadkich przypadkach w miejscu zastosowania preparatu mogą wystąpić następujące działania niepożądane: wysypka, ból, uczucie kłucia, niewielkie łuszczenie się skóry, [suchość skóry]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink") oraz obrzęk. Wymienione wyżej skutki uboczne mają zwykle charakter łagodny do umiarkowanego, przemijający i najczęściej występują na początku leczenia.
 
 W rzadkich przypadkach może dojść do zaostrzenia leczonej choroby lub do wystąpienia infekcji skórnej, np. liszajca, opryszczki, opryszczkowego zapalenia skóry, [mięczaka zakaźnego]({{< relref "atopedia/Mięczak_zakaźny.md" >}} "wikilink"), brodawek i czyraków.
 

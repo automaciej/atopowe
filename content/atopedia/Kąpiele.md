@@ -16,7 +16,7 @@ Taka metoda sprawdzałaby się w przypadku, gdyby skóra w ogóle się nie poci�
 
 Metodą wartą wypróbowania jest [natłuszczanie](/atopedia/Natłuszczanie "wikilink") np. oliwką mokrej skóry lub natłuszczenie skóry przed kąpielą, co przeciwdziała podrażnieniu chorej skóry przez twardą, mocno chlorowaną [wodę](/atopedia/Woda "wikilink"). Dobre efekty daje smarowanie balsamem z [mocznikiem](/atopedia/Mocznik "wikilink").
 
-Kąpiele przy AZS są wręcz wskazane, ponieważ łagodzą [świąd](/atopedia/Świąd "wikilink") i przyspieszają gojenie, oczyszczając skórę. Zwiększają chłonność skóry na preparaty natłuszczające, leczące – zmywają pot, martwy naskórek, usuwają zaschnięte strupy osocza i krwi – wszystko to nasila [świąd](/atopedia/Świąd "wikilink"). Strupy i stary naskórek utrudniają penetrację [emolientom](/atopedia/Emolienty "wikilink") i maściom [kortykosterydowym](/atopedia/Kortykosterydy "wikilink") – kiedy już ich użycie jest konieczne, lepiej jest zapewnić im pełną skuteczność.
+Kąpiele przy AZS są wręcz wskazane, ponieważ łagodzą [świąd](/atopedia/Świąd "wikilink") i przyspieszają gojenie, oczyszczając skórę. Zwiększają chłonność skóry na preparaty natłuszczające, leczące – zmywają pot, martwy naskórek, usuwają zaschnięte strupy osocza i krwi – wszystko to nasila [świąd](/atopedia/Świąd "wikilink"). Strupy i stary naskórek utrudniają penetrację emolientom i maściom [kortykosterydowym](/atopedia/Kortykosterydy "wikilink") – kiedy już ich użycie jest konieczne, lepiej jest zapewnić im pełną skuteczność.
 
 ### Zalecenia odnośnie kąpieli
 

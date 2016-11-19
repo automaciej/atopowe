@@ -26,7 +26,7 @@ W związku z powyższym, krem Lipobase® posiada następujące cechy:
 
 -   *fizjologiczne:*
     -   nawilżające i natłuszczające
-    -   poprzez właściwości przywracające właściwe uwodnienie naskórka Lipobase® zmniejsza jego [suchość]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink") i [złuszczanie]({{< relref "atopedia/Łuszczenie.md" >}} "wikilink"), redukując w ten sposób narażenie skóry na szkodliwe działanie czynników zewnętrznych;
+    -   poprzez właściwości przywracające właściwe uwodnienie naskórka Lipobase® zmniejsza jego [suchość]({{< relref "atopedia/Suchość_skóry.md" >}} "wikilink") i złuszczanie, redukując w ten sposób narażenie skóry na szkodliwe działanie czynników zewnętrznych;
     -   jest dobrze znoszony, nie zawiera substancji zapachowych, a dzięki swemu składowi ogranicza do minimum możliwość wystąpienia [reakcji uczuleniowych]({{< relref "atopedia/Reakcja_alergiczna.md" >}} "wikilink");
     -   nie ma działania komedogennego (powstawanie zaskórników) i może być stosowany na twarz.
 -   *kosmetyczne:*

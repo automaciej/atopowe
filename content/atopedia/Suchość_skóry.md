@@ -14,4 +14,4 @@ aliases = [ "/atopedia/Sucha_skóra/",]
 -   [Objawy atopowego zapalenia skóry](/atopedia/Objawy_atopowego_zapalenia_skóry "wikilink")
 -   [Nawilżanie](/atopedia/Nawilżanie "wikilink")
 -   [Natłuszczanie](/atopedia/Natłuszczanie "wikilink")
--   [Emolienty](/atopedia/Emolienty "wikilink")
+-   Emolienty

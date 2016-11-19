@@ -10,4 +10,4 @@ kategorie = [ "Pielęgnacja",]
 
 Nie ma takiego zagrożenia.
 
-W AZS ubytki skóry są powierzchowne i płytkie, mimo dużej niekiedy rozległości dotyczą [naskórka](/atopedia/Naskórek "wikilink"), a nie [skóry właściwej](/atopedia/Skóra_właściwa "wikilink"). Powstałe w ostrych stanach tzw. nadżerki i [przeczosy]({{< relref "atopedia/Przeczosy.md" >}} "wikilink") (rany) w czasie poprawy stanu skóry goją się stosunkowo szybko i łatwo.
+W AZS ubytki skóry są powierzchowne i płytkie, mimo dużej niekiedy rozległości dotyczą [naskórka](/atopedia/Naskórek "wikilink"), a nie [skóry właściwej](/atopedia/Skóra_właściwa "wikilink"). Powstałe w ostrych stanach tzw. nadżerki i przeczosy (rany) w czasie poprawy stanu skóry goją się stosunkowo szybko i łatwo.

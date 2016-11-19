@@ -236,7 +236,7 @@ Intensywnie nawilżający, do skóry suchej i bardzo suchej. Przydatny w suchych
 
 ## Maść mocznikowa
 
-[Maść mocznikowa]({{< relref "atopedia/Maść_mocznikowa.md" >}} "wikilink") **(Urea)**
+Maść mocznikowa **(Urea)**
 
 Stosowana do codziennej pielęgnacji skóry suchej - opakowanie 100g kosztuje 5 zł w aptece na receptę (wg. stanu na 07.03.2010 r).
 

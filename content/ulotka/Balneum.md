@@ -34,7 +34,7 @@ Wskazania
 
 Do kąpieli natłuszcząjacej w balneoterapii dermatologicznej.
 
-Wspomagające leczenie chorób skóry przebiegających z suchością i lekkim świądem, jak np.: [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink"), [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"), [rybia łuska]({{< relref "atopedia/Rybia_łuska.md" >}} "wikilink"), świąd starczy, wypryski, takie jak: wyprysk "pieluszkowy", wyprysk kontaktowy wywołany środkami do mycia, wyprysk przewlekły.
+Wspomagające leczenie chorób skóry przebiegających z suchością i lekkim świądem, jak np.: [atopowe zapalenie skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}} "wikilink"), [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}} "wikilink"), rybia łuska, świąd starczy, wypryski, takie jak: wyprysk "pieluszkowy", wyprysk kontaktowy wywołany środkami do mycia, wyprysk przewlekły.
 
 Przeciwwskazania
 ----------------

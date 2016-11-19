@@ -10,4 +10,4 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 
 Wysiękowi może towarzyszyć równieć [puchnięcie]({{< relref "atopedia/Puchnięcie.md" >}} "wikilink").
 
-Obecność wysięku wskazuje najczęściej na [infekcję skóry]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink"), którą należy leczyć [antybiotykami](/atopedia/Antybiotyk "wikilink").
+Obecność wysięku wskazuje najczęściej na [infekcję skóry]({{< relref "atopedia/Infekcja_skóry.md" >}} "wikilink"), którą należy leczyć antybiotykami.

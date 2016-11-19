@@ -8,11 +8,11 @@ kategorie = [ "Podstawowe wiadomości",]
 
 ### Czy możecie przesłać mi na mejla co zrobić żeby wyglądać jak każdy normalny człowiek?
 
-Nie, nie możemy. [Atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink") to skomplikowane zagadnienie, nie istnieje jedna i właściwa droga [leczenia]({{< relref "atopedia/Leczenie_atopowego_zapalenia_skóry.md" >}} "wikilink"). Zachęcamy do wczytania się w [Atopedię](/atopedia/Strona_główna "wikilink") i [forum dyskusyjne]({{< relref "atopedia/forum-dyskusyjne.md" >}} "wikilink"). Proponujemy też przeczytanie krótkich [podstawowych wiadomości]({{< relref "atopedia/Podstawowe_wiadomości.md" >}} "wikilink").
+Nie, nie możemy. [Atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry "wikilink") to skomplikowane zagadnienie, nie istnieje jedna i właściwa droga [leczenia]({{< relref "atopedia/Leczenie_atopowego_zapalenia_skóry.md" >}} "wikilink"). Zachęcamy do wczytania się w Atopedię i [forum dyskusyjne]({{< relref "atopedia/forum-dyskusyjne.md" >}} "wikilink"). Proponujemy też przeczytanie krótkich [podstawowych wiadomości]({{< relref "atopedia/Podstawowe_wiadomości.md" >}} "wikilink").
 
 ### Czy X to maść sterydowa, jakie znacie maści niesterydowe które łagodzą podrażnienia?
 
-Leki które znamy są spisane w Atopedii. Patrz: [Leki](/atopedia/Leki "wikilink"), [Kortykosterydy](/atopedia/Kortykosterydy "wikilink"), [Emolienty](/atopedia/Emolienty "wikilink"), [Przepisy na maści](/atopedia/Przepisy_na_maści "wikilink").
+Leki które znamy są spisane w Atopedii. Patrz: [Leki](/atopedia/Leki "wikilink"), [Kortykosterydy](/atopedia/Kortykosterydy "wikilink"), Emolienty, [Przepisy na maści](/atopedia/Przepisy_na_maści "wikilink").
 
 ### Czy [AZS](/atopedia/AZS "wikilink") można się zarazić?
 
