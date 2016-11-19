@@ -13,9 +13,8 @@ aliases = [
 
 +++
 
-**Kortykosterydy** - leki działające silnie przeciwzapalnie. Hamują [stany
-zapalne](/atopedia/Stan_zapalny_skóry) i [reakcje
-alergiczne](/atopedia/Reakcja_alergiczna), zmniejszając
+**Kortykosterydy** - leki działające silnie przeciwzapalnie. Hamują stany
+zapalne i [reakcje alergiczne](/atopedia/Reakcja_alergiczna), zmniejszając
 [świąd](/atopedia/Świąd), [zaczerwienienie](/atopedia/Zaczerwienienie_skóry) i
 pogrubienie skóry. Przy stosowaniu tych leków należy zachować szczególną
 ostrożność ze względu na możliwość wystąpienia [**skutków
