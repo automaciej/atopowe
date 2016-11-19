@@ -307,7 +307,7 @@ Wszędzie. Teoretycznie wszędzie. Robimy to masowo tu, w szpitalu. Pobieramy wy
 
 ### Nawilżanie skóry
 
-Aby dobrze nawilżyć skórę, zalecane są letnie kąpiele w wannie, które trwają 15-30 minut, używanie mydeł zawierających środki o neutralnym pH, lub stosowanie do kąpieli płynów nawilżających i natłuszczających skórę, jak np. [Balneum](/atopedia/Balneum "wikilink") lub [Oilatum](/atopedia/Oilatum "wikilink"). Po delikatnym osuszeniu należy na całe ciało zastosować środki nawilżająco-zmiękczające, tzw. [emolienty]({{< relref "atopedia/Emolienty.md" >}} "wikilink").
+Aby dobrze nawilżyć skórę, zalecane są letnie kąpiele w wannie, które trwają 15-30 minut, używanie mydeł zawierających środki o neutralnym pH, lub stosowanie do kąpieli płynów nawilżających i natłuszczających skórę, jak np. [Balneum](/atopedia/Balneum "wikilink") lub [Oilatum](/atopedia/Oilatum "wikilink"). Po delikatnym osuszeniu należy na całe ciało zastosować środki nawilżająco-zmiękczające, tzw. emolienty.
 
 *A nie można być uczulonym na takie Oilatum, bo też się z taką opinią spotkałam?*
 

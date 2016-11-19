@@ -11,7 +11,7 @@ kategorie = [ "pielęgnacja",]
 1.  uszkodzony jest [płaszcz lipidowy](/atopedia/Płaszcz_lipidowy "wikilink") skóry oraz zaburzony proces produkcji ceramidów i lipidów (tzw. [defekt ektodermalny]({{< relref "atopedia/Defekt_ektodermalny.md" >}} "wikilink")) - to jedna z głównych cech skóry atopowej
 2.  defekt ten pogłębia się w wyniku smarowania [skóry]({{< relref "atopedia/Skóra.md" >}} "wikilink") - mechanizmy samonaprawcze ulegają uśpieniu, zwłaszcza w przypadku utrzymującego się [stanu zapalnego skóry]({{< relref "atopedia/Stan_zapalny_skóry.md" >}} "wikilink"). Jak powtarzają dermatolodzy: "Gdy zaczniesz natłuszczać skórę, musisz to robić (częściej lub rzadziej) do końca życia"
 
-Największą chłonność na [kremy]({{< relref "atopedia/Kremy.md" >}} "wikilink"), balsamy i [maści]({{< relref "atopedia/Maści_tłuste.md" >}} "wikilink") ma skóra po oczyszczeniu z martwego naskórka, potu i starych maści. Dlatego ważną rzeczą w pielęgnacji skóry są [kąpiele i mycie skóry atopowej](/atopedia/Pielęgnacja "wikilink") - skóra ulega zmiękczeniu.
+Największą chłonność na kremy, balsamy i [maści]({{< relref "atopedia/Maści_tłuste.md" >}} "wikilink") ma skóra po oczyszczeniu z martwego naskórka, potu i starych maści. Dlatego ważną rzeczą w pielęgnacji skóry są [kąpiele i mycie skóry atopowej](/atopedia/Pielęgnacja "wikilink") - skóra ulega zmiękczeniu.
 
 Jak smarować skórę?
 -------------------
@@ -20,7 +20,7 @@ Kremy, balsamy i [maści]({{< relref "atopedia/Maści_tłuste.md" >}} "wikilink"
 
 W okresie intensywnego natłuszczania [skóry]({{< relref "atopedia/Skóra.md" >}} "wikilink") często tworzą się na niej dokuczliwie piekące i swędzące krostki - to tzw. [foliculitis]({{< relref "atopedia/Foliculitis.md" >}} "wikilink"), czyli stan zapalny mieszków włosowych.
 
-Przed smarowaniem [emolienty]({{< relref "atopedia/Emolienty.md" >}} "wikilink") można ochłodzić w lodówce, chłodna maść pomaga ulżyć [swędzącej](/atopedia/Świąd "wikilink") skórze.
+Przed smarowaniem emolienty można ochłodzić w lodówce, chłodna maść pomaga ulżyć [swędzącej](/atopedia/Świąd "wikilink") skórze.
 
 Nie zaleca się stosowania oliwki, która tak skutecznie zatrzymuje wilgoć, że osłabia dodatkowo naturalne mechanizmy nawilżania skóry.
 

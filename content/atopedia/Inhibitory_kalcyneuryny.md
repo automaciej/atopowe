@@ -14,7 +14,7 @@ Działanie IK polega na łączeniu się z białkami cytozolowymi (cyklofilina w 
 
 Kompleks lek-immunofilina blokuje kalcyneurynę i zapobiega defosforylacji NFATc, co uniemożliwia jego przeniknięcie do jądra komórkowego. W związku z tym nie dochodzi do transkrypcji mRNA dla wymienionych wyżej cytokin prozapalnych zarówno w zakresie Th1, jak i Th2. Inhibitory kalcyneuryny powodują również blokadę degranulacji mastocytów oraz ograniczają ekspresję genów zaangażowanych w produkcję genów zaangażowanych w produkcję leukotrienów.
 
-**Zaleca się**, aby nie stosować tych leków w okresach planowanej intensywnej ekspozycji na promieniowanie UV oraz w trakcie [fototerapii]({{< relref "atopedia/Fototerapia.md" >}} "wikilink"). Innym przeciwwskazaniem do stosowania miejscowych IK są objawy wirusowej infekcji skóry u chorego.
+**Zaleca się**, aby nie stosować tych leków w okresach planowanej intensywnej ekspozycji na promieniowanie UV oraz w trakcie fototerapii. Innym przeciwwskazaniem do stosowania miejscowych IK są objawy wirusowej infekcji skóry u chorego.
 
 Źródło: Wanat-Krzak M, Kurzawa R. Diagnostyka i leczenie wyprysku atopowego. *Alergia Astma Immunologia 2006, 11(1): 11-21*
 

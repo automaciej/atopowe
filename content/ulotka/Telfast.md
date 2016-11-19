@@ -15,7 +15,7 @@ Fexofenadini hydrochloridum
 
 -   [Wątek na Forum](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?f=10&t=1244)
 -   [Telfexo](/atopedia/Telfexo "wikilink"), polski odpowiednik Telfastu
--   [Inne leki antyhistaminowe]({{< relref "atopedia/Leki_antyhistaminowe.md" >}} "wikilink")
+-   Inne leki antyhistaminowe
 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**

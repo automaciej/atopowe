@@ -84,7 +84,7 @@ tygodniu.
 
 Należy pamiętać, że w powyższej terapii bardzo dużo zależy od dyscypliny
 pacjenta - nadużywanie kortykosterydu poza wyznaczonymi dniami, zbyt rzadkie
-stosowanie [emolientów]({{< relref "atopedia/Emolienty.md" >}}) powodują nieskuteczność leczenia
+stosowanie emolientów powodują nieskuteczność leczenia
 (statystyki dowodzą, że pacjenci z reguły stosują ilościowo 7-krotnie za mało
 emolientów!!).
 

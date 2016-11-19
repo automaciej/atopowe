@@ -18,7 +18,7 @@ aliases = [ "/atopedia/Algorytm_leczenia_AZS/" ]
 - Emolienty 2x dziennie
 - Unikanie czynników zaostrzających
 - [mGKS][mgks] o małej sile działania
-- [mIK][mik] alternatywnie ± [leki przeciwhistaminowe]({{< relref "atopedia/Leki_przeciwhistaminowe.md" >}} "wikilink")
+- [mIK][mik] alternatywnie ± leki przeciwhistaminowe
 
 ### Stopień III
 
@@ -46,7 +46,7 @@ powyżej I stopnia.
 - Unikanie czynników zaostrzających
 - mGKS o średniej lub większej sile działania
 - mIK stosowane długotrwale w terapii przerywanej ± leki przeciwhistaminowe
-- W razie objawów zakażenia - [antybiotyk]({{< relref "atopedia/Antybiotyk.md" >}} "wikilink")
+- W razie objawów zakażenia - antybiotyk
 
 ### Stopień IV
 

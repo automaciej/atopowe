@@ -57,7 +57,7 @@ danego receptora. Dlatego ważne jest stałe i regularne stosowanie leków.
 
 **Zobacz również:**
 
--   [Leki antyhistaminowe]({{< relref "atopedia/Leki_antyhistaminowe.md" >}} "wikilink")
+-   Leki antyhistaminowe
 -   Dieta antyhistaminowa
 -   [Histamina i alergia](http://www.przychodnia.pl/alergia/index6.php3?s=3&d=5&t=6&p1=0)
 
