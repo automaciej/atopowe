@@ -3,13 +3,16 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Leczenie_atopowego_zapalenia_skóry/"
 title = "Leczenie atopowego zapalenia skóry"
 kategorie = [ "terapia",]
-aliases = [ "/atopedia/Medycyna_konwencjonalna/", "/atopedia/Konwencjonalne_metody_leczenia/",]
+aliases = [ "/atopedia/Medycyna_konwencjonalna/", "/atopedia/Konwencjonalne_metody_leczenia/", "/atopedia/Pielęgnacja/",]
 
 +++
 
-Konwencjonalne metody leczenia to metody uznane przez medycynę naukową. Medyczne potwierdzenie działania uzyskuje się poprzez badania kliniczne, czyli praktyczne sprawdzanie metod leczenia. W takich badaniach zwraca się dużo uwagi na czynniki które mogą zakłócać obserwacje, takie jak sugestia czy czynniki które są skorelowane, ale niezwiązane przyczynowo ze stanem zdrowia pacjentów.
+Główne artykuły:
 
-Głównymi narzędziami w badaniach klinicznych są [podwójnie ślepa próba]({{< relref "atopedia/Podwójnie_ślepa_próba.md" >}} "wikilink"), która pozwala eliminować element sugestii oraz statystyka, która pozwala na wykrywanie, które czynniki są rzeczywiście skorelowane ze stanem zdrowia pacjentów.
+-   [Podstawy leczenia atopowego zapalenia skóry]({{< relref "atopedia/podstawy-leczenia-azs.md" >}})
+-   [Elementarz AZS]({{< relref "atopedia/Elementarz_AZS.md" >}})
+
+Terapie:
 
 -   [kortykosterydy]({{< relref "atopedia/Kortykosterydy.md" >}} "wikilink") (maści, kremy, zastrzyki, tabletki)
 -   leczenie immunosupresyjne systemowe (doustnie, np. [cyklosporyna]({{< relref "atopedia/Cyklosporyna.md" >}} "wikilink"))
@@ -28,3 +31,16 @@ Głównymi narzędziami w badaniach klinicznych są [podwójnie ślepa próba]({
 Terapie poboczne:
 
 -   leczenie [immunoglobuliną](/atopedia/Immunoglobulina "wikilink") (szczepionka [Omalizumab](/atopedia/Omalizumab "wikilink"))
+
+## Pielęgnacja skóry
+
+Pielęgnacja skóry atopowej jest konieczna do utrzymywania jej w dobrym stanie. Do pielęgnacji skóry należą:
+
+-   [Natłuszczanie](/atopedia/Natłuszczanie "wikilink")
+-   [Nawilżanie](/atopedia/Nawilżanie "wikilink")
+-   Kąpiele
+
+### Zobacz też
+
+-   [Kosmetyki](/kosmetyk/)
+-   [Pielęgnacja dłoni](/atopedia/Pielęgnacja_dłoni)
