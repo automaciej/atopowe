@@ -34,7 +34,7 @@ Teofilina zmniejsza nieznacznie klirens cetyryzyny. Należy zachować ostrożno�
 
 **Działanie niepożądane:**
 
-Zaburzenia ze strony przewodu pokarmowego, suchość w ustach, senność lub pobudzenie, uczucie zmęczenia, ból i zawroty głowy. Odczyny skórne i [obrzęk naczynioruchowy]({{< relref "atopedia/Obrzęk_naczynioruchowy.md" >}}) jako objawy nadwrażliwości na lek. U dzieci preparat może wywołać uczucie zmęczenia; może również wystąpić reakcja paradoksalna w postaci nadmiernego pobudzenia. Objawem przedawkowania u dorosłych może być senność, u dzieci - pobudzenie. Leczenie objawowe i podtrzymujące, brak swoistego antidotum. Cetyryzyna nie jest usuwana podczas hemodializy.
+Zaburzenia ze strony przewodu pokarmowego, suchość w ustach, senność lub pobudzenie, uczucie zmęczenia, ból i zawroty głowy. Odczyny skórne i obrzęk naczynioruchowy jako objawy nadwrażliwości na lek. U dzieci preparat może wywołać uczucie zmęczenia; może również wystąpić reakcja paradoksalna w postaci nadmiernego pobudzenia. Objawem przedawkowania u dorosłych może być senność, u dzieci - pobudzenie. Leczenie objawowe i podtrzymujące, brak swoistego antidotum. Cetyryzyna nie jest usuwana podczas hemodializy.
 
 **Ciąża i laktacja:**
 

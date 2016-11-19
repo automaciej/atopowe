@@ -37,7 +37,7 @@ Gdy decydujemy się lub musimy użyć maści (kremów) kortykosterydowych, nale�
 2.  używaj maści sterydowych na jak najmniejsze powierzchnie skóry; wybieraj
     najbardziej zmienione chorobowo miejsca, smaruj „punktowo”, unikając
     rozsmarowywania na dużych powierzchniach (o ile jest to możliwe)
-3.  unikaj używania sterydów na [błony śluzowe]({{< relref "atopedia/Błona_śluzowa.md" >}})
+3.  unikaj używania sterydów na błony śluzowe
     (okolice oczu, ust, narządów płciowych)
 4.  **maści sterydowych nie wolno stosować na twarz**
 

@@ -14,7 +14,7 @@ AZS jest chorobą, której geneza jest bardzo skomplikowana, a przyczyny nie są
 -   alergeny wziewne (powietrznopochodne)
 -   substancje drażniące (np.: wełna)
 -   [stres]({{< relref "atopedia/Stres.md" >}}) i emocje (jest to pogląd dyskusyjny)
--   [hormony]({{< relref "atopedia/Hormony.md" >}})
+-   hormony
 -   mikroorganizmy, roztocza
 -   czynniki klimatyczne
 

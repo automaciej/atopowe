@@ -10,7 +10,7 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 
 ### Definicja i występowanie
 
-Jest to bakteria, której komórki tworzą kształt grona i która na sztucznym podłożu tworzy kolonie o charakterystycznym złotożółtym zabarwieniu. Gronkowiec złocisty należy do tzw. drobnoustrojów oportunistycznych, czyli zasiedla [skórę](/atopedia/Skóra) oraz błony śluzowe człowieka i dla zdrowego organizmu jest niegroźny. Jednak na skórze chorej - atopowej bakteria ta może wywoływać stany zapalne i utrudniać [gojenie]({{< relref "atopedia/Gojenie.md" >}}).
+Jest to bakteria, której komórki tworzą kształt grona i która na sztucznym podłożu tworzy kolonie o charakterystycznym złotożółtym zabarwieniu. Gronkowiec złocisty należy do tzw. drobnoustrojów oportunistycznych, czyli zasiedla [skórę](/atopedia/Skóra) oraz błony śluzowe człowieka i dla zdrowego organizmu jest niegroźny. Jednak na skórze chorej - atopowej bakteria ta może wywoływać stany zapalne i utrudniać gojenie.
 
 Gronkowiec złocisty przylega do skóry suchej ok. 20 razy silniej niż do skóry nieatopowej, dlatego skóra pacjentów z AZS jest znacznie częściej skolonizowana tą bakterią, niż skóra osób zdrowych (u ludzi zdrowych jest obecna, jak i wiele innych bakterii). Dotyczy to zarówno skóry objętej zmianami chorobowymi jak i wolnej od objawów zapalnych. Zaobserwowano zależność, że czym silniejsze objawy choroby, tym większy stopień kolonizacji gronkowcem złocistym. Ponadto większy procent atopików niż nieatopików jest nosicielem gronkowca w nosogardzieli, workach spojówkowych i na krawędziach powiek.
 

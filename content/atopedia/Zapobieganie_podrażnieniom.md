@@ -20,7 +20,7 @@ Dodatkowym problemem jest temperatura: skóra rozgrzana ma większą tendencję 
 -   Uwaga na kolorowane ubrania, szczególnie spodnie
 -   Ubrania płukać dokładnie
 -   Nie używać płynu do płukania
--   Ograniczyć kontakt z [wodą]({{< relref "atopedia/Woda.md" >}}), woda nie może być za ciepła, nie kąpać się w wodzie chlorowanej (wyjątek: urlop)
+-   Ograniczyć kontakt z wodą, woda nie może być za ciepła, nie kąpać się w wodzie chlorowanej (wyjątek: urlop)
 -   Jeśli problem dotyczy stop, nosić półbuty i sandały. W domu nosić bawełniane skarpetki, często kłaść stopy do góry
 -   Obcinać paznokcie
 -   Fryzura tak, by włosy nie dotykały chorych miejsc

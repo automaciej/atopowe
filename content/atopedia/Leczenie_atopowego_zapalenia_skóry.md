@@ -18,7 +18,7 @@ aliases = [ "/atopedia/Medycyna_konwencjonalna/", "/atopedia/Konwencjonalne_meto
 -   leczenie immunosupresyjne systemowe (doustnie, np. [cyklosporyna]({{< relref "atopedia/Cyklosporyna.md" >}}))
 -   leczenie immunosupresyjne miejscowe, tacrolimus (maść [Protopic](/atopedia/Protopic)) lub [pimekrolimus]({{< relref "atopedia/Pimekrolimus.md" >}}) (krem [Elidel](/atopedia/Elidel))
 -   leki antyhistaminowe
--   [leki sedatywne]({{< relref "atopedia/Leki_sedatywne.md" >}}), uspokajające (w tym o działaniu antyhistaminowym)
+-   leki sedatywne, uspokajające (w tym o działaniu antyhistaminowym)
 -   fototerapia (lampy PUVA)
 -   fotochemoterapia (lampy PUVA + leki wspomagające)
 -   leczenie preparatami taropochodnymi (na bazie smoły) – np. maść [Delatar](/atopedia/Delatar) i inne

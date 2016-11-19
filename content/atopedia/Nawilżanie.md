@@ -8,7 +8,7 @@ kategorie = [ "pielęgnacja",]
 
 ### Uroda z wody
 
-[Woda](/atopedia/Woda) jest źródłem życia. Stanowi ponad 70% wagi ludzkiego ciała. Jedyną barierą hamującą jej utratę z organizmu jest [skóra]({{< relref "atopedia/Skóra.md" >}}). Prawidłowo nawilżony naskórek jest miękki i gładki. Aby być jak najbliżej ideału, potrzebuje odpowiedniej ilości wody i lipidów, które stanowią spoiwo komórkowe i są barierą powstrzymującą ucieczkę wody.
+Woda jest źródłem życia. Stanowi ponad 70% wagi ludzkiego ciała. Jedyną barierą hamującą jej utratę z organizmu jest [skóra]({{< relref "atopedia/Skóra.md" >}}). Prawidłowo nawilżony naskórek jest miękki i gładki. Aby być jak najbliżej ideału, potrzebuje odpowiedniej ilości wody i lipidów, które stanowią spoiwo komórkowe i są barierą powstrzymującą ucieczkę wody.
 
 Znana powszechnie historyjka o więdnącym i marszczącym się jabłku bez wątpienia wpływa na wyobraźnię, a przy okazji obrazowo tłumaczy, dlaczego skórę należy nawilżać regularnie, nie zaś tylko wtedy, gdy jest ściągnięta i przesuszona. Skóra pozbawiona wilgoci jest matowa, szorstka, szarawa, a z czasem traci elastyczność i... szybciej pokrywa się siateczką zmarszczek.
 

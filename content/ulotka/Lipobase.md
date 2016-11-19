@@ -13,7 +13,7 @@ aliases = [ "/atopedia/Lipobase/",]
 Składniki
 ---------
 
-Wazelina biała, [woda]({{< relref "atopedia/Woda.md" >}}) destylowana, parafina płynna, alkohol cetostearylowy, eter cetostearylowy makrogolu 25, parahydroksybenzoesan metylu, kwas cytrynowy bezwodny, sodu cytrynian bezwodny.
+Wazelina biała, woda destylowana, parafina płynna, alkohol cetostearylowy, eter cetostearylowy makrogolu 25, parahydroksybenzoesan metylu, kwas cytrynowy bezwodny, sodu cytrynian bezwodny.
 
 Działanie
 ---------

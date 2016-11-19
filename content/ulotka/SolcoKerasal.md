@@ -30,7 +30,7 @@ Kwas salicylowy w stężeniu 5% wywiera działanie keratolityczne (złuszczając
 
 Obie substancje czynne zawarte w maści wzmacniają wzajemnie swoje działanie, co pozwala na zastosowanie niższego stężenia kwasu salicylowego i zmniejsza możliwość niepożądanego działania ogólnoustrojowego tego związku. Podstawa (podłoże) maści silnie natłuszcza i zmiękcza skórę, wzmacniając tym samym keratolityczne działanie substancji czynnych. Nie podrażnia skóry i nie powoduje uczuleń.
 
-Lek SolcoKerasal stosowany jest w chorobach przebiegających z łuszczeniem i nadmiernym rogowaceniem skóry, w tym skóry owłosionej, takich jak: [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}}), rybia łuska, wyprysk z [lichenizacją]({{< relref "atopedia/Lichenizacja.md" >}}) skóry. Jest również zalecany w leczeniu i pielęgnacji skóry z rogowaceniem mieszkowym i nadmiernym rogowaceniem stóp i dłoni. Zwiększa miękkość i elastyczność zbyt grubej, suchej i pękającej skóry, szczególnie na piętach.
+Lek SolcoKerasal stosowany jest w chorobach przebiegających z łuszczeniem i nadmiernym rogowaceniem skóry, w tym skóry owłosionej, takich jak: [łuszczyca]({{< relref "atopedia/Łuszczyca.md" >}}), rybia łuska, wyprysk z lichenizacją skóry. Jest również zalecany w leczeniu i pielęgnacji skóry z rogowaceniem mieszkowym i nadmiernym rogowaceniem stóp i dłoni. Zwiększa miękkość i elastyczność zbyt grubej, suchej i pękającej skóry, szczególnie na piętach.
 
 Informacje ważne przed zastosowaniem leku SolcoKerasal
 ======================================================

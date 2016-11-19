@@ -78,7 +78,7 @@ przypuszczać, że jest nakręcana przez producentów leków sterydowych.
 
 Łagodne objawy to [zaczerwienione]({{< relref "Zaczerwienienie_skóry.md" >}}),
 łuszczące się i swędzące miejsca gdzieś na ciele. Są trochę irytujące, ale to
-wszystko. [Pielęgnuj]({{< relref "Pielęgnacja.md" >}}) swoją skórę. Miejsce
+wszystko. Pielęgnuj swoją skórę. Miejsce
 objęte zmianami smaruj lekiem przepisanym przez lekarza.
 
 ## Jeżeli masz poważne, rozległe objawy

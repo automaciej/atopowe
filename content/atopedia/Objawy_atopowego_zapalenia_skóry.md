@@ -38,7 +38,7 @@ Dodatkowo
 
 a ponadto u starszych pacjentów:
 
--   [lichenizacja]({{< relref "atopedia/Lichenizacja.md" >}})
+-   lichenizacja
 -   [biały dermografizm]({{< relref "atopedia/Biały_dermografizm.md" >}})
 
 oraz dodatkowe cechy AZS, które występują od początku lub pojawić się mogą w różnym czasie w zależności od nasilenia choroby

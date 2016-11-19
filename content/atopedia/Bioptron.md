@@ -6,7 +6,7 @@ kategorie = [ "Niekonwencjonalne metody leczenia",]
 
 +++
 
-**Bioptron** - lampa firmy Zepter. Terapia światłem spolaryzowanym. Według producenta, ma ona działanie bakteriobójcze i powoduje szybszą regenerację tkanek. Stosuje się w połączeniu z [ultradźwiękami]({{< relref "atopedia/Ultradźwięki.md" >}}).
+**Bioptron** - lampa firmy Zepter. Terapia światłem spolaryzowanym. Według producenta, ma ona działanie bakteriobójcze i powoduje szybszą regenerację tkanek. Stosuje się w połączeniu z ultradźwiękami.
 
 Jej skuteczność jest wątpliwa.
 

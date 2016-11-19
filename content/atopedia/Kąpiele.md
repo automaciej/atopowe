@@ -14,13 +14,13 @@ W powszechnym mniemaniu i pośród wielu dermatologów pokutuje pogląd, że sko
 
 Taka metoda sprawdzałaby się w przypadku, gdyby skóra w ogóle się nie pociła, a naskórek nie złuszczał. Skóry nie wysusza sama kąpiel, ale odparowywanie wody z rogowej warstwy skóry w ciągu pierwszych kilku minut po kąpieli – woda nadmiernie odparowuje z powodu naruszonego i zniszczonego [płaszcza lipidowego](/atopedia/Płaszcz_lipidowy) skóry atopowej.
 
-Metodą wartą wypróbowania jest [natłuszczanie](/atopedia/Natłuszczanie) np. oliwką mokrej skóry lub natłuszczenie skóry przed kąpielą, co przeciwdziała podrażnieniu chorej skóry przez twardą, mocno chlorowaną [wodę](/atopedia/Woda). Dobre efekty daje smarowanie balsamem z [mocznikiem](/atopedia/Mocznik).
+Metodą wartą wypróbowania jest [natłuszczanie](/atopedia/Natłuszczanie) np. oliwką mokrej skóry lub natłuszczenie skóry przed kąpielą, co przeciwdziała podrażnieniu chorej skóry przez twardą, mocno chlorowaną wodę. Dobre efekty daje smarowanie balsamem z [mocznikiem](/atopedia/Mocznik).
 
 Kąpiele przy AZS są wręcz wskazane, ponieważ łagodzą [świąd](/atopedia/Świąd) i przyspieszają gojenie, oczyszczając skórę. Zwiększają chłonność skóry na preparaty natłuszczające, leczące – zmywają pot, martwy naskórek, usuwają zaschnięte strupy osocza i krwi – wszystko to nasila [świąd](/atopedia/Świąd). Strupy i stary naskórek utrudniają penetrację emolientom i maściom [kortykosterydowym](/atopedia/Kortykosterydy) – kiedy już ich użycie jest konieczne, lepiej jest zapewnić im pełną skuteczność.
 
 ### Zalecenia odnośnie kąpieli
 
--   mimo, że osoby chore na AZS [kochają długie, gorące kąpiele](https://www.atopowe.pl/forum/viewtopic.php?f=3&t=2615), temperatura [wody](/atopedia/Woda) nie może być za wysoka (przy silnym stanie zapalnym skóry zbyt gorąca woda nasila [świąd](/atopedia/Świąd) i mocno podrażnia) - optymalna to 32-36°C
+-   mimo, że osoby chore na AZS [kochają długie, gorące kąpiele](https://www.atopowe.pl/forum/viewtopic.php?f=3&t=2615), temperatura wody nie może być za wysoka (przy silnym stanie zapalnym skóry zbyt gorąca woda nasila [świąd](/atopedia/Świąd) i mocno podrażnia) - optymalna to 32-36°C
 -   najlepiej, gdy czas kąpieli nie przekracza 15 minut, a w przypadku niemowląt i małych dzieci wystarczy kilka minut
 -   należy unikać pryszniców na rzecz kąpieli w zanurzeniu
 -   jeśli stosujemy płyny natłuszczające, to nie należy łączyć ich z detergentami, które osłabiają powlekające działanie
@@ -66,7 +66,7 @@ Owies : Płatki owsiane dzięki zawartości krzemionki świetnie nawilżają suc
 Zbyt częste kąpiele
 -------------------
 
-O ile kąpiele są dobrym sposobem na [pielęgnację]({{< relref "atopedia/Pielęgnacja.md" >}}) skóry, to należy uważać aby nie robić ich zbyt często. Chlorowana [woda]({{< relref "atopedia/Woda.md" >}}) w dużych miastach szczególnie źle wpływa na [skórę atopową]({{< relref "atopedia/Skóra_atopowa.md" >}}). Woda do kąpieli powinna mieć niezbyt wysoką temperaturę.
+O ile kąpiele są dobrym sposobem na pielęgnację skóry, to należy uważać aby nie robić ich zbyt często. Chlorowana woda w dużych miastach szczególnie źle wpływa na [skórę atopową]({{< relref "atopedia/Skóra_atopowa.md" >}}). Woda do kąpieli powinna mieć niezbyt wysoką temperaturę.
 
 Można do wody dodać naturalny olejek (np. herbaciany), albo płyn do kąpieli dla skóry suchej lub bardzo suchej, albo sól do kąpieli przeznaczoną do pielęgnacji skóry z problemami (np. Bocheńska, z Morza Martwego). Sól po kąpieli należy spłukać. Można też kąpać się w leciutkim roztworze nadmanganianu potasu.
 
