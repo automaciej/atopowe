@@ -9,7 +9,7 @@ kategorie = [ "objawy atopowego zapalenia skóry", "Sterydy",]
 Uzależnienie od sterydów
 ------------------------
 
-**Posterydowe zapalenie skóry -** [stan zapalny](/atopedia/Stan_zapalny_skóry "wikilink") wywołany uzależnieniem się [skóry](/atopedia/Skóra "wikilink") od [sterydów](/atopedia/Kortykosterydy "wikilink") stosowanych zewnętrznie. Można ten mechanizm porównać do głodu narkotycznego. Najprościej mówiąc: skóra, która otrzymuje regularnie dawkę sterydów, przy ich odstawieniu odczuwa *głód sterydowy*, co skutkuje pogorszeniem. W ten sposób skóra "*domaga*" się kolejnej dawki sterydu, jak narkoman narkotyku. Pacjent w reakcji na pogorszenie *karmi* więc skórę sterydami, wytwarza się [błędne koło](/atopedia/Efekt_błędnego_koła "wikilink").
+**Posterydowe zapalenie skóry -** stan zapalny wywołany uzależnieniem się [skóry](/atopedia/Skóra "wikilink") od [sterydów](/atopedia/Kortykosterydy "wikilink") stosowanych zewnętrznie. Można ten mechanizm porównać do głodu narkotycznego. Najprościej mówiąc: skóra, która otrzymuje regularnie dawkę sterydów, przy ich odstawieniu odczuwa *głód sterydowy*, co skutkuje pogorszeniem. W ten sposób skóra "*domaga*" się kolejnej dawki sterydu, jak narkoman narkotyku. Pacjent w reakcji na pogorszenie *karmi* więc skórę sterydami, wytwarza się [błędne koło](/atopedia/Efekt_błędnego_koła "wikilink").
 
 **Dodatkowo uzależnienie pogłębia fakt, że:**
 
@@ -39,7 +39,7 @@ Najważniejszym elementem terapii posterydowego zapalenia skóry jest *odwyk* od
 Trądzik posterydowy
 -------------------
 
-**Leczenie** trądziku posterydowego (o ile wystąpił) przebiega podobnie jak w przypadku trądziku zwykłego czy trądziku różowatego. Podaje się pacjentowi [antybiotyki]({{< relref "atopedia/Antybiotyki.md" >}} "wikilink") z grupy tetracyklin (np. preparaty: [Tetralysal](/atopedia/Tetralysal "wikilink"), [Unidox](/atopedia/Unidox "wikilink")), w celu zniesienia [stanu zapalnego skóry](/atopedia/Stan_zapalny_skóry "wikilink") oraz zahamowania rozwoju bakterii *Propionibacterium acnes*, powodujących wtórne infekcje grudek.
+**Leczenie** trądziku posterydowego (o ile wystąpił) przebiega podobnie jak w przypadku trądziku zwykłego czy trądziku różowatego. Podaje się pacjentowi [antybiotyki]({{< relref "atopedia/Antybiotyki.md" >}} "wikilink") z grupy tetracyklin (np. preparaty: [Tetralysal](/atopedia/Tetralysal "wikilink"), [Unidox](/atopedia/Unidox "wikilink")), w celu zniesienia stanu zapalnego skóry oraz zahamowania rozwoju bakterii *Propionibacterium acnes*, powodujących wtórne infekcje grudek.
 
 Oprócz antybiotykoterapii ogólnej, można zastosować punktowo maści z antybiotykiem (np. Metronidazol). Jeśli posterydowe zapalenie skóry współistnieje z trądzikiem posterydowym, zaleca się wprowadzenie anybiotykoterapii miejscowej dopiero po ustąpieniu objawów tego pierwszego. Grudki posterydowe są zazwyczaj najbardziej opornym w leczeniu elementem zapalnym.
 

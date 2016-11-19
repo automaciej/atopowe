@@ -10,7 +10,7 @@ Według doświadczeń większości *(wszystkich?)* osób z forum, **alkohol** wy
 działanie pogarszające stan skóry i sprzyjające zaostrzeniu. Nie jest jasne, czy
 winien jest sam alkohol, czy też inne składniki napojów alkoholowych, takich jak
 drożdże w piwie. Alkohol jest niewskazany podczas brania
-[leków antyhistaminowych](/atopedia/Leki_antyhistaminowe "wikilink") i
+leków antyhistaminowych i
 [sedatywnych](/atopedia/Leki_sedatywne "wikilink"), takich jak np.
 [Atarax](/atopedia/Atarax "wikilink").
 

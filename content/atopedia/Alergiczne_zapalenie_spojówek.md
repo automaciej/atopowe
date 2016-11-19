@@ -38,4 +38,4 @@ Inną formą alergicznego zapalenie spojówek jest atopowe zapalenie spojówek. 
 Leczenie
 --------
 
-Leczenie polega na odczulaniu. Bezpośrednio do oka podaje sie [leki antyhistaminowe](/atopedia/Leki_antyhistaminowe "wikilink") zawarte w kroplach, a doustnie tabletki antyhistaminowe. Pomagają również preparaty "sztuczne łzy" i chłodne okłady (Uwaga na krople ze świetlikiem, mogą alergizować).
+Leczenie polega na odczulaniu. Bezpośrednio do oka podaje sie leki antyhistaminowe zawarte w kroplach, a doustnie tabletki antyhistaminowe. Pomagają również preparaty "sztuczne łzy" i chłodne okłady (Uwaga na krople ze świetlikiem, mogą alergizować).

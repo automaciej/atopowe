@@ -8,7 +8,7 @@ rodzajeprzepisow = [ "przepisy", "dieta bezmleczna",]
 
 **Składniki:**
 
--   125 g masła lub [margaryny bezmlecznej](/atopedia/Margaryna_bezmleczna "wikilink")
+-   125 g masła lub margaryny bezmlecznej
 -   125 g mielonych migdałów
 -   1/4 łyżeczki soli
 

@@ -20,7 +20,7 @@ Czynniki utrudniające utrzymanie dobrego stanu skóry
 Przeciwdziałanie świądowi i powstawaniu nowych zmian
 ----------------------------------------------------
 
-Najbardziej znienawidzonym odczuciem i największym wrogiem osoby chorej na AZS jest [świąd](/atopedia/Świąd "wikilink"), uporczywe swędzenie skóry, która w wyniku drapania popada w coraz silniejszy wtórny [stan zapalny](/atopedia/Stan_zapalny_skóry "wikilink"), dlatego bardzo ważne jest przeciwdziałanie świądowi. Najważniejsza jest profilaktyka, która polega przede wszystkim na:
+Najbardziej znienawidzonym odczuciem i największym wrogiem osoby chorej na AZS jest [świąd](/atopedia/Świąd "wikilink"), uporczywe swędzenie skóry, która w wyniku drapania popada w coraz silniejszy wtórny stan zapalny, dlatego bardzo ważne jest przeciwdziałanie świądowi. Najważniejsza jest profilaktyka, która polega przede wszystkim na:
 
 -   prawidłowej i regularnej pielęgnacji skóry atopowej:
     -   kąpielach

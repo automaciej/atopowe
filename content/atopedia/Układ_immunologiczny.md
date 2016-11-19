@@ -36,7 +36,7 @@ Przeciwciała IgA odgrywają zasadniczą rolę obronną w wydzielinach śluzowyc
 Jak wygląda odpowiedź komórkowa?
 --------------------------------
 
-Ten rodzaj odpowiedzi immunologicznej jest warunkowany przez [limfocyty T](/atopedia/Stan_zapalny_skóry "wikilink") dojrzewające w grasicy (gruczole dokrewnym położony w śródpiersiu). Limfocyty T mają na swojej powierzchni receptory komórek T (TCR) o strukturze zbliżonej do struktury przeciwciał i zdolności wiązania antygenu.
+Ten rodzaj odpowiedzi immunologicznej jest warunkowany przez limfocyty T dojrzewające w grasicy (gruczole dokrewnym położony w śródpiersiu). Limfocyty T mają na swojej powierzchni receptory komórek T (TCR) o strukturze zbliżonej do struktury przeciwciał i zdolności wiązania antygenu.
 
 Rozróżniamy 2 typy limfocytów: limfocyty cytotoksyczne Tc oraz limfocyty pomocnicze Th.
 

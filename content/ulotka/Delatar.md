@@ -42,4 +42,4 @@ Delatar nakłada się na miejsca chorobowo zmienione dwa lub trzy razy dziennie.
 
 Tuby po 50 g.
 
-**Patrz:** [Maści z dziegciem](/atopedia/Maści_z_dziegciem "wikilink")
+**Patrz:** Maści z dziegciem

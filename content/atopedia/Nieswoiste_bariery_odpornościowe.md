@@ -12,4 +12,4 @@ Nieswoiste bariery odpornościowe dzielimy na :
 -   ciągłość [skóry](/atopedia/Skóra "wikilink") i [błon śluzowych](/atopedia/Błona_śluzowa "wikilink")
 -   odruchy obronne organizmu, takie jak kichanie, kaszel, łzawienie, czy biegunka.
 -   bariery chemiczne
--   produkcja wydzielin np. [Lizozymu](/atopedia/Lizozym "wikilink"), kwasu mlekowego, łoju, kwasu solnego.
+-   produkcja wydzielin np. Lizozymu, kwasu mlekowego, łoju, kwasu solnego.

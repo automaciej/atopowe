@@ -10,7 +10,7 @@ Z przepisu wychodzi ok. 20 sztuk
 
 **Składniki:**
 
--   150 g [margaryny bezmlecznej](/atopedia/Margaryna_bezmleczna "wikilink") i bez lecytyny sojowej
+-   150 g margaryny bezmlecznej i bez lecytyny sojowej
 -   2/3 szkl. cukru
 -   200 g (opakowanie) kleiku ryżowego
 -   1/2 szkl. wody

@@ -9,7 +9,7 @@ rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "di
 **Składniki:**
 
 -   100 g sezamu
--   150 g masła lub [margaryny bezmlecznej](/atopedia/Margaryna_bezmleczna "wikilink")
+-   150 g masła lub margaryny bezmlecznej
 -   sól
 
 **Przygotowanie:**

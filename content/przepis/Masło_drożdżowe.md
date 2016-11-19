@@ -8,7 +8,7 @@ rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "di
 
 **Składniki:**
 
--   125 g miękkiego masła lub [margaryny bezmlecznej](/atopedia/Margaryna_bezmleczna "wikilink")
+-   125 g miękkiego masła lub margaryny bezmlecznej
 -   3 łyżki płatków drożdżowych
 -   3 łyżki duszonego pora
 -   sól

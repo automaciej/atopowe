@@ -6,7 +6,7 @@ kategorie = [ " Ciało człowieka",]
 
 +++
 
-**Skóra właściwa** (łącznotkankowa) - znajdują się w niej [włókna kolagenowe](/atopedia/Kolagen "wikilink"), które nadają skórze elastyczność i umożliwiają rozciągliwość. Ponadto w skórze właściwej znajdują się naczynia krwionośne, zakończenia nerwowe, włosy, gruczoły łojowe i potowe.
+**Skóra właściwa** (łącznotkankowa) - znajdują się w niej włókna kolagenowe, które nadają skórze elastyczność i umożliwiają rozciągliwość. Ponadto w skórze właściwej znajdują się naczynia krwionośne, zakończenia nerwowe, włosy, gruczoły łojowe i potowe.
 
 Jeżeli skóra właściwa ulegnie uszkodzeniu, po zagojeniu się pozostają blizny.
 

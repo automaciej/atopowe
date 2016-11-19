@@ -21,7 +21,7 @@ Kolonizacja skóry gronkowcem złocistym nasila objawy AZS. Skóra blisko 100% p
 Superantygeny gronkowcowe:
 
 -   stymulują bezpośrednio komórki prezentujące antygen, czyli limfocyty B oraz makrofagi,
--   mają zdolność do bezpośredniej aktywacji [limfocytów T](/atopedia/Limfocyty_T "wikilink") (bez udziału komórek prezentujących [antygen](/atopedia/Antygen "wikilink")). Aktywacja ta jest związana z wydzielaniem przez limfocyty T licznych [cytokin](/atopedia/Cytokiny "wikilink"), co może wzmagać lub wydłużać [proces zapalny w skórze](/atopedia/Stan_zapalny_skóry "wikilink").
+-   mają zdolność do bezpośredniej aktywacji [limfocytów T](/atopedia/Limfocyty_T "wikilink") (bez udziału komórek prezentujących [antygen](/atopedia/Antygen "wikilink")). Aktywacja ta jest związana z wydzielaniem przez limfocyty T licznych [cytokin](/atopedia/Cytokiny "wikilink"), co może wzmagać lub wydłużać proces zapalny w skórze.
 
 U znacznej większości chorych na AZS znajduje się przeciwciała [IgE](/atopedia/IgE "wikilink") skierowane przeciwko enterotoksynom gronkowca złocistego.
 

@@ -36,7 +36,7 @@ Leki antyhistaminowe w zastrzykach
 Leki immunosupresyjne stosowane miejscowo
 -----------------------------------------
 
-[Protopic](/atopedia/Protopic "wikilink"), [Elidel](/atopedia/Elidel "wikilink"), [Douglan](/atopedia/Douglan "wikilink")
+[Protopic](/atopedia/Protopic "wikilink"), [Elidel](/atopedia/Elidel "wikilink"), Douglan
 
 Leki immunosupresyjne stosowane doustnie
 ----------------------------------------

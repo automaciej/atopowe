@@ -23,5 +23,5 @@ Przykłady maści z dziegciem sosnowym, stosowanej w leczeniu łuszczycy:
 
 **Zobacz też**
 
--   [Maści z dziegciem](/atopedia/Maści_z_dziegciem "wikilink")
+-   Maści z dziegciem
 -   [Jak to z dziegciem było](http://www.wigry.win.pl/kwartalnik/nr7_dziegiec.htm)

@@ -19,7 +19,7 @@ Przepisy ogólne
 
 1.  [AZS](/atopedia/AZS "wikilink") jest chorobą nieuleczalną, którą można kontrolować. Służą temu [Protopic](/atopedia/Protopic "wikilink"), [Elidel](/atopedia/Elidel "wikilink") i [Sandimmun Neoral](/atopedia/Sandimmun_Neoral "wikilink") (w Polsce).
 2.  [Sterydami](/atopedia/Sterydy "wikilink") nie wolno kontrolować AZS, są tylko na zaostrzenia. Klasyką AZS jest posterydowy *rebound effect*. Im rzadziej się po nie sięga, tym lepiej. Trudno rozpoznać ich skutki uboczne. [Immunosupresanty]({{< relref "atopedia/Leki_immunosupresyjne.md" >}} "wikilink") z pkt 1 są bezpieczniejsze i można je dłużej stosować.
-3.  [Leki antyhistaminowe](/atopedia/Leki_antyhistaminowe "wikilink") odgrywają trzecioplanową rolę w leczeniu AZS. Łagodzą tylko objawy alergii sezonowych, w zasadzie nie mają wpływu na skórę. Działają przeciwświądowo. Najczęściej sięga się po atarax (hydroksyzynę), ale być może najsilniejszy jest peritol (cyproheptadyna). Jak ktoś uczy się albo prowadzi samochód, to najlepszy jest telfast (fexofenadyna) i prawdopodobnie rupafin (rupatadyna, która działa najszybciej, bo ma najkrótszy okres półtrwania). Nie uzależniają, ale rozwija się w organizmie tolerancja wobec nich.
+3.  Leki antyhistaminowe odgrywają trzecioplanową rolę w leczeniu AZS. Łagodzą tylko objawy alergii sezonowych, w zasadzie nie mają wpływu na skórę. Działają przeciwświądowo. Najczęściej sięga się po atarax (hydroksyzynę), ale być może najsilniejszy jest peritol (cyproheptadyna). Jak ktoś uczy się albo prowadzi samochód, to najlepszy jest telfast (fexofenadyna) i prawdopodobnie rupafin (rupatadyna, która działa najszybciej, bo ma najkrótszy okres półtrwania). Nie uzależniają, ale rozwija się w organizmie tolerancja wobec nich.
 4.  Bez znaczenia jest, czy ktoś ma azs ciężkie, umiarkowane czy minimalne. Wszystkie punkty również jego dotyczą.
 5.  Każdy człowiek może poddać się psychoterapii, żeby "przepracować" swoje problemy (nawet psychoterapeuci są superwizowani). Bez względu na kondycję psychiczną każdy może chodzić do psychologa. Nie ma psychologów wyspecjalizowanych w [psychodermatologii](/atopedia/Wykład:_Opieka_psychodermatologiczna "wikilink").
 6.  Sposoby niemedyczne (domowe lub pseudonaukowe) na AZS są zbędne; nikt nie wie, dlaczego mają działać akurat na AZS. Oczywiście co nieco wiadomo o ogólnych przyczynach ich skuteczności.
@@ -62,11 +62,11 @@ Przepisy szczególne
 31. AZS jest przeciwskazaniem do laserowej korekty wzroku z obawy przed DLK (diffuse lamellar keratitis).
 32. Niedobór witamin A, B, D i E oraz kwasów tłuszczowych prowadzi do suchości skóry.
 33. Warto sprawdzić, jak skóra reaguje na ubrania z akrylu.
-34. Wystarczy 20 g maści z klobetazolem ([Clobederm](/atopedia/Clobederm "wikilink"), [Dermovate](/atopedia/Dermovate "wikilink"), Novate) w ciągu jednego dnia żeby poziom kortyzolu praktycznie spadł do ZERA po pierwszym dniu stosowania, co oznacza wtórną niedoczynność kory nadnerczy.
+34. Wystarczy 20 g maści z klobetazolem (Clobederm, [Dermovate](/atopedia/Dermovate "wikilink"), Novate) w ciągu jednego dnia żeby poziom kortyzolu praktycznie spadł do ZERA po pierwszym dniu stosowania, co oznacza wtórną niedoczynność kory nadnerczy.
 35. W razie infekcji skóry lub jej podejrzenia warto zrobić posiew krwi z antybiogramem. Antybiotyki doustne biorą górę nad tymi w maści.
 36. Po lekach antyhistaminowych pierwszej generacji można utyć.
 37. Każdy powinien znać swój [SCORAD](/atopedia/Scorad "wikilink").
-38. Zdaniem Zeldy najlepsze leki na AZS to te, które mogą obniżyć IgE całkowite: [Xolair](/atopedia/Xolair "wikilink"), [Cellcept](/atopedia/Cellcept "wikilink") i [Myfortic](/atopedia/Myfortic "wikilink").
+38. Zdaniem Zeldy najlepsze leki na AZS to te, które mogą obniżyć IgE całkowite: Xolair, [Cellcept](/atopedia/Cellcept "wikilink") i [Myfortic](/atopedia/Myfortic "wikilink").
 39. W czasie ciąży najlepszą terapią na AZS są naświetlania [UVB](/atopedia/UVB "wikilink").
 40. Do najczęstszych alergenów pokarmowych należą: mleko (nabiał), jaja, owoce morza, ryby i orzechy.
 41. Każdy leczony długotrwale sterydami powinien mieć oznaczony poziom kortyzolu i ACTH.

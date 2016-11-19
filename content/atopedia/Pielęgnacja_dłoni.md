@@ -12,7 +12,7 @@ kategorie = [ "Pielęgnacja",]
 
 ### Przyczyny
 
--   Wszyscy mamy naturalną tłuszczową warstwę ochronną na powierzchni naszej skóry. Jeśli ta warstwa jest naruszona przez mydła, detergenty, chemikalia lub inne substancje, skóra staje się sucha i popękana. Dalsza ekspozycja na czynniki drażniące środowiska powoduje [zaczerwienienie](/atopedia/Zaczerwienienie_skóry "wikilink") i [stan zapalny](/atopedia/Stan_zapalny_skóry "wikilink").
+-   Wszyscy mamy naturalną tłuszczową warstwę ochronną na powierzchni naszej skóry. Jeśli ta warstwa jest naruszona przez mydła, detergenty, chemikalia lub inne substancje, skóra staje się sucha i popękana. Dalsza ekspozycja na czynniki drażniące środowiska powoduje [zaczerwienienie](/atopedia/Zaczerwienienie_skóry "wikilink") i stan zapalny.
 -   Niektórzy ludzie są genetycznie predysponowani do wyprysku rąk. Jeśli jesteś jednym z nich to wystarczy niewielki uraz ze strony środowiska aby spowodować wyprysk rąk w porównaniu z osobą, która nie jest [genetycznie predysponowana](/atopedia/Obciążenie_genetyczne "wikilink"). Wyprysk rąk nie jest zakaźny.
 
 ### Leczenie

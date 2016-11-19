@@ -47,7 +47,7 @@ Jak zatem widzimy, choć histamina ma działanie ochronne dla naszego organizmu,
 powoduje również olbrzymie uszkodzenia, często zagrażające życiu pacjenta. Stąd
 konieczność leczenia antyhistaminowego.
 
-[Leki antyhistaminowe](/atopedia/Leki_antyhistaminowe "wikilink") mają za
+Leki antyhistaminowe mają za
 zadanie blokowanie tych receptorów, które odpowiedzialne są za produkcję
 histaminy. Ma to powstrzymać pojawianie się efektów alergicznych typu kichanie,
 [wyprysk]({{< relref "atopedia/Wyprysk.md" >}} "wikilink"), łzawienie oczu. Zostaje też zablokowane

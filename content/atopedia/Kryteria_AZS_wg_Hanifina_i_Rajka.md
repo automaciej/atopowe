@@ -20,7 +20,7 @@ Kryteria AZS wg Hanifina i Rajka
 ### Objawy mniejsze AZS
 
 -   Suchość skóry
--   [Rybia łuska](/atopedia/Rybia_łuska "wikilink")
+-   Rybia łuska
 -   Natychmiastowe reakcje skórne
 -   Podwyższony poziom [IgE](/atopedia/IgE "wikilink")
 -   Wczesny wiek wystąpienia zmian

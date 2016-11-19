@@ -37,7 +37,7 @@ Co to jest Elidel i w jakim celu jest stosowany
 
 Elidel jest białym, bezzapachowym, nie pozostawiającym plam i łatwo się rozprowadzającym kremem; jeden gram preparatu Elidel zawiera 10mg [pimekrolimusu](/atopedia/Pimekrolimus "wikilink").
 
-Elidel jest niesteroidowym środkiem, stosowanym w leczeniu [stanów zapalnych skóry](/atopedia/Stan_zapalny_skóry "wikilink"). Lek działa na komórki w [skórze](/atopedia/Skóra "wikilink") odpowiedzialne za rozwój zapalenie oraz zaczerwienienie i [swędzenie](/atopedia/Świąd "wikilink") odczuwane przez pacjentów z łagodną i umiarkowaną świerzbiączką.
+Elidel jest niesteroidowym środkiem, stosowanym w leczeniu stanów zapalnych skóry. Lek działa na komórki w [skórze](/atopedia/Skóra "wikilink") odpowiedzialne za rozwój zapalenie oraz zaczerwienienie i [swędzenie](/atopedia/Świąd "wikilink") odczuwane przez pacjentów z łagodną i umiarkowaną świerzbiączką.
 
 Elidel jest dostępny w tubkach zawierających 15 g, 30 g i 100 g preparatu.
 

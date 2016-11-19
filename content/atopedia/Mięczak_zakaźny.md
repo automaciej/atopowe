@@ -6,7 +6,7 @@ kategorie = [ "inne choroby skóry",]
 
 +++
 
-**Mięczak zakaźny** *(molluscum contagiosum)* jest chorobą skóry powodowaną przez wirusa [Poxvirus](/atopedia/Poxvirus "wikilink"). W kilka tygodni od zakażenia, które najczęściej następuje na basenie, na skórze powstają guzki wielkości kilku milimetrów.
+**Mięczak zakaźny** *(molluscum contagiosum)* jest chorobą skóry powodowaną przez wirusa Poxvirus. W kilka tygodni od zakażenia, które najczęściej następuje na basenie, na skórze powstają guzki wielkości kilku milimetrów.
 
 Zgodnie z doniesieniami literatury medycznej odnotowano przypadki, kiedy to chorzy na [AZS](/atopedia/AZS "wikilink") w wyniku szczepienia przeciw ospie wietrznej reagowali skutkami ubocznymi, dość nietypowymi dla tego szczepienia, a mianowicie zakażeniem wirusem mięczaka. W przypadku tej grupy osób odradza się szczepienia przeciw ospie.
 
