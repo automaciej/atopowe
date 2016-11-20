@@ -17,7 +17,7 @@
     <div class="container" role="main"
          itemscope itemtype="http://schema.org/Article">
       <div class="row">
-        <div class="col-md-12 col-sm-12">
+        <div class="col-md-9 col-sm-12">
         <h1 class="entry-title" itemprop="name headline">{{ .Title }}</h1>
           <small class="text-muted">
             Artykuł opublikowany
@@ -45,10 +45,6 @@
           </p>
           {{ end }}
           </small>
-        </div><!-- col-md-12 -->
-      </div><!-- row -->
-      <div class="row">
-        <div class="col-md-9 col-sm-12">
           <section itemprop="articleBody">
             {{ .Content }}
           </section>
