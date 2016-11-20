@@ -1,0 +1,13 @@
+<h2>
+  {{ partial "logo-img.html" }}
+  Atopowe.pl
+</h2>
+<h3>
+  {{ if ne .Title "Podstawowe wiadomości o atopowym zapaleniu skóry" }}
+  <a href="/atopedia/Podstawowe_wiadomości/">Podstawowe wiadomości</a>
+  {{ else }}
+  Podstawowe wiadomości
+  {{ end }}
+</h3>
+{{ partial "podstawowe.html" . }}
+<a href="/atopedia" title="Atopedia, encyklopedia atopowego zapalenia skóry">Wszystko&nbsp;&raquo;</a>

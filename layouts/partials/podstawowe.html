@@ -1,8 +1,13 @@
+{{ $current := . }}
 <ul class="list list-unstyled">
   {{ $strony := .Site.Taxonomies.kategorie.Get "podstawowe-wiadomości" }}
   {{ range $strony.Pages.ByTitle }}
   <li>
+    {{ if eq .UniqueID $current.UniqueID }}
+    <strong>{{ .Title }}</strong>
+    {{ else }}
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ end }}
   </li>
   {{ end }}
 </ul>
