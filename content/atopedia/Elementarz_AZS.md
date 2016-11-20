@@ -4,16 +4,20 @@ permalink = "/Elementarz_AZS/"
 title = "Elementarz AZS"
 aliases = [ "/atopedia/Podstawowe_zasady_AZS/",]
 kategorie = [ "Podstawowe wiadomości",]
-description = "Kodeks Zeldy obowiązuje każdego, kto cierpi na atopowe zapalenie skóry."
+description = "Bezkompromisowy Zeldowy elementarz radzenia sobie z AZS"
 image = "/images/SuperAtop.png"
 author = "Zelda"
 lastmod = "2016-11-19T15:25:23+00:00"
 
 +++
 
-![](/images/SuperAtop.png "right")
+![](/images/SuperAtop.png)
 
-Kodeks Zeldy obowiązuje każdego, kto cierpi na atopowe zapalenie skóry, niezależnie od długości remisji i wieku zachorowania. Nie wolno się chwalić wiedzą zgromadzoną w nim, ponieważ lekarze w odróżnieniu od psychoterapeutów nie analizują własnego przeciwprzeniesienia. Kto da posłuch jego artykułom - pokona chorobę. Inaczej to choroba go pokona rujnując mu życie.
+Kodeks Zeldy obowiązuje każdego, kto cierpi na atopowe zapalenie skóry,
+niezależnie od długości remisji i wieku zachorowania. Nie wolno się chwalić
+wiedzą zgromadzoną w nim, ponieważ lekarze w odróżnieniu od psychoterapeutów nie
+analizują własnego przeciwprzeniesienia. Kto da posłuch jego artykułom - pokona
+chorobę. Inaczej to choroba go pokona rujnując mu życie.
 
 Przepisy ogólne
 ---------------
@@ -92,7 +96,6 @@ Przepisy karne:
     -   Szybciej działa od bezpieczniejszych immunosupresantów, którymi za granicą leczono dzieci: mykofenolanu mofetylu i azatiopryny.
     -   Hamuje apoptozę i aktywację keratynocytów w naskórku, do której przyczyniają się ligand fas i interferon gamma powiązane z limfocytami T, czyli działa na całe ciało.
     -   Skutki uboczne dotyczą generalnie przyjmowania jej przez całe życie jako leku zapobiegającemu odrzuceniu przeszczepów, tylko nefrotoksyczność może ujawnić się w pierwszych tygodniach stosowania.
-
 6.  Nie wolno smarować Protopikiem i Elidelem infekcji, ran i strupów.
 7.  Nie wolno smarować sterydami twarzy, ponieważ można to przypłacić telangiektazją, ścieńczeniem skóry i trądzikiem różowatym.
 8.  Nie wolno ignorować opryszczki.

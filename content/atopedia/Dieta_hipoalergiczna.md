@@ -23,7 +23,7 @@ Opiera się na eliminacji "złotej ósemki" alergenów pokarmowych:
 -   owoców morza
 -   pszenicy
 
-**[Spis przepisów]({{< relref "atopedia/Dieta_hipoalergiczna.md" >}})**
+**[Spis przepisów](/rodzajeprzepisow/dieta-hipoalergiczna/)**
 
 Jeśli uda się uzyskać ustąpienie objawów, rozpoczyna się stopniowe wprowadzanie wyeliminowanych wcześniej pokarmów, rozpoczynając od pszenicy:
 

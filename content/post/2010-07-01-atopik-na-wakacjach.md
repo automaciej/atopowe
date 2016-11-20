@@ -24,7 +24,7 @@ Tak sobie pomyślałam, że jeszcze wrzucę to:
 
 Niezbędnik wakacyjny atopika ☺️
 
-&#8211; bezwzględnie bierzemy wszystkie swoje leki (tabletki, które stosujemy przy pogorszonym stanie, maści lecznicze, pielęgnacyjne, wapno, fenistil albo inny środek łagodzący na ugryzienia, czy popażenia od słońca).
+&#8211; bezwzględnie bierzemy wszystkie swoje leki (tabletki, które stosujemy przy pogorszonym stanie, maści lecznicze, pielęgnacyjne, wapno, fenistil albo inny środek łagodzący na ugryzienia, czy poparzenia od słońca).
 
 &#8211; kremy z wysokimi filtrami przeciwsłonecznymi, 30, 40, 50, nie trzeba tłumaczyć dlaczego.
 

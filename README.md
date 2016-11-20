@@ -24,3 +24,6 @@ Biblioteki należy umieścić w katalogu static, w podkatalogach:
 
 -   Nawigacja po stronie jest niejasna. Potrzebna jest jasna ścieżka nawigacji
     dla osoby która wylądowała na stronie, i niczego nie wie o AZS.
+-   Prawdopodobnie jest wiele miejsc w których można by coś podlinkować, ale te
+    linki nie istnieją. Można by to spróbować poznajdywać wszystkie fragmenty
+    tekstu które są możliwe do podlinkowania.

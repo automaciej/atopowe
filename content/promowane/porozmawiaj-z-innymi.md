@@ -29,4 +29,6 @@ sprawi że nie będziesz się z AZSem czuć samotnie!
   Reddit: /r/atopowezapalenieskory &raquo;
 </a>
 
-[Stare forum]({{< relref "atopedia/Stare_forum_dyskusyjne.md" >}}) działające w latach 2003-2016 zostało zamknięte.
+[Stare forum]({{< relref "atopedia/Stare_forum_dyskusyjne.md" >}} "Stare forum dyskusyjne")
+działające w latach 2003-2016
+[zostało zamknięte]({{< relref "post/2016-04-23-reorganizacja-serwisu-atopowe-pl.md" >}} "Reorganizacja serwisu atopowe.pl").

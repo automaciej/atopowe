@@ -7,7 +7,8 @@ lastmod = "2016-11-13T23:51:16+00:00"
 
 +++
 
-<a class="btn btn-default btn-lg" href="/atopedia/">Atopedia &raquo;</a>
+<a class="btn btn-default btn-lg" href="/atopedia/"
+   title="Encyklopedia atopowego zapalenia skóry">Atopedia &raquo;</a>
 
 <a class="btn btn-default btn-lg" href="/post/">Blog atopowy &raquo;</a>
 

@@ -51,4 +51,4 @@ raczej nie.
 **Zobacz też**
 
 -   [Alergia](/atopedia/Alergia)
--   Przepisy kulinarne
+-   [Przepisy kulinarne](/przepis)
