@@ -2,7 +2,7 @@
 author = "Wahwah"
 date = "2016-04-23T11:44:28+01:00"
 title = "Reorganizacja serwisu atopowe.pl"
-lastmod = "2016-11-17T21:43:00+00:00"
+lastmod = "2016-11-20T13:28:00+00:00"
 
 description = """
 W kwietniu 2016 r. stare forum zostanie wyłączone, a treść przeniesiona \
@@ -54,6 +54,13 @@ istniejącą infrastrukturę i nie będą wymagały od nas wysiłku przy utrzymy
 *   Aktualizacja 2016-11-17: Wszystkie wewnętrzne linki działają, i wszystkie
     obrazki działają. Pozostało przejrzenie pod względem organizacji materiału,
     i usunięcie niepotrzebnych stron.
+
+*   Aktualizacja 2016-11-20: Zredukowałem liczbę artykułów / podstron. Na blogu
+    z 217 do 86 wpisów (czyli o 60%), na Atopedii z oryginalnych 634 artykułów
+    do 203 (nie licząc ulotek i kosmetyków). Dodałem też menu po prawej stronie
+    wszystkich podstron, dzięki czemu będzie łatwiej przejść do innego artykułu.
+    Na razie wyliczyłem artykuły z kategorii "podstawowe wiadomości" z
+    założeniem, że jest to dla osób nowych na stronie.
 
 [reddit-opis]: https://www.reddit.com/r/atopowezapalenieskory/comments/4fb20l/reddit_i_wiki_plan_reorganizacji_atopowepl/
 [reddit]: https://www.reddit.com/r/atopowezapalenieskory/
