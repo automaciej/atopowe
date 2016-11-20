@@ -12,9 +12,9 @@
     
     {{ partial "navbar.html" . }}
 
-    <div class="container" role="main">
+    <div class="container">
       <div class="row">
-        <div class="col-md-9">
+        <div class="col-md-9 col-sm-12">
           <main>
             <article itemscope itemtype="http://schema.org/BlogPosting">
               <h1 class="entry-title" itemprop="name headline">{{ .Title }}</h1>
@@ -51,7 +51,7 @@
             </article>
           </main>
         </div><!-- col-md-9 -->
-        <div class="col-md-3 col-xs-6">
+        <div class="col-md-3 col-sm-12">
           <h2>
             {{ partial "logo-img.html" }}
             Atopowe.pl</h2>
@@ -80,7 +80,7 @@
         {{ end }}
       </div><!-- row -->
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 col-sm-12">
           {{ partial "disqus-main.html" . }}
         </div><!-- col-md-12 -->
       </div><!-- row -->

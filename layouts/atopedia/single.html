@@ -2,7 +2,7 @@
 <html lang="pl">
   <head>
     {{ partial "head-section.html" . }}
-    <title>{{ .Title }} &mdash; {{ .Site.Title }}</title>
+    <title>{{ with .Title }}{{ . }} &mdash; {{ end }}{{ .Site.Title }}</title>
 
     {{ with .Description }}
     <meta name="description" content="{{ . }}" />
@@ -17,7 +17,7 @@
     <div class="container" role="main"
          itemscope itemtype="http://schema.org/Article">
       <div class="row">
-        <div class="col-md-10 col-sm-12">
+        <div class="col-md-8 col-sm-12">
           <h1 class="entry-title" itemprop="name headline">{{ .Title }}</h1>
         </div><!-- col-md-8 -->
         <div class="col-md-2 col-sm-12">
@@ -28,7 +28,7 @@
         </div><!-- col-md-4 -->
       </div><!-- row -->
       <div class="row">
-        <div class="col-md-12 col-sm-12">
+        <div class="col-md-9 col-sm-12">
           <section itemprop="articleBody">
             {{ .Content }}
           </section>
@@ -36,6 +36,19 @@
             {{ partial "article-footer.html" }}
           </footer>
         </div><!-- col-md-12 -->
+        <div class="col-md-3 col-sm-12">
+          <h2>
+            {{ partial "logo-img.html" }}
+            Atopowe.pl</h2>
+          <h2>
+            <a href="/atopedia/Podstawowe_wiadomości/">
+              Podstawowe wiadomości o AZS
+            </a>
+          </h2>
+          {{ partial "podstawowe.html" . }}
+        </div><!-- col-md-3 -->
+      </div><!-- row -->
+      <div class="row">
       </div><!-- row -->
       <div class="row">
         <div class="col-md-12 col-sm-12">
