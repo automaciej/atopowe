@@ -7,33 +7,15 @@ image = "/images/Atopowe-diagram.png"
 description = "Informacje o przyczynach AZS oraz leczeniu, informacje od podstaw."
 
 +++
-## Czym jest atopia?
-
-Atopia jest skłonnością do zapadania na choroby o podłożu alergicznym.
-Uczulenie dotyczy najczęściej substancji wziewnych tj np. kurzu domowego,
-pleśni, a także na spożywanych pokarmów.
-
-Do kręgu chorób o podłożu atopowym zalicza się alergiczny nieżyt nosa,
-[alergiczne zapalenie spojówek]({{< relref "Alergiczne_zapalenie_spojówek.md"
->}}), [astmę oskrzelową]({{< relref "Astma_oskrzelowa.md" >}}), a także atopowe
-zapalenie skóry.
-
-Atopię stwierdza się u 10-15% dzieci i 1-3% dorosłych. U ok 30% chorych
-występuje rodzinnie.
-
-Jeśli oboje rodzice mają objawy atopii to ryzyko wystąpienia objawów u dziecka
-jest znacznie większe – ok 60% niż gdy choruje tylko jedno z nich wtedy wynosi
-ok 10-15%[^1].
-
-*Zobacz osobny artykuł: [Atopia]({{< relref "Atopia.md" >}})*
-
 ## Co to jest atopowe zapalenie skóry?
 
 Atopowe zapalenie skóry jest jednym z najczęściej rozpoznawanych schorzeń
 alergicznych skóry rozpoznawanych głównie we wczesnym dzieciństwie. Jest to
-choroba o nawrotowym przebiegu, z powstawaniem typowych wykwitów o ściśle
-określonej lokalizacji. Charakterystyczny jest intensywny świąd i lichenizacja
-zmian.
+choroba o nawrotowym przebiegu, z powstawaniem wykwitów o ściśle
+określonej lokalizacji. Charakterystyczny jest intensywny [świąd]({{< relref
+"Świąd.md" >}}) i lichenizacja zmian na skórze.
+
+*Zobacz osobny artykuł: [Atopowe zapalenie skóry]({{< relref "Atopowe_zapalenie_skóry.md" >}})*
 
 ### Przyczyny AZS
 
@@ -74,6 +56,8 @@ kontrowersja dotycząca [rakotwórczości leków
 immunosupresyjnych]({{< relref "atopedia/Takrolimus.md" >}}#Obawy_co_do_rakotw.C3.B3rczo.C5.9Bci), ale można
 przypuszczać, że jest nakręcana przez producentów leków sterydowych.
 
+*Zobacz osobny artykuł: [Leczenie atopowego zapalenia skóry]({{< relref "Leczenie_atopowego_zapalenia_skóry.md" >}})*
+
 ## Jeżeli masz łagodne, miejscowe objawy
 
 Łagodne objawy to [zaczerwienione]({{< relref "Zaczerwienienie_skóry.md" >}}),
@@ -105,6 +89,26 @@ zdziałać cuda. W przypadku dorosłych związek ten jest coraz luźniejszy i di
 nie skutkuje. O ile to jest możliwe, można zalecić [zmianę
 otoczenia]({{< relref "Środowisko.md" >}}), na przykład wyjazd z miasta na wieś
 na dłuższy czas.
+
+## Czym jest atopia?
+
+Atopia jest skłonnością do zapadania na choroby o podłożu alergicznym.
+Uczulenie dotyczy najczęściej substancji wziewnych tj np. kurzu domowego,
+pleśni, a także na spożywanych pokarmów.
+
+Do kręgu chorób o podłożu atopowym zalicza się alergiczny nieżyt nosa,
+[alergiczne zapalenie spojówek]({{< relref "Alergiczne_zapalenie_spojówek.md"
+>}}), [astmę oskrzelową]({{< relref "Astma_oskrzelowa.md" >}}), a także atopowe
+zapalenie skóry.
+
+Atopię stwierdza się u 10-15% dzieci i 1-3% dorosłych. U ok 30% chorych
+występuje rodzinnie.
+
+Jeśli oboje rodzice mają objawy atopii to ryzyko wystąpienia objawów u dziecka
+jest znacznie większe – ok 60% niż gdy choruje tylko jedno z nich wtedy wynosi
+ok 10-15%[^1].
+
+*Zobacz osobny artykuł: [Atopia]({{< relref "Atopia.md" >}})*
 
 **Zobacz też**
 
