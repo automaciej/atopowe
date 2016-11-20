@@ -12,9 +12,9 @@ Treść na opakowaniu
 
 ![](/images/Vitaminum_e_100.jpg)
 
-**Vitaminum E 100**
-(Tocopheroli acetas)
-kapsułki elastyczne, 100mg
+**Vitaminum E 100**  
+(Tocopheroli acetas)  
+kapsułki elastyczne, 100mg  
 30 kapsułek
 
 **Witamina E** jest przeciwutleniaczem i osłania przed utlenieniem oraz szkodliwym działaniem wolnych rodników kwasy tłuszczowe wchodzące w skład błon komórkowych oraz inne wrażliwe na tlen substancje. Przyjmowanie Witaminy E obniża zachorowalność na choroby układu krążenia. Vitaminum E 100 chroni serce.
@@ -34,10 +34,11 @@ Ulotka
 ======
 
 **Ulotka dla pacjenta**
+
 Należy zapoznać się z treścią ulotki przed zastosowaniem.
 
-**Vitaminum E 100**
-(Tocopheroli acetas)
+**Vitaminum E 100**  
+(Tocopheroli acetas)  
 kapsułki elastyczne, 100 mg
 
 SKŁAD :

@@ -22,6 +22,7 @@ PLIVA Kraków
 
 tyboflawina 3 mg
 **substancje pomocnicze:** sacharoza, laktoza, skrobia ziemniaczana, guma arabska, talk, kwas stearynowy, skrobia pszeniczna, żelatyna, żółcień chinolinowa E 104, wosk pszczeli, wosk Carnauba.
+
 Należy zapoznać się z treścią ulotki zamieszczonej wewnątrz opakowania.
 
 ### Sposób użycia:

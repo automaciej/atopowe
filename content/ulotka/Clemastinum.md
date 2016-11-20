@@ -7,16 +7,15 @@ aliases = [ "/atopedia/Clemastinum/",]
 
 +++
 
-CLEMASTINUM WZF
-*(Clemastinum)*
+CLEMASTINUM WZF  
+*(Clemastinum)*  
 1 mg, tabletki
 
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
-
- -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
- -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
- -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.  |
+> **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
+> 
+>  -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
+>  -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
+>  -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.
 
 Skład:
 ------

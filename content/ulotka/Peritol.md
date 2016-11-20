@@ -11,14 +11,13 @@ Peritol, 4 mg, tabletki
 
 *Cyproheptadini hydrochloridum*
 
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Należy zapoznać się z treścią ulotki przed zastosowaniem leku.'''
-
- -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
- -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
- -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.
-
- Jeżeli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane nie wymienione w ulotce, należy powiadomić lekarza lub farmaceutę.  |
+> Należy zapoznać się z treścią ulotki przed zastosowaniem leku.'''
+> 
+> -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
+> -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
+> -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.
+> 
+> Jeżeli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane nie wymienione w ulotce, należy powiadomić lekarza lub farmaceutę.
 
 CO TO JEST LEK Peritol tabletki I W JAKIM CELU SIĘ GO STOSUJE
 =============================================================

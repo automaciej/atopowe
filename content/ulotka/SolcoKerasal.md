@@ -9,17 +9,16 @@ aliases = [ "/atopedia/SolcoKerasal/",]
 
 *Acidum salicylicum + Urea*
 
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Należy przeczytać uważnie całą ulotkę, ponieważ zawiera ona ważne informacje dla pacjenta.**
-
- Lek ten jest dostępny bez recepty, aby można było leczyć niektóre schorzenia bez pomocy lekarza.
-
- Aby jednak uzyskać dobry wynik leczenia, należy stosować lek SolcoKerasal ostrożnie.
-
- -   Należy zachować tę ulotkę, aby można ją było przeczytać ponownie w razie potrzeby.
- -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
- -   Jeśli objawy nasilą się lub nie ustąpią, należy skontaktować się z lekarzem.
- -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane nie wymienione w ulotce, należy powiadomić lekarza lub farmaceutę.  |
+> **Należy przeczytać uważnie całą ulotkę, ponieważ zawiera ona ważne informacje dla pacjenta.**
+>
+> Lek ten jest dostępny bez recepty, aby można było leczyć niektóre schorzenia bez pomocy lekarza.
+>
+> Aby jednak uzyskać dobry wynik leczenia, należy stosować lek SolcoKerasal ostrożnie.
+>
+> -   Należy zachować tę ulotkę, aby można ją było przeczytać ponownie w razie potrzeby.
+> -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
+> -   Jeśli objawy nasilą się lub nie ustąpią, należy skontaktować się z lekarzem.
+> -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane nie wymienione w ulotce, należy powiadomić lekarza lub farmaceutę.
 
 Co to jest lek SolcoKerasal i w jakim celu się go stosuje
 =========================================================

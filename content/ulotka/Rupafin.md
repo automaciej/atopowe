@@ -11,13 +11,12 @@ Rupafin 10 mg, tabletki
 
 *(Rupatadinum)*
 
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Należy zapoznać się z treścią ulotki przed zażyciem leku.**
-
- -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
- -   Należy zwrócić się do lekarza lub farmaceuty w razie jakichkolwiek dalszych wątpliwości.
- -   Lek ten przepisano ściśle określonej osobie. Nie należy go przekazywać innym. Lek może zaszkodzić innej osobie, nawet jeśli objawy jej choroby są takie same.
- -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane niewymienione w ulotce, należy powiedzieć o tym lekarzowi lub farmaceucie.  |
+> **Należy zapoznać się z treścią ulotki przed zażyciem leku.**
+> 
+>  -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
+>  -   Należy zwrócić się do lekarza lub farmaceuty w razie jakichkolwiek dalszych wątpliwości.
+>  -   Lek ten przepisano ściśle określonej osobie. Nie należy go przekazywać innym. Lek może zaszkodzić innej osobie, nawet jeśli objawy jej choroby są takie same.
+>  -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane niewymienione w ulotce, należy powiedzieć o tym lekarzowi lub farmaceucie.  |
 
 Co to jest lek Rupafin 10 mg i w jakim celu się go stosuje
 ==========================================================

@@ -48,31 +48,32 @@ Cetirizini dihydrochloridum
 
 **ULOTKA DLA PACJENTA**
 
-|---------------------------------------------------------------------------------------------------------------------|
-| **Należy przeczytać uważnie całą ulotkę, ponieważ zawiera ona ważne informacje dla pacjenta.**
+> **Należy przeczytać uważnie całą ulotkę, ponieważ zawiera ona ważne informacje dla pacjenta.**
+>
+> Lek ten jest dostępny bez recepty, aby można było leczyć niektóre schorzenia bez pomocy lekarza.
+>
+> Aby jednak uzyskać dobry wynik leczenia, należy stosować lek Zyrtec® UCB ostrożnie i zgodnie z informacją w ulotce.
+>
+> -   Należy zachować tę ulotkę, aby można ją było przeczytać ponownie w razie potrzeby.
+> -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
+> -   Jeśli objawy nasilą się lub nie ustąpią po 10 dniach, należy skontaktować się z lekarzem.                        |
 
- Lek ten jest dostępny bez recepty, aby można było leczyć niektóre schorzenia bez pomocy lekarza.
-
- Aby jednak uzyskać dobry wynik leczenia, należy stosować lek Zyrtec® UCB ostrożnie i zgodnie z informacją w ulotce.
-
- -   Należy zachować tę ulotkę, aby można ją było przeczytać ponownie w razie potrzeby.
- -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
- -   Jeśli objawy nasilą się lub nie ustąpią po 10 dniach, należy skontaktować się z lekarzem.                        |
-
-![](/images/Zyrtec_UCB.jpg "right")
+{{< figure src="/images/Zyrtec_UCB.jpg" >}}
 
 ### Skład:
 
-<u>1 tabletka powlekana zawiera:</u>
+*1 tabletka powlekana zawiera:*
+
 - substancję czynną: 10 mg dichlorowodorku cetyryzyny
 - substancje pomocnicze: celuloza mikrokrystaliczna, laktoza jednowodna, krzemionka koloidalna bezwodna, magnezu stearynian
+
 Skład otoczki: hydroksypropylometyloceluloza, dwutlenek tytanu, glikol polietylenowy 400
 
-Dostępne opakowania:
-7 lub 10 tabletek
-Nie wszystkie rodzaje opakowań muszą znajdować się w obrocie.
-Podmiot odpowiedzialny: Vedim Sp. z o.o., ul. Przyokopowa 43, 01-208 Warszawa
-Wytwórca: UCB S.A. Pharma Sector, Chemin du Foriest, 1420 Braine l\`AIIeud, Belgia
+Dostępne opakowania:  
+7 lub 10 tabletek  
+Nie wszystkie rodzaje opakowań muszą znajdować się w obrocie.  
+Podmiot odpowiedzialny: Vedim Sp. z o.o., ul. Przyokopowa 43, 01-208 Warszawa  
+Wytwórca: UCB S.A. Pharma Sector, Chemin du Foriest, 1420 Braine l'AIIeud, Belgia
 
 Co to jest lek Zyrtec® UCB I w jakim celu się go stosuje
 --------------------------------------------------------

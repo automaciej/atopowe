@@ -11,16 +11,15 @@ aliases = [ "/atopedia/Tormentiol/",]
 
 GlaxoSmithKline
 
-|---------------------------------------------------------------------------------------------------------------------|
-| **Należy przeczytać uważnie całą ulotkę, ponieważ zawiera ona ważne informacje dla pacjenta.**
-
- Lek ten jest dostępny bez recepty, aby można było leczyć niektóre schorzenia bez pomocy lekarza.
-
- Aby jednak uzyskać dobry wynik leczenia, należy stosować Tormentiol maść ostrożnie i zgodnie z informacją w ulotce.
-
- -   Należy zachować tę ulotkę, aby można ją było przeczytać ponownie w razie potrzeby.
- -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
- -   Jeśli objawy nasilą się lub nie ustąpią po 7-10 dniach, należy skontaktować się z lekarzem.                      |
+> **Należy przeczytać uważnie całą ulotkę, ponieważ zawiera ona ważne informacje dla pacjenta.**
+>
+> Lek ten jest dostępny bez recepty, aby można było leczyć niektóre schorzenia bez pomocy lekarza.
+>
+> Aby jednak uzyskać dobry wynik leczenia, należy stosować Tormentiol maść ostrożnie i zgodnie z informacją w ulotce.
+>
+> -   Należy zachować tę ulotkę, aby można ją było przeczytać ponownie w razie potrzeby.
+> -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
+> -   Jeśli objawy nasilą się lub nie ustąpią po 7-10 dniach, należy skontaktować się z lekarzem.                      |
 
 Skład
 -----

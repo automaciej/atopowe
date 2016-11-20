@@ -11,15 +11,14 @@ aliases = [ "/atopedia/Lirra_Gem/",]
 
 ''Levocetirizini dihydrochloridum ''
 
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| '''Należy uważnie zapoznać się z treścią ulotki przed zastosowaniem leku, ponieważ zawiera ona informacje ważne dla pacjenta. '''
-
- Lek ten należy zawsze stosować zgodnie z opisem w ulotce dla pacjenta lub według wskazań lekarza lub farmaceuty.
-
- -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
- -   Należy zwrócić się do farmaceuty, jeśli potrzebna jest rada lub dodatkowa informacja.
- -   Jeśli wystąpią jakiekolwiek objawy niepożądane, w tym wszelkie możliwe objawy niepożądane niewymienione w ulotce, należy powiedzieć o tym lekarzowi lub farmaceucie.
- -   Jeśli po upływie 3 dni nie nastąpiła poprawa lub pacjent czuje się gorzej, należy skontaktować się z lekarzem.                                                        |
+> '''Należy uważnie zapoznać się z treścią ulotki przed zastosowaniem leku, ponieważ zawiera ona informacje ważne dla pacjenta. '''
+> 
+>  Lek ten należy zawsze stosować zgodnie z opisem w ulotce dla pacjenta lub według wskazań lekarza lub farmaceuty.
+> 
+>  -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
+>  -   Należy zwrócić się do farmaceuty, jeśli potrzebna jest rada lub dodatkowa informacja.
+>  -   Jeśli wystąpią jakiekolwiek objawy niepożądane, w tym wszelkie możliwe objawy niepożądane niewymienione w ulotce, należy powiedzieć o tym lekarzowi lub farmaceucie.
+>  -   Jeśli po upływie 3 dni nie nastąpiła poprawa lub pacjent czuje się gorzej, należy skontaktować się z lekarzem.                                                        |
 
 Co to jest lek Lirra Gem i w jakim celu się go stosuje
 ======================================================

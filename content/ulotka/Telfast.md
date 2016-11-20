@@ -7,8 +7,8 @@ aliases = [ "/atopedia/Telfast/",]
 
 +++
 
-**Telfast® 180**
-Fexofenadini hydrochloridum
+**Telfast® 180**  
+Fexofenadini hydrochloridum  
 20 tabletek powlekanych
 
 **Zobacz również:**
@@ -17,17 +17,14 @@ Fexofenadini hydrochloridum
 -   [Telfexo](/atopedia/Telfexo), polski odpowiednik Telfastu
 -   Inne leki antyhistaminowe
 
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
-
- -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
- -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
- -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.
- -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądanie nie wymienione w ulotce, należy powiadomić lekarza lub farmaceutę.  |
+> **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
+> 
+>  -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
+>  -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
+>  -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.
+>  -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądanie nie wymienione w ulotce, należy powiadomić lekarza lub farmaceutę.
 
 ![](/images/Telfast.jpg)
-
-__TOC__
 
 Co to jest lek Telfast 180 i w jakim celu się go stosuje
 --------------------------------------------------------

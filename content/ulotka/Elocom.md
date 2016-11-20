@@ -41,11 +41,10 @@ O ile lekarz nie zalecił inaczej, preparat Elocom nakłada się cienką warstw�
 
 Bardzo rzadko - reakcje uczuleniowe, świąd skóry, objawy zaniku skóry, łojotok. Należy unikać długotrwałego stosowania preparatu, zwłaszcza u dzieci i na duże powierzchnie skóry ze względu na możliwość działania ogólnego mometazonu - hamowania osi przysadkowo-nadnerczowej z objawami niewydolności kory nadnerczy.
 
-<div align="center">
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](/images/Uwaga.png "16px") Nie stosować na skórę twarzy! Twarz poprzez to przyzwyczaja się do sterydów, które zawiera Elocom i w wyniku zamiast sobie pomóc - pogarszamy nieświadomie nasz stan. Na początku stan poprawia się, lecz po dłuższym stosowaniu trzeba stosować go coraz więcej i więcej, a poprawy nie widać. |
+{{< figure src="/images/Uwaga.png" >}}
 
-</div>
+**Nie stosować na skórę twarzy! Twarz poprzez to przyzwyczaja się do sterydów, które zawiera Elocom i w wyniku zamiast sobie pomóc - pogarszamy nieświadomie nasz stan. Na początku stan poprawia się, lecz po dłuższym stosowaniu trzeba stosować go coraz więcej i więcej, a poprawy nie widać.**
+
 ### Uwagi
 
 -   Okres leczenia wyznacza lekarz.

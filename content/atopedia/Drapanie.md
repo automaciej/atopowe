@@ -6,10 +6,14 @@ kategorie = [ "objawy atopowego zapalenia skóry",]
 
 +++
 
-**Drapanie** - reakcja na [świąd]({{< relref "atopedia/Świąd.md" >}}), bardzo trudna lub niemożliwa do powstrzymania. Powoduje powstawanie przeczosów i ran, ułatwia powstawanie [infekcji skóry](/atopedia/Infekcja_skóry). Drapanie jest jednym z elementów [błędnego koła](/atopedia/Efekt_błędnego_koła).
+**Drapanie** - reakcja na [świąd]({{< relref "atopedia/Świąd.md" >}}), bardzo
+trudna lub niemożliwa do powstrzymania. Powoduje powstawanie przeczosów i ran,
+ułatwia powstawanie [infekcji skóry](/atopedia/Infekcja_skóry). Drapanie jest
+jednym z elementów [błędnego koła](/atopedia/Efekt_błędnego_koła).
 
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ludzie z zewnątrz, patrząc na drapiącą się osobę z AZS, mówią *Nie drap się*, nie zdając sobie sprawy, że tylko przyczyniają się do pogłębienia frustracji tej osoby i pogorszenia jej [samopoczucia](/atopedia/Poprawa_samopoczucia). |
+Ludzie z zewnątrz, patrząc na drapiącą się osobę z AZS, mówią *Nie drap się*,
+nie zdając sobie sprawy, że tylko przyczyniają się do pogłębienia frustracji tej
+osoby i pogorszenia jej [samopoczucia](/atopedia/Poprawa_samopoczucia).
 
 Dlaczego tak jest? Otóż przy silnym [świądzie]({{< relref "atopedia/Świąd.md" >}}) skóry, powstrzymanie się od drapania jest niemożliwe. Nawet jeżeli osoba powstrzyma się od drapania przez cały dzień, to i tak podrapie się w nocy.
 

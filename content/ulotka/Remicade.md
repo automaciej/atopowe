@@ -13,14 +13,13 @@ Remicade 100 mg
 
 **proszek do sporządzania koncentratu do przygotowania roztworu do infuzji**
 
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Należy uważnie zapoznać się z treścią ulotki przed zastosowaniem leku, ponieważ zawiera ona informacje ważne dla pacjenta.**
-
- -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
- -   Pacjent otrzyma również Kartę Ostrzeżeń zawierającą ważne informacje dotyczące bezpieczeństwa, o których należy wiedzieć przed rozpoczęciem i w trakcie leczenia lekiem Remicade.
- -   Należy zwrócić się do lekarza w razie jakichkolwiek wątpliwości.
- -   Lek ten przepisano ściśle określonej osobie. Nie należy go przekazywać innym. Lek może zaszkodzić innej osobie, nawet jeśli objawy jej choroby są takie same.
- -   Jeśli wystąpią jakiekolwiek objawy niepożądane, w tym wszelkie możliwe objawy niepożądane niewymienione w ulotce, należy powiedzieć o tym lekarzowi.                               |
+> **Należy uważnie zapoznać się z treścią ulotki przed zastosowaniem leku, ponieważ zawiera ona informacje ważne dla pacjenta.**
+> 
+>  -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
+>  -   Pacjent otrzyma również Kartę Ostrzeżeń zawierającą ważne informacje dotyczące bezpieczeństwa, o których należy wiedzieć przed rozpoczęciem i w trakcie leczenia lekiem Remicade.
+>  -   Należy zwrócić się do lekarza w razie jakichkolwiek wątpliwości.
+>  -   Lek ten przepisano ściśle określonej osobie. Nie należy go przekazywać innym. Lek może zaszkodzić innej osobie, nawet jeśli objawy jej choroby są takie same.
+>  -   Jeśli wystąpią jakiekolwiek objawy niepożądane, w tym wszelkie możliwe objawy niepożądane niewymienione w ulotce, należy powiedzieć o tym lekarzowi.
 
 Co to jest lek Remicade i w jakim celu się go stosuje
 =====================================================

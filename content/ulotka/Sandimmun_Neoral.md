@@ -7,19 +7,18 @@ aliases = [ "/atopedia/Sandimmun_Neoral/",]
 
 +++
 
-**Sandimmun Neoral**, 10 mg, kapsułki elastyczne
-**Sandimmun Neoral**, 25 mg, kapsułki elastyczne
-**Sandimmun Neoral**, 50 mg, kapsułki elastyczne
-**Sandimmun Neoral**, 100 mg, kapsułki elastyczne
+**Sandimmun Neoral**, 10 mg, kapsułki elastyczne  
+**Sandimmun Neoral**, 25 mg, kapsułki elastyczne  
+**Sandimmun Neoral**, 50 mg, kapsułki elastyczne  
+**Sandimmun Neoral**, 100 mg, kapsułki elastyczne  
 *([Ciclosporinum](/atopedia/Ciclosporinum))*
 
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
-
- -   Należy zachować tą ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
- -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
- -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.
- -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane niewymienione w ulotce, należy powiadomić lekarza lub farmaceutę  |
+> **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
+> 
+>  -   Należy zachować tą ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
+>  -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
+>  -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.
+>  -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane niewymienione w ulotce, należy powiadomić lekarza lub farmaceutę
 
 Co to jest lek Sandimmun Neoral i w jakim celu się go stosuje
 =============================================================
@@ -30,9 +29,6 @@ Lek Sandimmun Neoral stosowany jest w:
 
 -   Zapobieganiu odrzucenia przeszczepu po alogenicznej transplantacji nerek, wątroby, serca, serca i płuc, płuc lub trzustki;
 -   Leczeniu odrzucania przeszczepu u pacjentów uprzednio otrzymujących inne leki immunosupresyjne;
-
-<!-- -->
-
 -   Zapobieganiu odrzucenia przeszczepu po transplantacji szpiku;
 -   Zapobieganiu lub leczeniu choroby przeszczep przeciw gospodarzowi (GVHD)
 -   Zapaleniu błony naczyniowej oka;

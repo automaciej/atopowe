@@ -11,13 +11,12 @@ aliases = [ "/atopedia/Oxycort_A/",]
 
 **(10 mg + 10 mg)/g, maść do oczu**
 
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
-
- -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
- -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
- -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.
- -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane nie wymienione w ulotce, należy powiadomić lekarza lub farmaceutę.  |
+> **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
+>
+> -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
+> -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
+> -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.
+> -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane nie wymienione w ulotce, należy powiadomić lekarza lub farmaceutę.
 
 Co to jest lek Oxycort A maść do oczu i w jakim celu się go stosuje
 -------------------------------------------------------------------

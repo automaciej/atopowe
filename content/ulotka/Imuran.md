@@ -11,13 +11,12 @@ Imuran 25mg lub 50mg, tabletki powlekane
 
 *Azatiopryna*
 
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
-
- -   Należy zachować tą ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
- -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
- -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.
- -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane niewymienione w ulotce, należy powiadomić lekarza lub farmaceutę.  |
+> **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
+> 
+>  -   Należy zachować tą ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
+>  -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
+>  -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.
+>  -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane niewymienione w ulotce, należy powiadomić lekarza lub farmaceutę.
 
 Co to jest lek Imuran i w jakim celu się go stosuje
 ---------------------------------------------------

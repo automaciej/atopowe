@@ -7,12 +7,11 @@ aliases = [ "/atopedia/Elidel_(ulotka)/",]
 
 +++
 
-|----------------------------------------------------------------------------------------------|
-| '''Należy przeczytać całą ulotkę przed rozpoczęciem stosowania preparatu Elidel®.
-
- -   W przypadku dalszych pytań należy zasięgnąć porady lekarza lub farmaceuty
- -   Należy zachować ulotkę. Może być przydatna w celu ponownego zapoznania się z jej treścią
- -   Nie odstępować preparatu innym osobom, nawet wtedy gdy cierpią na tę samą chorobę.        |
+> '''Należy przeczytać całą ulotkę przed rozpoczęciem stosowania preparatu Elidel®.
+>
+> -   W przypadku dalszych pytań należy zasięgnąć porady lekarza lub farmaceuty
+> -   Należy zachować ulotkę. Może być przydatna w celu ponownego zapoznania się z jej treścią
+> -   Nie odstępować preparatu innym osobom, nawet wtedy gdy cierpią na tę samą chorobę.
 
 Elidel®
 =======
@@ -23,13 +22,13 @@ Substancją czynną preparatu Elidel jest [pimekrolimus](/atopedia/Pimekrolimus)
 
 Inne składniki leku: trójglicerydy średniołańcuchowe, alkohol oleilowy, glikol propylenowy, alkohol sterylowy, alkohol cetylowy, mono- i dwuglicerydy, cetostearylosiarczan sodu, alkohol benzylowy, kwas cytrynowy bezwodny, sodu wodorotlenek, woda oczyszczona.
 
-**Wytwórca**
-Novartis Pharma AG
-CH-4002 Bazylea
+**Wytwórca**  
+Novartis Pharma AG  
+CH-4002 Bazylea  
 Szwajcaria
 
-**Miejsce wytwarzania**
-Novartis Pharma GmbH, Oeflingerstrasse 44, 79664 Wehr/Baden
+**Miejsce wytwarzania**  
+Novartis Pharma GmbH, Oeflingerstrasse 44, 79664 Wehr/Baden  
 Niemcy
 
 Co to jest Elidel i w jakim celu jest stosowany

@@ -9,19 +9,16 @@ aliases = [ "/atopedia/Azomyr/",]
 
 **ULOTKA DLA PACJENTA: INFORMACJA DLA UŻYTKOWNIKA**
 
-<span style="font-size:18px">Azomyr 0,5 mg/ml roztwór doustny</span>
+Azomyr 0,5 mg/ml roztwór doustny
 
 *desloratadyna*
 
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
-
- -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
- -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
- -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.
- -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane niewymienione w ulotce, należy powiadomić lekarza lub farmaceutę.  |
-
-__TOC__
+> **Należy zapoznać się z treścią ulotki przed zastosowaniem leku.**
+>
+> -   Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
+> -   Należy zwrócić się do lekarza lub farmaceuty, gdy potrzebna jest rada lub dodatkowa informacja.
+> -   Lek ten został przepisany ściśle określonej osobie i nie należy go przekazywać innym, gdyż może im zaszkodzić, nawet jeśli objawy ich choroby są takie same.
+> -   Jeśli nasili się którykolwiek z objawów niepożądanych lub wystąpią jakiekolwiek objawy niepożądane niewymienione w ulotce, należy powiadomić lekarza lub farmaceutę.
 
 CO TO JEST AZOMYR I W JAKIM CELU SIĘ GO STOSUJE
 -----------------------------------------------

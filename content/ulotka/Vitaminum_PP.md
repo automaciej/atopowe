@@ -12,20 +12,27 @@ Treść na opakowaniu
 
 ![](/images/Vitaminum_PP.jpg "right")
 
-**Vitaminum PP**
-NICOTINAMIDUM
-200mg TABLETKI
+**Vitaminum PP**  
+NICOTINAMIDUM  
+200mg TABLETKI  
 20 sztuk
 
 **Jedna tabletka zawiera:**
+
 Substancję czynną: nikotynamid (witaminę PP) 50 mg lub 200 mg. Substancje pomocnicze: mączka ziemniaczana, talk oczyszczony, magnezu stearynian, krzemu dwutlenek koloidalny, Moviol 8-88.
+
 Lek stosowa doustnie, według wskazań lekarza.
+
 Przed zastosowaniem leku należy zapozna się z ulotką dołączoną do opakowania.
+
 Przechowywać w temperaturze do 25°C. Chronić od wilgoci.
+
 Lek należy przechowywać w miejscu niedostępnym i niewidocznym dla dzieci
+
 **Produkt leczniczy wydawany na receptę**
-GlaxoSmithKline Pharmaceuticals S.A.
-ul. Grunwaldzka 189
+
+GlaxoSmithKline Pharmaceuticals S.A.  
+ul. Grunwaldzka 189  
 60-322 Poznań
 
 Ulotka

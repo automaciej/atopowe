@@ -27,7 +27,7 @@ Novartis Europharm Limited
 
 **Substancja czynna:** *Omalizumab*
 
-***Streszczenie EPAR dla ogółu społeczeństwa***
+**Streszczenie EPAR dla ogółu społeczeństwa**
 
 Niniejszy dokument jest streszczeniem Europejskiego Publicznego Sprawozdania Oceniającego (EPAR). Wyjaśnia, jak Komitet ds. Produktów Leczniczych Stosowanych u Ludzi (CHMP) ocenił przeprowadzone badania w celu ustalenia zaleceń dotyczących stosowania leku. W celu uzyskania dodatkowych informacji na temat stanu chorobowego lub sposobu leczenia należy zapoznać się z treścią ulotki dla pacjenta (również stanowiącą część EPAR) bądź skontaktować się z lekarzem lub farmaceutą. W celu uzyskania dodatkowych informacji na podstawie zaleceń CHMP należy zapoznać się z dyskusją naukową (również stanowiącą część EPAR).
 
