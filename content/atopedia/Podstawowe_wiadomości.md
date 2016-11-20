@@ -1,7 +1,7 @@
 +++
 date = "2005-01-01T00:00:00+01:00"
 permalink = "/Podstawowe_wiadomości/"
-title = "Podstawowe wiadomości o atopowym zapaleniu skóry"
+title = "Podstawowe wiadomości o AZS"
 kategorie = [ "Podstawowe wiadomości",]
 image = "/images/Atopowe-diagram.png"
 description = "Informacje o przyczynach AZS oraz leczeniu, informacje od podstaw."
