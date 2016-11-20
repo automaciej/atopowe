@@ -4,8 +4,8 @@
     {{ partial "head-section.html" . }}
     <title>{{ .Title }} &mdash; {{ .Site.Title }}</title>
 
-    {{ if .Description -}}
-    <meta name="description" content="{{ .Description }}" />
+    {{ with .Description }}
+    <meta name="description" content="{{ . }}" />
     {{- else -}}
     <meta name="description" content="Artykuł '{{ .Title }}' na Atopedii, encyklopedii atopowego zapalenia skóry." />
     {{- end }}
@@ -47,5 +47,3 @@
     {{ partial "disqus-footer.html" . }}
   </body>
 </html>
-
-

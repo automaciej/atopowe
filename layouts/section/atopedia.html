@@ -23,17 +23,11 @@
   <h1>{{ .Title }}</h1>
   <p>Encyklopedia atopowego zapalenia skóry</p>
   <p>
-  Proponujemy zacząć od artykułu <a
-     href="/atopedia/Podstawowe_wiadomości/">podstawowe wiadomości</a>, a
-   potem:
+  Proponujemy zacząć od artykułu
+  <a href="/atopedia/Podstawowe_wiadomości/">podstawowe wiadomości</a>,
+  a potem:
   </p>
-  <ul class="list">
-    {{ range .Site.Taxonomies.kategorie.Get "podstawowe-wiadomości" }}
-    <li>
-      <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
-    </li>
-    {{ end }}
-  </ul>
+  {{ partial "podstawowe.html" . }}
   <p>Poniżej listy wszystkich kategorii i wszystkich artykułów:</p>
   <h2 class="list-title">Kategorie stron</h2>
   <ul class="list-unstyled list-inline inline">

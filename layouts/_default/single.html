@@ -14,7 +14,7 @@
 
     <div class="container" role="main">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-9">
           <main>
             <article itemscope itemtype="http://schema.org/BlogPosting">
               <h1 class="entry-title" itemprop="name headline">{{ .Title }}</h1>
@@ -50,7 +50,14 @@
               </div>
             </article>
           </main>
-        </div><!-- col-md-12 -->
+        </div><!-- col-md-9 -->
+        <div class="col-md-3 col-xs-6">
+          <h2>
+            <a href="/atopedia/Podstawowe_wiadomości/">Podstawowe wiadomości o
+              AZS</a>
+          </h2>
+          {{ partial "podstawowe.html" . }}
+        </div><!-- col-md-3 -->
       </div><!-- row -->
       <div class="row">
         {{ with .PrevInSection }}

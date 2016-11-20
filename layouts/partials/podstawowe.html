@@ -1,0 +1,8 @@
+<ul class="list list-unstyled">
+  {{ $strony := .Site.Taxonomies.kategorie.Get "podstawowe-wiadomości" }}
+  {{ range $strony.Pages.ByTitle }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
