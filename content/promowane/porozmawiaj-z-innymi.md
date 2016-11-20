@@ -3,6 +3,11 @@ date = "2016-11-13T16:29:18Z"
 # prowadzi_do = ""
 title = "Porozmawiaj z innymi"
 weight = 4
+aliases = [
+  "/atopedia/Forum_dyskusyjne/",
+  "/atopedia/Forum/",
+]
+kategorie = [ "forum",]
 
 +++
 Osoby z atopowym zapaleniem skóry rzadko mają okazję spotkać innych atopowców,
@@ -26,3 +31,5 @@ sprawi że nie będziesz się z AZSem czuć samotnie!
   <span class="fa fa-reddit"></span>
   Reddit: /r/atopowezapalenieskory &raquo;
 </a>
+
+[Stare forum]({{< relref "atopedia/Stare_forum_dyskusyjne.md" >}}) działające w latach 2003-2016 zostało zamknięte.

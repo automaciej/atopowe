@@ -1,16 +1,16 @@
 +++
 date = "2016-11-15T08:56:48Z"
-title = "Forum dyskusyjne Atopowe.pl"
-slug = "/Forum_dyskusyjne/"
-aliases = [ "/atopedia/Forum/",]
+title = "Stare forum dyskusyjne"
+slug = "Stare_forum_dyskusyjne"
+kategorie = [ "forum", ]
 
 +++
 
-Oryginalne (2003-2016) forum dyskusyjne [zostało zamnknięte]({{< relref
-"post/2016-04-23-reorganizacja-serwisu-atopowe-pl.md" >}}).
+Oryginalne (2003-2016) forum dyskusyjne
+[zostało zamnknięte]({{< relref "post/2016-04-23-reorganizacja-serwisu-atopowe-pl.md" >}}).
 
-Zapraszamy w nowe miejsca: [społeczności AZS w internecie]({{< relref
-"promowane/porozmawiaj-z-innymi.md" >}}).
+Zapraszamy w nowe miejsca:
+[społeczności AZS w internecie]({{< relref "promowane/porozmawiaj-z-innymi.md" >}}).
 
 -----
 
