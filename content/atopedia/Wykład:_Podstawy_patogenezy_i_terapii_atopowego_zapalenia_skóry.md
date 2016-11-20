@@ -1,8 +1,13 @@
 +++
-date = "2005-01-01T00:00:00+01:00"
+date = "2012-10-16T09:00:00+01:00"
 permalink = "/Wykład:_Podstawy_patogenezy_i_terapii_atopowego_zapalenia_skóry/"
 title = "Wykład: Podstawy patogenezy i terapii atopowego zapalenia skóry"
 kategorie = [ "Fundacja Alabaster", "Wykłady", "Multimedia",]
+description = """
+prof. nadzw. dr hab. Jacek Michałkiewicz opowiada o AZS: Co to jest układ \
+odpornościowy? Z czego się składa, skąd się wywodzi? Co to są limfocyty T? \
+Co to są komórki plazmatyczne? Co to jest atopia?"""
+image = "/images/wyklad-michalkiewicz.jpg"
 
 +++
 
@@ -13,9 +18,7 @@ Podstawy patogenezy i terapii atopowego zapalenia skóry u dzieci
 
 **prof. nadzw. dr hab. Jacek Michałkiewicz**
 
-**Wykład na YouTube (w całości):** <youtube>pVYn932Zy-4</youtube>
-
-__TOC__
+**Wykład na YouTube (w całości):** {{< youtube pVYn932Zy-4 >}}
 
 Witam wszystkich obecnych. Pracuję w Centrum Zdrowia Dziecka, ale również mam Zakład i Katedrę Immunologii w Bydgoszczy, gdzie prowadzę swoją działalność dydaktyczną i naukową. Bardzo miło mi Państwa powitać.
 
