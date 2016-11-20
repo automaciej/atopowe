@@ -15,7 +15,7 @@ image = "/images/PoznanskiZlot01.jpg"
 ## 18 marca 2006
 
 To było chyba pierwsze spotkanie większej grupy ludzi z tego
-[forum]({{< relref "atopedia/forum-dyskusyjne.md" >}}) w realnym świecie. Rozmowa oczywiście była o
+[forum]({{< relref "atopedia/Stare_forum_dyskusyjne.md" >}}) w realnym świecie. Rozmowa oczywiście była o
 [drapaniu]({{< relref "atopedia/Drapanie.md" >}}), kremach,
 [schizach]({{< relref "atopedia/Psychika.md" >}}) związanych z AZS i wielu
 innych rzeczach, których nie sposób przytoczyć. :-?

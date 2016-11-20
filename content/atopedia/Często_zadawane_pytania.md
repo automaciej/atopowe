@@ -9,7 +9,7 @@ aliases = [ "/atopedia/Gojenie/",]
 
 ### Czy możecie przesłać mi na mejla co zrobić żeby wyglądać jak każdy normalny człowiek?
 
-Nie, nie możemy. [Atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry) to skomplikowane zagadnienie, nie istnieje jedna i właściwa droga [leczenia]({{< relref "atopedia/Leczenie_atopowego_zapalenia_skóry.md" >}}). Zachęcamy do wczytania się w Atopedię i [forum dyskusyjne]({{< relref "atopedia/forum-dyskusyjne.md" >}}). Proponujemy też przeczytanie krótkich [podstawowych wiadomości]({{< relref "atopedia/Podstawowe_wiadomości.md" >}}).
+Nie, nie możemy. [Atopowe zapalenie skóry](/atopedia/Atopowe_zapalenie_skóry) to skomplikowane zagadnienie, nie istnieje jedna i właściwa droga [leczenia]({{< relref "atopedia/Leczenie_atopowego_zapalenia_skóry.md" >}}). Zachęcamy do wczytania się w Atopedię i [forum dyskusyjne]({{< relref "promowane/porozmawiaj-z-innymi.md" >}}). Proponujemy też przeczytanie krótkich [podstawowych wiadomości]({{< relref "atopedia/Podstawowe_wiadomości.md" >}}).
 
 ### Czy X to maść sterydowa, jakie znacie maści niesterydowe które łagodzą podrażnienia?
 
