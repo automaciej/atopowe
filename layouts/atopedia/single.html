@@ -17,15 +17,26 @@
     <div class="container" role="main"
          itemscope itemtype="http://schema.org/Article">
       <div class="row">
-        <div class="col-md-8 col-sm-12">
+        <div class="col-md-12 col-sm-12">
+          <p>
+          </p>
           <h1 class="entry-title" itemprop="name headline">{{ .Title }}</h1>
-        </div><!-- col-md-8 -->
-        <div class="col-md-2 col-sm-12">
+          {{ if .Params.kategorie }}
+          <small>
           <p>
             <a href="{{ .Site.Params.githubsrc }}{{ .File.Path }}"
-               title="Edytuj tę stronę na github.com: {{ .File.Path }}">Edytuj tę stronę</a>
+               title="Edytuj tę stronę na github.com: {{ .File.Path }}">
+              <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+              Źródło tej strony</a>
+            |
+            Kategorie:
+            {{ range .Params.kategorie }}
+            <a href="{{ "/kategorie/" | relURL }}{{ . | urlize }}">{{ . | lower }}</a>
+            {{ end }}
           </p>
-        </div><!-- col-md-4 -->
+          </small>
+          {{ end }}
+        </div><!-- col-md-12 -->
       </div><!-- row -->
       <div class="row">
         <div class="col-md-9 col-sm-12">
