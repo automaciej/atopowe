@@ -3,7 +3,7 @@
   {{ $strony := .Site.Taxonomies.kategorie.Get "podstawowe-wiadomości" }}
   {{ range $strony.Pages.ByTitle }}
   <li>
-    {{ if eq .UniqueID $current.UniqueID }}
+    {{ if eq .Title $current.Title }}
     <strong>{{ .Title }}</strong>
     {{ else }}
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
