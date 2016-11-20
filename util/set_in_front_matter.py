@@ -26,9 +26,7 @@ def main():
     field_name = args.field_name
     print(args)
     front_matter = metadata['front_matter']
-    if field_name not in front_matter:
-        front_matter[field_name] = []
-    front_matter[field_name].append(args.value)
+    front_matter[field_name] = args.value
     print(metadata['front_matter'])
     new_content = hugotools.ReplaceFrontMatter(metadata['content'], front_matter)
 
