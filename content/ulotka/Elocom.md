@@ -4,6 +4,7 @@ permalink = "/Elocom/"
 title = "Elocom"
 rodzajelekow = [ "maści", "leki sterydowe",]
 aliases = [ "/atopedia/Elocom/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

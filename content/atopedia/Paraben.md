@@ -4,6 +4,7 @@ permalink = "/Paraben/"
 title = "Paraben"
 kategorie = [ "substancje chemiczne",]
 aliases = [ "/atopedia/Butyloparaben/", "/atopedia/Propyloparaben/", "/atopedia/Etyloparaben/", "/atopedia/Metyloparaben/", "/atopedia/Izobutyloparaben/",]
+lastmod = "2016-11-17T00:00:16+00:00"
 
 +++
 

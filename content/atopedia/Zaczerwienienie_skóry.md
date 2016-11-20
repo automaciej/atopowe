@@ -4,6 +4,7 @@ permalink = "/Zaczerwienienie_skóry/"
 title = "Zaczerwienienie skóry"
 kategorie = [ "objawy atopowego zapalenia skóry",]
 aliases = [ "/atopedia/Zaczerwienienie/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

@@ -4,6 +4,7 @@ permalink = "/Antybiotyki/"
 title = "Antybiotyki"
 kategorie = [ "terapia",]
 aliases = [ "/atopedia/Antybiotyki_w_leczeniu_AZS/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

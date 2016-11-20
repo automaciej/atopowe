@@ -1,11 +1,12 @@
 +++
 author = "Mirka"
-kategorie = ["W społeczeństwie", "Wydarzenia"]
+kategorie = [ "W społeczeństwie", "Wydarzenia",]
 date = "2009-07-16"
 layout = "post"
-tags = ["zloty"]
+tags = [ "zloty",]
 title = "Wrażenia z Torunia"
 url = "/2009/07/16/wrazenia-z-torunia/"
+lastmod = "2016-11-19T15:19:25+00:00"
 
 +++
 

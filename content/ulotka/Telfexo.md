@@ -4,6 +4,7 @@ permalink = "/Telfexo/"
 title = "Telfexo"
 rodzajelekow = [ "leki antyhistaminowe", "leki antyhistaminowe III generacji",]
 aliases = [ "/atopedia/Telfexo/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

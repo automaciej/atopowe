@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Reakcja_alergiczna/"
 title = "Reakcja alergiczna"
 kategorie = [ "Alergia", "przyczyny atopowego zapalenia skóry",]
+lastmod = "2016-11-19T15:25:23+00:00"
 
 +++
 

@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Film", "Kontrowersje", "Pseudomedycyna"]
+kategorie = [ "Film", "Kontrowersje", "Pseudomedycyna",]
 date = "2008-07-20"
 layout = "post"
-tags = ["Homeopatia", "James Randi"]
+tags = [ "Homeopatia", "James Randi",]
 title = "James Randi o homeopatii, wersja polska"
 url = "/2008/07/20/james-randi-o-homeopatii-wersja-polska/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

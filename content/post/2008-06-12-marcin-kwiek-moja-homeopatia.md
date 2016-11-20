@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Pseudomedycyna"]
+kategorie = [ "Pseudomedycyna",]
 date = "2008-06-12"
 layout = "post"
-tags = ["Homeopatia", "humor"]
+tags = [ "Homeopatia", "humor",]
 title = "Marcin Kwiek: Moja homeopatia"
 url = "/2008/06/12/marcin-kwiek-moja-homeopatia/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

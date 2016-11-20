@@ -4,6 +4,7 @@ permalink = "/Clemastinum/"
 title = "Clemastinum"
 rodzajelekow = [ "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
 aliases = [ "/atopedia/Clemastinum/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Kontrowersje", "Nauka", "Pseudomedycyna"]
+kategorie = [ "Kontrowersje", "Nauka", "Pseudomedycyna",]
 date = "2008-03-12"
 layout = "post"
-tags = ["Homeopatia", "humor"]
+tags = [ "Homeopatia", "humor",]
 title = "Znaleziono leki homeopatyczne w wodzie pitnej"
 url = "/2008/03/12/znaleziono-leki-homeopatyczne-w-wodzie-pitnej/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

@@ -4,6 +4,7 @@ permalink = "/Orungal/"
 title = "Orungal"
 rodzajelekow = [ "Leki przeciwgrzybicze",]
 aliases = [ "/atopedia/Orungal/",]
+lastmod = "2016-11-19T15:25:23+00:00"
 
 +++
 

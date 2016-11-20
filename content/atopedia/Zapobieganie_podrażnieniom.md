@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Zapobieganie_podrażnieniom/"
 title = "Zapobieganie podrażnieniom"
 kategorie = [ "podstawowe wiadomości",]
+lastmod = "2016-11-19T15:25:23+00:00"
 
 +++
 

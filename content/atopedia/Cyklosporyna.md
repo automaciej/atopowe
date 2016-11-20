@@ -4,6 +4,7 @@ permalink = "/Cyklosporyna/"
 title = "Cyklosporyna"
 kategorie = [ "substancje aktywne", "leki immunosupresyjne",]
 aliases = [ "/atopedia/Ciclosporinum/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

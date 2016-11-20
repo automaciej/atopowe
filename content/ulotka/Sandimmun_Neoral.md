@@ -4,6 +4,7 @@ permalink = "/Sandimmun_Neoral/"
 title = "Sandimmun Neoral"
 rodzajelekow = [ "leki doustne", "leki immunosupresyjne",]
 aliases = [ "/atopedia/Sandimmun_Neoral/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

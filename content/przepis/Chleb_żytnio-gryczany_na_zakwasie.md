@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Chleb_żytnio-gryczany_na_zakwasie/"
 title = "Chleb żytnio-gryczany na zakwasie"
 rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna",]
+lastmod = "2016-11-17T21:14:06+00:00"
 
 +++
 

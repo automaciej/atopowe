@@ -4,6 +4,7 @@ permalink = "/Diflucan/"
 title = "Diflucan"
 rodzajelekow = [ "Leki przeciwgrzybicze",]
 aliases = [ "/atopedia/Diflucan/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

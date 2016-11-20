@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Kruche_ciasteczka/"
 title = "Kruche ciasteczka"
 rodzajeprzepisow = [ "przepisy",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

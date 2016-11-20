@@ -4,6 +4,7 @@ permalink = "/Nystatyna/"
 title = "Nystatyna"
 rodzajelekow = [ "Leki przeciwgrzybicze",]
 aliases = [ "/atopedia/Nystatyna",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

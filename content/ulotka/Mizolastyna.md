@@ -4,6 +4,7 @@ permalink = "/Mizolastyna/"
 title = "Mizolastyna"
 rodzajelekow = [ "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 aliases = [ "/atopedia/Mizolastyna/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

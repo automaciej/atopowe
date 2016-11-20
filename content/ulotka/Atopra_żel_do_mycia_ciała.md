@@ -4,6 +4,7 @@ permalink = "/Atopra_żel_do_mycia_ciała/"
 title = "Atopra żel do mycia ciała"
 rodzajelekow = [ "kosmetyki", "preparaty zawierające mocznik",]
 aliases = [ "/atopedia/Atopra_żel_do_mycia_ciała/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

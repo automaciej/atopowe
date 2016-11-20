@@ -4,6 +4,7 @@ permalink = "/Atopra_szampon/"
 title = "Atopra szampon"
 rodzajelekow = [ "szampony", "preparaty zawierające mocznik",]
 aliases = [ "/atopedia/Atopra_szampon/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

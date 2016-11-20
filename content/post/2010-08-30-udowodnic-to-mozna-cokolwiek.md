@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Nauka"]
+kategorie = [ "Nauka",]
 date = "2010-08-30"
 layout = "post"
-tags = ["Ben Goldacre"]
+tags = [ "Ben Goldacre",]
 title = "Udowodnić to można cokolwiek"
 url = "/2010/08/30/udowodnic-to-mozna-cokolwiek/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

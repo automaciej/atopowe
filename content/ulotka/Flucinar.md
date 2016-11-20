@@ -4,6 +4,7 @@ permalink = "/Flucinar/"
 title = "Flucinar"
 rodzajelekow = [ "maści", "leki sterydowe",]
 aliases = [ "/atopedia/Flucinar/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

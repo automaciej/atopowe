@@ -1,12 +1,9 @@
 +++
 date = "2016-08-30T21:24:19+01:00"
 title = "Polecani lekarze"
-aliases = [
-  "/atopedia/Dział_z_lekarzami",
-  "/atopedia/Polecani_lekarze",
-  "/atopedia/Wojewódzki_Specjalistyczny_Szpital_im._dr_Wł._Biegańskiego_w_Łodzi/",
-]
+aliases = [ "/atopedia/Dział_z_lekarzami", "/atopedia/Polecani_lekarze", "/atopedia/Wojewódzki_Specjalistyczny_Szpital_im._dr_Wł._Biegańskiego_w_Łodzi/",]
 description = "Lista polecanych lekarzy, zebrana przez użytkowników atopowe.pl"
+lastmod = "2016-11-19T15:19:25+00:00"
 
 +++
 

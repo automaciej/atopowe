@@ -4,6 +4,7 @@ permalink = "/Physiogel/"
 title = "Physiogel"
 rodzajelekow = [ "kremy", "szampony",]
 aliases = [ "/atopedia/Physiogel/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

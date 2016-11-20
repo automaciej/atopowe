@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Nauka"]
+kategorie = [ "Nauka",]
 date = "2010-05-19"
 layout = "post"
-tags = ["Ben Goldacre"]
+tags = [ "Ben Goldacre",]
 title = "Antybiotyki nie leczą przeziębienia, ale czemu pacjenci myślą, że leczą?"
 url = "/2010/05/19/antybiotyki-nie-lecza-przeziebienia-ale-czemu-pacjenci-mysla-ze-lecza/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

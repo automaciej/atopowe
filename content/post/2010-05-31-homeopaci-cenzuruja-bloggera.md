@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Kontrowersje"]
+kategorie = [ "Kontrowersje",]
 date = "2010-05-31"
 layout = "post"
-tags = ["Homeopatia"]
+tags = [ "Homeopatia",]
 title = "Homeopaci cenzurują bloggera"
 url = "/2010/05/31/homeopaci-cenzuruja-bloggera/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

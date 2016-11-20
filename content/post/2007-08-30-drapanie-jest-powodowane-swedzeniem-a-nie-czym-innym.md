@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Kontrowersje"]
+kategorie = [ "Kontrowersje",]
 date = "2007-08-30"
 layout = "post"
-tags = ["drapanie", "psychika i ciało"]
+tags = [ "drapanie", "psychika i ciało",]
 title = "Drapanie jest powodowane swędzeniem a nie czym innym"
 url = "/2007/08/30/drapanie-jest-powodowane-swedzeniem-a-nie-czym-innym/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

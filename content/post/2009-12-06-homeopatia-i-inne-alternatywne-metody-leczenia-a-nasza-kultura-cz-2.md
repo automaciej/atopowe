@@ -1,11 +1,12 @@
 +++
 author = "aksamitka"
-kategorie = ["Kontrowersje", "Pseudomedycyna"]
+kategorie = [ "Kontrowersje", "Pseudomedycyna",]
 date = "2009-12-06"
 layout = "post"
-tags = ["Homeopatia"]
+tags = [ "Homeopatia",]
 title = "Homeopatia i inne alternatywne metody leczenia a nasza kultura cz. 2"
 url = "/2009/12/06/homeopatia-i-inne-alternatywne-metody-leczenia-a-nasza-kultura-cz-2/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

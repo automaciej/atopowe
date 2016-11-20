@@ -4,6 +4,7 @@ permalink = "/Kuterid/"
 title = "Kuterid"
 rodzajelekow = [ "leki sterydowe", "maści", "kremy",]
 aliases = [ "/atopedia/Kuterid/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

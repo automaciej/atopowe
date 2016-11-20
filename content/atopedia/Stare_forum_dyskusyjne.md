@@ -2,7 +2,8 @@
 date = "2016-11-15T08:56:48Z"
 title = "Stare forum dyskusyjne"
 slug = "Stare_forum_dyskusyjne"
-kategorie = [ "forum", ]
+kategorie = [ "forum",]
+lastmod = "2016-11-20T13:50:40+00:00"
 
 +++
 

@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Nauka"]
+kategorie = [ "Nauka",]
 date = "2008-07-30"
 layout = "post"
-tags = ["Leki biologiczne"]
+tags = [ "Leki biologiczne",]
 title = "Czym są leki biologiczne?"
 url = "/2008/07/30/czym-sa-leki-biologiczne/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

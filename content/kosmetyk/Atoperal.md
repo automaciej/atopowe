@@ -4,6 +4,7 @@ permalink = "/Atoperal/"
 title = "Atoperal"
 rodzajelekow = [ "kosmetyki",]
 aliases = [ "/atopedia/Atoperal/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

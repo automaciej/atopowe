@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Kontrowersje", "Książka"]
+kategorie = [ "Kontrowersje", "Książka",]
 date = "2008-02-25"
 layout = "post"
-tags = ["chemia", "John Diamond"]
+tags = [ "chemia", "John Diamond",]
 title = "Czy leki naturalne są lepsze od chemicznych?"
 url = "/2008/02/25/czy-leki-naturalne-sa-lepsze-od-chemicznych/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

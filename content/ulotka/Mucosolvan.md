@@ -4,6 +4,7 @@ permalink = "/Mucosolvan/"
 title = "Mucosolvan"
 rodzajelekow = [ "leki",]
 aliases = [ "/atopedia/Mucosolvan/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

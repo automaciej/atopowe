@@ -3,11 +3,8 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Objawy_atopowego_zapalenia_skóry/"
 title = "Objawy atopowego zapalenia skóry"
 kategorie = [ "objawy atopowego zapalenia skóry",]
-aliases = [
-  "/atopedia/Objawy/",
-  "/atopedia/Charakterystyczne_objawy/",
-  "/atopedia/Objawy_atopowego_zapalenie_skóry/",
-]
+aliases = [ "/atopedia/Objawy/", "/atopedia/Charakterystyczne_objawy/", "/atopedia/Objawy_atopowego_zapalenie_skóry/",]
+lastmod = "2016-11-19T15:25:23+00:00"
 
 +++
 

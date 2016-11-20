@@ -1,11 +1,12 @@
 +++
 author = "Ashitaka"
-kategorie = ["Leczenie", "Objawy"]
+kategorie = [ "Leczenie", "Objawy",]
 date = "2010-09-08"
 layout = "post"
-tags = ["psychika i ciało"]
+tags = [ "psychika i ciało",]
 title = "Opryszczka z bonusem"
 url = "/2010/09/08/opryszczka-z-bonusem/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Drapanie/"
 title = "Drapanie"
 kategorie = [ "objawy atopowego zapalenia skóry",]
+lastmod = "2016-11-20T19:36:58+00:00"
 
 +++
 

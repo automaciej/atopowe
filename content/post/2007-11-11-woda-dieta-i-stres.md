@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Środowisko"]
+kategorie = [ "Środowisko",]
 date = "2007-11-10"
 layout = "post"
-tags = ["dieta", "przyczyny", "stres", "woda"]
+tags = [ "dieta", "przyczyny", "stres", "woda",]
 title = "Woda, dieta i stres"
 url = "/2007/11/11/woda-dieta-i-stres/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

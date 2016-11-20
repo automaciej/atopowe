@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Kontrowersje", "Pseudomedycyna"]
+kategorie = [ "Kontrowersje", "Pseudomedycyna",]
 date = "2008-07-13"
 layout = "post"
-tags = ["Homeopatia"]
+tags = [ "Homeopatia",]
 title = "Homeopatia ponad prawem"
 url = "/2008/07/13/homeopatia-ponad-prawem/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

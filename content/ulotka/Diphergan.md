@@ -4,6 +4,7 @@ permalink = "/Diphergan/"
 title = "Diphergan"
 rodzajelekow = [ "leki antyhistaminowe", "Leki antyhistaminowe I generacji",]
 aliases = [ "/atopedia/Diphergan/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

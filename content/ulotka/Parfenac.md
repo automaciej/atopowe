@@ -4,6 +4,7 @@ permalink = "/Parfenac/"
 title = "Parfenac"
 rodzajelekow = [ "maści",]
 aliases = [ "/atopedia/Parfenac/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

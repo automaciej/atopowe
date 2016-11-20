@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Jak_stosować_Protopic_i_Elidel/"
 title = "Jak stosować Protopic i Elidel"
 kategorie = [ "leki immunosupresyjne", "terapia",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

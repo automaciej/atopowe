@@ -1,11 +1,12 @@
 +++
 author = "Ashitaka"
-kategorie = ["Środowisko", "W społeczeństwie"]
+kategorie = [ "Środowisko", "W społeczeństwie",]
 date = "2010-06-30"
 layout = "post"
-tags = ["dzieci", "życie"]
+tags = [ "dzieci", "życie",]
 title = "Życie z AZS"
 url = "/2010/06/30/zycie-z-azs/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

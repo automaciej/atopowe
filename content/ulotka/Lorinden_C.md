@@ -4,6 +4,7 @@ permalink = "/Lorinden_C/"
 title = "Lorinden C"
 rodzajelekow = [ "leki sterydowe", "maści",]
 aliases = [ "/atopedia/Lorinden_C/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

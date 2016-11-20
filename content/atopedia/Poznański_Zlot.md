@@ -5,6 +5,7 @@ title = "Poznański Zlot"
 kategorie = [ "Spotkania",]
 description = "Po lewej Basia, w środku Rholna, a po prawej Elemental"
 image = "/images/PoznanskiZlot01.jpg"
+lastmod = "2016-11-20T13:53:20+00:00"
 
 +++
 

@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Kontrowersje"]
+kategorie = [ "Kontrowersje",]
 date = "2008-11-13"
 layout = "post"
-tags = ["chemia"]
+tags = [ "chemia",]
 title = "Środki piorące bez chemii"
 url = "/2008/11/13/srodki-piorace-bez-chemii/"
+lastmod = "2016-11-19T15:19:25+00:00"
 
 +++
 

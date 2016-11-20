@@ -4,6 +4,7 @@ permalink = "/Flonidan/"
 title = "Flonidan"
 rodzajelekow = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe II generacji", "leki zawierające loratadynę",]
 aliases = [ "/atopedia/Flonidan/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

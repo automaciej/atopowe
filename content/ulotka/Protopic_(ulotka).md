@@ -4,6 +4,7 @@ permalink = "/Protopic_(ulotka)/"
 title = "Protopic (ulotka)"
 rodzajelekow = [ "maści", "leki immunosupresyjne",]
 aliases = [ "/atopedia/Protopic_(ulotka)/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Leczenie"]
+kategorie = [ "Leczenie",]
 date = "2010-12-08"
 layout = "post"
-tags = ["humor"]
+tags = [ "humor",]
 title = "Wypisy z kart pacjentów"
 url = "/2010/12/08/wypisy-z-kart-pacjentow/"
+lastmod = "2016-11-19T15:19:25+00:00"
 
 +++
 

@@ -1,10 +1,11 @@
 +++
 author = "Wahwah"
-kategorie = ["Objawy"]
+kategorie = [ "Objawy",]
 date = "2008-02-21"
 layout = "post"
 title = "Co to znaczy, „atopowy”?"
 url = "/2008/02/21/co-to-znaczy-atopowy/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

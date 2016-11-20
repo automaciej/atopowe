@@ -1,16 +1,14 @@
 +++
 author = "dexter"
-kategorie = ["Książka", "Nauka"]
+kategorie = [ "Książka", "Nauka",]
 date = "2010-05-09"
 layout = "post"
-tags = ["Robert M. Sapolsky"]
+tags = [ "Robert M. Sapolsky",]
 title = "Dlaczego zebry nie mają wrzodów?"
 url = "/2010/05/09/dlaczego-zebry-nie-maja-wrzodow/"
-description = """
-Kompendium współczesnej wiedzy na temat psychofizjologii stresu, \
-łączące perspektywy czterech dyscyplin: psychologii, neurologii, immunologii i \
-endokrynologii."""
+description = "Kompendium współczesnej wiedzy na temat psychofizjologii stresu, łączące perspektywy czterech dyscyplin: psychologii, neurologii, immunologii i endokrynologii."
 image = "/wp-content/uploads/2010/05/4844481.jpg"
+lastmod = "2016-11-19T15:19:25+00:00"
 
 +++
 

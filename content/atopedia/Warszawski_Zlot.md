@@ -3,9 +3,9 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Warszawski_Zlot/"
 title = "Warszawski Zlot"
 kategorie = [ "Spotkania",]
-description = """
-Zdjęcia ze spotkań forumowiczów w Warszawie"""
+description = "Zdjęcia ze spotkań forumowiczów w Warszawie"
 image = "/images/WarszawskiZlot01.jpg"
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

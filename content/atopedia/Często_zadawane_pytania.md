@@ -4,6 +4,7 @@ permalink = "/Często_zadawane_pytania/"
 title = "Często zadawane pytania"
 kategorie = [ "Podstawowe wiadomości",]
 aliases = [ "/atopedia/Gojenie/",]
+lastmod = "2016-11-20T13:53:20+00:00"
 
 +++
 

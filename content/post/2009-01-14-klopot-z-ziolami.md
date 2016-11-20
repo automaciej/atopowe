@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Kontrowersje", "Nauka", "Pseudomedycyna"]
+kategorie = [ "Kontrowersje", "Nauka", "Pseudomedycyna",]
 date = "2009-01-14"
 layout = "post"
-tags = ["Ben Goldacre", "chemia"]
+tags = [ "Ben Goldacre", "chemia",]
 title = "Kłopot z ziołami"
 url = "/2009/01/14/klopot-z-ziolami/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

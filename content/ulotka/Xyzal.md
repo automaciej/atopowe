@@ -4,6 +4,7 @@ permalink = "/Xyzal/"
 title = "Xyzal"
 rodzajelekow = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe III generacji",]
 aliases = [ "/atopedia/Xyzal/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

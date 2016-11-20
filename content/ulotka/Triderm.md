@@ -4,6 +4,7 @@ permalink = "/Triderm/"
 title = "Triderm"
 rodzajelekow = [ "leki sterydowe", "antybiotyki", "leki przeciwgrzybicze", "kremy",]
 aliases = [ "/atopedia/Triderm/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

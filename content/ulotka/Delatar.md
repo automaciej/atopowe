@@ -4,6 +4,7 @@ permalink = "/Delatar/"
 title = "Delatar"
 rodzajelekow = [ "maści z dziegciem", "maści",]
 aliases = [ "/atopedia/Delatar/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

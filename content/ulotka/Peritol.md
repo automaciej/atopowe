@@ -4,6 +4,7 @@ permalink = "/Peritol/"
 title = "Peritol"
 rodzajelekow = [ "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
 aliases = [ "/atopedia/Peritol/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

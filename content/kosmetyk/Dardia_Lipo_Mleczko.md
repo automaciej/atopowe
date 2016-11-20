@@ -4,6 +4,7 @@ permalink = "/Dardia_Lipo_Mleczko/"
 title = "Dardia Lipo Mleczko"
 kategorie = [ "emolienty", "preparaty zawierające mocznik",]
 aliases = [ "/atopedia/Dardia_Lipo_Mleczko/",]
+lastmod = "2016-11-19T18:17:48+00:00"
 
 +++
 

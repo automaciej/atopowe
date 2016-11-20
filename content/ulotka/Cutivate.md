@@ -4,6 +4,7 @@ permalink = "/Cutivate/"
 title = "Cutivate"
 rodzajelekow = [ "leki sterydowe", "maści",]
 aliases = [ "/atopedia/Cutivate/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

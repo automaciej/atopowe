@@ -4,6 +4,7 @@ permalink = "/Takrolimus/"
 title = "Takrolimus"
 kategorie = [ "substancje aktywne", "Leki immunosupresyjne",]
 aliases = [ "/atopedia/Tacrolimus/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

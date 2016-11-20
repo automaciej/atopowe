@@ -4,6 +4,7 @@ permalink = "/Linomag/"
 title = "Linomag"
 rodzajelekow = [ "maści", "kremy", "emolienty",]
 aliases = [ "/atopedia/Linomag/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

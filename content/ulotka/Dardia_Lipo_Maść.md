@@ -4,6 +4,7 @@ permalink = "/Dardia_Lipo_Maść/"
 title = "Dardia Lipo Maść"
 rodzajelekow = [ "maści", "preparaty zawierające mocznik",]
 aliases = [ "/atopedia/Dardia_Lipo_Maść/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

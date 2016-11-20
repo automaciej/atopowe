@@ -4,6 +4,7 @@ permalink = "/Pi_Yan_Ping/"
 title = "Pi Yan Ping („Maść 999”)"
 kategorie = [ "Leki sterydowe",]
 aliases = [ "/atopedia/Piyan_Ping/", "/atopedia/Maść_999/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

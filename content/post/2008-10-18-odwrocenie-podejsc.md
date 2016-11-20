@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Kontrowersje", "Pseudomedycyna"]
+kategorie = [ "Kontrowersje", "Pseudomedycyna",]
 date = "2008-10-18"
 layout = "post"
-tags = ["Ben Goldacre", "Homeopatia"]
+tags = [ "Ben Goldacre", "Homeopatia",]
 title = "Odwrócenie podejść"
 url = "/2008/10/18/odwrocenie-podejsc/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

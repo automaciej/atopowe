@@ -1,10 +1,11 @@
 +++
 author = "Wahwah"
-kategorie = ["Kontrowersje", "Leczenie", "Pseudomedycyna"]
+kategorie = [ "Kontrowersje", "Leczenie", "Pseudomedycyna",]
 date = "2008-02-17"
 layout = "post"
 title = "Muszę spróbować wszystkiego"
 url = "/2008/02/17/musze-sprobowac-wszystkiego/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

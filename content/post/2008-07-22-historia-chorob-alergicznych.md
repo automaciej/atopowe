@@ -1,11 +1,12 @@
 +++
 author = "aksamitka"
-kategorie = ["Leczenie", "Nauka"]
+kategorie = [ "Leczenie", "Nauka",]
 date = "2008-07-22"
 layout = "post"
-tags = ["historia"]
+tags = [ "historia",]
 title = "Historia chorób alergicznych"
 url = "/2008/07/22/historia-chorob-alergicznych/"
+lastmod = "2016-11-19T15:19:25+00:00"
 
 +++
 

@@ -1,10 +1,11 @@
 +++
 author = "Wahwah"
-kategorie = ["Kontrowersje"]
+kategorie = [ "Kontrowersje",]
 date = "2008-10-05"
 layout = "post"
 title = "Czy dyplom wystarczy"
 url = "/2008/10/05/czy-dyplom-wystarczy/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

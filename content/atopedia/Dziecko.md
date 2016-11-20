@@ -4,6 +4,7 @@ permalink = "/Dziecko/"
 title = "Dziecko"
 kategorie = [ "atopowe zapalenie skóry u dzieci",]
 aliases = [ "/atopedia/Dzieci/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

@@ -3,11 +3,9 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Pielęgnacja_dłoni/"
 title = "Pielęgnacja dłoni"
 kategorie = [ "Pielęgnacja",]
-description = """
-Chroń swoje ręce przed bezpośrednim kontaktem z mydłami, detergentami, \
-proszkami do szorowania i podobnymi drażniącymi chemikaliami poprzez \
-noszenie wodoszczelnych rękawiczek wyścielanych bawełną."""
+description = "Chroń swoje ręce przed bezpośrednim kontaktem z mydłami, detergentami, proszkami do szorowania i podobnymi drażniącymi chemikaliami poprzez noszenie wodoszczelnych rękawiczek wyścielanych bawełną."
 image = "/images/dłonie.jpg"
+lastmod = "2016-11-20T13:29:09+00:00"
 
 +++
 

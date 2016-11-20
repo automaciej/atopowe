@@ -4,6 +4,7 @@ prowadzi_do = "http://ptca.pl"
 fa_icon = "globe"
 title = "Polskie Towarzystwo Chorób Atopowych"
 weight = 2
+lastmod = "2016-11-13T19:35:09+00:00"
 
 +++
 ![](/images/ptca_logo.png)

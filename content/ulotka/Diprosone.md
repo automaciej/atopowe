@@ -4,6 +4,7 @@ permalink = "/Diprosone/"
 title = "Diprosone"
 rodzajelekow = [ "leki sterydowe", "kremy",]
 aliases = [ "/atopedia/Diprosone/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

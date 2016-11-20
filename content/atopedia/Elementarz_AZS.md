@@ -2,11 +2,12 @@
 date = "2005-01-01T00:00:00+01:00"
 permalink = "/Elementarz_AZS/"
 title = "Elementarz AZS"
-aliases = [ "/atopedia/Podstawowe_zasady_AZS/" ]
+aliases = [ "/atopedia/Podstawowe_zasady_AZS/",]
 kategorie = [ "Podstawowe wiadomości",]
 description = "Kodeks Zeldy obowiązuje każdego, kto cierpi na atopowe zapalenie skóry."
 image = "/images/SuperAtop.png"
 author = "Zelda"
+lastmod = "2016-11-19T15:25:23+00:00"
 
 +++
 

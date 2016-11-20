@@ -1,16 +1,14 @@
 +++
 author = "dexter"
-kategorie = ["Kontrowersje", "Pseudomedycyna", "W społeczeństwie"]
+kategorie = [ "Kontrowersje", "Pseudomedycyna", "W społeczeństwie",]
 date = "2008-03-07"
 layout = "post"
-tags = ["Homeopatia"]
+tags = [ "Homeopatia",]
 title = "Homeopatia jest nieskuteczna"
 url = "/2008/03/07/homeopatia-jest-nieskuteczna/"
 image = "/images/homeopatia.jpg"
-description = """
-…na zapalenie zatok przepiszą ci oczywiście antybiotyk \
-i dodatkowo środek homeopatyczny, aby upewnić się, \
-że antybiotyk zadziała!"""
+description = "…na zapalenie zatok przepiszą ci oczywiście antybiotyk i dodatkowo środek homeopatyczny, aby upewnić się, że antybiotyk zadziała!"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

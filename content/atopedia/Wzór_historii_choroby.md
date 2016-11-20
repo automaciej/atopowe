@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Wzór_historii_choroby/"
 title = "Wzór historii choroby"
 kategorie = [ "Refundacja i pisma",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

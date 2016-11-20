@@ -4,6 +4,7 @@ permalink = "/Pozitan/"
 title = "Pozitan"
 rodzajelekow = [ "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
 aliases = [ "/atopedia/Pozitan/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

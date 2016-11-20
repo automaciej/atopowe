@@ -4,6 +4,7 @@ permalink = "/Wyprysk/"
 title = "Wyprysk"
 kategorie = [ "objawy atopowego zapalenia skóry",]
 aliases = [ "/atopedia/Wysypka/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

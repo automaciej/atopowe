@@ -4,6 +4,7 @@ permalink = "/Telfast/"
 title = "Telfast"
 rodzajelekow = [ "leki antyhistaminowe", "leki antyhistaminowe III generacji", "leki doustne",]
 aliases = [ "/atopedia/Telfast/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

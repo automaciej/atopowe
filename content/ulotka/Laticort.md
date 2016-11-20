@@ -4,6 +4,7 @@ permalink = "/Laticort/"
 title = "Laticort"
 rodzajelekow = [ "kremy", "maści", "leki sterydowe",]
 aliases = [ "/atopedia/Laticort/",]
+lastmod = "2016-11-17T00:00:15+00:00"
 
 +++
 

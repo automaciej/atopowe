@@ -2,6 +2,7 @@
 date = "2016-11-16T10:01:51Z"
 title = "Świąd"
 kategorie = [ "objawy atopowego zapalenia skóry",]
+lastmod = "2016-11-17T00:00:16+00:00"
 
 +++
 

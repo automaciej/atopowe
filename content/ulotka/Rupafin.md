@@ -4,6 +4,7 @@ permalink = "/Rupafin/"
 title = "Rupafin"
 rodzajelekow = [ "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 aliases = [ "/atopedia/Rupafin/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

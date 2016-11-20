@@ -4,6 +4,7 @@ permalink = "/Nizoral/"
 title = "Nizoral"
 rodzajelekow = [ "Leki przeciwgrzybicze", "kremy", "szampony",]
 aliases = [ "/atopedia/Nizoral/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

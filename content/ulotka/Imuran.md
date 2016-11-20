@@ -4,6 +4,7 @@ permalink = "/Imuran/"
 title = "Imuran"
 rodzajelekow = [ "leki immunosupresyjne",]
 aliases = [ "/atopedia/Imuran/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

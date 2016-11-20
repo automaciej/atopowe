@@ -4,6 +4,7 @@ permalink = "/Zyrtec/"
 title = "Zyrtec"
 rodzajelekow = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 aliases = [ "/atopedia/Zyrtec/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

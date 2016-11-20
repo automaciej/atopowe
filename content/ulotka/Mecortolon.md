@@ -4,6 +4,7 @@ permalink = "/Mecortolon/"
 title = "Mecortolon"
 rodzajelekow = [ "kremy", "leki sterydowe",]
 aliases = [ "/atopedia/Mecortolon/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

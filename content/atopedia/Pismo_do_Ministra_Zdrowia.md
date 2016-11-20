@@ -4,6 +4,7 @@ permalink = "/Pismo_do_Ministra_Zdrowia/"
 title = "Pismo do Ministra Zdrowia"
 kategorie = [ "Refundacja i pisma",]
 aliases = [ "/atopedia/Pismo_do_MZiOS_-_wersja_1/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

@@ -4,6 +4,7 @@ permalink = "/Syndety/"
 title = "Syndety"
 kategorie = [ "środki higieny",]
 aliases = [ "/atopedia/Syndet/",]
+lastmod = "2016-11-15T08:48:11+00:00"
 
 +++
 

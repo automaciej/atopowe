@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Leczenie", "Nauka"]
+kategorie = [ "Leczenie", "Nauka",]
 date = "2008-03-20"
 layout = "post"
-tags = ["Leki biologiczne"]
+tags = [ "Leki biologiczne",]
 title = "Terapia biologiczna w AZS"
 url = "/2008/03/20/terapia-biologiczna-w-azs/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

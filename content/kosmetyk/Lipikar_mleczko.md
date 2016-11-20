@@ -4,6 +4,7 @@ permalink = "/Lipikar_mleczko/"
 title = "Lipikar mleczko"
 kategorie = [ "emolienty",]
 aliases = [ "/atopedia/Lipikar_mleczko/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

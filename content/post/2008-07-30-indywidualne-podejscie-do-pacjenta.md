@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Kontrowersje", "Nauka"]
+kategorie = [ "Kontrowersje", "Nauka",]
 date = "2008-07-30"
 layout = "post"
-tags = ["eksperyment", "Homeopatia", "podwójnie ślepa próba"]
+tags = [ "eksperyment", "Homeopatia", "podwójnie ślepa próba",]
 title = "Indywidualne podejście do pacjenta"
 url = "/2008/07/30/indywidualne-podejscie-do-pacjenta/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

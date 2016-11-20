@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Nauka"]
+kategorie = [ "Nauka",]
 date = "2008-02-19"
 layout = "post"
-tags = ["Karmienie piersią"]
+tags = [ "Karmienie piersią",]
 title = "Karmienie piersią nie zmniejsza ryzyka wystąpienia AZS"
 url = "/2008/02/19/karmienie-piersia-nie-zmniejsza-ryzyka-wystapienia-azs/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

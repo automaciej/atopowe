@@ -4,6 +4,7 @@ permalink = "/Wstrząs_anafilaktyczny/"
 title = "Wstrząs anafilaktyczny"
 kategorie = [ "objawy atopowego zapalenia skóry",]
 aliases = [ "/atopedia/Zestaw_do_reanimacji/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

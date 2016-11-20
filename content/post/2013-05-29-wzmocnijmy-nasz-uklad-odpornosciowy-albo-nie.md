@@ -1,15 +1,13 @@
 +++
 author = "Wahwah"
-kategorie = ["Pseudomedycyna"]
+kategorie = [ "Pseudomedycyna",]
 date = "2013-05-29"
 layout = "post"
 title = "Wzmocnijmy nasz układ odpornościowy (albo i nie)"
 url = "/2013/05/29/wzmocnijmy-nasz-uklad-odpornosciowy-albo-nie/"
 image = "/wp-content/uploads/2013/05/huśtawka-1-300x199.jpg"
-description = """
-Opisy produktów zapewniają nas że „wzmocnią one nasz układ immunologiczny”. \
-Czy jest to możliwe, czy jest to dobry pomysł, i co to oznacza, wzmocnić \
-układ immunologiczny?"""
+description = "Opisy produktów zapewniają nas że „wzmocnią one nasz układ immunologiczny”. Czy jest to możliwe, czy jest to dobry pomysł, i co to oznacza, wzmocnić układ immunologiczny?"
+lastmod = "2016-11-19T15:19:25+00:00"
 
 +++
 

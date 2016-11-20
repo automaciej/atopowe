@@ -4,6 +4,7 @@ permalink = "/Amertil/"
 title = "Amertil"
 rodzajelekow = [ "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 aliases = [ "/atopedia/Amertil/",]
+lastmod = "2016-11-19T15:25:23+00:00"
 
 +++
 

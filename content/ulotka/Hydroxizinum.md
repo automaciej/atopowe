@@ -4,6 +4,7 @@ permalink = "/Hydroxizinum/"
 title = "Hydroxizinum"
 rodzajelekow = [ "leki doustne", "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
 aliases = [ "/atopedia/Hydroxizinum/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

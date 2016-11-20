@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Ektoina/"
 title = "Ektoina"
 kategorie = [ "substancje chemiczne", "wykłady",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

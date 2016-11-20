@@ -4,6 +4,7 @@ permalink = "/Lirra/"
 title = "Lirra"
 rodzajelekow = [ "Leki antyhistaminowe", "leki antyhistaminowe III generacji",]
 aliases = [ "/atopedia/Lirra/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

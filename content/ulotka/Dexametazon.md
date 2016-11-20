@@ -4,6 +4,7 @@ permalink = "/Dexametazon/"
 title = "Dexametazon"
 rodzajelekow = [ "substancje aktywne", "leki sterydowe",]
 aliases = [ "/atopedia/Dexametazon/",]
+lastmod = "2016-11-19T15:25:23+00:00"
 
 +++
 

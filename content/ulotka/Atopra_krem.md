@@ -4,6 +4,7 @@ permalink = "/Atopra_krem/"
 title = "Atopra krem"
 rodzajelekow = [ "emolienty", "kremy",]
 aliases = [ "/atopedia/Atopra_krem/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

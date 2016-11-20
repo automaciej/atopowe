@@ -4,6 +4,7 @@ permalink = "/Psorisan/"
 title = "Psorisan"
 rodzajelekow = [ "maści", "maści z dziegciem",]
 aliases = [ "/atopedia/Psorisan/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

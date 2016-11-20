@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Kontrowersje", "Książka", "Pseudomedycyna"]
+kategorie = [ "Kontrowersje", "Książka", "Pseudomedycyna",]
 date = "2008-02-12"
 layout = "post"
-tags = ["John Diamond"]
+tags = [ "John Diamond",]
 title = "Cudowne mikstury i inne troski"
 url = "/2008/02/12/cudowne-mikstury-i-inne-troski/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

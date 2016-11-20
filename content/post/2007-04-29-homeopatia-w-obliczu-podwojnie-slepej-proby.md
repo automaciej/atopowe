@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Kontrowersje", "Leczenie", "Nauka", "Pseudomedycyna"]
+kategorie = [ "Kontrowersje", "Leczenie", "Nauka", "Pseudomedycyna",]
 date = "2007-04-29"
 layout = "post"
-tags = ["Homeopatia", "James Randi"]
+tags = [ "Homeopatia", "James Randi",]
 title = "Homeopatia w obliczu podwójnie ślepej próby"
 url = "/2007/04/29/homeopatia-w-obliczu-podwojnie-slepej-proby/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

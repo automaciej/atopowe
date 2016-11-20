@@ -4,6 +4,7 @@ permalink = "/Neostrata_Bionic_Lotion/"
 title = "Neostrata Bionic Lotion"
 rodzajelekow = [ "emolienty",]
 aliases = [ "/atopedia/Neostrata_Bionic_Lotion/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

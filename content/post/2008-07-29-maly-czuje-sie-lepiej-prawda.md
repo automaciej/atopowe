@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Film", "Nauka", "Objawy"]
+kategorie = [ "Film", "Nauka", "Objawy",]
 date = "2008-07-29"
 layout = "post"
-tags = ["dzieci", "eksperyment", "podwójnie ślepa próba", "woda"]
+tags = [ "dzieci", "eksperyment", "podwójnie ślepa próba", "woda",]
 title = "Mały czuje się lepiej, prawda?"
 url = "/2008/07/29/maly-czuje-sie-lepiej-prawda/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

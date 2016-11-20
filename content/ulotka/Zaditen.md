@@ -4,6 +4,7 @@ permalink = "/Zaditen/"
 title = "Zaditen"
 rodzajelekow = [ "leki antyhistaminowe", "leki antyhistaminowe I generacji",]
 aliases = [ "/atopedia/Zaditen/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

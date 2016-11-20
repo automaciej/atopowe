@@ -4,6 +4,7 @@ permalink = "/Encorton/"
 title = "Encorton"
 rodzajelekow = [ "leki sterydowe",]
 aliases = [ "/atopedia/Encorton/",]
+lastmod = "2016-11-17T00:00:15+00:00"
 
 +++
 

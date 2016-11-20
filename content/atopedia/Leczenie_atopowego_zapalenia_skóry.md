@@ -3,17 +3,10 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Leczenie_atopowego_zapalenia_skóry/"
 title = "Leczenie atopowego zapalenia skóry"
 kategorie = [ "terapia",]
-aliases = [
-  "/atopedia/Medycyna_konwencjonalna/",
-  "/atopedia/Konwencjonalne_metody_leczenia/",
-  "/atopedia/Pielęgnacja/",
-  "/atopedia/Leczenie_przeciwbakteryjne/",
-  "/atopedia/Leczenie/",
-  "/atopedia/Terapia/",
-]
-description = """
-"""
+aliases = [ "/atopedia/Medycyna_konwencjonalna/", "/atopedia/Konwencjonalne_metody_leczenia/", "/atopedia/Pielęgnacja/", "/atopedia/Leczenie_przeciwbakteryjne/", "/atopedia/Leczenie/", "/atopedia/Terapia/",]
+description = ""
 image = "/images/Atopowe-diagram.png"
+lastmod = "2016-11-20T19:36:58+00:00"
 
 +++
 

@@ -4,6 +4,7 @@ permalink = "/Vitaminum_B6/"
 title = "Vitaminum B6"
 rodzajelekow = [ "leki", "leki doustne",]
 aliases = [ "/atopedia/Vitaminum_B6/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

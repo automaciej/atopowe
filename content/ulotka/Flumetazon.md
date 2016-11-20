@@ -4,6 +4,7 @@ permalink = "/Flumetazon/"
 title = "Flumetazon"
 rodzajelekow = [ "maści", "leki sterydowe",]
 aliases = [ "/atopedia/Flumetazon/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

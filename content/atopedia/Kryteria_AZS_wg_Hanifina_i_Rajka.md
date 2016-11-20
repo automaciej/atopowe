@@ -4,6 +4,7 @@ permalink = "/Kryteria_AZS_wg_Hanifina_i_Rajka/"
 title = "Kryteria AZS wg Hanifina i Rajka"
 kategorie = [ "podstawowe wiadomości", "objawy atopowego zapalenia skóry",]
 aliases = [ "/atopedia/Kryteria/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

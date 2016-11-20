@@ -4,6 +4,7 @@ permalink = "/Diprolene/"
 title = "Diprolene"
 rodzajelekow = [ "kremy", "maści", "leki sterydowe",]
 aliases = [ "/atopedia/Diprolene/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

@@ -5,6 +5,7 @@ title = "Słowniczek pojęć"
 decription = ""
 image = ""
 aliases = [ "/atopedia/UVB/", "/atopedia/Przeczosy/", "/atopedia/Tachyfilaksja/", "/atopedia/Alergologia/", "/atopedia/Psolaren/", "/atopedia/Łuszczenie/", "/atopedia/Limfocyty_B/", "/atopedia/Melanina/", "/atopedia/Przysadka_mózgowa/", "/atopedia/Uierzalf/", "/atopedia/Leki_sedatywne/", "/atopedia/Lichenizacja/", "/atopedia/Spojówka/", "/atopedia/Skóra_właściwa/", "/atopedia/Błona_śluzowa/", "/atopedia/Obrzęk_naczynioruchowy/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

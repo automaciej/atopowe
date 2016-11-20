@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Kontrowersje", "Nauka", "Środowisko"]
+kategorie = [ "Kontrowersje", "Nauka", "Środowisko",]
 date = "2008-02-01"
 layout = "post"
-tags = ["Genetyka", "przyczyny"]
+tags = [ "Genetyka", "przyczyny",]
 title = "Raczej środowisko niż genetyka"
 url = "/2008/02/01/raczej-srodowisko-niz-genetyka/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

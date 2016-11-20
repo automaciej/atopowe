@@ -1,10 +1,11 @@
 +++
 author = "Wahwah"
-kategorie = ["Kontrowersje"]
+kategorie = [ "Kontrowersje",]
 date = "2008-11-16"
 layout = "post"
 title = "Pragnienie i uczciwość"
 url = "/2008/11/16/pragnienie-i-uczciwosc/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

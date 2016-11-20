@@ -4,6 +4,7 @@ permalink = "/Przepisy_na_maści/"
 title = "Przepisy na maści"
 kategorie = [ "maści",]
 aliases = [ "/atopedia/Maści_tłuste/", "/atopedia/Maść_do_ciała_z_masłem_kakaowym/", "/atopedia/Maści_wyszperane_na_forum_gazety/", "/atopedia/Inne_maści_-_Pasta_na_odciski/", "/atopedia/Maści_przeciwgrzybicze/", "/atopedia/Maści_na_trudnogojące_się,_zakażone_i_ropiejące_rany/", "/atopedia/Maści_i_kremy_z_mocznikiem/", "/atopedia/Maść_mocznikowa/", "/atopedia/Maść_witaminowa_na_eucerynie/", "/atopedia/Maści_przeciwświerzbowe/", "/atopedia/Pasta_przeciwtrądzikowa/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

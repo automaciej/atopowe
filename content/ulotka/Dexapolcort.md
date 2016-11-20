@@ -4,6 +4,7 @@ permalink = "/Dexapolcort/"
 title = "Dexapolcort"
 rodzajelekow = [ "leki sterydowe",]
 aliases = [ "/atopedia/Dexapolcort/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

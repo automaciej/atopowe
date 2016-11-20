@@ -4,6 +4,7 @@ permalink = "/Aleric/"
 title = "Aleric"
 rodzajelekow = [ "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 aliases = [ "/atopedia/Aleric/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

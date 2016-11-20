@@ -4,6 +4,7 @@ permalink = "/Pyralginum/"
 title = "Pyralginum"
 rodzajelekow = []
 aliases = [ "/atopedia/Pyralginum/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

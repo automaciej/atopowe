@@ -4,6 +4,7 @@ permalink = "/Bepanthen_krem/"
 title = "Bepanthen krem"
 rodzajelekow = [ "kremy",]
 aliases = [ "/atopedia/Bepanthen_krem/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

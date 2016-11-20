@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Nauka"]
+kategorie = [ "Nauka",]
 date = "2008-02-21"
 layout = "post"
-tags = ["historia"]
+tags = [ "historia",]
 title = "Historia choroby"
 url = "/2008/02/21/historia-choroby/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

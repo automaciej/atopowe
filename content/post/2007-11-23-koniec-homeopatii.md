@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Kontrowersje", "Nauka", "Pseudomedycyna"]
+kategorie = [ "Kontrowersje", "Nauka", "Pseudomedycyna",]
 date = "2007-11-22"
 layout = "post"
-tags = ["Ben Goldacre", "Homeopatia"]
+tags = [ "Ben Goldacre", "Homeopatia",]
 title = "Koniec homeopatii?"
 url = "/2007/11/23/koniec-homeopatii/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

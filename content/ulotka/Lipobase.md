@@ -4,6 +4,7 @@ permalink = "/Lipobase/"
 title = "Lipobase"
 rodzajelekow = [ "Kremy", "emolienty",]
 aliases = [ "/atopedia/Lipobase/",]
+lastmod = "2016-11-19T15:25:23+00:00"
 
 +++
 

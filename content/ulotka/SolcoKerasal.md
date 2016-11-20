@@ -4,6 +4,7 @@ permalink = "/SolcoKerasal/"
 title = "SolcoKerasal"
 rodzajelekow = [ "maści", "preparaty zawierające mocznik",]
 aliases = [ "/atopedia/SolcoKerasal/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

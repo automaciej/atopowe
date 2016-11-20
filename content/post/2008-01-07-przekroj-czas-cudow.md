@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Prasa", "Pseudomedycyna"]
+kategorie = [ "Prasa", "Pseudomedycyna",]
 date = "2008-01-07"
 layout = "post"
-tags = ["Przekrój"]
+tags = [ "Przekrój",]
 title = "Przekrój: Czas cudów"
 url = "/2008/01/07/przekroj-czas-cudow/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

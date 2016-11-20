@@ -4,6 +4,7 @@ permalink = "/Hascosan_Plus/"
 title = "Hascosan Plus"
 kategorie = [ "emolienty", "preparaty zawierające mocznik",]
 aliases = [ "/atopedia/Hascosan_Plus/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

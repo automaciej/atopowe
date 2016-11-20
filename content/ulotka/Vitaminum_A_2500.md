@@ -4,6 +4,7 @@ permalink = "/Vitaminum_A_2500/"
 title = "Vitaminum A 2500"
 rodzajelekow = [ "leki", "leki doustne",]
 aliases = [ "/atopedia/Vitaminum_A_2500/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

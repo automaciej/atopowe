@@ -4,6 +4,7 @@ permalink = "/Wykład_dr_Ireny_Grzesiak/"
 title = "Wykład dr Ireny Grzesiak"
 kategorie = [ "multimedia", "Wykłady",]
 aliases = [ "/atopedia/Wykład_Ireny_Grzesiak/",]
+lastmod = "2016-11-19T18:17:48+00:00"
 
 +++
 

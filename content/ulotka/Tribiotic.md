@@ -4,6 +4,7 @@ permalink = "/Tribiotic/"
 title = "Tribiotic"
 rodzajelekow = [ "antybiotyki", "maści",]
 aliases = [ "/atopedia/Tribiotic/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

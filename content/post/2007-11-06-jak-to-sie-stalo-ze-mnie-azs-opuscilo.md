@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Leczenie", "Środowisko", "Wydarzenia"]
+kategorie = [ "Leczenie", "Środowisko", "Wydarzenia",]
 date = "2007-11-06"
 layout = "post"
-tags = ["przyczyny"]
+tags = [ "przyczyny",]
 title = "Jak to się stało że mnie AZS opuściło"
 url = "/2007/11/06/jak-to-sie-stalo-ze-mnie-azs-opuscilo/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

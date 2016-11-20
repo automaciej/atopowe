@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Kontrowersje", "Nauka", "Pseudomedycyna"]
+kategorie = [ "Kontrowersje", "Nauka", "Pseudomedycyna",]
 date = "2007-10-03"
 layout = "post"
-tags = ["Homeopatia", "psychika i ciało"]
+tags = [ "Homeopatia", "psychika i ciało",]
 title = "Co dajemy sobie wmawiać"
 url = "/2007/10/03/co-dajemy-sobie-wmawiac/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

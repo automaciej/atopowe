@@ -4,6 +4,7 @@ permalink = "/Elidel_(ulotka)/"
 title = "Elidel (ulotka)"
 rodzajelekow = [ "kremy", "leki immunosupresyjne",]
 aliases = [ "/atopedia/Elidel_(ulotka)/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

@@ -4,6 +4,7 @@ permalink = "/Belogent/"
 title = "Belogent"
 rodzajelekow = [ "maści", "leki sterydowe", "antybiotyki",]
 aliases = [ "/atopedia/Belogent/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

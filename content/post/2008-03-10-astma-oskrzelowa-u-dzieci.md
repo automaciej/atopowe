@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Leczenie", "Nauka", "Środowisko"]
+kategorie = [ "Leczenie", "Nauka", "Środowisko",]
 date = "2008-03-10"
 layout = "post"
-tags = ["astma"]
+tags = [ "astma",]
 title = "Astma oskrzelowa u dzieci"
 url = "/2008/03/10/astma-oskrzelowa-u-dzieci/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

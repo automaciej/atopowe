@@ -4,6 +4,7 @@ permalink = "/Diprosalic/"
 title = "Diprosalic"
 rodzajelekow = [ "leki sterydowe",]
 aliases = [ "/atopedia/Diprosalic/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

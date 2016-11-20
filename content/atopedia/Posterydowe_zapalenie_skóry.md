@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Posterydowe_zapalenie_skóry/"
 title = "Posterydowe zapalenie skóry"
 kategorie = [ "objawy atopowego zapalenia skóry", "Sterydy",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

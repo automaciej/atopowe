@@ -4,6 +4,7 @@ permalink = "/Pigmentum_Castellani/"
 title = "Pigmentum Castellani"
 rodzajelekow = [ "leki przeciwgrzybicze",]
 aliases = [ "/atopedia/Pigmentum_Castellani/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

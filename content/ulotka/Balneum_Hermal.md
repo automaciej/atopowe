@@ -4,6 +4,7 @@ permalink = "/Balneum_Hermal/"
 title = "Balneum Hermal"
 rodzajelekow = [ "emolienty",]
 aliases = [ "/atopedia/Balneum_Hermal/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

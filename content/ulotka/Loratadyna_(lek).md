@@ -2,18 +2,9 @@
 date = "2005-01-01T00:00:00+01:00"
 permalink = "/Loratadyna_(lek)/"
 title = "Loratadyna (lek)"
-rodzajelekow = [
-  "leki antyhistaminowe",
-  "leki antyhistaminowe II generacji",
-  "leki doustne",
-  "leki zawierające loratadynę",
-]
-aliases = [
-  "/atopedia/Loratadyna_(lek)/",
-  "/atopedia/Loratadyna/",
-  "/atopedia/Loratine/",
-  "/atopedia/Loratin/",
-]
+rodzajelekow = [ "leki antyhistaminowe", "leki antyhistaminowe II generacji", "leki doustne", "leki zawierające loratadynę",]
+aliases = [ "/atopedia/Loratadyna_(lek)/", "/atopedia/Loratadyna/", "/atopedia/Loratine/", "/atopedia/Loratin/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

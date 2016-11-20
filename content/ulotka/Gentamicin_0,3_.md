@@ -4,6 +4,7 @@ permalink = "/Gentamicin_0,3%/"
 title = "Gentamicin 0,3%"
 rodzajelekow = [ "antybiotyki",]
 aliases = [ "/atopedia/Gentamicin_0,3%/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

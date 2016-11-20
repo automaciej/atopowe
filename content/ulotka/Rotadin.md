@@ -4,6 +4,7 @@ permalink = "/Rotadin/"
 title = "Rotadin"
 rodzajelekow = [ "leki zawierające loratadynę", "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 aliases = [ "/atopedia/Rotadin/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

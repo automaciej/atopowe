@@ -4,6 +4,7 @@ permalink = "/Oksykort_A/"
 title = "Oksykort A"
 rodzajelekow = [ "maści", "leki sterydowe", "antybiotyki",]
 aliases = [ "/atopedia/Oksykort_A/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

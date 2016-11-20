@@ -4,6 +4,7 @@ permalink = "/Tetralysal/"
 title = "Tetralysal"
 rodzajelekow = [ "antybiotyki",]
 aliases = [ "/atopedia/Tetralysal/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

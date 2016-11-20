@@ -4,6 +4,7 @@ permalink = "/Pilarix/"
 title = "Pilarix"
 rodzajelekow = [ "emolienty", "kremy", "preparaty zawierające mocznik",]
 aliases = [ "/atopedia/Pilarix/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

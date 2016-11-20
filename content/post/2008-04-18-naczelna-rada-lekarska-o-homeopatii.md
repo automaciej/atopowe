@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Kontrowersje", "Pseudomedycyna"]
+kategorie = [ "Kontrowersje", "Pseudomedycyna",]
 date = "2008-04-18"
 layout = "post"
-tags = ["Homeopatia"]
+tags = [ "Homeopatia",]
 title = "Naczelna Rada Lekarska o homeopatii"
 url = "/2008/04/18/naczelna-rada-lekarska-o-homeopatii/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

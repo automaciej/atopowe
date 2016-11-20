@@ -1,13 +1,10 @@
 +++
 date = "2016-11-13T16:29:18Z"
-# prowadzi_do = ""
 title = "Porozmawiaj z innymi"
 weight = 4
-aliases = [
-  "/atopedia/Forum_dyskusyjne/",
-  "/atopedia/Forum/",
-]
+aliases = [ "/atopedia/Forum_dyskusyjne/", "/atopedia/Forum/",]
 kategorie = [ "forum",]
+lastmod = "2016-11-20T13:50:40+00:00"
 
 +++
 Osoby z atopowym zapaleniem skóry rzadko mają okazję spotkać innych atopowców,

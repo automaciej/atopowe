@@ -4,6 +4,7 @@ permalink = "/Allertec/"
 title = "Allertec"
 rodzajelekow = [ "leki antyhistaminowe", "leki antyhistaminowe II generacji",]
 aliases = [ "/atopedia/Allertec/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

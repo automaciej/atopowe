@@ -4,6 +4,7 @@ permalink = "/Bepanthen_maść/"
 title = "Bepanthen maść"
 rodzajelekow = [ "maści",]
 aliases = [ "/atopedia/Bepanthen_maść/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

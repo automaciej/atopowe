@@ -5,6 +5,7 @@ title = "Podstawowe wiadomości o atopowym zapaleniu skóry"
 kategorie = [ "Podstawowe wiadomości",]
 image = "/images/Atopowe-diagram.png"
 description = "Informacje o przyczynach AZS oraz leczeniu, informacje od podstaw."
+lastmod = "2016-11-20T19:36:58+00:00"
 
 +++
 ## Co to jest atopowe zapalenie skóry?

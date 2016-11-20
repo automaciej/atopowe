@@ -1,10 +1,11 @@
 +++
 author = "magda2em"
-kategorie = ["Dom", "Objawy", "Pielęgnacja"]
+kategorie = [ "Dom", "Objawy", "Pielęgnacja",]
 date = "2011-06-13"
 layout = "post"
 title = "Instrukcja obsługi atopika – część III"
 url = "/2011/06/13/instrukcja-obslugi-atopika-czesc-iii/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

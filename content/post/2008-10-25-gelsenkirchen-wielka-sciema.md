@@ -1,10 +1,11 @@
 +++
 author = "aksamitka"
-kategorie = ["Forum", "Kontrowersje"]
+kategorie = [ "Forum", "Kontrowersje",]
 date = "2008-10-25"
 layout = "post"
 title = "Gelsenkirchen – wielka ściema?"
 url = "/2008/10/25/gelsenkirchen-wielka-sciema/"
+lastmod = "2016-11-19T15:19:25+00:00"
 
 +++
 

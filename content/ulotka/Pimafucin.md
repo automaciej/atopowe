@@ -4,6 +4,7 @@ permalink = "/Pimafucin/"
 title = "Pimafucin"
 rodzajelekow = [ "antybiotyki", "leki przeciwgrzybicze", "kremy",]
 aliases = [ "/atopedia/Pimafucin/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

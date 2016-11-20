@@ -4,6 +4,7 @@ permalink = "/Polytar_AF/"
 title = "Polytar AF"
 rodzajelekow = [ "szampony", "leki przeciwgrzybicze",]
 aliases = [ "/atopedia/Polytar_AF/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

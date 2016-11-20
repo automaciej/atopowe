@@ -1,11 +1,12 @@
 +++
 author = "aksamitka"
-kategorie = ["Kontrowersje", "Leczenie", "Pseudomedycyna"]
+kategorie = [ "Kontrowersje", "Leczenie", "Pseudomedycyna",]
 date = "2008-08-21"
 layout = "post"
-tags = ["Homeopatia"]
+tags = [ "Homeopatia",]
 title = "Kim są cudowni uzdrowiciele?"
 url = "/2008/08/21/kim-sa-cudowni-uzdrowiciele/"
+lastmod = "2016-11-19T15:19:25+00:00"
 
 +++
 

@@ -4,6 +4,7 @@ permalink = "/Alergiczny_nieżyt_nosa/"
 title = "Alergiczny nieżyt nosa"
 kategorie = [ "Alergia",]
 aliases = [ "/atopedia/Katar_sienny/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

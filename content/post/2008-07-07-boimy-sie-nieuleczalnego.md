@@ -1,10 +1,11 @@
 +++
 author = "aksamitka"
-kategorie = ["W społeczeństwie"]
+kategorie = [ "W społeczeństwie",]
 date = "2008-07-07"
 layout = "post"
 title = "Boimy się nieuleczalnego"
 url = "/2008/07/07/boimy-sie-nieuleczalnego/"
+lastmod = "2016-11-19T15:19:25+00:00"
 
 +++
 

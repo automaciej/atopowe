@@ -4,6 +4,7 @@ permalink = "/Claritine/"
 title = "Claritine"
 rodzajelekow = [ "Leki antyhistaminowe", "leki antyhistaminowe III generacji", "leki zawierające loratadynę",]
 aliases = [ "/atopedia/Claritine/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

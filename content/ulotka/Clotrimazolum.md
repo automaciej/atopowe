@@ -4,6 +4,7 @@ permalink = "/Clotrimazolum/"
 title = "Clotrimazolum"
 rodzajelekow = [ "Leki przeciwgrzybicze", "kremy",]
 aliases = [ "/atopedia/Clotrimazolum/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

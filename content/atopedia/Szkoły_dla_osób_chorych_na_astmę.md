@@ -4,6 +4,7 @@ permalink = "/Szkoły_dla_osób_chorych_na_astmę/"
 title = "Szkoły dla osób chorych na astmę"
 kategorie = [ "astma",]
 aliases = [ "/atopedia/Szkoła_dla_Osób_Chorych_na_Astmę/",]
+lastmod = "2016-11-19T15:25:23+00:00"
 
 +++
 

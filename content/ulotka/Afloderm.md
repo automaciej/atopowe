@@ -4,6 +4,7 @@ permalink = "/Afloderm/"
 title = "Afloderm"
 rodzajelekow = [ "kremy", "leki sterydowe",]
 aliases = [ "/atopedia/Afloderm/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

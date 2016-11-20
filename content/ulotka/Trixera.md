@@ -4,6 +4,7 @@ permalink = "/Trixera/"
 title = "Trixera"
 rodzajelekow = [ "kosmetyki",]
 aliases = [ "/atopedia/Trixera/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

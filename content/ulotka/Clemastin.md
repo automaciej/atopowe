@@ -3,10 +3,8 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Clemastin/"
 title = "Clemastin"
 rodzajelekow = [ "leki doustne", "zastrzyki", "leki antyhistaminowe", "Leki antyhistaminowe I generacji",]
-aliases = [
-  "/atopedia/Clemastin/",
-  "/atopedia/Tavegyl/",
-]
+aliases = [ "/atopedia/Clemastin/", "/atopedia/Tavegyl/",]
+lastmod = "2016-11-19T15:19:20+00:00"
 
 +++
 

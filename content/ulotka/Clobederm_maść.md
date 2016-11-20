@@ -4,6 +4,7 @@ permalink = "/Clobederm_maść/"
 title = "Clobederm maść"
 rodzajelekow = [ "maści", "leki sterydowe",]
 aliases = [ "/atopedia/Clobederm_maść/",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

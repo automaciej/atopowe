@@ -4,6 +4,7 @@ permalink = "/Suchość_skóry/"
 title = "Suchość skóry"
 kategorie = [ "objawy atopowego zapalenia skóry",]
 aliases = [ "/atopedia/Sucha_skóra/",]
+lastmod = "2016-11-19T15:19:26+00:00"
 
 +++
 

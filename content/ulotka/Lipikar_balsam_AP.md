@@ -4,6 +4,7 @@ permalink = "/Lipikar_balsam_AP/"
 title = "Lipikar balsam AP"
 rodzajelekow = [ "emolienty",]
 aliases = [ "/atopedia/Lipikar_balsam_AP/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

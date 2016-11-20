@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Pseudomedycyna", "W społeczeństwie", "Wydarzenia"]
+kategorie = [ "Pseudomedycyna", "W społeczeństwie", "Wydarzenia",]
 date = "2010-11-08"
 layout = "post"
-tags = ["James Randi", "Rhys Morgan"]
+tags = [ "James Randi", "Rhys Morgan",]
 title = "Afera wybielaczowa"
 url = "/2010/11/08/afera-wybielaczowa/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

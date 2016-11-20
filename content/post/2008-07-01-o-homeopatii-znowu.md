@@ -1,11 +1,12 @@
 +++
 author = "aksamitka"
-kategorie = ["Pseudomedycyna"]
+kategorie = [ "Pseudomedycyna",]
 date = "2008-07-01"
 layout = "post"
-tags = ["Homeopatia"]
+tags = [ "Homeopatia",]
 title = "O homeopatii znowu"
 url = "/2008/07/01/o-homeopatii-znowu/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

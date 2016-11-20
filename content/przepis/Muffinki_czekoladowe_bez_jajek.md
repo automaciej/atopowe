@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Muffinki_czekoladowe_bez_jajek/"
 title = "Muffinki czekoladowe bez jajek"
 rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna plus pszenica",]
+lastmod = "2016-11-20T13:29:12+00:00"
 
 +++
 

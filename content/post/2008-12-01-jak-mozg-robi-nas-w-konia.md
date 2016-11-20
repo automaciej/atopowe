@@ -1,12 +1,13 @@
 +++
 author = "dexter"
-kategorie = ["Film", "Nauka"]
+kategorie = [ "Film", "Nauka",]
 date = "2008-12-01"
-enclosure = ["|\n    http://www.atopowe-zapalenie.pl/media/2008-11-15-Przybylek.avi\n    7204164\n    video/x-msvideo\n    \n"]
+enclosure = [ "|\n    http://www.atopowe-zapalenie.pl/media/2008-11-15-Przybylek.avi\n    7204164\n    video/x-msvideo\n    \n",]
 layout = "post"
-tags = ["mózg"]
+tags = [ "mózg",]
 title = "Jak mózg robi nas w konia"
 url = "/2008/12/01/jak-mozg-robi-nas-w-konia/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

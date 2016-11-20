@@ -1,10 +1,9 @@
 +++
 date = "2016-11-13T23:36:06Z"
 draft = false
-# fa_icon = "book"
-# prowadzi_do = "/url"
 title = "Atopowe.pl"
 weight = 3
+lastmod = "2016-11-13T23:51:16+00:00"
 
 +++
 

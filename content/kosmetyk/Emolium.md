@@ -3,6 +3,7 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Emolium/"
 title = "Emolium"
 rodzajekosmetykow = [ "emolienty", "kosmetyki", "kremy", "preparaty zawierające mocznik",]
+lastmod = "2016-11-17T21:14:06+00:00"
 
 +++
 

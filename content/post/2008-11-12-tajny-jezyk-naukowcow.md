@@ -1,11 +1,12 @@
 +++
 author = "Wahwah"
-kategorie = ["Nauka"]
+kategorie = [ "Nauka",]
 date = "2008-11-12"
 layout = "post"
-tags = ["humor"]
+tags = [ "humor",]
 title = "Tajny język naukowców"
 url = "/2008/11/12/tajny-jezyk-naukowcow/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

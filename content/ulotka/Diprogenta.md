@@ -4,6 +4,7 @@ permalink = "/Diprogenta/"
 title = "Diprogenta"
 rodzajelekow = [ "maści", "kremy", "leki sterydowe", "antybiotyki",]
 aliases = [ "/atopedia/Diprogenta/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

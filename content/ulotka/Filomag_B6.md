@@ -4,6 +4,7 @@ permalink = "/Filomag_B6/"
 title = "Filomag B6"
 rodzajelekow = [ "leki", "leki doustne",]
 aliases = [ "/atopedia/Filomag_B6/",]
+lastmod = "2016-11-17T21:14:06+00:00"
 
 +++
 

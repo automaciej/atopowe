@@ -4,6 +4,7 @@ permalink = "/Squamax/"
 title = "Squamax"
 rodzajelekow = [ "preparaty zawierające mocznik", "kosmetyki",]
 aliases = [ "/atopedia/Squamax/",]
+lastmod = "2016-11-13T10:40:51+00:00"
 
 +++
 

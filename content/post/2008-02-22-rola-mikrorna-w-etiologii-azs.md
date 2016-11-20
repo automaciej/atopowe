@@ -1,11 +1,12 @@
 +++
 author = "dexter"
-kategorie = ["Nauka"]
+kategorie = [ "Nauka",]
 date = "2008-02-22"
 layout = "post"
-tags = ["Genetyka", "microRNA"]
+tags = [ "Genetyka", "microRNA",]
 title = "Rola mikroRNA w etiologii AZS"
 url = "/2008/02/22/rola-mikrorna-w-etiologii-azs/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 

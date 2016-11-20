@@ -1,11 +1,12 @@
 +++
 author = "ewaela"
-kategorie = ["Leczenie", "Objawy", "Pielęgnacja", "Portal", "W społeczeństwie", "Wydarzenia"]
+kategorie = [ "Leczenie", "Objawy", "Pielęgnacja", "Portal", "W społeczeństwie", "Wydarzenia",]
 date = "2012-10-04"
 layout = "post"
-tags = ["fundacja alabaster"]
+tags = [ "fundacja alabaster",]
 title = "Czat z internautami podczas konferencji „AZS u dzieci z perspektywy dermatologii i alergologii”"
 url = "/2012/10/04/czat-z-internautami-podczas-konferencji-azs-u-dzieci-z-perspektywy-dermatologii-i-alergologii/"
+lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 
