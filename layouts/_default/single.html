@@ -21,7 +21,7 @@
               {{ with .Description }}
               <p class="text-muted">{{ . }}</p>
               {{ end }}
-              <p>
+              <header>
                 <small class="text-muted">
                   {{ with .Params.author }}
                   Autor:
@@ -43,7 +43,7 @@
                                     itemprop="publisher"><span
                                     itemprop="name">Atopowe.pl</span></span>.
                 </small>
-              </p>
+              </header>
               <link url="{{ .Permalink }}" />
               <div itemprop="articleBody">
                 {{ .Content }}
@@ -52,7 +52,9 @@
           </main>
         </div><!-- col-md-9 -->
         <div class="col-md-3 col-sm-12">
-          {{ partial "prawy-panel.html" . }}
+          <aside>
+            {{ partial "prawy-panel.html" . }}
+          </aside>
         </div><!-- col-md-3 -->
       </div><!-- row -->
       <div class="row">

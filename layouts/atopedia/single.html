@@ -19,7 +19,7 @@
       <div class="row">
         <div class="col-md-9 col-sm-12">
         <h1 class="entry-title" itemprop="name headline">{{ .Title }}</h1>
-          <small class="text-muted">
+          <header class="text-muted small">
             Artykuł opublikowany
             <time itemprop="datePublished"
                 datetime="{{ .Date.Format "2006-01-02" }}">
@@ -44,7 +44,7 @@
             {{ end }}
           </p>
           {{ end }}
-          </small>
+          </header>
           <section itemprop="articleBody">
             {{ .Content }}
           </section>
@@ -53,7 +53,9 @@
           </footer>
         </div><!-- col-md-12 -->
         <div class="col-md-3 col-sm-12">
-          {{ partial "prawy-panel.html" . }}
+          <aside>
+            {{ partial "prawy-panel.html" . }}
+          </aside>
         </div><!-- col-md-3 -->
       </div><!-- row -->
       <div class="row">
