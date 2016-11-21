@@ -20,3 +20,6 @@ title = "Atopowe Zapalenie Skóry"
   description = "Atopowe.pl jest stroną poświęconą atopowemu zapaleniu skóry, alergii, atopii i astmie."
   # githubsrc jest używane do "edytuj tę stronę"
   githubsrc = "https://github.com/automatthias/atopowe-hugo/blob/master/content/"
+[blackfriday]
+  # W przypisach mamy rzeczy typu "2010/4" które są formami dat.
+  fractions = false
