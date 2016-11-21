@@ -26,7 +26,7 @@ Niedługo kolejne spotkanie.
 
 ## 12 marca 2006
 
-{{< figure src="/images/wwa-20060312-01.jpg" link="/images/wwa-20060312-01.jpg" title="Od lewej: Maja, Kate, Frigg, Megi, Orshi, Selene\_" >}}
+{{< figure src="/images/Wwa-20060312-01.jpg" link="/images/Wwa-20060312-01.jpg" title="Od lewej: Maja, Kate, Frigg, Megi, Orshi, Selene\_" >}}
 {{< figure src="/images/Warszawskizlot06.jpg" link="/images/Warszawskizlot06.jpg" title="Wahwah i Kate" >}}
 {{< figure src="/images/Warszawskizlot04.jpg" link="/images/Warszawskizlot04.jpg" title="Megi i Orshi" >}}
 {{< figure src="/images/Warszawskizlot05.jpg" link="/images/Warszawskizlot05.jpg" title="Orshi i Selene\_" >}}
