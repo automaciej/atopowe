@@ -7,29 +7,33 @@ tags = [ "James Randi", "Rhys Morgan",]
 title = "Afera wybielaczowa"
 url = "/2010/11/08/afera-wybielaczowa/"
 lastmod = "2016-11-19T15:19:21+00:00"
+description = """
+Opowieść o chłopcu, który jako jedyny dostrzegał, że „król jest nagi.”"""
+image = "/wp-content/uploads/2010/11/IMG_34061.jpg"
 
 +++
 
-<div style="float:left;">
-</div>
+{{< figure src="/wp-content/uploads/2010/11/IMG_34061-300x200.jpg" link="/wp-content/uploads/2010/11/IMG_34061.jpg" caption="James Randi wręcza nagrodę Rhysowi." attr="fot. Wahwah." >}}
 
-Rhys Morgan to młody, 15-letni raptem chłopak, który właśnie otrzymał nagrodę Fundacji Randiego na The Amazing Meeting w Londynie. Rhys choruje na chorobę Crohna. Poniżej przedstawiamy historię pewnego wątku na forum internetowym, jego autorstwa. Jest to opowieść o chłopcu, który jako jedyny dostrzegał, że &#8222;król jest nagi&#8221;. Jest to również opowieść o tym, jak mogłoby wyglądać [nasze forum][1], gdyby pozwalano tam na działalność różnego rodzaju alt-medowcom.
+Rhys Morgan to młody, 15-letni raptem chłopak, który właśnie otrzymał nagrodę
+Fundacji Randiego na The Amazing Meeting w Londynie. Rhys choruje na chorobę
+Crohna. Poniżej przedstawiamy historię pewnego wątku na forum internetowym, jego
+autorstwa. Jest to opowieść o chłopcu, który jako jedyny dostrzegał, że
+&#8222;król jest nagi&#8221;. Jest to również opowieść o tym, jak mogłoby
+wyglądać [nasze forum][1], gdyby pozwalano tam na działalność różnego rodzaju
+alt-medowcom.
 
-Rozpętana przez Rhysa kampania przeciwko medycynie alternatywnej zatacza coraz szersze kręgi, od FDA i WHO, poprzez szpitale i uniwersytety, kończąc na wysokonakładowych mediach.
+Rozpętana przez Rhysa kampania przeciwko medycynie alternatywnej zatacza coraz
+szersze kręgi, od FDA i WHO, poprzez szpitale i uniwersytety, kończąc na
+wysokonakładowych mediach.
 
 <!--more-->
 
-<img class="aligncenter  wp-image-1787" title="James Randi wręcza nagrodę Rhysowi" src="http://blog.atopowe.pl/wp-content/uploads/2010/11/IMG_34061.jpg" alt="James Randi wręcza nagrodę Rhysowi" width="450" srcset="http://blog.atopowe.pl/wp-content/uploads/2010/11/IMG_34061-300x200.jpg 300w, http://blog.atopowe.pl/wp-content/uploads/2010/11/IMG_34061.jpg 640w" sizes="(max-width: 640px) 100vw, 640px" /><small>James Randi wręcza nagrodę Rhysowi. Autor zdjęcia: Wahwah.</small>
-
 _Poniższy tekst jest tłumaczeniem wpisu [Bleachgate][2], za zgodą Autora._
 
-<h3 style="text-align:center">
-  Afera wybielaczowa
-</h3>
+## Afera wybielaczowa
 
-<p style="text-align:center">
-  Rhys Morgan
-</p>
+_Rhys Morgan_
 
 Dzisiaj zamierzam napisać o Crohn’s Forum.com i o tym, co działo się tam na początku tego tygodnia.
 
@@ -89,7 +93,7 @@ Przypuszczam, że jeszcze jedna dobra rzecz może wyjść z tego wszystkiego: wi
 
 Co będzie również dobre, przynajmniej w moich oczach, jeśli będzie można ścigać sprzedaż i reklamę MMS zgodnie z prawem brytyjskim, np. Cancer Act z 1939 roku, która stwierdza, że nikt nie może twierdzić, że wyleczył raka, co strony internetowe sprzedające Miracle Mineral Solution czyniły.
 
- [1]: http://www.atopowe-zapalenie.pl/forum
+ [1]: /forum
  [2]: http://thewelshboyo.wordpress.com/2010/08/10/bleachgate/
  [3]: http://pl.wikipedia.org/wiki/Crohn
  [4]: http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm220756.htm
