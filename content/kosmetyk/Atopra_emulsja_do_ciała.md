@@ -4,6 +4,7 @@ permalink = "/Atopra_emulsja_do_ciała/"
 title = "Atopra emulsja do ciała"
 rodzajekosmetykow = [ "emolienty", "kosmetyki", "preparaty zawierające mocznik",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Atopra_emulsja_do_ciała/",]
 
 +++
 

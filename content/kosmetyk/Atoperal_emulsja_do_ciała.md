@@ -4,6 +4,7 @@ permalink = "/Atoperal_emulsja_do_ciała/"
 title = "Atoperal emulsja do ciała"
 rodzajekosmetykow = [ "emolienty",]
 lastmod = "2016-11-19T15:19:26+00:00"
+aliases = [ "/atopedia/Atoperal_emulsja_do_ciała/",]
 
 +++
 

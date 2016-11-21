@@ -4,6 +4,7 @@ permalink = "/Atoperal_Baby_szampon/"
 title = "Atoperal Baby szampon"
 rodzajekosmetykow = [ "szampony",]
 lastmod = "2016-11-19T15:19:26+00:00"
+aliases = [ "/atopedia/Atoperal_Baby_szampon/",]
 
 +++
 

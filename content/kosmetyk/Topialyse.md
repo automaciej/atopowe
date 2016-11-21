@@ -4,6 +4,7 @@ permalink = "/Topialyse/"
 title = "Topialyse"
 rodzajekosmetykow = [ "kosmetyki",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Topialyse/",]
 
 +++
 

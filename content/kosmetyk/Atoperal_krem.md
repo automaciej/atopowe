@@ -4,6 +4,7 @@ permalink = "/Atoperal_krem/"
 title = "Atoperal krem"
 rodzajekosmetykow = [ "kremy",]
 lastmod = "2016-11-19T15:19:26+00:00"
+aliases = [ "/atopedia/Atoperal_krem/",]
 
 +++
 

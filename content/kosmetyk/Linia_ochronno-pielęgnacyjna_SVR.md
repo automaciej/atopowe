@@ -4,6 +4,7 @@ permalink = "/Linia_ochronno-pielęgnacyjna_SVR/"
 title = "Linia ochronno-pielęgnacyjna SVR"
 rodzajekosmetykow = [ "kosmetyki",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Linia_ochronno-pielęgnacyjna_SVR/",]
 
 +++
 

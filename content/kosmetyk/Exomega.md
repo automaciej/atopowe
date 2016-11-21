@@ -4,6 +4,7 @@ permalink = "/Exomega/"
 title = "Exomega"
 rodzajekosmetykow = [ "kosmetyki",]
 lastmod = "2016-11-19T15:19:26+00:00"
+aliases = [ "/atopedia/Exomega/",]
 
 +++
 

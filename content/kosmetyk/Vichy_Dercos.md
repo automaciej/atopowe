@@ -4,6 +4,7 @@ permalink = "/Vichy_Dercos/"
 title = "Vichy Dercos"
 rodzajekosmetykow = [ "szampony",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Vichy_Dercos/",]
 
 +++
 
