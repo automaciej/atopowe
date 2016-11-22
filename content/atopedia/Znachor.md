@@ -23,4 +23,4 @@ zarezerwowane dla sytuacji, w których następuje umyślne wprowadzanie w błąd
 
 ### Przypisy
 
-[^1]: [Jak definiować znachorstwo](http://blog.atopowe.pl/2008/01/18/jak-definiowac-znachorstwo/)
+[^1]: [Jak definiować znachorstwo](/2008/01/18/jak-definiowac-znachorstwo/)

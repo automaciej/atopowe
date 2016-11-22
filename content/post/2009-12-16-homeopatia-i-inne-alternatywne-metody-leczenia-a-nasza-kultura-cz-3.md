@@ -60,5 +60,5 @@ Ajurweda to hinduska metoda terapeutyczna. Nazwa jej pochodzi od słów _ayu_ i 
 
 <p class="na">
 
- [1]: http://blog.atopowe.pl/2009/11/29/homeopatia-i-inne-alternatywne-metody-leczenia-a-nasza-kultura-cz1/ "Część pierwsza"
- [2]: http://blog.atopowe.pl/2009/12/06/homeopatia-i-inne-alternatywne-metody-leczenia-a-nasza-kultura-cz-2/ "Część druga"
+ [1]: /2009/11/29/homeopatia-i-inne-alternatywne-metody-leczenia-a-nasza-kultura-cz1/ "Część pierwsza"
+ [2]: /2009/12/06/homeopatia-i-inne-alternatywne-metody-leczenia-a-nasza-kultura-cz-2/ "Część druga"

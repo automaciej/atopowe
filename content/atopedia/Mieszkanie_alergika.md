@@ -36,4 +36,4 @@ Sprzątanie powinno odbywać się poprzez odkurzanie [odkurzaczem wodnym](/atope
 
 ### Zobacz też
 
--   [Instrukcja obsługi atopika](http://blog.atopowe.pl/2011/06/13/instrukcja-obslugi-atopika-%E2%80%93-czesc-iii/) - wpis na blogu
+-   [Instrukcja obsługi atopika](/2011/06/13/instrukcja-obslugi-atopika-%E2%80%93-czesc-iii/) - wpis na blogu

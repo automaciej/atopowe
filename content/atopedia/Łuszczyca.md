@@ -13,7 +13,7 @@ Istnieje również przyłuszczyca.
 
 **Linki zewnętrzne**
 
--   <span title="Zaczęło się od tego, że jeden kolega założył nowe forum o łuszczycy i wykonał na Atopedii edycję polegającą na tym, że przesunął na pierwsze miejsce na mającej trzy pozycje liście link do swojego forum, spychając inny link w dół. Zważywszy, że wszystkie trzy linki prowadzą do stron o identycznej tematyce (łuszczyca), jest to kontrowersyjne posunięcie.">[Łuszczyca w sieci](http://blog.atopowe.pl/2006/08/06/luszczyca-w-sieci/)</span> - wpis na blogu atopowym
+-   <span title="Zaczęło się od tego, że jeden kolega założył nowe forum o łuszczycy i wykonał na Atopedii edycję polegającą na tym, że przesunął na pierwsze miejsce na mającej trzy pozycje liście link do swojego forum, spychając inny link w dół. Zważywszy, że wszystkie trzy linki prowadzą do stron o identycznej tematyce (łuszczyca), jest to kontrowersyjne posunięcie.">[Łuszczyca w sieci](/2006/08/06/luszczyca-w-sieci/)</span> - wpis na blogu atopowym
 -   [<http://luszczyca.org.pl>](http://luszczyca.org.pl/forum) - forum dyskusyjne i encyklopedia łuszczycy
 -   [<http://luszczyca.info>](http://luszczyca.info) - forum dyskusyjne
 -   [<http://www.luszczyca.pl>](http://www.luszczyca.pl) - forum dyskusyjne

@@ -447,6 +447,6 @@ bezwstydnie robię w tej chwili&#8230;
 
 Tłumaczenie napisów na licencji [Creative Commons BY-SA-3.0][3]. Można je kopiować i rozprowadzać, należy podać autora oryginału, a wersje zmodyfikowane rozprowadzać na tej samej licencji.
 
- [1]: http://blog.atopowe.pl/2007/04/29/homeopatia-w-obliczu-podwojnie-slepej-proby/
+ [1]: /2007/04/29/homeopatia-w-obliczu-podwojnie-slepej-proby/
  [2]: http://yt-subs.appspot.com/view?video=agd5dC1zdWJzcgwLEgVWaWRlbxjNNww
  [3]: http://creativecommons.org/licenses/by-sa/3.0/deed.pl

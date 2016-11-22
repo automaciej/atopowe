@@ -31,4 +31,4 @@ Mało która choroba jest całkowicie determinowana przez geny. <span class="pos
 Może być też tak, że do wystąpienia AZS potrzebne jest złożenie dwóch czynników: wystąpienie genu i zmiana środowiska. Możemy się wtedy zastanowić, który czynnik modyfikować: _zmieniać geny czy środowisko?_
 
  [1]: http://www.atopowe-zapalenie.pl/forum/viewtopic.php?p=72782#72782
- [2]: http://blog.atopowe.pl/2008/01/30/gen-c-3223t-i-atopowe-zapalenie-skory/
+ [2]: /2008/01/30/gen-c-3223t-i-atopowe-zapalenie-skory/

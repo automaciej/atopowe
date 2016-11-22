@@ -64,5 +64,5 @@ Skoro nie woda ani dieta, ani stres, to co?
 
 Nie wiem! Czekam na propozycje!
 
- [1]: http://blog.atopowe.pl/2007/11/06/jak-to-sie-stalo-ze-mnie-azs-opuscilo/
+ [1]: /2007/11/06/jak-to-sie-stalo-ze-mnie-azs-opuscilo/
  [2]: http://automaciej.jogger.pl/2007/03/10/bullying-czyli-znecanie-sie/

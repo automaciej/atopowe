@@ -71,7 +71,7 @@ Zarzutu takiego nie da się postawić, jeżeli rozróżnia się psychikę jako p
 Dlatego proszę, nie dajcie sobie wmawiać zabobonów i pamiętajcie, że psychika to jedno, a stres to drugie.
 
  [1]: http://www.atopowe-zapalenie.pl/atopedia/
- [2]: http://blog.atopowe.pl/2007/09/01/moja-kampania-homeopatia-nie-dziala/
+ [2]: /2007/09/01/moja-kampania-homeopatia-nie-dziala/
  [3]: http://www.atopowe-zapalenie.pl/atopedia/Stres "Stres"
  [4]: http://psychclassics.yorku.ca/Skinner/Pigeon/
  [5]: http://www.youtube.com/watch?v=mR1O7xd4stY

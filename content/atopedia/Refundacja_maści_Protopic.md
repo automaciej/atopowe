@@ -102,4 +102,4 @@ Pozwolić sobie na niego mogą Ci, którzy teoretycznie są w stanie się bez ni
 -   [Wątek o refundacji na Forum](https://www.atopowe.pl/forum/viewtopic.php?f=14&t=418)
 -   [Protopic (ulotka)]({{< relref "ulotka/Protopic_(ulotka).md" >}})
 -   <http://www.protopic.com> (w Polsce nie można rejestrować domeny będącej nazwą leku)
--   [Wpis na blogu o refundacji protopiku w Senacie](http://blog.atopowe.pl/2010/04/08/o-refundacji-protopiku-i-dlaczego-jej-nie-bedzie/)
+-   [Wpis na blogu o refundacji protopiku w Senacie](/2010/04/08/o-refundacji-protopiku-i-dlaczego-jej-nie-bedzie/)

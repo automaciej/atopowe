@@ -9,7 +9,7 @@ lastmod = "2016-11-15T10:28:38+00:00"
 +++
 
 -   [Wątek na forum](http://www.atopowe-zapalenie.pl/forum/viewtopic.php?t=3093)
--   [O zbiórce na blogu](http://blog.atopowe.pl/2006/11/10/zrzutka-na-hosting/)
+-   [O zbiórce na blogu](/2006/11/10/zrzutka-na-hosting/)
 
 Zebraliśmy całą kwotę! :-)
 --------------------------

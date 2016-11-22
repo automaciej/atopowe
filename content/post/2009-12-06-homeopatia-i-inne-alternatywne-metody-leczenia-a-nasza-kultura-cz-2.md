@@ -10,7 +10,7 @@ lastmod = "2016-11-19T15:19:21+00:00"
 
 +++
 
-<a title="Homeopatia i inne alternatywne metody leczenia a nasza kultura cz.1" href="http://blog.atopowe.pl/2009/11/29/homeopatia-i-inne-alternatywne-metody-leczenia-a-nasza-kultura-cz1/" target="_self">Homeopatia i inne alternatywne metody leczenia a nasza kultura cz.1</a>
+<a title="Homeopatia i inne alternatywne metody leczenia a nasza kultura cz.1" href="/2009/11/29/homeopatia-i-inne-alternatywne-metody-leczenia-a-nasza-kultura-cz1/" target="_self">Homeopatia i inne alternatywne metody leczenia a nasza kultura cz.1</a>
 
 W tej części notki przedstawię możliwie skrótowo historię homeopatii i innych alternatywnych metod leczenia i wnioski z tego płynące. Tu zajmę się dwoma najczęściej stosowanymi metodami: homeopatią i akupunkturą.
 

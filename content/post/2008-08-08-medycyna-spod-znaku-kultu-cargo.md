@@ -14,7 +14,7 @@ Na wielu wyspach południowego Pacyfiku istnieją religie, w których ludzie dar
 
 <!--more-->
 
-<img class="aligncenter size-full wp-image-160" src="http://blog.atopowe.pl/wp-content/uploads/2008/08/cargo_cult.jpg" alt="" width="300" height="205" />
+<img class="aligncenter size-full wp-image-160" src="/wp-content/uploads/2008/08/cargo_cult.jpg" alt="" width="300" height="205" />
 
 Brak zrozumienia zależności pomiędzy przyczyną a skutkiem nie jest domeną wyłącznie &#8222;dzikich&#8221;. Wielu cywilizowanych ludzi zachowuje się podobnie. Przykładowo, [szaleństwo ogarnia ludzi][1] w związku z dzisiejszą datą: 8.08.2008, i to nie tylko dlatego, że dziś rozpoczyna się Olimpiada.
 

@@ -44,7 +44,7 @@ Czy przeprowadzki można uznać za terapię AZS, nie wiem. W moim przypadku wyja
 
 Podsumowując, skóra u mnie się uspokoiła, a ja sam jestem, z grubsza rzecz biorąc taki sam jak zawsze. Ani o skórę nie dbam bardziej ani mniej niż wcześniej. Nie stosuję żadnych kuracji, smarowideł ani diet. Nie biorę antyhistamin ani żadnych innych leków. Jeżeli spodziewaliście się usłyszeć historię o kimś kto codziennie oddaje się wyszukanej toalecie, kąpieli w krochmalu, oraz smarowania każdej części ciała innym kremem z wyciągiem z rośliny która nawet nie ma europejskiej nazwy, to pudło! Nie trafiliście. Ja nawet nie za bardzo przypisuję sobie to „ozdrowienie”. Raczej miałem szczęście, że istnieje u mnie ten związek pomiędzy środowiskiem i stanem swojej skóry. Wystarczyło, że go zauważyłem i wykorzystałem.
 
- [1]: http://blog.atopowe.pl/2007/11/04/hydrokortyzon-bez-recepty-w-usa/
+ [1]: /2007/11/04/hydrokortyzon-bez-recepty-w-usa/
  [2]: http://pl.wikipedia.org/wiki/Geek
  [3]: http://www.atopowe-zapalenie.pl/atopedia/Wojew%C3%B3dzki_Specjalistyczny_Szpital_im._dr_W%C5%82._Biega%C5%84skiego_w_%C5%81odzi
  [4]: http://pl.wikipedia.org/wiki/Lataj%C4%85cy_Potw%C3%B3r_Spaghetti

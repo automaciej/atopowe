@@ -17,4 +17,4 @@ Istnieje pogląd, że dla poprawy stanu zdrowia wystarczy sama zmiana środowisk
 
 **Zobacz również:**
 
-[Środowisko na blogu atopowym](http://blog.atopowe.pl/category/srodowisko/)
+[Środowisko na blogu atopowym](/category/srodowisko/)

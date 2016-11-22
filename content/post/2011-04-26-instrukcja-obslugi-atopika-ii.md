@@ -66,7 +66,7 @@ Jeśli nie mamy współistniejącej nadwrażliwości na światło, warto w lecie
 Dzięki naświetlaniu uvb bardzo ładnie wyrównała mi się większość zmian, zostało na tę chwilę trochę przebarwień. Efekt naświetlań utrzymuje się jakiś czas.
 
  [1]: http://magda2em.livejournal.com/85917.html
- [2]: http://blog.atopowe.pl/2011/04/14/instrukcja-obslugi-atopika/
+ [2]: /2011/04/14/instrukcja-obslugi-atopika/
  [3]: http://www.atopowe-zapalenie.pl/atopedia/Dieta_antyhistaminowa
  [4]: http://www.pecherz.pl/dieta.html#Dieta-niskohistaminowa
  [5]: http://www.doz.pl/apteka/p48396-Olimp_Vita-Min_Plus_dla_kobiet_kapsulki_z_kwasem_hialuronowym_30szt_nowa_formula

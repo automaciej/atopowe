@@ -20,4 +20,4 @@ Należy też dodać, że najlepszy dla alergików jest odkurzacz centralny, któ
 -   Odkurzacz w Wikipedii
 -   [Filtr HEPA](/atopedia/Filtr_HEPA)
 -   [Super Vacuum](http://www.supervacuum.eu) Strona o odkurzaczach Rainbow
--   [Podręczny odkurzacz](http://blog.atopowe.pl/2006/07/28/podreczny-odkurzacz/) - wpis na blogu
+-   [Podręczny odkurzacz](/2006/07/28/podreczny-odkurzacz/) - wpis na blogu

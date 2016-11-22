@@ -90,8 +90,8 @@ Tutaj nie ma jednego rozwiązania &#8211; jedyną metodą jest metoda prób i b�
 Przede wszystkim należy patrzeć, co komu szkodzi, a co komu służy. Może się okazać, że ideałem będą inne kosmetyki niż te, które wymieniłam. Trzeba być cierpliwym i szukać takich, które nie robią krzywdy. Czasem może się okazać, że lepsze są produkty bardzo tanie (np. produkty marki Rossmann, niż drogie Vichy), ale to wszystko trzeba testować na sobie i sprawdzać, sprawdzać, jeszcze raz sprawdzać, aż się znajdzie to, co pasuje.
 
  [1]: http://magda2em.livejournal.com/86101.html
- [2]: http://blog.atopowe.pl/2011/04/14/instrukcja-obslugi-atopika/
- [3]: http://blog.atopowe.pl/2011/04/26/instrukcja-obslugi-atopika-ii/
+ [2]: /2011/04/14/instrukcja-obslugi-atopika/
+ [3]: /2011/04/26/instrukcja-obslugi-atopika-ii/
  [4]: http://www.lovela.pl/produkty.html
  [5]: http://www.jelp.pl/?s=10
  [6]: http://www.stenders.pl/pl/adds.php

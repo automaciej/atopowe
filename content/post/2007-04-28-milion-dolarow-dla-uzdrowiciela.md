@@ -26,6 +26,6 @@ Jak dotychczas, nadzieje okazały się płonne. Milion dolarów, przekazany fund
 
 Czyżby żaden z naszych uzdrowicieli nie chciał tego miliona? Wystarczy, żeby zrobili to, co mówią że potrafią i mogą pójść do domu z milionem dolarów w kieszeni.
 
- [1]: http://blog.atopowe.pl/2007/04/23/medycyna-fakty-watpienie-i-sprawdzanie/
+ [1]: /2007/04/23/medycyna-fakty-watpienie-i-sprawdzanie/
  [2]: http://pl.wikipedia.org/wiki/Podw%C3%B3jna_%C5%9Blepa_pr%C3%B3ba
  [3]: http://www.gazetawyborcza.pl/1,75480,4043366.html

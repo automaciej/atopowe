@@ -33,7 +33,7 @@ Dotychczasowe badania kliniczne wskazują ponadto na wysoką skuteczność lecze
 <references />
 ### Zobacz też
 
--   [Czym są leki biologiczne?](http://blog.atopowe.pl/2008/07/30/czym-sa-leki-biologiczne/) - blog atopowy
+-   [Czym są leki biologiczne?](/2008/07/30/czym-sa-leki-biologiczne/) - blog atopowy
 -   [Leki biologiczne]({{< relref "atopedia/Leki_biologiczne.md" >}}) w polskiej Wikipedii
 
 

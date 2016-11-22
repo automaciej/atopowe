@@ -15,7 +15,7 @@ Często nie zdajemy sobie sprawy, jak subiektywnie działa nasz mózg i jak bard
 
 <!--more-->
 
-<img src="http://blog.atopowe.pl/wp-content/uploads/2008/11/rotsnakemini3ts.gif" alt="" width="482" height="473" class="aligncenter size-full wp-image-331" srcset="http://blog.atopowe.pl/wp-content/uploads/2008/11/rotsnakemini3ts-300x294.gif 300w, http://blog.atopowe.pl/wp-content/uploads/2008/11/rotsnakemini3ts.gif 482w" sizes="(max-width: 482px) 100vw, 482px" />
+<img src="/wp-content/uploads/2008/11/rotsnakemini3ts.gif" alt="" width="482" height="473" class="aligncenter size-full wp-image-331" srcset="/wp-content/uploads/2008/11/rotsnakemini3ts-300x294.gif 300w, /wp-content/uploads/2008/11/rotsnakemini3ts.gif 482w" sizes="(max-width: 482px) 100vw, 482px" />
 
 Rusza się, prawda? 
 
@@ -27,7 +27,7 @@ Jesteśmy przyzwyczajeni do swoich opinii (a więc niczym nie podpartego pierwsz
 
 Nasz mózg potrafi wznieść się na wyżyny konfabulacji, żeby utrzymać stabilny (ale niekoniecznie prawdziwy) obraz rzeczywistości. Dokładnie jest to jedno z zadań lewej półkuli mózgu. Na poniższym filmie [Marcin Przybyłek][2], pisarz SF, a z wykształcenia lekarz, wyjaśnia zjawisko [anosognozji][3] u pacjenta z uszkodzoną prawą półkulą mózgu.
 
-[<img src="http://blog.atopowe.pl/wp-content/uploads/2008/11/klatka1-150x150.jpg" alt="" width="150" height="150" class="aligncenter size-thumbnail wp-image-324" />][4]
+[<img src="/wp-content/uploads/2008/11/klatka1-150x150.jpg" alt="" width="150" height="150" class="aligncenter size-thumbnail wp-image-324" />][4]
 
  [1]: http://film.wp.pl/id,70035,wiadomosc.html
  [2]: http://pl.wikipedia.org/wiki/Marcin_Przyby%C5%82ek

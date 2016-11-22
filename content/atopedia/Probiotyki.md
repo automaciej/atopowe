@@ -13,4 +13,4 @@ Z racji, że powyższy typ bakterii wchodzi w skład naturalnej flory bakteryjne
 
 **Zobacz również:**
 
-[Hasło 'probiotyki' na Blogu atopowym](http://blog.atopowe.pl/tag/probiotyki/)
+[Hasło 'probiotyki' na Blogu atopowym](/tag/probiotyki/)
