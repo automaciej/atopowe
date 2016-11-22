@@ -4,6 +4,7 @@ permalink = "/Szarlotka_z_kaszy_mannej/"
 title = "Szarlotka z kaszy mannej"
 rodzajeprzepisow = [ "przepisy", "dieta hipoalergiczna plus pszenica",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Szarlotka_z_kaszy_mannej/",]
 
 +++
 

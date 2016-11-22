@@ -4,6 +4,7 @@ permalink = "/Placki_bananowe/"
 title = "Placki bananowe"
 rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna plus pszenica",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Placki_bananowe/",]
 
 +++
 

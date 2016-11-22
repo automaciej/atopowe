@@ -4,6 +4,7 @@ permalink = "/Babeczki_bez_jajek/"
 title = "Babeczki bez jajek"
 rodzajeprzepisow = [ "przepisy",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Babeczki_bez_jajek/",]
 
 +++
 

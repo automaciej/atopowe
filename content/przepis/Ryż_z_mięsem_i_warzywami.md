@@ -4,6 +4,7 @@ permalink = "/Ryż_z_mięsem_i_warzywami/"
 title = "Ryż z mięsem i warzywami"
 rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "dieta hipoalergiczna plus pszenica",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Ryż_z_mięsem_i_warzywami/",]
 
 +++
 

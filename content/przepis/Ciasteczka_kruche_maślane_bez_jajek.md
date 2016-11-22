@@ -4,6 +4,7 @@ permalink = "/Ciasteczka_kruche_maślane_bez_jajek/"
 title = "Ciasteczka kruche maślane bez jajek"
 rodzajeprzepisow = [ "przepisy",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Ciasteczka_kruche_maślane_bez_jajek/",]
 
 +++
 

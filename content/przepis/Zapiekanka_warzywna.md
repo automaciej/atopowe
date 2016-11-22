@@ -4,6 +4,7 @@ permalink = "/Zapiekanka_warzywna/"
 title = "Zapiekanka warzywna"
 rodzajeprzepisow = [ "przepisy",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Zapiekanka_warzywna/",]
 
 +++
 

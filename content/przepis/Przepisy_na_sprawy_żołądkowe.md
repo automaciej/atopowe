@@ -4,6 +4,7 @@ permalink = "/Przepisy_na_sprawy_żołądkowe/"
 title = "Przepisy na sprawy żołądkowe"
 rodzajeprzepisow = [ "przepisy",]
 lastmod = "2016-11-17T21:14:06+00:00"
+aliases = [ "/atopedia/Przepisy_na_sprawy_żołądkowe/",]
 
 +++
 

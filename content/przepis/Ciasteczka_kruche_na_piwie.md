@@ -4,6 +4,7 @@ permalink = "/Ciasteczka_kruche_na_piwie/"
 title = "Ciasteczka kruche na piwie"
 rodzajeprzepisow = [ "przepisy", "Dieta hipoalergiczna plus pszenica",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Ciasteczka_kruche_na_piwie/",]
 
 +++
 

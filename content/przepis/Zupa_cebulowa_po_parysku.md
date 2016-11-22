@@ -4,6 +4,7 @@ permalink = "/Zupa_cebulowa_po_parysku/"
 title = "Zupa cebulowa po parysku"
 rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "dieta hipoalergiczna plus pszenica",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Zupa_cebulowa_po_parysku/",]
 
 +++
 

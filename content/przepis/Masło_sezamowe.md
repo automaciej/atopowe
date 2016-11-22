@@ -4,6 +4,7 @@ permalink = "/Masło_sezamowe/"
 title = "Masło sezamowe"
 rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "dieta hipoalergiczna plus pszenica",]
 lastmod = "2016-11-19T15:19:26+00:00"
+aliases = [ "/atopedia/Masło_sezamowe/",]
 
 +++
 

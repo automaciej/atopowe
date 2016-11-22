@@ -4,6 +4,7 @@ permalink = "/Kruche_ciasteczka/"
 title = "Kruche ciasteczka"
 rodzajeprzepisow = [ "przepisy",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Kruche_ciasteczka/",]
 
 +++
 

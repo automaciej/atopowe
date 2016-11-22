@@ -4,6 +4,7 @@ permalink = "/Bezglutenowy_biszkopcik/"
 title = "Bezglutenowy biszkopcik"
 rodzajeprzepisow = [ "przepisy",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Bezglutenowy_biszkopcik/",]
 
 +++
 

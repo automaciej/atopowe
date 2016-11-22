@@ -4,6 +4,7 @@ permalink = "/Płatki_owsiane_z_bakaliami/"
 title = "Płatki owsiane z bakaliami"
 rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "dieta hipoalergiczna plus pszenica",]
 lastmod = "2016-11-17T21:14:06+00:00"
+aliases = [ "/atopedia/Płatki_owsiane_z_bakaliami/",]
 
 +++
 

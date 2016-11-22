@@ -4,6 +4,7 @@ permalink = "/Sałatka_z_tuńczyka/"
 title = "Sałatka z tuńczyka"
 rodzajeprzepisow = [ "przepisy", "dieta bezmleczna",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Sałatka_z_tuńczyka/",]
 
 +++
 

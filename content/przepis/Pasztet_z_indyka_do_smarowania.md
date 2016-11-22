@@ -4,6 +4,7 @@ permalink = "/Pasztet_z_indyka_do_smarowania/"
 title = "Pasztet z indyka do smarowania"
 rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "dieta hipoalergiczna plus pszenica",]
 lastmod = "2016-11-19T15:19:26+00:00"
+aliases = [ "/atopedia/Pasztet_z_indyka_do_smarowania/",]
 
 +++
 

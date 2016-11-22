@@ -4,6 +4,7 @@ permalink = "/Warzywa_z_bobem/"
 title = "Warzywa z bobem"
 rodzajeprzepisow = [ "przepisy", "dieta bezmleczna", "dieta hipoalergiczna", "dieta hipoalergiczna plus pszenica",]
 lastmod = "2016-11-13T10:40:51+00:00"
+aliases = [ "/atopedia/Warzywa_z_bobem/",]
 
 +++
 
