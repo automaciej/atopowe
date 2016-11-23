@@ -14,7 +14,3 @@ Miasto, czyli spaliny i chemikalia niekorzystnie wpływają na stan zdrowia osó
 ### Zmiana środowiska
 
 Istnieje pogląd, że dla poprawy stanu zdrowia wystarczy sama zmiana środowiska i nie ma znaczenia z jakiego na jakie. Znaczenie ma tylko to, że środowisko jest inne i występują w nim inne substancje. [Układ immunologiczny](/atopedia/Układ_immunologiczny) chorej osoby reaguje na substancje, które znajdują się w jej otoczeniu. Jeżeli ten zestaw substancji zmieni się, istnieje duże prawdopodobieństwo że na nowy zestaw substancji organizm będzie reagował o wiele słabiej, ponieważ był nauczony reagować alergicznie na stary zestaw substancji. Nowego zestawu nie zna, nie identyfikuje go jako wroga i nie wyzwala [reakcji alergicznej]({{< relref "atopedia/Reakcja_alergiczna.md" >}}).
-
-**Zobacz również:**
-
-[Środowisko na blogu atopowym](/category/srodowisko/)

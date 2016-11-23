@@ -3,41 +3,34 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Leczenie_atopowego_zapalenia_skóry/"
 title = "Leczenie atopowego zapalenia skóry"
 kategorie = [ "terapia",]
-aliases = [ "/atopedia/Medycyna_konwencjonalna/", "/atopedia/Konwencjonalne_metody_leczenia/", "/atopedia/Pielęgnacja/", "/atopedia/Leczenie_przeciwbakteryjne/", "/atopedia/Leczenie/", "/atopedia/Terapia/",]
+aliases = [
+  "/atopedia/Medycyna_konwencjonalna/",
+  "/atopedia/Konwencjonalne_metody_leczenia/",
+  "/atopedia/Pielęgnacja/",
+  "/atopedia/Leczenie_przeciwbakteryjne/",
+  "/atopedia/Leczenie/",
+  "/atopedia/Terapia/",
+]
 description = ""
 image = "/images/Atopowe-diagram.png"
 lastmod = "2016-11-20T19:36:58+00:00"
 
 +++
 
-![](/images/Atopowe-diagram.png "Zjawiska towarzyszące AZS i podstawowe metody leczenia")
+**Leczenie atopowego zapalenia skóry** - terapia ma dwa główne aspekty: łagodzenie
+[objawów]({{< relref "atopedia/Objawy_atopowego_zapalenia_skóry.md" >}}) (w tym
+pośrednich takich jak siła reakcji alergicznej) oraz identyfikowanie przyczyn,
+na przykład [alergenów]({{< relref "atopedia/Alergen.md" >}}).
 
-**Leczenie atopowego zapalenia skóry** - w przypadku [atopowego zapalenia
-skóry]({{< relref "atopedia/Atopowe_zapalenie_skóry.md" >}}) terapia
-polega
-koncentruje się z jednej strony na na leczeniu objawowym
-(patrz: [objawy atopowego zapalenia skóry]({{<
-relref "atopedia/Objawy_atopowego_zapalenia_skóry.md" >}}))
-
-Jeżeli jest możliwe zidentyfikowanie [alergenów]({{< relref
-"atopedia/Alergen.md" >}}) i unikanie ich, wtedy dobre efekty można uzyskać
-eliminując kontakt chorego z alergenami. Niestety bardzo często jest to
-niemożliwe, z różnych przyczyn: nie można zidentyfikować alergenów, nie można
-ich unikać, chory uczula się na nowe substancje.
+{{< figure src="/images/Atopowe-diagram.png" link="/images/Atopowe-diagram.png" caption="Zjawiska towarzyszące AZS i podstawowe metody leczenia" >}}
 
 **Podstawowe objawy i metody leczenia:**
 
 -   [Reakcja alergiczna](/atopedia/Reakcja_alergiczna) -- leki antyhistaminowe i
     [leki immunosupresyjne]({{< relref "atopedia/Leki_immunosupresyjne.md" >}})
--   Stan zapalny skóry -- [kortykosterydy]({{< relref
-    "atopedia/Kortykosterydy.md" >}})
--   [Infekcja skóry](/atopedia/Infekcja_skóry) -- [antybiotyki]({{< relref
-    "atopedia/Antybiotyki.md" >}})
-
-## Główne artykuły
-
--   [Podstawy leczenia atopowego zapalenia skóry]({{< relref "atopedia/podstawy-leczenia-azs.md" >}})
--   [Elementarz AZS]({{< relref "atopedia/Elementarz_AZS.md" >}})
+-   Stan zapalny skóry -- [kortykosterydy]({{< relref "atopedia/Kortykosterydy.md" >}})
+-   [Infekcja skóry](/atopedia/Infekcja_skóry)
+    -- [antybiotyki]({{< relref "atopedia/Antybiotyki.md" >}})
 
 ## Terapie
 
@@ -93,11 +86,13 @@ filagryny oraz [terapia genowa]({{< relref "atopedia/Terapia_genowa.md" >}}).
 
 ### Zobacz też
 
--   [Kosmetyki](/kosmetyk/)
--   [Pielęgnacja dłoni](/atopedia/Pielęgnacja_dłoni)
+-   [Elementarz AZS]({{< relref "atopedia/Elementarz_AZS.md" >}})
+-   [Podstawy leczenia atopowego zapalenia skóry]({{< relref "atopedia/podstawy-leczenia-azs.md" >}})
 -   [Algorytm leczenia AZS](/atopedia/Algorytm_leczenia_AZS)
+-   Pielęgnacja
+   -   [Kosmetyki](/kosmetyk/)
+   -   [Pielęgnacja dłoni](/atopedia/Pielęgnacja_dłoni)
 -   [Leki](/atopedia/Leki)
--   Preparaty, kremy, maści wspomagające (emolienty)
 -   [Kliniki dermatologii i alergologii](/atopedia/Kliniki_dermatologii_i_alergologii)
 -   [Polecani lekarze](/atopedia/Polecani_lekarze)
 -   [Znachorstwo](/atopedia/Znachorstwo)
