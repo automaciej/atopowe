@@ -11,15 +11,21 @@
     <meta property="og:description" content="Encyklopedia Atopowego Zapalenia Skóry, stworzona i utrzymywana przez użytkowników forum atopowe.pl." />
     <meta property="og:image"       content="/images/atopowe-logo.png" />
 
+<style>
+.mobile-elements-close {
+  font-size: 120%;
+}
+</style>
+
   </head>
   <body>
     {{ partial "navbar.html" . }}
 
+<main>
     <div class="container" role="main">
       <div class="row">
         <div class="col-md-12">
 
-<main>
   <h1>{{ .Title }}
     <small>
       Encyklopedia atopowego zapalenia skóry
@@ -33,33 +39,46 @@
   {{ partial "podstawowe.html" . }}
   <p>Poniżej listy wszystkich kategorii i wszystkich artykułów:</p>
   <h2 class="list-title">Kategorie stron</h2>
-  <ul class="list-unstyled list-inline inline">
+        </div><!-- col-md-12 -->
+      </div><!-- row -->
+      <div class="row mobile-elements-close">
+        <!--
+  <ul class="list-unstyled list-inline inlin" id="kategorie">
+        -->
   {{ range $name, $taxonomy := .Site.Taxonomies.kategorie }}
-  <li>
-    <a href="{{ "/kategorie/" | relURL }}{{ $name | urlize }}/">{{ $name }}</a>
-    <span class="text-muted">({{ $taxonomy.Count }})</span>
-  </li>
+          <div class="col-md-3 col-sm-6 col-xs-12">
+            <a href="{{ "/kategorie/" | relURL }}{{ $name | urlize }}/">{{ $name }}</a>
+            <span class="text-muted">({{ $taxonomy.Count }})</span>
+          </div>
   {{ end }}
-  </ul>
+      </div><!-- row -->
+      <div class="row">
+        <div class="col-md-12">
   <h2 class="list-title">Wszystkie artykuły</h2>
   <p>
     Użyj CTRL+F żeby wyszukać interesujący cię artykuł.
   </p>
-  <ul class="list-inline inline">
-    {{ range .Data.Pages.ByTitle }}
-      <li>
-        <a href="{{ .RelPermalink }}">
-          {{ .Title }}{{ if .Draft }} #Draft{{ end }}
-        </a>
-      </li>
-    {{ end }}
-  </ul>
-</main>
+        </div><!-- col-md-12 -->
+      </div><!-- row -->
+      <div class="row mobile-elements-close">
+        <!-- <ul class="list-inline inline"> -->
+        {{ range .Data.Pages.ByTitle }}
+          <div class="col-md-3 col-sm-6 col-xs-12">
+            <a href="{{ .RelPermalink }}">
+              {{ .Title }}{{ if .Draft }} #Draft{{ end }}
+            </a>
+          </div>
+        {{ end }}
+      </div><!-- row -->
+    <!-- </ul> -->
+      <div class="row">
+        <div class="col-md-12">
 
           {{ partial "disqus-main.html" . }}
         </div><!-- col-md-12 -->
       </div><!-- row -->
     </div><!-- /.container -->
+    </main>
     {{ partial "page-end-includes.html" . }}
   </body>
 </html>
