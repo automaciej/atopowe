@@ -37,11 +37,12 @@ Musimy zebrać 730zł 62gr na przedłużenie domen "atopowe.pl" i "atopowe-zapal
 | Marynia           | 30                                             | 2014-12-16 |
 | Elżbieta S.       | 10                                             | 2014-12-16 |
 | Biedrrrona        | 40                                             | 2014-12-16 |
-| nula_nulska      | 30                                             | 2014-12-16 |
-| mała_mii         | 20                                             | 2014-12-16 |
+| nula\_nulska      | 30                                             | 2014-12-16 |
+| mała\_mii         | 20                                             | 2014-12-16 |
 | zmora             | 40                                             | 2014-12-16 |
 | belfer            | 30                                             | 2014-12-17 |
-| ela_rodak        | 20                                             | 2014-12-17 |
+| ela\_rodak        | 20                                             | 2014-12-17 |
 | Anna A.           | 80                                             | 2014-12-18 |
 | kajaru            | 20                                             | 2014-12-18 |
-| 28 osób           | style="text-align:left" colspan = "2" | 755,00 |
+|-------------------|------------------------------------------------|------------|
+| 28 osób           |                                                | 755,00     |
