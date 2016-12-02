@@ -6,3 +6,4 @@ Redirect permanent /reddit https://pl.reddit.com/r/atopowezapalenieskory
 Redirect permanent /atopedia/Strona_główna/ /atopedia
 Redirect permanent /forum/ucp.php?mode=delete_cookies /forum
 Redirect permanent /forum/ucp.php?mode=login /forum
+Redirect permanent /atopedia/Atopedia/ /atopedia
