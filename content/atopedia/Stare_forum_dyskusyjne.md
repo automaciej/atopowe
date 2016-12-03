@@ -8,7 +8,7 @@ lastmod = "2016-11-20T13:50:40+00:00"
 +++
 
 Oryginalne (2003-2016) forum dyskusyjne
-[zostało zamnknięte]({{< relref "post/2016-04-23-reorganizacja-serwisu-atopowe-pl.md" >}}).
+[zostało zamknięte]({{< relref "post/2016-04-23-reorganizacja-serwisu-atopowe-pl.md" >}}).
 
 Zapraszamy w nowe miejsca:
 [społeczności AZS w internecie]({{< relref "promowane/porozmawiaj-z-innymi.md" >}}).

@@ -5,8 +5,8 @@ title = "Jak stosować Protopic i Elidel"
 kategorie = [ "leki immunosupresyjne", "terapia",]
 lastmod = "2016-11-19T15:19:26+00:00"
 description = """
-Należy unikać kontaktu z błonami śluzowymi, unikać ekspozycji na
-promienie słoneczne, oraz unikać stosowania w zakażonych regionach."""
+Należy unikać kontaktu z błonami śluzowymi, unikać ekspozycji na \
+promienie słoneczne, oraz unikać stosowania na zakażoną skórę."""
 image = "/images/Protopic.jpg"
 
 +++
