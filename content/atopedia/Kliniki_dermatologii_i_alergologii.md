@@ -122,6 +122,12 @@ tel.: (81) 724-44-31, (81) 724-48-39
 
 Wojewódzki Specjalistyczny Szpital im. dr Wł. Biegańskiego w Łodzi
 
+## Rzeszów
+
+Klinika Dermatologii  
+35-055 Rzeszów, ul. Szopena 2  
+http://www.szpital.rzeszow.pl/kliniki/dermatologii/
+
 ## Szczecin
 
 Pomorska Akademia Medyczna, Katedra i Klinika Chorób Skórnych i Wenerycznych, AL. Powstańców Wlkp. 72, tel.: (091)4661256
