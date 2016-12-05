@@ -1,5 +1,6 @@
 # To keep the old feed address.
-Redirect permanent /feed /index.xml
+RedirectMatch permanent /feed/?$ /index.xml
+Redirect permanent /index.html/ /index.xml
 RedirectMatch permanent ^/tag/(.*)/$ /tags/$1/
 RedirectMatch temp /lekarze.* /atopedia/Dział_z_lekarzami
 Redirect permanent /reddit https://pl.reddit.com/r/atopowezapalenieskory
