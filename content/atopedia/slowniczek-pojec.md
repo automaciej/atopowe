@@ -6,6 +6,7 @@ decription = ""
 image = ""
 aliases = [
     "/atopedia/UVB/",
+    "/atopedia/Przeczos/",
     "/atopedia/Przeczosy/",
     "/atopedia/Tachyfilaksja/",
     "/atopedia/Alergologia/",
