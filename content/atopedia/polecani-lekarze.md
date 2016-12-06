@@ -1,7 +1,11 @@
 +++
 date = "2016-08-30T21:24:19+01:00"
 title = "Polecani lekarze"
-aliases = [ "/atopedia/Dział_z_lekarzami", "/atopedia/Polecani_lekarze", "/atopedia/Wojewódzki_Specjalistyczny_Szpital_im._dr_Wł._Biegańskiego_w_Łodzi/",]
+aliases = [
+  "/atopedia/Dział_z_lekarzami",
+  "/atopedia/Polecani_lekarze",
+  "/atopedia/Wojewódzki_Specjalistyczny_Szpital_im._dr_Wł._Biegańskiego_w_Łodzi/",
+]
 description = "Lista polecanych lekarzy, zebrana przez użytkowników atopowe.pl"
 lastmod = "2016-11-19T15:19:25+00:00"
 
@@ -84,7 +88,7 @@ Alergolog Pediatra
 Wrocław
 ul. Komuny Paryskiej 8 
 501468862
-T
+Przyjmuje w ramach NFZ  
 http://www.alergolog.com.pl/
 
 --------
@@ -96,7 +100,7 @@ Dolnośląskie Centrum Chorób Płuc Poradnia Alergologiczna
 Wrocław 
 Grabiszyńska 105 
 071 3349683
-T
+Przyjmuje w ramach NFZ  
 http://www.dcchp.pl/
 dcchp_poradnie@o2.pl
 
@@ -109,7 +113,7 @@ Dolmed Dolnośląskie Centrum Medyczne
 Wrocław
 Ul. Legnicka 40
 (071) 77-11-777
-T
+Przyjmuje w ramach NFZ  
 http://www.dolmed.pl/
 
 --------
@@ -120,7 +124,7 @@ NZOZ Gabinet Dermatologiczny
 
 ul. Szpitalna 6/4, Chojnów, Legnica, ul. Jaworzyńska 33 -35, Lubin, ul. Skłodowskiej-Curie 3
 604 492 508, Chojnow: (076) 818 83 17
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -131,7 +135,7 @@ Przychodnia Rejonowa
 Lubin
 ul.Księcia Ludwika
 
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -154,7 +158,7 @@ citodent  - poradnia dermatologiczna
 Wrocław
 ul. Wojciecha z Brudzewa 10
 71 345 91 15
-T
+Przyjmuje w ramach NFZ  
 http://www.citodent.pl/
 
 --------
@@ -186,7 +190,7 @@ Lecznice Citomed
 Toruń
 Skłodowskiej 79
 
-T
+Przyjmuje w ramach NFZ  
 http://www.citomed.pl/
 
 --------
@@ -208,7 +212,7 @@ Szpital Dziecięcy
 Bydgoszcz
 Gajowa 24a
 
-T
+Przyjmuje w ramach NFZ  
 
 http://www.wsd.org.pl/viewpage.php?page_id=1
 
@@ -221,7 +225,7 @@ NZOZ Zespół Lekarzy Specjalistów ALERGO-VITA
 Bydgoszcz
 Kurpińskiego 12/12A
 523289570
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -275,7 +279,7 @@ Wojewódzka Przychodnia Dermatologiczna
 Bydgoszcz
 ul. Kurpińskiego 5
 (0-52) 325-58-10
-T
+Przyjmuje w ramach NFZ  
 
 ### Lubelskie
 
@@ -286,7 +290,7 @@ NZOZ MED-LASER
 Lublin
 Młyńska 14A
 81 532 90 90
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -307,7 +311,7 @@ DSK
 Lublin
 Chodźki 4
 
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -320,7 +324,7 @@ Wenerolog Dermatolog
 Krosno Odrz.
 ul. Srebrna Góra 1B
 683835801
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -340,7 +344,7 @@ dr Agnieszka Brzozowska
 Alergolog
 Luxmed
 
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -363,7 +367,7 @@ Uniwersytet Medyczny
 Łódź
 Pl. Hallera
 
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -373,7 +377,7 @@ Alergolog Wenerolog
 Łódź
 ul. Kamińskiego
 
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -384,7 +388,7 @@ Wojewódzki Szpital Specjalistyczny im. Biegańskiego
 Łódź
 ul. Kniaziewicza 1/5
 (42) 251 60 51
-T
+Przyjmuje w ramach NFZ  
 http://www.bieganski.com.pl/
 poradnia@bieganski.com.pl
 
@@ -396,7 +400,7 @@ Szpital im Barlickiego
 
 Łódź
 
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -406,8 +410,9 @@ Wojewódzki Specjalistyczny Szpital im. dr Wł. Biegańskiego w Łodzi
 91-347 Łódź  
 ul. Kniaziewicza 1/5 
 tel. +48-42-2516092, +48-42-2516192  
-T  
-http://www.lodzkie.pl/lodzkie/zdrowie/ZOZy/prezentacja_szpitali/jednostka_05/index.html
+Przyjmuje w ramach NFZ  
+
+[link](http://www.lodzkie.pl/lodzkie/zdrowie/ZOZy/prezentacja_szpitali/jednostka_05/index.html)
 
 
 --------
@@ -431,7 +436,7 @@ lekarz
 Łódź
 Sporna, Armii Krajowej
 
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -444,7 +449,7 @@ Oddział Kliniczny Chorób Wewnętrznych Poradnia Alergologiczna
 Kraków
 Śniadeckich 10
 12 424 88 91
-T
+Przyjmuje w ramach NFZ  
 http://www.su.krakow.pl/poradnia-alergologiczna/personel
 
 --------
@@ -507,7 +512,7 @@ II Katedra UJ w Krakowie
 Kraków
 Skawińska 8
 (12) 430-51-36
-T
+Przyjmuje w ramach NFZ  
 http://www.su.krakow.pl/index.html
 
 --------
@@ -519,7 +524,7 @@ Wojewódzki Specjalistyczny Szpital Dziecięcy im. św.Ludwika
 Kraków
 ul. Strzelecka 2
 012- 4211344
-T
+Przyjmuje w ramach NFZ  
 http://www.wssdzkrakow.hg.pl
 info@dzieciecyszpital.pl
 
@@ -532,7 +537,7 @@ SANA - MED Sp.z o.o.
 KRAKÓW
 os.Dywizjonu 303 nr 2
 647-01-22
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -543,7 +548,7 @@ CMUJ
 Kraków
 Kopernika
 
-T
+Przyjmuje w ramach NFZ  
 
 marcin.stobiecki@uj.edu.pl
 
@@ -601,7 +606,7 @@ Niepubliczny Zakład Opieki Zdrowotnej Poradnia Medycyny Rodzinnej „Śródmie�
 Radom
 ul. Struga 57A
 (048) 364 67 26
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -619,7 +624,7 @@ Cepelek - Centralna Wojskowa Przychodnia Lekarska
 Warszawa
 Koszykowa 73
 
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -642,7 +647,7 @@ Ordynator Oddziału Dermatologii Dziecięcej Międzyleskiego Szpitala Specjalist
 Warszawa
 Bursztynowa 2
 022 47-35-383
-T
+Przyjmuje w ramach NFZ  
 http://www.babyderm.pl/
 
 --------
@@ -680,7 +685,7 @@ NZOZ Optima
 Opole
 Dambonia, 171
 77 887 21 21
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -691,7 +696,7 @@ Poradnia Alergologiczna
 Opole
 ul.Wróblewskiego 38
 77 474 68 54; 508 239 009
-T
+Przyjmuje w ramach NFZ  
 http://www.poradnia-alergologiczna.pl/
 poradnia@list.pl
 
@@ -714,7 +719,7 @@ BETA-MED
 Rzeszów
 Plac Wolności 17
 (0-17) 859-15-60
-T
+Przyjmuje w ramach NFZ  
 
 ### Podlaskie
 
@@ -725,7 +730,7 @@ Poradnia Alergologiczna, Uniwersytecki Dziecięcy Szpital Kliniczny
 Białystok
 ul Waszyngtona 17
 85 7450513
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -736,7 +741,7 @@ Dermedica S.C.
 Białystok
 Wojskowa 4
 0-85 745-90-36, 742-97-77
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -777,7 +782,7 @@ ZOZ PRZYCHODNIA
 Sopot
 Chrobrego 6/8 P.208
 
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -788,7 +793,7 @@ DERM-AL Centrum Dermatologiczno-Alergologiczne
 Sopot
 ul.Armi Krajowej 116 / 5
 058 551-62-45
-T
+Przyjmuje w ramach NFZ  
 http://www.derm-al.pl/
 
 --------
@@ -800,7 +805,7 @@ Akademia Medyczna
 Gdańsk
 Dębinki 7/22
 58 349 25 80
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -811,7 +816,7 @@ SZPITAL MORSKI im.PCK (oddział dermatologii)
 Gdynia
 ul. Powstania Styczniowego 1
 (058) 69 - 98 - 267
-T
+Przyjmuje w ramach NFZ  
 http://www.szpital-morski.pl/dermatologia.html
 
 --------
@@ -844,7 +849,7 @@ NZOZ Przychodnia Morena
 Gdańsk
 Jaśkowa Dolina 105
 (58) 340-72-56
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -922,7 +927,7 @@ Poradnia Alergologiczno-Pulmunologiczna dla Dzieci i Młodzieży
 Gdynia
 ul Abrahama 57
 058 621-91-22
-T
+Przyjmuje w ramach NFZ  
 
 ### Śląskie
 
@@ -942,7 +947,7 @@ Przychodnia przyszpitalna
 Zabrze
 ul. Curie- Skłodowskiej
 
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -963,7 +968,7 @@ Przychodnia nr 1, nr 3, nr 4, ind.praktyka
 Tychy
 Korczaka 19
 604933418
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -974,7 +979,7 @@ Germen SP.Z.O.O ul.Ks.Kard.Wyszyńskiego 4
 40-132 Katowice
 Ks.Kard.Wyszyńskiego 4
 032 258 02 32
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -985,7 +990,7 @@ Przychodnia ALMED
 44-100 Gliwice
 ul. Daszyńskiego 154
 0-32-231-90-93
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -996,7 +1001,7 @@ Wojewódzka Przychodnia Specjalistyczna
 Katowice
 ul. Lompy 16
 032-256-55-68
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -1006,7 +1011,7 @@ Alergolog Pediatra
 Chorzów
 Powstańców 27
 
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -1059,7 +1064,7 @@ Olsztyn
 Żołnierska 18
 895393215
 
-T
+Przyjmuje w ramach NFZ  
 
 ### Wielkopolskie
 
@@ -1093,7 +1098,7 @@ Poradnia dermatologiczna ZOZ MSWiA
 Poznań
 ul. Dojazd 34
 (061)84-64-724
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -1104,7 +1109,7 @@ Poradnia Alergologiczna
 Kościan
 Szpitalna 7
 603 982 798
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -1133,7 +1138,7 @@ poradnia dermatologiczna Przychodnia Zdrowie Rodziny
 Poznań
 os. Wichrowe Wzgórze
 (0-61) 820-21-31
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -1144,7 +1149,7 @@ Prywatny Gabinet
 Poznań
 os. Kosmonautów 15
 0-601747670
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -1155,7 +1160,7 @@ Szpital (Lutycka)
 Poznań
 ul, Juraszów
 
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -1177,7 +1182,7 @@ Zakład Opieki Zdrowotnej Poznań-Nowe Miasto
 Poznań
 ul. Szwajcarska 3
 061/8739006
-T
+Przyjmuje w ramach NFZ  
 
 ### Zachodniopomorskie
 
@@ -1218,7 +1223,7 @@ Dermatolog
 Szczecin
 Gorkiego 3/1
 0601 77 10 99
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -1229,7 +1234,7 @@ NZOZ &quot;ALERGOLOGIA&quot;
 Szczecin
 ul. Jagiellońska 67a
 9148 80 012
-T
+Przyjmuje w ramach NFZ  
 
 --------
 
@@ -1272,5 +1277,5 @@ Pomorska Akademia Medyczna w Szczecinie
 71-252 Szczecin
 ul. Unii Lubelskiej 1
 (0-91) 425-31-39
-T
+Przyjmuje w ramach NFZ  
 http://bazy.opi.org.pl/raporty/opisy/instyt/6000/i6089.htm
