@@ -4,10 +4,13 @@ permalink = "/Leki/"
 title = "Leki"
 kategorie = [ "terapia", "leki",]
 lastmod = "2016-11-19T15:19:26+00:00"
+aliases = [
+  "/atopedia/Leki_antyhistaminowe",
+]
 
 +++
 
-W leczeniu [AZS](/atopedia/AZS) stosuje się różne leki, które ze względu na sposób podawania można podzielić je na:
+W leczeniu AZS stosuje się różne leki, które ze względu na sposób podawania można podzielić je na:
 
 -   maści (działające miejscowo)
 -   leki doustne (działające systemowo, czyli na cały organizm)
