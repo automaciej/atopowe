@@ -2,7 +2,7 @@
 <html lang="pl">
   <head>
     {{ partial "head-section.html" . }}
-    <title>{{ with .Title }}{{ . }} &mdash; {{ end }}{{ .Site.Title }}</title>
+    <title>{{ .Site.Title }}</title>
     <meta name="description" content="{{ .Site.Params.description }}" />
     <meta property="og:image"              content="{{ .Site.Params.logo }}" />
   </head>
