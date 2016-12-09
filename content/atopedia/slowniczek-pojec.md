@@ -22,6 +22,7 @@ aliases = [
     "/atopedia/Skóra_właściwa/",
     "/atopedia/Błona_śluzowa/",
     "/atopedia/Obrzęk_naczynioruchowy/",
+    "/atopedia/Dziegieć/",
 ]
 lastmod = "2016-11-20T13:29:12+00:00"
 
@@ -37,6 +38,8 @@ wewnętrznych organizmu kręgowca. Składa się z dwóch zasadniczych warstw: bl
 właściwej i pokrywającego ją nabłonka. Nabłonek różnych przewodów wewnętrznych
 może mieć różne właściwości, w zależności od funkcji. Pod blaszką właściwą może
 występować warstwa mięśni.
+
+**Dziegieć** - smolista substancja używana m.in. do leczenia łuszczycy.
 
 **Leki sedatywne** - są to leki działające na ośrodkowy układ nerwowy,
 działające uspokajająco, przeciwświądowo i nasennie. Należą do nich m.in.
