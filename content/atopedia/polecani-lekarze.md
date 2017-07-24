@@ -5,6 +5,7 @@ aliases = [
   "/atopedia/Dział_z_lekarzami",
   "/atopedia/Polecani_lekarze",
   "/atopedia/Wojewódzki_Specjalistyczny_Szpital_im._dr_Wł._Biegańskiego_w_Łodzi/",
+  "/lekarze/",
 ]
 description = "Lista polecanych lekarzy, zebrana przez użytkowników atopowe.pl"
 lastmod = "2016-11-19T15:19:25+00:00"
