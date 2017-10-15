@@ -99,7 +99,6 @@ Pozwolić sobie na niego mogą Ci, którzy teoretycznie są w stanie się bez ni
 ### Zobacz też:
 
 -   [Korespondencja z NFZ](/atopedia/Korespondencja_z_NFZ)
--   [Wątek o refundacji na Forum](https://www.atopowe.pl/forum/viewtopic.php?f=14&t=418)
 -   [Protopic (ulotka)]({{< relref "ulotka/Protopic_(ulotka).md" >}})
 -   <http://www.protopic.com> (w Polsce nie można rejestrować domeny będącej nazwą leku)
 -   [Wpis na blogu o refundacji protopiku w Senacie](/2010/04/08/o-refundacji-protopiku-i-dlaczego-jej-nie-bedzie/)

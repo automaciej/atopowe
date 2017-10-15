@@ -59,6 +59,11 @@ istniejącą infrastrukturę i nie będą wymagały od nas wysiłku przy utrzymy
     Na razie wyliczyłem artykuły z kategorii "podstawowe wiadomości" z
     założeniem, że jest to dla osób nowych na stronie.
 
+*   Aktualizacja 2017-10-15: Po [padzie dysków][disk-crash] w serwerze na którym stało
+    archiwum forum zdecydowałem się już go nie przywracać.
+
 [reddit-opis]: https://www.reddit.com/r/atopowezapalenieskory/comments/4fb20l/reddit_i_wiki_plan_reorganizacji_atopowepl/
 [reddit]: https://www.reddit.com/r/atopowezapalenieskory/
 [github]: https://github.com/automatthias/atopowe-hugo
+[disk-crash]:
+https://groups.google.com/d/msg/atopowe-team/6EHSTmClGF0/NXPfsleZBgAJ
