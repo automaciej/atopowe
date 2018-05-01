@@ -2,7 +2,6 @@
 author = "Wahwah"
 kategorie = [ "Środowisko",]
 date = "2007-11-10"
-layout = "post"
 tags = [ "dieta", "przyczyny", "stres", "woda",]
 title = "Woda, dieta i stres"
 url = "/2007/11/11/woda-dieta-i-stres/"

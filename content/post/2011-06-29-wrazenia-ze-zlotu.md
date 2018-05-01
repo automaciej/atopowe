@@ -2,7 +2,6 @@
 author = "mres"
 kategorie = [ "W społeczeństwie", "Wydarzenia",]
 date = "2011-06-29"
-layout = "post"
 tags = [ "zloty",]
 title = "Wrażenia ze zlotu w Starych Jabłonkach"
 url = "/2011/06/29/wrazenia-ze-zlotu/"

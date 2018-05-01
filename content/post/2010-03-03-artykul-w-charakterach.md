@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Kontrowersje", "Prasa",]
 date = "2010-03-03"
-layout = "post"
 tags = [ "Charaktery",]
 title = "Artykuł w Charakterach"
 url = "/2010/03/03/artykul-w-charakterach/"

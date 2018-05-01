@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Pseudomedycyna", "W społeczeństwie", "Wydarzenia",]
 date = "2010-11-08"
-layout = "post"
 tags = [ "James Randi", "Rhys Morgan",]
 title = "Afera wybielaczowa"
 url = "/2010/11/08/afera-wybielaczowa/"

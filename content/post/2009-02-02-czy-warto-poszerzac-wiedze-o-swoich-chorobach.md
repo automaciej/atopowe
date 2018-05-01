@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Leczenie", "Objawy", "W społeczeństwie",]
 date = "2009-02-02"
-layout = "post"
 tags = [ "astma",]
 title = "Czy warto poszerzać wiedzę o swoich chorobach?"
 url = "/2009/02/02/czy-warto-poszerzac-wiedze-o-swoich-chorobach/"

@@ -2,7 +2,6 @@
 author = "Wahwah"
 kategorie = [ "Pseudomedycyna",]
 date = "2013-05-29"
-layout = "post"
 title = "Wzmocnijmy nasz układ odpornościowy (albo i nie)"
 url = "/2013/05/29/wzmocnijmy-nasz-uklad-odpornosciowy-albo-nie/"
 image = "/wp-content/uploads/2013/05/huśtawka-1-300x199.jpg"

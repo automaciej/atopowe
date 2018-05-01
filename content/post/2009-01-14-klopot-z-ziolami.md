@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Kontrowersje", "Nauka", "Pseudomedycyna",]
 date = "2009-01-14"
-layout = "post"
 tags = [ "Ben Goldacre", "chemia",]
 title = "Kłopot z ziołami"
 url = "/2009/01/14/klopot-z-ziolami/"

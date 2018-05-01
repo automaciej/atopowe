@@ -2,7 +2,6 @@
 author = "aksamitka"
 kategorie = [ "Kontrowersje", "Nauka", "Objawy", "Środowisko",]
 date = "2008-12-10"
-layout = "post"
 title = "Miasto, roztocza a atopia"
 url = "/2008/12/10/miasto-roztocza-a-atopia/"
 lastmod = "2016-11-19T15:19:21+00:00"

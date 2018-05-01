@@ -2,7 +2,6 @@
 author = "aksamitka"
 kategorie = [ "Kontrowersje",]
 date = "2008-08-03"
-layout = "post"
 title = "Jak naprawdę jest z „robakami”"
 url = "/2008/08/03/jak-naprawde-jest-z-robakami/"
 lastmod = "2016-11-19T15:19:25+00:00"

@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Leczenie",]
 date = "2010-12-08"
-layout = "post"
 tags = [ "humor",]
 title = "Wypisy z kart pacjentów"
 url = "/2010/12/08/wypisy-z-kart-pacjentow/"

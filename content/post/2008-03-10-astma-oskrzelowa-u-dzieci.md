@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Leczenie", "Nauka", "Środowisko",]
 date = "2008-03-10"
-layout = "post"
 tags = [ "astma",]
 title = "Astma oskrzelowa u dzieci"
 url = "/2008/03/10/astma-oskrzelowa-u-dzieci/"

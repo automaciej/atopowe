@@ -2,23 +2,23 @@
 author = "Wahwah"
 kategorie = [ "Film", "Kontrowersje", "Pseudomedycyna",]
 date = "2008-07-20"
-layout = "post"
 tags = [ "Homeopatia", "James Randi",]
 title = "James Randi o homeopatii, wersja polska"
 url = "/2008/07/20/james-randi-o-homeopatii-wersja-polska/"
 lastmod = "2016-11-19T15:19:21+00:00"
+description = "Transkrypcja wykładu Jamesa Randi o homeopatii. Zawiera podstawowe informacje o zasadach homeopatii."
 
 +++
 
-Kiedyś pisałem o [homeopatii w obliczu podwójnie ślepej próby][1], dając link do filmu na którym James Randi wyjaśnia zasady homeopatii. Film był fragmentem z wykładu w Princeton w 2001 roku, i był po angielsku. Dla tych, którzy lubią filmy z polskimi napisami, mam dobrą wiadomość! Zrobiłem polskie napisy! Proszę bardzo:
+Kiedyś pisałem o [homeopatii w obliczu podwójnie ślepej próby][1], dając link do
+filmu na którym James Randi wyjaśnia zasady homeopatii. Film był fragmentem z
+wykładu w Princeton w 2001 roku, i był po angielsku. W związku z tym zrobiłem
+transkrypcję, i polskie tłumaczenie.
 
-**[James Randi wyjaśnia zasady homeopatii &#8211; z polskimi napisami][2].**
-
-Miłego oglądania!
+Oryginalny film nie jest już dostępny na YouTube (można znaleźć jego kopie),
+więc zamieszczam transkrypcję poniżej.
 
 <!--more-->
-
-Dla tych, którzy wolą raczej przeczytać niż oglądać, albo chcieliby mieć wgląd w materiały źródłowe, umieszczam całość napisów.
 
 Randi: &#8230;można mnie przekonać  
 za o wiele mniej  
@@ -445,8 +445,9 @@ I próbować przyciągać ludzi,
 i pomagali ją prowadzić? I to właśnie  
 bezwstydnie robię w tej chwili&#8230;  
 
-Tłumaczenie napisów na licencji [Creative Commons BY-SA-3.0][3]. Można je kopiować i rozprowadzać, należy podać autora oryginału, a wersje zmodyfikowane rozprowadzać na tej samej licencji.
+Tłumaczenie napisów na licencji [Creative Commons BY-SA-3.0][3]. Można je
+kopiować i rozprowadzać, należy podać autora oryginału, a wersje zmodyfikowane
+rozprowadzać na tej samej licencji.
 
  [1]: /2007/04/29/homeopatia-w-obliczu-podwojnie-slepej-proby/
- [2]: http://yt-subs.appspot.com/view?video=agd5dC1zdWJzcgwLEgVWaWRlbxjNNww
  [3]: http://creativecommons.org/licenses/by-sa/3.0/deed.pl

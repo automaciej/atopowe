@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "W społeczeństwie",]
 date = "2010-04-08"
-layout = "post"
 tags = [ "Protopic", "sejm i senat",]
 title = "O refundacji Protopiku i dlaczego jej nie będzie"
 url = "/2010/04/08/o-refundacji-protopiku-i-dlaczego-jej-nie-bedzie/"

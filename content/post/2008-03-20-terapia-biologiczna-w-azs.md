@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Leczenie", "Nauka",]
 date = "2008-03-20"
-layout = "post"
 tags = [ "Leki biologiczne",]
 title = "Terapia biologiczna w AZS"
 url = "/2008/03/20/terapia-biologiczna-w-azs/"

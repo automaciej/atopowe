@@ -2,7 +2,6 @@
 author = "aksamitka"
 kategorie = [ "Kontrowersje", "Leczenie", "W społeczeństwie",]
 date = "2008-11-22"
-layout = "post"
 tags = [ "chemia",]
 title = "Naturalne = bez skutków ubocznych?"
 url = "/2008/11/22/naturalne-bez-skutkow-ubocznych/"

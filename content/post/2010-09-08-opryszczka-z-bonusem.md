@@ -2,7 +2,6 @@
 author = "Ashitaka"
 kategorie = [ "Leczenie", "Objawy",]
 date = "2010-09-08"
-layout = "post"
 tags = [ "psychika i ciało",]
 title = "Opryszczka z bonusem"
 url = "/2010/09/08/opryszczka-z-bonusem/"

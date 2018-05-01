@@ -2,7 +2,6 @@
 author = "aksamitka"
 kategorie = [ "Leczenie", "Nauka",]
 date = "2008-07-22"
-layout = "post"
 tags = [ "historia",]
 title = "Historia chorób alergicznych"
 url = "/2008/07/22/historia-chorob-alergicznych/"

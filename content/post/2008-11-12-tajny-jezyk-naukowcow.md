@@ -2,7 +2,6 @@
 author = "Wahwah"
 kategorie = [ "Nauka",]
 date = "2008-11-12"
-layout = "post"
 tags = [ "humor",]
 title = "Tajny język naukowców"
 url = "/2008/11/12/tajny-jezyk-naukowcow/"

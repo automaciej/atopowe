@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Nauka",]
 date = "2008-02-21"
-layout = "post"
 tags = [ "historia",]
 title = "Historia choroby"
 url = "/2008/02/21/historia-choroby/"

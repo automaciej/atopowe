@@ -2,7 +2,6 @@
 author = "Wahwah"
 kategorie = [ "Leczenie",]
 date = "2007-10-25"
-layout = "post"
 title = "Wzmacnianie układu odpornościowego"
 url = "/2007/10/25/wzmacnianie-ukladu-odpornosciowego/"
 lastmod = "2016-11-19T15:19:21+00:00"

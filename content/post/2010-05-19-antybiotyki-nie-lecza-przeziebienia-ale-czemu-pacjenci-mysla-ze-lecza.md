@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Nauka",]
 date = "2010-05-19"
-layout = "post"
 tags = [ "Ben Goldacre",]
 title = "Antybiotyki nie leczą przeziębienia, ale czemu pacjenci myślą, że leczą?"
 url = "/2010/05/19/antybiotyki-nie-lecza-przeziebienia-ale-czemu-pacjenci-mysla-ze-lecza/"

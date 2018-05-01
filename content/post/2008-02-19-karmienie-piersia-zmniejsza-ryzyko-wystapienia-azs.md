@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Nauka",]
 date = "2008-02-19"
-layout = "post"
 tags = [ "Karmienie piersią",]
 title = "Karmienie piersią zmniejsza ryzyko wystąpienia AZS"
 url = "/2008/02/19/karmienie-piersia-zmniejsza-ryzyko-wystapienia-azs/"

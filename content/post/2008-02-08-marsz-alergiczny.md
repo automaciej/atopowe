@@ -2,7 +2,6 @@
 author = "Wahwah"
 kategorie = [ "Objawy",]
 date = "2008-02-08"
-layout = "post"
 title = "Marsz alergiczny"
 url = "/2008/02/08/marsz-alergiczny/"
 lastmod = "2016-11-19T15:19:21+00:00"

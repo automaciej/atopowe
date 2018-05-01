@@ -2,7 +2,6 @@
 author = "Mirka"
 kategorie = [ "W społeczeństwie", "Wydarzenia",]
 date = "2011-06-30"
-layout = "post"
 tags = [ "zloty",]
 title = "Ogólnopolski Zlot Atopików w Starych Jabłonkach"
 url = "/2011/06/30/stare-jablonki/"

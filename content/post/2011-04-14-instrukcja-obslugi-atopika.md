@@ -2,7 +2,6 @@
 author = "magda2em"
 kategorie = [ "Objawy", "W społeczeństwie",]
 date = "2011-04-14"
-layout = "post"
 title = "Instrukcja obsługi atopika"
 url = "/2011/04/14/instrukcja-obslugi-atopika/"
 lastmod = "2016-11-19T15:19:21+00:00"

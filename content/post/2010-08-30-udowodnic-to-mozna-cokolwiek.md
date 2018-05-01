@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Nauka",]
 date = "2010-08-30"
-layout = "post"
 tags = [ "Ben Goldacre",]
 title = "Udowodnić to można cokolwiek"
 url = "/2010/08/30/udowodnic-to-mozna-cokolwiek/"

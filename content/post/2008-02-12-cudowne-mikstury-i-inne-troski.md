@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Kontrowersje", "Książka", "Pseudomedycyna",]
 date = "2008-02-12"
-layout = "post"
 tags = [ "John Diamond",]
 title = "Cudowne mikstury i inne troski"
 url = "/2008/02/12/cudowne-mikstury-i-inne-troski/"

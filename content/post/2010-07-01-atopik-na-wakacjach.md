@@ -2,7 +2,6 @@
 author = "Ashitaka"
 kategorie = [ "Środowisko", "W społeczeństwie",]
 date = "2010-07-01"
-layout = "post"
 tags = [ "wakacje", "życie",]
 title = "Atopik na wakacjach!"
 url = "/2010/07/01/atopik-na-wakacjach/"

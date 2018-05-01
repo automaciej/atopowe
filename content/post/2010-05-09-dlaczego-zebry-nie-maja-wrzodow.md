@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Książka", "Nauka",]
 date = "2010-05-09"
-layout = "post"
 tags = [ "Robert M. Sapolsky",]
 title = "Dlaczego zebry nie mają wrzodów?"
 url = "/2010/05/09/dlaczego-zebry-nie-maja-wrzodow/"

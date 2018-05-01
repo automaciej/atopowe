@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Kontrowersje", "Pseudomedycyna",]
 date = "2008-03-11"
-layout = "post"
 title = "Jak sprzedaje się cudowne mikstury"
 url = "/2008/03/11/jak-sprzedaje-sie-cudowne-mikstury/"
 lastmod = "2016-11-19T15:19:21+00:00"

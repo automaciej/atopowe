@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Nauka",]
 date = "2008-07-30"
-layout = "post"
 tags = [ "Leki biologiczne",]
 title = "Czym są leki biologiczne?"
 url = "/2008/07/30/czym-sa-leki-biologiczne/"

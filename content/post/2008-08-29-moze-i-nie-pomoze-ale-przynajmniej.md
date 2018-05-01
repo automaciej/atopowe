@@ -2,7 +2,6 @@
 author = "Wahwah"
 kategorie = [ "Nauka", "Pseudomedycyna",]
 date = "2008-08-29"
-layout = "post"
 title = "Może i nie pomoże, ale przynajmniej…"
 url = "/2008/08/29/moze-i-nie-pomoze-ale-przynajmniej/"
 lastmod = "2016-11-19T15:19:21+00:00"

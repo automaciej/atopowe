@@ -2,7 +2,6 @@
 author = "Mirka"
 kategorie = [ "W społeczeństwie", "Wydarzenia",]
 date = "2009-07-16"
-layout = "post"
 tags = [ "zloty",]
 title = "Wrażenia z Torunia"
 url = "/2009/07/16/wrazenia-z-torunia/"

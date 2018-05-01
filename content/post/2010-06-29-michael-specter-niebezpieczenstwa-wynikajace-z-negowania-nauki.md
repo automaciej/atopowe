@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Film", "Kontrowersje", "Nauka",]
 date = "2010-06-29"
-layout = "post"
 tags = [ "Michael Specter",]
 title = "Michael Specter: Niebezpieczeństwa wynikające z negowania nauki"
 url = "/2010/06/29/michael-specter-niebezpieczenstwa-wynikajace-z-negowania-nauki/"

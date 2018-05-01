@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Kontrowersje", "Pseudomedycyna",]
 date = "2009-06-10"
-layout = "post"
 tags = [ "Homeopatia",]
 title = "Phil Plait: Homeopatia zabija"
 url = "/2009/06/10/phil-plait-homeopatia-zabija/"

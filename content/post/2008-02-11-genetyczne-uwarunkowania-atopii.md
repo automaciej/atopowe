@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Nauka",]
 date = "2008-02-11"
-layout = "post"
 tags = [ "Genetyka",]
 title = "Genetyczne uwarunkowania atopii"
 url = "/2008/02/11/genetyczne-uwarunkowania-atopii/"

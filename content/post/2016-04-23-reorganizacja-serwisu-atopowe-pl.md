@@ -65,5 +65,4 @@ istniejącą infrastrukturę i nie będą wymagały od nas wysiłku przy utrzymy
 [reddit-opis]: https://www.reddit.com/r/atopowezapalenieskory/comments/4fb20l/reddit_i_wiki_plan_reorganizacji_atopowepl/
 [reddit]: https://www.reddit.com/r/atopowezapalenieskory/
 [github]: https://github.com/automatthias/atopowe-hugo
-[disk-crash]:
-https://groups.google.com/d/msg/atopowe-team/6EHSTmClGF0/NXPfsleZBgAJ
+[disk-crash]: https://groups.google.com/d/msg/atopowe-team/6EHSTmClGF0/NXPfsleZBgAJ

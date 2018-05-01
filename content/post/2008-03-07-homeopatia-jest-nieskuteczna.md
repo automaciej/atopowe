@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Kontrowersje", "Pseudomedycyna", "W społeczeństwie",]
 date = "2008-03-07"
-layout = "post"
 tags = [ "Homeopatia",]
 title = "Homeopatia jest nieskuteczna"
 url = "/2008/03/07/homeopatia-jest-nieskuteczna/"

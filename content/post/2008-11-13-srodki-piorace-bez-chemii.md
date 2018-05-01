@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Kontrowersje",]
 date = "2008-11-13"
-layout = "post"
 tags = [ "chemia",]
 title = "Środki piorące bez chemii"
 url = "/2008/11/13/srodki-piorace-bez-chemii/"

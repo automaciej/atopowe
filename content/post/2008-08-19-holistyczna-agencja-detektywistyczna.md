@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Kontrowersje", "Pseudomedycyna",]
 date = "2008-08-19"
-layout = "post"
 title = "Holistyczna Agencja Detektywistyczna"
 url = "/2008/08/19/holistyczna-agencja-detektywistyczna/"
 lastmod = "2016-11-19T15:19:21+00:00"

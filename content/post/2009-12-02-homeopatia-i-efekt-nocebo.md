@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Nauka", "Pseudomedycyna",]
 date = "2009-12-02"
-layout = "post"
 tags = [ "Ben Goldacre", "Homeopatia",]
 title = "Homeopatia i efekt nocebo"
 url = "/2009/12/02/homeopatia-i-efekt-nocebo/"

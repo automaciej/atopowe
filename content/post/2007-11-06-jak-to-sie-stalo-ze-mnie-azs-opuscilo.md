@@ -2,7 +2,6 @@
 author = "Wahwah"
 kategorie = [ "Leczenie", "Środowisko", "Wydarzenia",]
 date = "2007-11-06"
-layout = "post"
 tags = [ "przyczyny",]
 title = "Jak to się stało że mnie AZS opuściło"
 url = "/2007/11/06/jak-to-sie-stalo-ze-mnie-azs-opuscilo/"

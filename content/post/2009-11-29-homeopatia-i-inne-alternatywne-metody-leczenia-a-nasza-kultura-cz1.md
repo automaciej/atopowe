@@ -2,7 +2,6 @@
 author = "aksamitka"
 kategorie = [ "Kontrowersje", "Nauka", "Pseudomedycyna", "W społeczeństwie",]
 date = "2009-11-29"
-layout = "post"
 tags = [ "Homeopatia",]
 title = "Homeopatia i inne alternatywne metody leczenia a nasza kultura cz.1"
 url = "/2009/11/29/homeopatia-i-inne-alternatywne-metody-leczenia-a-nasza-kultura-cz1/"

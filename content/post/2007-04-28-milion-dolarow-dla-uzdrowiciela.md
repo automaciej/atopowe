@@ -2,7 +2,6 @@
 author = "Wahwah"
 kategorie = [ "Kontrowersje", "Nauka", "Pseudomedycyna",]
 date = "2007-04-27"
-layout = "post"
 tags = [ "James Randi",]
 title = "Milion dolarów dla uzdrowiciela"
 url = "/2007/04/28/milion-dolarow-dla-uzdrowiciela/"

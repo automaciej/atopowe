@@ -2,7 +2,6 @@
 author = "Wahwah"
 kategorie = [ "Kontrowersje", "Leczenie", "Pseudomedycyna",]
 date = "2008-11-18"
-layout = "post"
 title = "Lewatywy z kawy i zmniejszanie cierpienia"
 url = "/2008/11/18/lewatywy-z-kawy-i-zmniejszanie-cierpienia/"
 lastmod = "2016-11-19T15:19:21+00:00"

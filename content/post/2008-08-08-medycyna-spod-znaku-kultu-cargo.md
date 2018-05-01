@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Kontrowersje", "W społeczeństwie",]
 date = "2008-08-08"
-layout = "post"
 tags = [ "Homeopatia",]
 title = "Medycyna spod znaku kultu cargo"
 url = "/2008/08/08/medycyna-spod-znaku-kultu-cargo/"

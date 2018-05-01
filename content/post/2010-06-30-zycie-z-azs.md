@@ -2,7 +2,6 @@
 author = "Ashitaka"
 kategorie = [ "Środowisko", "W społeczeństwie",]
 date = "2010-06-30"
-layout = "post"
 tags = [ "dzieci", "życie",]
 title = "Życie z AZS"
 url = "/2010/06/30/zycie-z-azs/"

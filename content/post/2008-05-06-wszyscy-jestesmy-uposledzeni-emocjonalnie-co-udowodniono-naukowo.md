@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Kontrowersje",]
 date = "2008-05-06"
-layout = "post"
 title = "Wszyscy mamy zaburzenia emocjonalne (co udowodniono naukowo)"
 url = "/2008/05/06/wszyscy-jestesmy-uposledzeni-emocjonalnie-co-udowodniono-naukowo/"
 lastmod = "2016-11-19T15:19:21+00:00"

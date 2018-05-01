@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Książka",]
 date = "2011-01-05"
-layout = "post"
 tags = [ "Ben Goldacre",]
 title = "Polskie tłumaczenie Bad Science już w sprzedaży"
 url = "/2011/01/05/polskie-tlumaczenie-bad-science-juz-w-sprzedazy/"

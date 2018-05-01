@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Kontrowersje",]
 date = "2010-05-31"
-layout = "post"
 tags = [ "Homeopatia",]
 title = "Homeopaci cenzurują bloggera"
 url = "/2010/05/31/homeopaci-cenzuruja-bloggera/"

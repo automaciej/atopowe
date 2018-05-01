@@ -2,7 +2,6 @@
 author = "dexter"
 kategorie = [ "Leczenie", "Nauka",]
 date = "2008-10-30"
-layout = "post"
 title = "Zbigniew Samochocki: AZS – współczesne metody leczenia"
 url = "/2008/10/30/zbigniew-samochocki-azs-wspolczesne-metody-leczenia/"
 lastmod = "2016-11-19T15:19:21+00:00"
