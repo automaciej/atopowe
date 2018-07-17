@@ -42,9 +42,6 @@
         </div><!-- col-md-12 -->
       </div><!-- row -->
       <div class="row mobile-elements-close">
-        <!--
-  <ul class="list-unstyled list-inline inlin" id="kategorie">
-        -->
   {{ range $name, $taxonomy := .Site.Taxonomies.kategorie }}
           <div class="col-md-3 col-sm-6 col-xs-12">
             <a href="{{ "/kategorie/" | relURL }}{{ $name | urlize }}/">{{ $name }}</a>
