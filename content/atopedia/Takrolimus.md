@@ -26,7 +26,7 @@ Zarówno takrolimus, jak i [pimekrolimus]({{< relref "atopedia/Pimekrolimus.md" 
 
 Dzięki temu, że cząsteczki takrolimusu są mniejsze niż cząsteczki cyklosporyny, przenikają przez skórę, co umożliwia miejscowe stosowanie takrolimusu w postaci maści/kremu.
 
-Częstym objawem towarzyszącym stosowaniu tych preparatów jest uczucie pieczenia, zaczerwienienie oraz rzadko nasilenie [świądu]({{< relref "atopedia/Świąd.md" >}}). Są to jednak objawy występujące w ciągu kilku pierwszych dni stosowania leku i zazwyczaj w krótkim czasie mijają. Przeczytaj jak można ich [zupełnie uniknąć]({{< relref "ulotka/Protopic_(ulotka).md" >}}#Jak_unikn.C4.85.C4.87_pieczenia_po_zastosowaniu_Protopiku.3F).
+Częstym objawem towarzyszącym stosowaniu tych preparatów jest uczucie pieczenia, zaczerwienienie oraz rzadko nasilenie [świądu]({{< relref "atopedia/Świąd.md" >}}). Są to jednak objawy występujące w ciągu kilku pierwszych dni stosowania leku i zazwyczaj w krótkim czasie mijają.
 
 Obawy co do rakotwórczości
 --------------------------

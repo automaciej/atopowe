@@ -25,5 +25,4 @@ Zobacz też
 ----------
 
 -   Gdzie kupić Elidel
--   [Elidel (ulotka)]({{< relref "ulotka/Elidel_(ulotka).md" >}})
 -   [Protopic](/atopedia/Protopic)

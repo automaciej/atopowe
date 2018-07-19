@@ -119,9 +119,7 @@ czasie ciąży i karmienia piersią.
 W Polsce preparaty te są zarejestrowane od 2. roku życia - w wielu krajach jest
 jednak dopuszczone ich używanie już u niemowląt od 3. miesiąca życia.
 
-Przeciwwskazania szczegółowo, zobacz
-[Protopic (ulotka)]({{< relref "ulotka/Protopic_(ulotka).md" >}}),
-[Elidel (ulotka)]({{< relref "ulotka/Elidel_(ulotka).md" >}}).
+Żeby zobaczyć przeciwwskazania szczegółowo, zobacz ulotki leków.
 
 ### Intensywność stosowania
 

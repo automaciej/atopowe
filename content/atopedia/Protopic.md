@@ -29,7 +29,6 @@ Jak stosować maść Protopic
 Zobacz też
 ----------
 
--   [Protopic (ulotka)]({{< relref "ulotka/Protopic_(ulotka).md" >}})
 -   [Jak stosować Protopic i Elidel](/atopedia/Jak_stosować_Protopic_i_Elidel)
 -   [Refundacja maści Protopic](/atopedia/Refundacja_maści_Protopic)
 -   Gdzie kupić Protopic

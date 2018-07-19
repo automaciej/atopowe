@@ -27,7 +27,7 @@ Leki antyhistaminowe doustne
 
 **II generacja:** Ebastyna *(Kestine)*, [Loratadyna](/atopedia/Loratadyna) ([Aleric](/atopedia/Aleric), Clarinase, [Claritine](/atopedia/Claritine), Loratadyna, Loratin, Loratine, Nalergin, Rotadin, Flonidan), [Cetyryzyna](/atopedia/Cetyryzyna) ([Zyrtec](/atopedia/Zyrtec), [Virlix](/atopedia/Virlix), [Amertil](/atopedia/Amertil), [Allertec](/atopedia/Allertec), Cet Alergin, Letizen), [Mizolastyna](/atopedia/Mizolastyna) *(Mizollen)*
 
-**III generacja:** Feksofenadyna ([Telfast]({{< relref "ulotka/Telfast.md" >}}), [Telfexo](/atopedia/Telfexo)), Desloratadyna (Aerius), Levocetrizina ([Lirra Gem](/atopedia/Lirra_Gem), [Xyzal](/atopedia/Xyzal)), Bilastyna ([Bilaxten](/atopedia/Bilaxten), [Clatra](/atopedia/Clatra))
+**III generacja:** Feksofenadyna Telfast, [Telfexo](/atopedia/Telfexo)), Desloratadyna (Aerius), Levocetrizina ([Lirra Gem](/atopedia/Lirra_Gem), [Xyzal](/atopedia/Xyzal)), Bilastyna ([Bilaxten](/atopedia/Bilaxten), [Clatra](/atopedia/Clatra))
 
 Leki antyhistaminowe w zastrzykach
 ----------------------------------

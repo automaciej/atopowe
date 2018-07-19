@@ -14,8 +14,6 @@ lastmod = "2016-11-13T23:51:16+00:00"
 
 <a class="btn btn-default btn-lg" href="/atopedia/polecani-lekarze/">Polecani lekarze &raquo;</a>
 
-<a class="btn btn-default btn-lg" href="/ulotka/">Ulotki leków &raquo;</a>
-
 <a class="btn btn-default btn-lg" href="/kosmetyk/">Kosmetyki &raquo;</a>
 
 <a class="btn btn-default btn-lg" href="/przepis/">Przepisy kulinarne &raquo;</a>
