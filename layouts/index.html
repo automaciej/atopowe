@@ -34,6 +34,40 @@
 
     <div class="container" role="main">
       <div class="row">
+        {{ range first 2 (where .Pages "Section" "post") -}}
+        <div class="col-md-4">
+          <h3>{{ .Title }}</h3>
+          <small class="text-muted">
+            <a href="{{ .Permalink }}">
+              {{ .Date.Day }} {{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Year }}
+            </a>
+            {{ with .Params.author }}
+              &mdash; {{ . }}
+            {{ end }}
+          </small>
+          <p>{{ .Summary }}</p>
+          <p>
+          {{ if .Truncated }}
+          <a href="{{ .Permalink }}">przeczytaj cały wpis &raquo;</a>
+          {{ end }}
+          </p>
+        </div>
+        {{- end }}
+        <div class="col-md-4">
+          <h3>Ostatnie wpisy</h3>
+          <ul class="list-unstyled">
+          {{ range first 7 (where .Pages "Section" "post") -}}
+          <li>
+            <a href="{{ .Permalink }}" title="{{ .Description }}">{{ .Title }}</a>,
+            <small class="text-muted">
+              {{ dateFormat "2006-01-02" .Date }}
+            </small>
+          </li>
+          {{ end }}
+          </ul>
+        </div>
+      </div>
+      <div class="row">
         {{ range where .Data.Pages "Section" "promowane" }}
         <div class="col-md-4">
           <h2>{{ .Title }}</h2>
