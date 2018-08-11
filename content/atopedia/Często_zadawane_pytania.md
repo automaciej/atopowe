@@ -1,9 +1,12 @@
 +++
 date = "2005-01-01T00:00:00+01:00"
-permalink = "/Często_zadawane_pytania/"
+permalink = "/atopedia/często_zadawane_pytania/"
 title = "Często zadawane pytania"
 kategorie = [ "Podstawowe wiadomości",]
-aliases = [ "/atopedia/Gojenie/",]
+aliases = [
+  "/atopedia/Gojenie/",
+  "/atopedia/Często_zadawane_pytania/",
+]
 lastmod = "2016-11-20T13:53:20+00:00"
 
 +++
