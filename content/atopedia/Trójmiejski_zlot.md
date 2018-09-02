@@ -9,20 +9,21 @@ lastmod = "2016-11-17T21:14:06+00:00"
 
 ## 26 listopada 2005
 
-W Sopocie odbyło się drugie już trójmiejskie spotkanie. Zainspirował nas przyjazd Basi :)
+W Sopocie odbyło się drugie już trójmiejskie spotkanie. Zainspirował nas
+przyjazd Basi :)
 
-![](/images/My02.jpg "thumb|center|510px|od lewej: Brummig, Basia, Wiosna i Aga Piet.")
+{{< figure src="/images/My02.jpg" caption="od lewej: Brummig, Basia, Wiosna i Aga Piet." >}}
 
 ## 25 listopada 2006
 
 Spotkaliśmy się w sympatycznej kafeterii Art Deco. Wesoło było, oj wesoło... :)
 
-![](/images/Azsowe1.jpg "od lewej: Hofek, Dexter, Magata, Wiosna, Brummig, Fiołek")
+{{< figure src="/images/Azsowe1.jpg" caption="od lewej: Hofek, Dexter, Magata, Wiosna, Brummig, Fiołek" >}}
 
-![](/images/Azsowe2.jpg "od lewej: Dexter, Wiosna, Hofek, Magata, Brummig, Fiołek")
+{{< figure src="/images/Azsowe2.jpg" caption="od lewej: Dexter, Wiosna, Hofek, Magata, Brummig, Fiołek" >}}
 
 oba foto by Aga Piet, w związku z czym nima jej na zdjęciach, och, jaka szkodaaa ;)
 
 OTO I AGA PIET :)(tak dla odmiany w kolorze :) )
 
-![](/images/Art_deco.jpg "od lewej: Brummig, Fiołek, Hofek, Aga Piet, Dexter, Wiosna")
+{{< figure src="/images/Art_deco.jpg" caption="od lewej: Brummig, Fiołek, Hofek, Aga Piet, Dexter, Wiosna" >}}
