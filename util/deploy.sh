@@ -5,7 +5,13 @@ set -u
 
 DEST=atemoia:www/atopowe.pl
 
-hugo=/usr/bin/hugo
+readonly HUGO_DEFAULT=/usr/bin/hugo
+readonly hugo=${HUGO:-${HUGO_DEFAULT}}
+
+if [[ ! -x "${hugo}" ]]; then
+  echo >&2 "${hugo} is not executable or does not exist."
+  exit 1
+fi
 
 helpmsg() {
   echo "$0 [ deploy | test ]"
