@@ -1,67 +1,69 @@
-<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed"
-              data-toggle="collapse" data-target="#navigation-menu-main"
-              aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand navbar-logo" href="/">
+<!-- vim:set sw=2 ts=2 sts=2 expandtab: -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="/">
         {{ partial "logo-img.html" }}
-      </a>
-      <a class="navbar-brand" href="/">Atopowe.pl</a>
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
-    </div><!-- navbar-header -->
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="navigation-menu-main">
-      <ul class="nav navbar-nav">
-        <li><a href="/post">Blog</a></li>
-        <li><a href="/atopedia" title="Encyklopedia Atopii">
-               <i class="fa fa-book" aria-hidden="true"></i>
-            Atopedia</a></li>
-        <li><a href="/atopedia/polecani-lekarze/"
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="/">Atopowe.pl</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/atopedia" title="Encyklopedia Atopii">
+             <i class="mdi mdi-book" aria-hidden="true"></i>
+          Atopedia</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/post">
+          <i class="mdi mdi-post" aria-hidden="true"></i>
+          Blog
+        </a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="sections-dd"
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Pozostałe działy
+        </a>
+        <div class="dropdown-menu" aria-labelledby="sections-dd">
+          <a class="dropdown-item" href="/atopedia/polecani-lekarze/"
                title="Lista polecanych lekarzy">
-               <i class="fa fa-user-md" aria-hidden="true"></i>
-            Polecani lekarze</a></li>
-        <li><a href="/kosmetyk" title="Kosmetyki">Kosmetyki</a></li>
-        <li><a href="/przepis" title="Przepisy kulinarne">Przepisy</a></li>
-      </ul>
-
-      <ul class="nav navbar-nav navbar-right">
-        <li>
-          <a href="http://www.ptca.pl/?utm_source=atopowe&utm_medium=navbar" title="Polskie Towarzystwo Chorób Atopowych">
-            PTCA
+            Polecani lekarze
+            <i class="mdi mdi-doctor" aria-hidden="true"></i>
           </a>
-        </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
-            aria-haspopup="true" aria-expanded="false">Społeczność <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li>
-              <a href="https://www.facebook.com/groups/ZapalenieAtopoweSkory/" role="button">
-                <i class="fa fa-facebook" aria-hidden="true"></i>
-                AZS grupa wsparcia dla rodziców
-              </a>
-            </li>
-            <li>
-              <a href="https://www.facebook.com/groups/AZSDOROSLI/" role="button">
-                <i class="fa fa-facebook" aria-hidden="true"></i>
-                Grupa dla dorosłych z AZS
-              </a>
-            </li>
-            <li><a href="https://pl.reddit.com/r/atopowezapalenieskory/"
-                   title="Atopowe zapalenie skóry na Reddicie">
-               <i class="fa fa-reddit" aria-hidden="true"></i>
-               /r/atopowezapalenieskory
-              </a>
-            </li>
-          </ul><!-- dropdown-menu -->
-        </li><!-- dropdown -->
-      </ul>
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
+          <a class="dropdown-item" href="/kosmetyk" title="Kosmetyki">Kosmetyki</a>
+          <a class="dropdown-item" href="/przepis" title="Przepisy kulinarne">Przepisy</a>
+        </div><!-- dropdown-menu -->
+      </li><!-- dropdown -->
+      <li class="nav-item">
+        <a class="nav-link" href="http://www.ptca.pl/?utm_source=atopowe&utm_medium=navbar" title="Polskie Towarzystwo Chorób Atopowych">
+          PTCA
+        </a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Społeczność
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="https://www.facebook.com/groups/ZapalenieAtopoweSkory/" role="button">
+            <i class="fa fa-facebook" aria-hidden="true"></i>
+            AZS grupa wsparcia dla rodziców
+          </a>
+          <a class="dropdown-item" href="https://www.facebook.com/groups/AZSDOROSLI/" role="button">
+            <i class="fa fa-facebook" aria-hidden="true"></i>
+            Grupa dla dorosłych z AZS
+          </a>
+          <a class="dropdown-item" href="https://pl.reddit.com/r/atopowezapalenieskory/"
+                 title="Atopowe zapalenie skóry na Reddicie">
+             <i class="fa fa-reddit" aria-hidden="true"></i>
+             /r/atopowezapalenieskory
+          </a>
+        </div><!-- dropdown-menu -->
+      </li><!-- dropdown -->
+    </ul>
+  </div>
 </nav>

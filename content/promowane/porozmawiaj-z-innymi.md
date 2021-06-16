@@ -11,23 +11,9 @@ Osoby z atopowym zapaleniem skóry rzadko mają okazję spotkać innych atopowc�
 lub porozmawiać z kimś kto rozumie, czym jest AZS. Społeczność internetowa
 sprawi że nie będziesz się z AZSem czuć samotnie!
 
-<a class="btn btn-social btn-facebook btn-lg"
-   href="https://www.facebook.com/groups/ZapalenieAtopoweSkory/" role="button">
-  <span class="fa fa-facebook"></span>
-  AZS Grupa wparcia dla rodziców &raquo;
-</a>
-
-<a class="btn btn-social btn-facebook btn-lg"
-   href="https://www.facebook.com/groups/AZSDOROSLI/" role="button">
-  <span class="fa fa-facebook"></span>
-  Grupa dla dorosłych z AZS &raquo;
-</a>
-
-<a class="btn btn-social btn-reddit btn-lg"
-   href="https://www.reddit.com/r/atopowezapalenieskory/" role="button">
-  <span class="fa fa-reddit"></span>
-  Reddit: /r/atopowezapalenieskory &raquo;
-</a>
+* [AZS Grupa wparcia dla rodziców &raquo;](https://www.facebook.com/groups/ZapalenieAtopoweSkory/)
+* [Grupa dla dorosłych z AZS &raquo;](https://www.facebook.com/groups/AZSDOROSLI/)
+* [Reddit: /r/atopowezapalenieskory &raquo;](https://www.reddit.com/r/atopowezapalenieskory/)
 
 [Stare forum]({{< relref "atopedia/Stare_forum_dyskusyjne.md" >}} "Stare forum dyskusyjne")
 działające w latach 2003-2016

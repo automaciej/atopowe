@@ -1,7 +1,7 @@
 +++
 date = "2016-11-13T19:03:09Z"
 prowadzi_do = "http://www.ptca.pl/?utm_source=atopowe&utm_medium=strona_glowna"
-fa_icon = "globe"
+mdi_icon = "globe"
 title = "Polskie Towarzystwo Chorób Atopowych"
 weight = 2
 lastmod = "2016-11-13T19:35:09+00:00"

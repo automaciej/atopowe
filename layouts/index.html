@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pl">
+  <!-- vim:set sw=2 ts=2 sts=2: -->
   <head>
     {{ partial "head-section.html" . }}
     <title>{{ .Site.Title }}</title>
@@ -7,34 +8,34 @@
     <meta property="og:image"              content="{{ .Site.Params.logo }}" />
   </head>
   <body>
-    {{ partial "navbar.html" . }}
-    <div class="jumbotron" id="jumbotron-home-page">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-10 col-sm-12 col-xs-12">
-            <h1>
-              {{ .Site.Title }}
-            </h1>
-            <p>{{ .Site.Params.description }}</p>
-            <p><a class="btn btn-primary btn-social btn-lg"
-                  href="/atopedia/Podstawowe_wiadomości/"
-                  role="button">
-              <i class="fa fa-info-circle" aria-hidden="true"></i>
-              Podstawowe wiadomości o AZS &raquo;</a></p>
-          </div><!-- col-md-10 -->
-          <div class="col-md-2 hidden-xs hidden-sm">
-            <img class="img-circle"
-                 src="{{ .Site.Params.logo }}"
-                 alt="Atopowe słoneczko, kółko z biało-czerwonym kształtem yin-yang, część czerwona lekko poszarpana, jak podrapana skóra."
-                 width="140" height="140">
-          </div><!-- col-md-2 -->
-        </div><!-- row -->
-      </div>
-    </div>
+    <div class="container bg-light" role="main">
+      {{ partial "navbar.html" . }}
+      <div class="jumbotron" id="jumbotron-home-page">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-10 col-sm-12 col-xs-12">
+              <h1>
+                {{ .Site.Title }}
+              </h1>
+              <p>{{ .Site.Params.description }}</p>
+              <p><a class="btn btn-primary mdi mdi-information btn-lg"
+                    href="/atopedia/Podstawowe_wiadomości/"
+                    role="button">
+                <i class="mdi info-circle" aria-hidden="true"></i>
+                Podstawowe wiadomości o AZS &raquo;</a></p>
+            </div><!-- col-md-10 -->
+            <div class="col-md-2 hidden-xs hidden-sm">
+              <img class="img-circle"
+                   src="{{ .Site.Params.logo }}"
+                   alt="Atopowe słoneczko, kółko z biało-czerwonym kształtem yin-yang, część czerwona lekko poszarpana, jak podrapana skóra."
+                   width="140" height="140">
+            </div><!-- col-md-2 -->
+          </div><!-- row -->
+        </div><!-- container -->
+      </div><!-- jumbotron -->
 
-    <div class="container" role="main">
       <div class="row">
-        {{ range first 2 (where .Pages "Section" "post") -}}
+        {{ range first 2 (where .Site.RegularPages "Section" "post") -}}
         <div class="col-md-4">
           <h3>{{ .Title }}</h3>
           <small class="text-muted">
@@ -56,7 +57,7 @@
         <div class="col-md-4">
           <h3>Ostatnie wpisy</h3>
           <ul class="list-unstyled">
-          {{ range first 7 (where .Pages "Section" "post") -}}
+          {{ range first 7 (where .Site.RegularPages "Section" "post") -}}
           <li>
             <a href="{{ .Permalink }}" title="{{ .Description }}">{{ .Title }}</a>,
             <small class="text-muted">
@@ -68,14 +69,14 @@
         </div>
       </div>
       <div class="row">
-        {{ range where .Data.Pages "Section" "promowane" }}
+        {{ range where .Site.RegularPages "Section" "promowane" }}
         <div class="col-md-4">
           <h2>{{ .Title }}</h2>
           {{ .Content }}
           {{ if .Params.prowadzi_do -}}
           <p>
-            <a class="btn btn-default btn-social btn-lg" href="{{ .Params.prowadzi_do }}" role="button">
-              <i class="fa fa-{{ .Params.fa_icon }}" aria-hidden="true"></i>
+            <a class="btn btn-outline-secondary btn-lg" href="{{ .Params.prowadzi_do }}" role="button">
+              <i class="mdi mdi-{{ .Params.mdi_icon }}" aria-hidden="true"></i>
               Zobacz więcej &raquo;</a>
           </p>
           {{- end }}
@@ -90,7 +91,7 @@
           </footer>
         </div><!-- col-md-12 -->
       </div><!-- row -->
-		</div><!-- /.container -->
+    </div><!-- /.container -->
     {{ partial "page-end-includes.html" . }}
   </body>
 </html>

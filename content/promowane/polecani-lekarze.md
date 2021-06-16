@@ -1,7 +1,7 @@
 +++
 date = "2016-11-13T16:28:04Z"
 prowadzi_do = "/atopedia/polecani-lekarze/"
-fa_icon = "user-md"
+mdi_icon = "user-md"
 title = "Polecani lekarze"
 weight = 3
 draft = true
