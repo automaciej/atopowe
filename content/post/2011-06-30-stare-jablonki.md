@@ -6,8 +6,10 @@ tags = [ "zloty",]
 title = "Ogólnopolski Zlot Atopików w Starych Jabłonkach"
 url = "/2011/06/30/stare-jablonki/"
 description = "Na pierwszy ogień poszły kiełbaski, po nich mięso i ryba przywiezione przez mres, a na koniec cukinie. Przy pieczeniu chleba oddaliśmy się ożywionej rozmowie, przez co musieliśmy potem szykować drugą, mniej zwęgloną partię."
-image = "/wp-content/uploads/2011/06/SDC12322.jpg"
 lastmod = "2016-11-19T15:19:25+00:00"
+[image]
+path = "/wp-content/uploads/2011/06/SDC12322.jpg"
+alt = "Grupa osób na tle drewnianego domku i drzew"
 
 +++
 

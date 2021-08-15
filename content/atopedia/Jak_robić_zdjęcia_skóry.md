@@ -3,9 +3,12 @@ date = "2005-01-01T00:00:00+01:00"
 permalink = "/Jak_robić_zdjęcia_skóry/"
 title = "Jak robić zdjęcia skóry"
 description = "Kilka rzeczy, na które warto zwrócić uwagę robiąc zdjęcia zmian skórnych."
-image = "/images/Skinfoto-02-focus-on-background.jpg"
 kategorie = [ "pomoc",]
 lastmod = "2016-11-19T15:19:26+00:00"
+[image]
+path = "/images/Skinfoto-02-focus-on-background.jpg"
+alt = "Przykładowe nieostre zdjęcie dłoni."
+credits = "Fot. Maciej Bliziński"
 
 +++
 

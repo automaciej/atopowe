@@ -4,8 +4,10 @@ permalink = "/Warszawski_Zlot/"
 title = "Warszawski Zlot"
 kategorie = [ "Spotkania",]
 description = "Zdjęcia ze spotkań forumowiczów w Warszawie"
-image = "/images/WarszawskiZlot01.jpg"
 lastmod = "2016-11-20T13:29:12+00:00"
+[image]
+path = "/images/WarszawskiZlot01.jpg"
+alt = "Pięć uśniechniętych osób zebranych naokoło stolika"
 
 +++
 

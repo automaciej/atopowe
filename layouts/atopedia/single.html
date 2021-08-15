@@ -46,6 +46,7 @@
           {{ end }}
           </header>
           <section itemprop="articleBody">
+            {{ partial "article-image.html" . }}
             {{ .Content }}
           </section>
           <footer class="small">

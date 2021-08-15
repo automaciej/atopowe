@@ -4,8 +4,10 @@ permalink = "/Poznański_Zlot/"
 title = "Poznański Zlot"
 kategorie = [ "Spotkania",]
 description = "Po lewej Basia, w środku Rholna, a po prawej Elemental"
-image = "/images/PoznanskiZlot01.jpg"
 lastmod = "2016-11-20T13:53:20+00:00"
+[image]
+path = "/images/PoznanskiZlot01.jpg"
+alt = "Trzy osoby przy stoliku w kawiarni. W tle kontrabasu bez strun."
 
 +++
 

@@ -1,0 +1,22 @@
+# https://sequencediagram.org/
+
+title Atopowe Zapalenie Skóry
+
+Środowisko -> Skóra: Alergen
+Skóra -> Uklad_Odpor: Coś tu jest
+note over Uklad_Odpor: AAaaalarm!
+Uklad_Odpor ->Skóra: Zarządzam stan zapalny!
+note over Skóra: STAN ZAPALNY
+Skóra ->Człowiek: Swędzenie
+note over Człowiek: WTF?
+Człowiek -> Skóra: Drapanie
+note over Skóra: Ochrona skóry\nuszkodzona
+Środowisko->Skóra: Bakterie
+note over Skóra: Bakterie wnikają\nbo ochrony brak
+Skóra->Uklad_Odpor: Coś tu znowu jest
+note over Uklad_Odpor: AAaaalaaaaaarm!
+Uklad_Odpor ->Skóra: Zarządzam więcej stanu zapalnego!
+Skóra ->Człowiek: Swędzenie
+note over Człowiek: WTF!
+Człowiek -> Skóra: Drapanie
+

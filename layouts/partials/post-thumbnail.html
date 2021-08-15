@@ -1,11 +1,7 @@
-{{ if .Params.image }}
-<a href="{{ .RelPermalink }}">
-<img src="{{ .Params.image }}" class="img-responsive" />
-</a>
-{{ end }}
+{{ partial "article-image.html" . }}
 <p class="text-center"><a href="{{ .RelPermalink }}" title="Poprzedni wpis: {{ .Title }}">{{ .Title }}</a></p>
-<p class="text-muted small">
 {{ with .Description }}
+  <p class="text-muted small">
   {{ . }}
+  </p>
 {{ end }}
-</p>

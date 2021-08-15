@@ -1,0 +1,63 @@
+// Diagram podobny do tego na stronie o podstawowych wiadomościach.
+digraph A {
+    node[shape="box", fontname="Arial"];
+    alergen -> reakcja_alergiczna;
+    reakcja_alergiczna -> astma;
+    reakcja_alergiczna -> niezyt_nosa;
+    reakcja_alergiczna -> stan_zapalny_skory;
+    stan_zapalny_skory -> swiad;
+    swiad -> drapanie;
+    drapanie -> uszkodzenie_ochrony_skory;
+    drapanie -> podraznienie;
+    podraznienie -> swiad;
+    pot_slina_lzy -> srodow_uszk;
+    szorstkie_ubrania -> srodow_uszk;
+    srodow_uszk -> podraznienie;
+    uszkodzenie_ochrony_skory -> srodow_uszk;
+    infekcja -> wysiek;
+    infekcja -> puchniecie;
+    infekcja -> stan_zapalny_skory;
+    astma[label="Astma"];
+    niezyt_nosa[label="Alergiczny\nnieżyt nosa"];
+    wysiek[label="Wysięk"];
+    puchniecie[label="Puchnięcie"];
+    subgraph {
+        rank="same";
+        stan_zapalny_skory[label="Stan zapalny skóry"];
+        podraznienie[label="Podrażnienie"];
+        podraznienie -> emolienty  [style="dotted", arrowhead="none"];
+        emolienty[label="Emolienty", color="green"];
+        {rank=same; podraznienie; emolienty; }
+        stan_zapalny_skory -> kortykosterydy [style="dotted", arrowhead="none"];
+        kortykosterydy[label="Kortykosterydy", color="green"];
+        {rank=same; kortykosterydy; stan_zapalny_skory; }
+    }
+    subgraph cluster_1 {
+        graph[label="Nie do powstrzymania", fontname="Arial", color="red"];
+        drapanie[label="Drapanie", color="red", style="filled", fontcolor="white"];
+        swiad[label="Świąd", color="red", style="filled", fontcolor="white",fontname="Arial"];
+    }
+    subgraph cluster_2 {
+        graph[label="Normalni ludzie tego nie rozumieją"];
+        srodow_uszk[label="Uszkodzona skóra\nw kontakcie\nz normalnym środowiskiem"];
+        bakt_uszk[label="Bakterie na\nuszkodzonej skórze"];
+    }
+    infekcja[label="Infekcja", color="red"];
+    uszkodzenie_ochrony_skory[label="Uszkodzenie\nochrony skóry\n(płaszcza lipidowego)", color="red"];
+    bakt_uszk -> infekcja;
+    uszkodzenie_ochrony_skory -> bakt_uszk;
+    stan_zapalny_skory -> uszkodzenie_ochrony_skory;
+    bakterie -> bakt_uszk;
+    bakterie[label="Bakterie które\nnormalnie występują\nw środowisku\ni nikomu nie szkodzą"];
+    szorstkie_ubrania[label="Szorstkie ubrania"];
+    pot_slina_lzy[label="Pot,\nślina, łzy"];
+    // Interwencje
+    infekcja -> antybiotyk [style="dotted", arrowhead="none"];
+    antybiotyk[label="Antybiotyk", color="green"];
+    {rank=same; infekcja; antybiotyk; }
+    reakcja_alergiczna -> immunosupresja [style="dotted", arrowhead="none"];
+    immunosupresja[label="Immunosupresja", color="green"];
+    reakcja_alergiczna -> antyhistaminy [style="dotted", arrowhead="none"];
+    antyhistaminy[label="Antyhistaminy", color="green"];
+    {rank=same; immunosupresja; antyhistaminy; }
+}

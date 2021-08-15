@@ -4,12 +4,14 @@ permalink = "/Pielęgnacja_dłoni/"
 title = "Pielęgnacja dłoni"
 kategorie = [ "Pielęgnacja",]
 description = "Chroń swoje ręce przed bezpośrednim kontaktem z mydłami, detergentami, proszkami do szorowania i podobnymi drażniącymi chemikaliami poprzez noszenie wodoszczelnych rękawiczek wyścielanych bawełną."
-image = "/images/dłonie.jpg"
 lastmod = "2016-11-20T13:29:09+00:00"
+[image]
+path = "/images/dłonie.jpg"
+alt = "Otwarta dłoń, na której usiadł motyl"
+credits = "barbara w"
+source_url = "https://flic.kr/p/p92CGg"
 
 +++
-
-{{< figure src="/images/dłonie.jpg" attr="fot. barbara w" attrlink="https://flic.kr/p/p92CGg" >}}
 
 [Wyprysk](/atopedia/Wyprysk) rąk jest częstym schorzeniem. Wysypki na rękach są
 skutkiem współistnienia wrażliwej [skóry](/atopedia/Skóra) i podrażnienia lub

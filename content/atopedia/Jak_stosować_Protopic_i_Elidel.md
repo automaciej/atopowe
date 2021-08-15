@@ -7,11 +7,11 @@ lastmod = "2016-11-19T15:19:26+00:00"
 description = """
 Należy unikać kontaktu z błonami śluzowymi, unikać ekspozycji na \
 promienie słoneczne, oraz unikać stosowania na zakażoną skórę."""
-image = "/images/Protopic.jpg"
+[image]
+path = "/images/Protopic.jpg"
+alt = "Pudełko i tubka maści, kolor biały z niebieskim paskiem. Na pudełki napis Protopic 0.1%, Ointment, 30g"
 
 +++
-
-{{< figure src="/images/Protopic.jpg" >}}
 
 ## Typowe błędy w stosowaniu
 

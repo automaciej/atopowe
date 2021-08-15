@@ -6,13 +6,12 @@ tags = [ "Ben Goldacre",]
 title = "Polskie tłumaczenie Bad Science już w sprzedaży"
 url = "/2011/01/05/polskie-tlumaczenie-bad-science-juz-w-sprzedazy/"
 description = "Książka Bena Goldacre właśnie ukazała się w polskim tłumaczeniu i jest do nabycia."
-image = "/wp-content/uploads/2011/02/leknau1.jpg"
 lastmod = "2016-11-19T15:19:25+00:00"
+[image]
+path = "/wp-content/uploads/2011/02/leknau1.jpg"
+alt = "Okładka książki przedstawia szaleńca w białym fartuchu i ochronnych okularach."
 
 +++
-
-![Okładka książki przedstawia szaleńca w białym fartuchu i ochronnych
-okularach.](/wp-content/uploads/2011/02/leknau1.jpg "Okładka książki")
 
 Książka Bena Goldacre właśnie ukazała się w polskim tłumaczeniu i jest do
 nabycia [na stronie wydawnictwa][1].

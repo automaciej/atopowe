@@ -13,6 +13,7 @@
 <link href="/css/mdi-bootstrap.css" rel="stylesheet" />
 
 <!-- Facebook (OpenGraph?) meta tags -->
+<meta property="og:site_name"          content="{{ .Site.Title }}" />
 <meta property="og:url"                content="{{ .Permalink }}" />
 <meta property="og:type"               content="article" />
 <meta property="og:title"              content="{{ .Title }}" />
@@ -20,7 +21,10 @@
 <meta property="og:description"        content="{{ . }}" />
 {{- end }}
 {{ with .Params.image -}}
-<meta property="og:image"              content="{{ . }}" />
+<meta property="og:image"              content="{{ $.Param "image.path" }}" />
+{{- end }}
+{{ with $.Param "image.alt" -}}
+<meta property="og:image:alt"          content="{{ . }}" />
 {{- end }}
 <link rel="canonical" href="{{ .Permalink }}" />
 

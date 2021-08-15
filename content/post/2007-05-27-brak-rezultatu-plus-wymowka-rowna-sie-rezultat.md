@@ -5,8 +5,10 @@ date = "2007-05-27"
 title = "Brak rezultatu plus wymówka równa się rezultat"
 url = "/2007/05/27/brak-rezultatu-plus-wymowka-rowna-sie-rezultat/"
 description = "Wahwah odpowiada na wpis na forum, wedle którego lekarz próbuje zrzucić odpowiedzialność na występowanie choroby na pacjenta i tym samym usprawiedliwić słabe rezultaty w leczeniu."
-image = "/images/Zlaptokiem.jpg"
 lastmod = "2016-11-19T15:19:25+00:00"
+[image]
+path = "/images/Zlaptokiem.jpg"
+alt = "Człowiek siedzący z laptopem przy ognisku"
 
 +++
 

@@ -1,0 +1,23 @@
+{{ if .Params.image }}
+<img src="{{ $.Param "image.path" }}"
+     class="img-fluid"
+     {{ with $.Param "image.alt" }}
+     alt="{{ . }}"
+     {{ end }}
+     {{ with $.Param "image.credits" }}
+     title="{{ . }}"
+     {{ end }}
+/>
+<small class="text-muted">
+  <p>
+  {{ if $.Param "image.credits" }}
+  {{ $.Param "image.credits" -}}
+  {{ end -}}
+  {{- if $.Param "image.source_url" -}},
+  <a href="{{ $.Param "image.source_url" }}">
+    źródło
+  </a>
+  {{ end }}
+  </p>
+</small>
+{{ end }}

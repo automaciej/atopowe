@@ -4,9 +4,13 @@ kategorie = [ "Pseudomedycyna",]
 date = "2013-05-29"
 title = "Wzmocnijmy nasz układ odpornościowy (albo i nie)"
 url = "/2013/05/29/wzmocnijmy-nasz-uklad-odpornosciowy-albo-nie/"
-image = "/wp-content/uploads/2013/05/huśtawka-1-300x199.jpg"
 description = "Opisy produktów zapewniają nas że „wzmocnią one nasz układ immunologiczny”. Czy jest to możliwe, czy jest to dobry pomysł, i co to oznacza, wzmocnić układ immunologiczny?"
 lastmod = "2016-11-19T15:19:25+00:00"
+[image]
+path = "/wp-content/uploads/2013/05/huśtawka-1-300x199.jpg"
+alt="Huśtawka, poprzeczna belka podparta pośrodku, z dwiema osobami po jednej z każdej ze stron. Każda z tych osób próbuje przeważyć belkę na swoją stronę."
+credits="fot. Mark Kriegsman"
+source_url="https://flic.kr/p/32U6BW"
 
 +++
 
@@ -20,7 +24,6 @@ Dziś zwrócimy nasze sceptyczne oko na jeden z najpopularniejszych ostatnimi la
 
 Być może, ale jest to kompletnie chybiona analogia. Zdrowy układ immunologiczny można lepiej zobrazować poprzez zrównoważoną huśtawkę. Jeżeli nasz układ immunologiczny jest uszkodzony albo osłabiony w inny sposób, jedna strona huśtawki idzie w dół, i nasz organizm staje się łatwiejszym celem dla infekcji. Odwrotny scenariusz jest taki, że nasz układ immunologiczny jest nadpobudliwy, druga strona huśtawki idzie w dół, i nasz układ immunologiczny atakuje tkanki które są całkowicie zdrowe. Nazywa się to chorobą autoimmunologiczną. Choroby takie jak toczeń, reumatyczne zapalenie stawów, łuszczyca, stwardnienie rozsiane, są wszystkie autoimmunologiczne powodowane przez „wzmocniony”, lub nadpobudliwy układ immunologiczny. Jesteśmy najzdrowsi wtedy, kiedy huśtawka naszego układu immunologicznego jest stanie równowagi; jego aktywność nie jest ani zbyt mała, ani zbyt duża.
 
-{{< figure src="/wp-content/uploads/2013/05/huśtawka-1-300x199.jpg" alt="Huśtawka, poprzeczna belka podparta pośrodku, z dwiema osobami po jednej z każdej ze stron. Każda z tych osób próbuje przeważyć belkę na swoją stronę." attr="fot. Mark Kriegsman" attrlink="https://flic.kr/p/32U6BW" >}}
 
 Gdybyśmy byli w stanie wzmocnić nasz układ odpornościowy, zaszkodziło by nam to automatycznie i natychmiastowo.
 

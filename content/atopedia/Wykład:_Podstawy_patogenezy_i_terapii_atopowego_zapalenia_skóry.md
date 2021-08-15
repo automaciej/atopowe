@@ -4,8 +4,11 @@ permalink = "/Wykład:_Podstawy_patogenezy_i_terapii_atopowego_zapalenia_skóry/
 title = "Wykład: Podstawy patogenezy i terapii atopowego zapalenia skóry"
 kategorie = [ "Fundacja Alabaster", "Wykłady", "Multimedia",]
 description = "prof. nadzw. dr hab. Jacek Michałkiewicz opowiada o AZS: Co to jest układ odpornościowy? Z czego się składa, skąd się wywodzi? Co to są limfocyty T? Co to są komórki plazmatyczne? Co to jest atopia?"
-image = "/images/wyklad-michalkiewicz.jpg"
 lastmod = "2016-11-20T13:50:26+00:00"
+
+[image]
+path = "/images/wyklad-michalkiewicz.jpg"
+alt = "prof. nadzw. dr hab. Jacek Michałkiewicz z mikrofonem w ręku"
 
 +++
 

@@ -4,12 +4,12 @@ permalink = "/Skutki_uboczne_kortykosterydów/"
 title = "Skutki uboczne kortykosterydów"
 kategorie = [ "terapia", "Sterydy",]
 description = "Badania wykazują, że fobia kortykosteroidowa może należeć do głównych przyczyn braku współpracy ze strony chorego. Niewątpliwie konsekwencje braku zaufania mogą być równie poważne, jak potencjalne działania niepożądane GKS."
-image = "/images/Locoid.jpg "
 lastmod = "2016-11-20T13:29:12+00:00"
+[image]
+path = "/images/Locoid.jpg"
+alt = "Tubki z maścią"
 
 +++
-
-{{< figure src="/images/Locoid.jpg" >}}
 
 ## Sterydy stosowane zewnętrznie
 

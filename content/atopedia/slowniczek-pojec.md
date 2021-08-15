@@ -3,7 +3,6 @@ date = "2016-11-19T11:51:40Z"
 kategorie = [ "podstawowe wiadomości",]
 title = "Słowniczek pojęć"
 decription = ""
-image = ""
 aliases = [
     "/atopedia/UVB/",
     "/atopedia/Przeczos/",

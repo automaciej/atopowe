@@ -11,9 +11,10 @@ aliases = [
   "/atopedia/Leczenie/",
   "/atopedia/Terapia/",
 ]
-description = ""
-image = "/images/Atopowe-diagram.png"
+description = "Jak leczyć Atopowe Zapalenie Skóry"
 lastmod = "2016-11-20T19:36:58+00:00"
+[image]
+path = "/images/Atopowe-diagram.png"
 
 +++
 

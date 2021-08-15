@@ -5,9 +5,11 @@ date = "2008-03-07"
 tags = [ "Homeopatia",]
 title = "Homeopatia jest nieskuteczna"
 url = "/2008/03/07/homeopatia-jest-nieskuteczna/"
-image = "/images/homeopatia.jpg"
 description = "…na zapalenie zatok przepiszą ci oczywiście antybiotyk i dodatkowo środek homeopatyczny, aby upewnić się, że antybiotyk zadziała!"
 lastmod = "2016-11-19T15:19:21+00:00"
+[image]
+path = "/images/homeopatia.jpg"
+alt = "Dłonie trzymające garść czegoś co wygląda jak leki, ale nimi nie jest"
 
 +++
 

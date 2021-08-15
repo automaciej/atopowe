@@ -7,11 +7,13 @@ lastmod = "2016-11-19T15:19:26+00:00"
 description = """
 Lista polskich klinik gdzie można leczyć AZS pod opieką \
 specjalistów. """
-image = "/images/Znak_D-21.svg.png"
+[image]
+path = "/images/Znak_D-21.svg.png"
+credits = "rys. Paweł Grzywocz"
+source_url = "https://commons.wikimedia.org/w/index.php?curid=2309251"
+alt = "Znak szpitalnego łóżka. Uproszczony symbol łóżka na niebieskim tle. Obok symbol czerwonego krzyża szpitalnego."
 
 +++
-
-{{< figure src="/images/Znak_D-21.svg.png" attr="rys. Paweł Grzywocz" attrlink="https://commons.wikimedia.org/w/index.php?curid=2309251" >}}
 
 ## Białystok
 

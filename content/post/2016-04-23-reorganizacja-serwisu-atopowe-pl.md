@@ -4,11 +4,13 @@ date = "2016-04-23T11:44:28+01:00"
 title = "Reorganizacja serwisu atopowe.pl"
 lastmod = "2016-11-20T13:29:15+00:00"
 description = "W kwietniu 2016 r. stare forum zostanie wyłączone, a treść przeniesiona w nowe miejsca, które nie będą od nas wymagały aktywnego utrzymywania."
-image = "/images/archive.jpg"
+[image]
+path = "/images/archive.jpg"
+credits = "Fot. Carolina Prysyazhnyuk"
+source_url = "https://flic.kr/p/qBVcyE"
+alt = "Ściana małych drewnianych oetykietowanych szuflad."
 
 +++
-
-![](/images/archive.jpg "Archive, Carolina Prysyazhnyuk, source: https://flic.kr/p/qBVcyE")
 
 [Przenosimy treść serwisu w inne miejsca][reddit-opis], które mają już
 istniejącą infrastrukturę i nie będą wymagały od nas wysiłku przy utrzymywaniu.

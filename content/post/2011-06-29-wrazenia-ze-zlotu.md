@@ -6,8 +6,9 @@ tags = [ "zloty",]
 title = "Wrażenia ze zlotu w Starych Jabłonkach"
 url = "/2011/06/29/wrazenia-ze-zlotu/"
 description = "Główną atrakcją spotkania byli przesympatyczni ludzie z którymi od dłuższego czasu zamierzałam się spotkać i wymienić spostrzeżeniami na temat azs, astmy i alergii: a byli to Anka lego, Dexter+ Mirka+ Ewa, Honda +Iza, Dragon+ Adrianna, Brummig z rodzinką, Kumina i Romaneq."
-image = "/wp-content/uploads/2011/06/SJ11.jpg"
 lastmod = "2016-11-19T15:19:25+00:00"
+[image]
+path = "/wp-content/uploads/2011/06/SJ11.jpg"
 
 +++
 

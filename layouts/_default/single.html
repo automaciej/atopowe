@@ -46,6 +46,7 @@
               </header>
               <link url="{{ .Permalink }}" />
               <div itemprop="articleBody">
+                {{ partial "article-image.html" . }}
                 {{ .Content }}
               </div>
             </article>

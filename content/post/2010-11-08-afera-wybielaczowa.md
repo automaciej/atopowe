@@ -8,11 +8,12 @@ url = "/2010/11/08/afera-wybielaczowa/"
 lastmod = "2016-11-19T15:19:21+00:00"
 description = """
 Opowieść o chłopcu, który jako jedyny dostrzegał, że „król jest nagi.”"""
-image = "/wp-content/uploads/2010/11/IMG_34061.jpg"
+[image]
+path = "/wp-content/uploads/2010/11/IMG_34061.jpg"
+alt = "James Randi wręcza nagrodę Rhysowi Morganowi"
+credits = "Fot. Wahwah"
 
 +++
-
-{{< figure src="/wp-content/uploads/2010/11/IMG_34061-300x200.jpg" link="/wp-content/uploads/2010/11/IMG_34061.jpg" caption="James Randi wręcza nagrodę Rhysowi." attr="fot. Wahwah." >}}
 
 Rhys Morgan to młody, 15-letni raptem chłopak, który właśnie otrzymał nagrodę
 Fundacji Randiego na The Amazing Meeting w Londynie. Rhys choruje na chorobę

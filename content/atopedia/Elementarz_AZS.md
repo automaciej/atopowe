@@ -5,13 +5,14 @@ title = "Elementarz AZS"
 aliases = [ "/atopedia/Podstawowe_zasady_AZS/",]
 kategorie = [ "Podstawowe wiadomości",]
 description = "Bezkompromisowy Zeldowy elementarz radzenia sobie z AZS"
-image = "/images/SuperAtop.png"
 author = "Zelda"
 lastmod = "2016-11-19T15:25:23+00:00"
+[image]
+path = "/images/SuperAtop.png"
+credits = "Rys. Maciek"
+alt = "Uproszczona uśmięchnięta postać z płaszczem z dużą literą A"
 
 +++
-
-![](/images/SuperAtop.png)
 
 Kodeks Zeldy obowiązuje każdego, kto cierpi na atopowe zapalenie skóry,
 niezależnie od długości remisji i wieku zachorowania. Nie wolno się chwalić

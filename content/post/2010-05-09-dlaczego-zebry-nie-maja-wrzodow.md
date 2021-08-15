@@ -6,8 +6,9 @@ tags = [ "Robert M. Sapolsky",]
 title = "Dlaczego zebry nie mają wrzodów?"
 url = "/2010/05/09/dlaczego-zebry-nie-maja-wrzodow/"
 description = "Kompendium współczesnej wiedzy na temat psychofizjologii stresu, łączące perspektywy czterech dyscyplin: psychologii, neurologii, immunologii i endokrynologii."
-image = "/wp-content/uploads/2010/05/4844481.jpg"
 lastmod = "2016-11-19T15:19:25+00:00"
+[image]
+path = "/wp-content/uploads/2010/05/4844481.jpg"
 
 +++
 
@@ -24,8 +25,6 @@ choroby cywilizacyjne, wywołując m.in. zaburzenia pamięci i funkcjonowania
 mózgu, otyłość czy cukrzycę. Stresu nie można wyeliminować, ale zrozumienie
 mechanizmów tej reakcji, jej przyczyn i efektów, pomoże nam radzić sobie z
 otaczającym światem.
-
-{{< figure src="/wp-content/uploads/2010/05/4844481.jpg" >}}
 
 Z przedmowy:
 
