@@ -13,20 +13,18 @@
       <div class="row">
         <div class="col-md-12">
           {{ $currenttaxonomy := .Data.Plural }}
-          <ul class="list list-inline">
           {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
           <!-- lepiej byłoby wydobyć taksonomię po nazwie, ale .Site.Taxonomies
             nie ma metody Get, więc się nie da. Trzeba iterować i filtrować. -->
           {{ if eq $taxonomyname $currenttaxonomy }}
             {{ range $key, $value := $taxonomy }}
-            <li><a href="{{ "/" | relURL}}{{ $taxonomyname | urlize }}/{{ $key | urlize }}">
-                {{ $key }}</a>
-              <span class="text-muted">({{ $value.Count }})</span>
-            </li>
+              <a href="{{ "/" | relURL}}{{ $taxonomyname | urlize }}/{{ $key | urlize }}">
+                {{ $key }}
+              </a>
+              <span class="badge badge-light">({{ $value.Count }})</span>
             {{ end }}
           {{ end }}
           {{ end }}
-          </ul>
 
           <main>
             <h2 class="list-title">{{ .Title }}</h2>
