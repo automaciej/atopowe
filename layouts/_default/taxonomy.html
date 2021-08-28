@@ -12,6 +12,18 @@
     <div class="container" role="main">
       <div class="row">
         <div class="col-md-12">
+
+          <p>
+            <button class="btn btn-secondary"
+                    type="button"
+                    data-toggle="collapse"
+                    data-target="#wszystkie-kategorie"
+                    aria-expanded="false"
+                    aria-controls="wszystkie-kategorie">
+              Wszystkie kategorie
+            </button>
+          </p>
+          <div class="collapse" id="wszystkie-kategorie">
           {{ $currenttaxonomy := .Data.Plural }}
           {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
           <!-- lepiej byłoby wydobyć taksonomię po nazwie, ale .Site.Taxonomies
@@ -25,6 +37,7 @@
             {{ end }}
           {{ end }}
           {{ end }}
+          </div><!-- collapse -->
 
           <main>
             <h4 class="list-title">{{ .Title }}</h4>
