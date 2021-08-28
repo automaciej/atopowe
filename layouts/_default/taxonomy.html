@@ -27,7 +27,7 @@
           {{ end }}
 
           <main>
-            <h2 class="list-title">{{ .Title }}</h2>
+            <h4 class="list-title">{{ .Title }}</h4>
             {{ range .Data.Pages }}
               {{ .Render "summary" }}
             {{ end }}
