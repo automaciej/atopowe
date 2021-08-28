@@ -6,9 +6,9 @@
         {{ .Date.Day }} {{ index $.Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Year }}
       </a>
     </time></small>
-    <div class="card-text">
+    <p class="card-text">
       {{ .Summary }}
-    </div>
+    </p>
     <footer>
       <a class="card-link" href="{{ .RelPermalink }}" title="{{ .Title }}: Cały wpis">Czytaj dalej&nbsp;&raquo;</a>
     </footer>
