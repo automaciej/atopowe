@@ -1,0 +1,14 @@
+@media only screen and (max-width: 500px) {
+  body > div.container > div.jumbotron h1 {
+    font-size: 1.4em;
+  }
+  body > div.container > div.jumbotron p {
+    font-size: 0.8em;
+  }
+  body > div.container > div.jumbotron a.btn {
+    font-size: 1.0em;
+  }
+  body > div.container > div.jumbotron img {
+    display: none;
+  }
+}
