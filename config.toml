@@ -2,6 +2,7 @@ baseurl = "https://www.atopowe.pl"
 language-code = "pl-pl"
 copyright = "2003-2021 Atopowe.pl"
 title = "Atopowe Zapalenie Skóry"
+enableGitInfo = true
 [permalinks]
   post = "/:year/:month/:day/:slug/"
 [taxonomies]
