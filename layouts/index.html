@@ -35,6 +35,21 @@
       </div><!-- jumbotron -->
 
       <div class="row">
+        {{ range where .Site.RegularPages "Section" "promowane" }}
+        <div class="col-md-4">
+          <h2>{{ .Title }}</h2>
+          {{ .Content }}
+          {{ if .Params.prowadzi_do -}}
+          <p>
+            <a class="btn btn-outline-secondary btn-lg" href="{{ .Params.prowadzi_do }}" role="button">
+              <i class="mdi mdi-{{ .Params.mdi_icon }}" aria-hidden="true"></i>
+              Zobacz więcej &raquo;</a>
+          </p>
+          {{- end }}
+        </div><!-- col-md-4 -->
+        {{ end }}
+      </div><!-- row promowane -->
+      <div class="row">
         {{ range first 2 (where .Site.RegularPages "Section" "post") -}}
         <div class="col-md-4">
           <h3>{{ .Title }}</h3>
@@ -67,22 +82,7 @@
           {{ end }}
           </ul>
         </div>
-      </div>
-      <div class="row">
-        {{ range where .Site.RegularPages "Section" "promowane" }}
-        <div class="col-md-4">
-          <h2>{{ .Title }}</h2>
-          {{ .Content }}
-          {{ if .Params.prowadzi_do -}}
-          <p>
-            <a class="btn btn-outline-secondary btn-lg" href="{{ .Params.prowadzi_do }}" role="button">
-              <i class="mdi mdi-{{ .Params.mdi_icon }}" aria-hidden="true"></i>
-              Zobacz więcej &raquo;</a>
-          </p>
-          {{- end }}
-        </div><!-- col-md-4 -->
-        {{ end }}
-      </div><!-- row -->
+      </div><!-- /row -->
       <div class="row">
         <div class="col-md-12">
           <hr />
